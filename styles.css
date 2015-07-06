@@ -1,0 +1,242 @@
+th { cursor: pointer; color: rgb(51,122,183); }
+th span {  border-bottom: 1px dotted rgb(119,179,218); }
+th.no-sort { cursor: default; }
+th .sort-icon { display: none; }
+th.sort-up .sort-down { display: inline; }
+th.sort-down .sort-up   { display: inline; }
+
+.host-stats {
+  width: 100%;
+  font-size: 15px;
+}
+
+.host-stats__head {
+  width: 100%;
+  font-size: 16px;
+  border-bottom: 2px solid rgb(221,221,221);
+}
+
+@media (max-width: 768px) {
+  .host-stats__head {
+    display: none;
+  }
+}
+
+.host-stats__row:hover,
+.host-stats__row:hover + .host-stats__row_graph {
+  background-color: rgba(240,173,78,.1);
+}
+
+.host-stats__row_head:hover,
+.host-stats__row_graph:hover {
+  background-color: transparent;
+}
+
+@media (max-width: 768px) {
+  .host-stats__row {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    display: block;
+    border-bottom: 1px solid rgb(200,200,200);
+  }
+}
+
+.host-stats__col {
+  padding: 8px 10px;
+  width: 14%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.rted--1p { max-width: 135px; }
+.rted--2p { max-width: 75px; }
+.faved--1p { max-width: 125px; }
+.faved--2p { max-width: 75px; }
+
+@media (max-width: 768px) {
+  .host-stats__col {
+    width: auto;
+    max-width: 100%;
+  }
+}
+
+.host-stats__col_left {
+  text-align: left;
+}
+
+th.host-stats__col_favorited {
+  color: rgb(229,156,46);
+}
+
+th.host-stats__col_retweeted {
+  color: rgb(92,145,59);
+}
+
+th.host-stats__col {
+  padding: 3px 8px;
+  font-weight: normal;
+  vertical-align: bottom;
+  line-height: 2em;
+}
+
+.host-stats__col_graph {
+  padding-top: 2px;
+  padding-bottom: 10px;
+  background-color: transparent;
+}
+
+@media (max-width: 768px) {
+  .host-stats__col {
+    display: block;
+    padding: 7px;
+    text-align: left;
+  }
+
+  .host-stats__col[data-title]::before {
+    display: inline-block;
+    width: 100%;
+    max-width: 10em;
+    color: rgb(96,96,96);
+    font-size: .75em;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    content: attr(data-title);
+  }
+}
+
+@media (min-width: 769px) {
+  .host-stats__col_kpi {
+    width: 100px;
+  }
+}
+
+.cell {
+  min-width: 35px;
+  text-align: right;
+  display: inline-block;
+}
+
+.cell--best .cell__content {
+  position: relative;
+  z-index: 1;
+}
+
+.cell--best .cell__content::before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: -0.1em -0.3em;
+  content: '';
+  z-index: -1;
+  background-color: rgba(240,200,75,.2);
+}
+
+.tweet-graph {
+  display: table;
+}
+
+.tweet-graph__bar {
+  display: table-cell;
+}
+
+.tweet-stats {
+  position: relative;
+}
+
+.tweet-stats::before {
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  display: inline-block;
+  margin-top: -3px;
+  margin-right: .3em;
+  width: 8px;
+  height: 8px;
+  border-radius: 100px;
+  vertical-align: middle;
+  content: '';
+}
+
+.tweet-stats_own::before {
+  background-color: rgb(51,122,183);
+}
+
+.tweet-stats_retweets::before {
+  background-color: rgb(91,192,222);
+}
+
+.tweet-stats_replies::before {
+  background-color: rgb(92,184,92);
+}
+
+.tweet-graph__bar_own {
+  height: 5px;
+}
+
+.tweet-graph__bar_own {
+  color: rgb(51,122,183);
+  background-color: rgba(51,122,183,.65);
+  border-right: 1px solid rgba(51,122,183,.9);
+}
+
+.tweet-graph__bar_retweets {
+  color: rgb(91,192,222);
+  background-color: rgba(91,192,222,.65);
+  border-right: 1px solid rgba(91,192,222,.9);
+}
+
+.tweet-graph__bar_replies {
+  color: rgb(92,184,92);
+  background-color: rgba(92,184,92,.65);
+  border-right: 1px solid rgba(92,184,92,.9);
+}
+
+.live::after {
+  padding: 1px 2px;
+  display: inline-block;
+  color: white;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .05em;
+  line-height: 1.1;
+  text-shadow: 0 1px 1px rgba(0,0,0,.25);
+  text-transform: uppercase;
+  background-color: rgb(217,72,43);
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,.1));
+  border-radius: 2px;
+  margin-left: 0.3em;
+  vertical-align: super;
+  content: 'Live';
+}
+
+.sortable {
+  border-bottom-color: currentColor;
+}
+
+.sort-up, .sort-down {
+  background-color: rgba(240, 200, 75, .1);
+}
+
+tr {
+  z-index: 1;
+}
+
+.tweet-graph__wrap {
+  z-index: -1;
+  position: absolute;
+  right: 0;
+  left: 0;
+  margin-left: 25px;
+  margin-right: 33px;
+  margin-top: 3px;
+}
+
+@media (max-width: 768px) {
+  .tweet-graph__wrap {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: -29px;
+  }
+}
