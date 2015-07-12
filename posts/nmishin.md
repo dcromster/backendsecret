@@ -535,7 +535,7 @@ More confusing options than you can shake a big stick at!
 Много запутанных вариантов, что вы даже можете ударить палкой!
 <a href="https://twitter.com/search?q=%23perldebtut">#perldebtut</a>
 
-## Воскресенье <small>25 твитов</small>
+## Воскресенье <small>14 твитов</small>
 
 RT <a href="https://twitter.com/perlnews" title="perl news">@perlnews</a>: PerlMonks:  Perl Time Ago in Words ( Anonymous Monk &lt;dummy@example.com&gt;) - <a href="http://t.co/JN1jpQZfaT">perlmonks.org/index.pl?node_…</a>
 
@@ -564,25 +564,3 @@ RT <a href="https://twitter.com/iamstarkov" title="Vladimir Starkov">@iamstarkov
 RT <a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a>: На выходные мозги похоже отключаются. Ни одно дело не сделано. Нигде нет никакого прогресса :(
 
 RT <a href="https://twitter.com/htmlacademy_ru" title="HTML Academy">@htmlacademy_ru</a>: Мы подготовили перевод коллекции часто задаваемых вопросов по Git с удобным поиском <a href="http://t.co/dEseBRdg8E">htmlacademy.github.io/firstaidgit/</a>
-
-Доброй ночи мальчики и девочки, настраиваю репликацию mongodb, а вы как проводите время?
-
-HINT: если монга не рестрорится (бывает если база over 100GB), отключите индексы (noIndexRestore) <a href="https://twitter.com/search?q=%23mongodb">#mongodb</a>
-
-Ортодоксы далеют du -h --max-depth=1, я делаю - ncdu (удобней в разы)
-
-Какими агрегаторами логов пользуется почтенная публика? ^_^
-
-Чуваки, как вы узнаете что ваш проект умер (сервер/инстанс ушли в даун)? :)
-
-Нет-нет, да и захаживаю на ssh с андроида (JuiceSSH). Кто-то даже код правит. Если подцепить bt-клаву + расшарить на монитор - вполне. %)
-
-Даже самый оптимизированный севрер рано или поздно без кэша ляжет, юзай nginx cache + memcache, бро (а если ты дока - то можно varnish)
-
-Коллаборейшен в ssh? Возможен, как ни странно. Мы пользуем tmux с аттачем к одной сессии - весьма удобно.
-
-Хочется экзотики - попробуй <a href="https://t.co/x3GkqmOha5">atom.io</a>, для серьезных проектов сыроват, но то что проект от гитхаба дает ему доп. баллы :)
-
-А вот к вопросу о продуктивности: кофе, редбулл, другие энергетики - употребляете? Если дедлайн завтра, а конь - не валялся :)
-
-Всем рецептам - рецепт! :) <a href="https://t.co/IK3K99HqRc">twitter.com/_bugov/status/…</a>
