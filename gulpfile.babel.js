@@ -175,7 +175,7 @@ gulp.task('clean', function(done) { del('dist', done); });
 
 
 gulp.task('build-common', function(done) {
-  sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', 'css', 'js', done);
+  sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', 'nojekyll', 'css', 'js', done);
 });
 
 gulp.task('build', function(done) {
@@ -184,6 +184,10 @@ gulp.task('build', function(done) {
 
 gulp.task('build-prod', function(done) {
   sequence('clean', 'articles-registry-prod', 'build-common', done);
+});
+
+gulp.task('nojekyll', function() {
+  return gulp.src('.nojekyll').pipe(gulp.dest('dist'));
 });
 
 gulp.task('cname', function() {
