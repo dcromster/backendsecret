@@ -96,7 +96,7 @@ HINT: если монга не рестрорится (бывает если б�
 
 Обнаженка от <a href="https://twitter.com/subzey" title="subzey">@subzey</a> :) <a href="https://t.co/6tIWXf1zoz">twitter.com/subzey/status/…</a>
 
-## Среда <small>25 твитов</small>
+## Среда <small>31 твит</small>
 
 Код - это наркотик.  <a href="https://t.co/6fgeORsBOd">twitter.com/nmishin/status…</a>
 
@@ -149,8 +149,6 @@ Graylog2 должен жить в контейнере иначе может п�
 Чем экипирован современный гик? (какие годные приблуды у тебя?)
 <a href="https://t.co/tUzZ5nKEV3">tjournal.ru/p/pebble-time-…</a>
 
-## Четверг <small>11 твитов</small>
-
 RT <a href="https://twitter.com/megamozg_ru" title="Мегамозг">@megamozg_ru</a>: Стало известно имя нового финансового директора «MongoDB»: <a href="http://t.co/zmTsEqwl8K">megamozg.ru/p/17152/</a>. Им стал Майкл Гордон из «Procter &amp; Gamb…
 
 RT <a href="https://twitter.com/xdg" title="David Golden">@xdg</a>: I just shipped the v1.0.0 Beta 3 <a href="https://twitter.com/search?q=%23MongoDB">#MongoDB</a> <a href="https://twitter.com/search?q=%23Perl">#Perl</a> driver to CPAN → <a href="http://t.co/hBMQ12yKNR">buff.ly/1g2MOqq</a>
@@ -162,6 +160,8 @@ RT <a href="https://twitter.com/TechWars_io" title="TechWars">@TechWars_io</a>: 
 Первая версия Манула, убивала сайты, так что аккуратнее ^_^ "антивирус для сайта" от Яндекса <a href="http://t.co/6NbI5mcEd1">yandex.ru/promo/manul#ab…</a>
 
 Такой вот дашборд в грейлоге для ослеживания здоровья монги <a href="https://twitter.com/search?q=%23graylog2">#graylog2</a> <a href="https://twitter.com/search?q=%23MongoDB">#MongoDB</a> <a href="http://t.co/moyuWn4lyB">pic.twitter.com/moyuWn4lyB</a>
+
+## Четверг <small>5 твитов</small>
 
 <a href="http://t.co/EVcqhPkfBR">pic.twitter.com/EVcqhPkfBR</a>
 

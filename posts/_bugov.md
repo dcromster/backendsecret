@@ -2,7 +2,7 @@
 
 _26 июля 2015_
 
-## Понедельник <small>23 твита</small>
+## Понедельник <small>26 твитов</small>
 
 Всем привет! Начинается околопитоняшная неделя!
 
@@ -56,8 +56,6 @@ gevent теперь поддерживает <a href="https://twitter.com/search
 
 <a href="https://twitter.com/backendsecret" title="Разработчик Бэкенда">@backendsecret</a> Да, оно может быть уродливым, но хотя бы ясно: это человек. Вот вроде рука, вот вроде нога... Ой! Нет, это нос :(
 
-## Вторник <small>70 твитов</small>
-
 Хм... Ещё одна база данных. Этакий Redis, но не упирающийся в ОЗУ. <a href="http://t.co/hPn7f8zcDb">opennet.ru/opennews/art.s…</a> <a href="https://twitter.com/search?q=%23serenity">#serenity</a>
 
 Новый TOP-500 суперкомпьютеров:
@@ -68,6 +66,8 @@ Lomonosov 2 на 31-ом
 <a href="http://t.co/DXVmBDxYnW">bit.ly/1KgVRRz</a>
 
 RT <a href="https://twitter.com/fat0troll" title="Valdos Sine">@fat0troll</a>: А вообще, наверно, лучше всего с читаемостью кода дела обстоят в питоне. Во всяком случае, за неверные отступы он даёт по ру…
+
+## Вторник <small>67 твитов</small>
 
 Итак, определились - наши читатели пользуются PC. А установлена ОС:
 RT - GNU/Linux, Fav - Windows.
@@ -207,7 +207,7 @@ RT <a href="https://twitter.com/tuneyourserver" title="Lev Selezniov">@tuneyours
 
 . <a href="https://twitter.com/tuneyourserver" title="Lev Selezniov">@tuneyourserver</a> Что за магия! Не могу прочитать этот твит. Каждый раз на середине появляются пони, радуга и единороги ;-)
 
-## Среда <small>43 твита</small>
+## Среда <small>46 твитов</small>
 
 RT <a href="https://twitter.com/trvrm" title="Trevor Morgan">@trvrm</a>: If you use MongoDB and like sleeping at night, don't read this line from the source code: <a href="https://t.co/o0DnsdJBwl">github.com/mongodb/mongo-…</a>
 
@@ -304,13 +304,13 @@ RT <a href="https://twitter.com/alistratov" title="Oleg Alistratov">@alistratov<
 - Значит, так и сделаю.
 - Не советовал бы...
 
-## Четверг <small>17 твитов</small>
-
 RT <a href="https://twitter.com/alistratov" title="Oleg Alistratov">@alistratov</a>: <a href="https://twitter.com/backendsecret" title="Разработчик Бэкенда">@backendsecret</a> perl тут вне конкуренции )
 
 . <a href="https://twitter.com/alistratov" title="Oleg Alistratov">@alistratov</a> TIMTOWTDI без PBP и холодного ума - как граната без чеки.
 
 Вино <a href="https://twitter.com/search?q=%23Perl6">#Perl6</a> <a href="http://t.co/T9h0sxQoy6">pic.twitter.com/T9h0sxQoy6</a>
+
+## Четверг <small>14 твитов</small>
 
 RT <a href="https://twitter.com/vtivti" title="vti">@vtivti</a>: My birthday cake! <a href="http://t.co/WArQFey3Uv">pic.twitter.com/WArQFey3Uv</a>
 
@@ -529,7 +529,7 @@ RT <a href="https://twitter.com/fat0troll" title="Valdos Sine">@fat0troll</a>: �
 
 RT <a href="https://twitter.com/Bugagazavr" title="Bugagazavr">@Bugagazavr</a>: <a href="https://twitter.com/fat0troll" title="Valdos Sine">@fat0troll</a> <a href="https://twitter.com/backendsecret" title="Разработчик Бэкенда">@backendsecret</a> gitlab, он же первый reject среди PR
 
-## Суббота <small>11 твитов</small>
+## Суббота <small>14 твитов</small>
 
 RT <a href="https://twitter.com/schneems" title="$chn€€m$">@schneems</a>: In the top of your Gemfile. add:
 
@@ -557,14 +557,14 @@ RT <a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a
 
 RT <a href="https://twitter.com/RebeccaSlatkin" title="Rebecca Slatkin">@RebeccaSlatkin</a>: git regret --hard
 
-## Воскресенье <small>15 твитов</small>
-
 Гуглил ключи, нашёл скрины
 "всю жизнь знал, что главная беда линукса - в ламерах виндовозных, у которых указательный палец к мышке прирос"
 
 RT <a href="https://twitter.com/fat0troll" title="Valdos Sine">@fat0troll</a>: Чятик, а объясните мне сакральный смысл вот этого <a href="https://t.co/EIiN5r77cr">tour.golang.org/moretypes/1</a>? Да, я начинаю курить Go :)
 
 . <a href="https://twitter.com/fat0troll" title="Valdos Sine">@fat0troll</a> Ну, например, чтобы не передавать копию данных в функцию, а работать с ними напрямую.
+
+## Воскресенье <small>12 твитов</small>
 
 . <a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a> Зачем изучать <a href="https://twitter.com/search?q=%23Python">#Python</a>? Для web, mobile, data analysis, machine learning, etc. Очень много возможностей. А главное - просто!
 

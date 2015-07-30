@@ -2,7 +2,7 @@
 
 _05 июля 2015_
 
-## Понедельник <small>83 твита</small>
+## Воскресенье <small>4 твита</small>
 
 Итак, господа, эту неделю этот Твиттер аккаунт будет посвящен языку <a href="https://twitter.com/search?q=%23Perl">#Perl</a> и его буду вести я, Николай Мишин <a href="https://twitter.com/nmishin" title="nikolay mishin">@nmishin</a>
 
@@ -12,6 +12,8 @@ POD::RU переведен <a href="https://t.co/Xik1FPmnUN">metacpan.org/pod/di
 <a href="https://t.co/2sL8zUMx8n">facebook.com/nmishin/posts/…</a>
 
 для <a href="https://t.co/1QwlCN4rw6">twitter.com/backendsecret</a> выпустил новый релиз, перевожу perlootut, интересно;) <a href="https://t.co/bYwJUPIYz4">twitter.com/perlnews/statu…</a>
+
+## Понедельник <small>79 твитов</small>
 
 RT <a href="https://twitter.com/niceperl" title="Miguel Prz">@niceperl</a>: (clxvi) <a href="https://twitter.com/search?q=%23perl">#perl</a> metacpan weekly report - Mojolicious &amp; Moose: <a href="http://t.co/qa1QHGgYmV">niceperl.blogspot.com/2015/06/clxvi-…</a>
 
@@ -237,7 +239,7 @@ RT <a href="https://twitter.com/afiskon" title="Eax Melanhovich">@afiskon</a>: �
 
 а перевод perlootut - одно удовольствие - очень понятный английский <a href="https://twitter.com/search?q=%23perl">#perl</a> <a href="https://twitter.com/search?q=%23POD2RU">#POD2RU</a>
 
-## Вторник <small>30 твитов</small>
+## Вторник <small>31 твит</small>
 
 RT <a href="https://twitter.com/asan_v1_09" title="Andrey Asyakin">@asan_v1_09</a>: <a href="https://twitter.com/backendsecret" title="Разработчик Бэкенда">@backendsecret</a> я перевел <a href="https://t.co/qpuy1QdZGV">github.com/asan13/doc/blo…</a>, коряво скорей всего, но может пригодится)
 
@@ -332,9 +334,9 @@ https://t.<a href="https://t.co/jZilLPnhcV">metacpan.org/module/Perl::C…</a>
 
 RT <a href="https://twitter.com/OvidPerl" title="Curtis Ovid Poe">@OvidPerl</a>: Integrating perlcritic and vim: <a href="http://t.co/l0mYL3Ah">blogs.perl.org/users/ovid/201…</a> <a href="https://twitter.com/search?q=%23perl">#perl</a> <a href="https://twitter.com/search?q=%23rocks">#rocks</a>
 
-## Среда <small>5 твитов</small>
-
 у нас новый переводчик Андрей Асякин <a href="https://twitter.com/asan_v1_09" title="Andrey Asyakin">@asan_v1_09</a> помог перевести perlootut, дальше по плану perldebtut <a href="https://twitter.com/search?q=%23perl">#perl</a> <a href="https://t.co/mdSqGSQqzN">twitter.com/cpan_new/statu…</a>
+
+## Среда <small>4 твита</small>
 
 "<a href="https://twitter.com/PerlTricks" title="PerlTricks">@PerlTricks</a>: Dancer2 and Perl6 <a href="http://t.co/Z0isWUuSKm">blogs.perl.org/users/drforr/2…</a> <a href="https://twitter.com/search?q=%23perl">#perl</a>"  перенос Dancer2 на perl6,  он еще более краток, похож на ruby, только лучше
 
