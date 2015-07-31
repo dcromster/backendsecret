@@ -36,7 +36,7 @@
     }
   },
   "protected": false,
-  "followers_count": 320,
+  "followers_count": 324,
   "friends_count": 302,
   "listed_count": 18,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -45,13 +45,13 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1198,
+  "statuses_count": 1245,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Jul 31 09:03:52 +0000 2015",
-    "id": 627041978694410200,
-    "id_str": "627041978694410240",
-    "text": "“@RusAlexander: но на самом деле столкнулся с ограничениями хранимок в MySQL.” Расскажи поподробнее!",
+    "created_at": "Fri Jul 31 17:21:06 +0000 2015",
+    "id": 627167111044051000,
+    "id_str": "627167111044050948",
+    "text": "RT @PZabolotniy: @backendsecret хорошие статьи встречаются на http://t.co/r7Pr8OndRV, например об асинхронном программировании (http://t.co…",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -63,27 +63,116 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Fri Jul 31 14:30:23 +0000 2015",
+      "id": 627124149299884000,
+      "id_str": "627124149299884032",
+      "text": "@backendsecret хорошие статьи встречаются на http://t.co/r7Pr8OndRV, например об асинхронном программировании (http://t.co/NegFKMKIW6).",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 627122932305797100,
+      "in_reply_to_status_id_str": "627122932305797120",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/r7Pr8OndRV",
+            "expanded_url": "http://pragmaticperl.com/",
+            "display_url": "pragmaticperl.com",
+            "indices": [
+              45,
+              67
+            ]
+          },
+          {
+            "url": "http://t.co/NegFKMKIW6",
+            "expanded_url": "http://pragmaticperl.com/issues/21/pragmaticperl-21-%D0%B5%D1%89%D0%B5-%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1-%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%BC-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-%D0%BD%D0%B0-anyevent.html",
+            "display_url": "pragmaticperl.com/issues/21/prag…",
+            "indices": [
+              111,
+              133
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "RusAlexander",
-          "name": "Alex Pletnev",
-          "id": 149214312,
-          "id_str": "149214312",
+          "screen_name": "PZabolotniy",
+          "name": "Pavel Zabolotniy",
+          "id": 924934214,
+          "id_str": "924934214",
           "indices": [
-            1,
-            14
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик Бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            17,
+            31
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "http://t.co/r7Pr8OndRV",
+          "expanded_url": "http://pragmaticperl.com/",
+          "display_url": "pragmaticperl.com",
+          "indices": [
+            62,
+            84
+          ]
+        },
+        {
+          "url": "http://t.co/NegFKMKIW6",
+          "expanded_url": "http://pragmaticperl.com/issues/21/pragmaticperl-21-%D0%B5%D1%89%D0%B5-%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1-%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%BC-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-%D0%BD%D0%B0-anyevent.html",
+          "display_url": "pragmaticperl.com/issues/21/prag…",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
