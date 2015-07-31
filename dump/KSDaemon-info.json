@@ -36,7 +36,7 @@
     }
   },
   "protected": false,
-  "followers_count": 322,
+  "followers_count": 320,
   "friends_count": 302,
   "listed_count": 18,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -45,30 +45,41 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1174,
+  "statuses_count": 1183,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Jul 30 14:33:19 +0000 2015",
-    "id": 626762501204652000,
-    "id_str": "626762501204652033",
-    "text": "Еще интересный вопрос: есть ли кто-то, кто ушёл в бэкенд с клиентской стороны (не важно какой)? Вот наоборот знаю много случаев.",
-    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "created_at": "Thu Jul 30 18:09:26 +0000 2015",
+    "id": 626816887830249500,
+    "id_str": "626816887830249472",
+    "text": ".@dcromster это дает гибкость в распределении и решении задач. Всегда можно усилить ту или другую сторону.",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 626814325412376600,
+    "in_reply_to_status_id_str": "626814325412376576",
+    "in_reply_to_user_id": 81103006,
+    "in_reply_to_user_id_str": "81103006",
+    "in_reply_to_screen_name": "dcromster",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "dcromster",
+          "name": "Roman Milovskiy",
+          "id": 81103006,
+          "id_str": "81103006",
+          "indices": [
+            1,
+            11
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
