@@ -783,7 +783,7 @@ RT <a href="https://twitter.com/listochkin" title="Андрей Листочки
 
 .<a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a> ну а уж Монти, создателя MySQL, кажется и так все знают :)
 
-## Воскресенье <small>14 твитов</small>
+## Воскресенье <small>11 твитов</small>
 
 “<a href="https://twitter.com/listochkin" title="Андрей Листочкин">@listochkin</a>: крамольное мнение: я считаю, что MySQL - очень ОК. Для меня - база по-умолчанию.” По большому счету, я с тобой согласен!
 
@@ -806,9 +806,3 @@ RT <a href="https://twitter.com/listochkin" title="Андрей Листочки
 Если у вас еще остались вопросы/замечания/предложения или желание пообщаться, ищите меня на в моем привычном аккаунте.
 
 С вами был Константин <a href="https://twitter.com/KSDaemon" title="Konstantin Burkalev">@KSDaemon</a> Буркалев. Спасибо еще раз и до новых встреч! ;)
-
-Привет! Меня зовут Екатерина Трефилова, возможно вы меня знаете как <a href="https://twitter.com/Lecharton" title="Ekaterina Trefilova">@Lecharton</a>
-
-Я занимаюсь разработкой <a href="http://t.co/90poVs2ZxT">hi-tech.mail.ru</a> и буду рассказывать как мне живется первую неделю после запуска проекта :)
-
-В общем женщина на корабле ребят, немного дестроя ;)
