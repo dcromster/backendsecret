@@ -36,67 +36,129 @@
     }
   },
   "protected": false,
-  "followers_count": 370,
+  "followers_count": 379,
   "friends_count": 302,
-  "listed_count": 20,
+  "listed_count": 21,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1422,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1392,
+  "statuses_count": 1395,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Aug 04 18:54:52 +0000 2015",
-    "id": 628640260835156000,
-    "id_str": "628640260835155968",
-    "text": ".@backendsecret: @raxpost @iamstarkov вы меня, если честно, сподвигли в нем нормально разобраться",
+    "created_at": "Wed Aug 05 09:33:44 +0000 2015",
+    "id": 628861433237884900,
+    "id_str": "628861433237884928",
+    "text": "RT @rusgautama: @backendsecret нет, знал просто женщин ИТ-шниц, но многие выходят замуж и забрасывают карьеру.",
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "truncated": false,
-    "in_reply_to_status_id": 628637758983151600,
-    "in_reply_to_status_id_str": "628637758983151617",
-    "in_reply_to_user_id": 32959868,
-    "in_reply_to_user_id_str": "32959868",
-    "in_reply_to_screen_name": "raxpost",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Wed Aug 05 09:26:32 +0000 2015",
+      "id": 628859621336334300,
+      "id_str": "628859621336334336",
+      "text": "@backendsecret нет, знал просто женщин ИТ-шниц, но многие выходят замуж и забрасывают карьеру.",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 628856464677957600,
+      "in_reply_to_status_id_str": "628856464677957632",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "6676b2b9d4ff6861",
+        "url": "https://api.twitter.com/1.1/geo/id/6676b2b9d4ff6861.json",
+        "place_type": "city",
+        "name": "Kazan",
+        "full_name": "Kazan, Tartarije",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                48.8272762,
+                55.6704179
+              ],
+              [
+                49.3119931,
+                55.6704179
+              ],
+              [
+                49.3119931,
+                55.9191384
+              ],
+              [
+                48.8272762,
+                55.9191384
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
+          "screen_name": "rusgautama",
+          "name": "Rus Buddha",
+          "id": 101620431,
+          "id_str": "101620431",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
           "screen_name": "backendsecret",
           "name": "Разработчик Бэкенда",
           "id": 3302551618,
           "id_str": "3302551618",
           "indices": [
-            1,
-            15
-          ]
-        },
-        {
-          "screen_name": "raxpost",
-          "name": "Роман Роман",
-          "id": 32959868,
-          "id_str": "32959868",
-          "indices": [
-            17,
-            25
-          ]
-        },
-        {
-          "screen_name": "iamstarkov",
-          "name": "Vladimir Starkov",
-          "id": 98084311,
-          "id_str": "98084311",
-          "indices": [
-            26,
-            37
+            16,
+            30
           ]
         }
       ],
