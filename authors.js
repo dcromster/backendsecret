@@ -1,5 +1,6 @@
 export default [
   // post: false
+  { username: 'dizballanze',  start: '24 aug 2015', first: '635710925761343488', post: false },
   { username: 'SBozhko',      start: '17 aug 2015', first: '633166676402565120' },
   { username: 'dsimonov',     start: '10 aug 2015', first: '630582718598791168' },
   { username: 'lecharton',    start: '03 aug 2015', first: '627961841357049856' },
