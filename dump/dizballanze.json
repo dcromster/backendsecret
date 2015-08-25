@@ -5,6 +5,2755 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Tue Aug 25 11:29:24 +0000 2015",
+      "id": 636138300898713600,
+      "id_str": "636138300898713600",
+      "text": ". @kmmbvnr использую git pull, но у git archive есть свои преимущества",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636136682392301600,
+      "in_reply_to_status_id_str": "636136682392301569",
+      "in_reply_to_user_id": 123898240,
+      "in_reply_to_user_id_str": "123898240",
+      "in_reply_to_screen_name": "kmmbvnr",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kmmbvnr",
+            "name": "kmmbvnr",
+            "id": 123898240,
+            "id_str": "123898240",
+            "indices": [
+              2,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 25 11:26:31 +0000 2015",
+      "id": 636137574071992300,
+      "id_str": "636137574071992321",
+      "text": "RT @kmmbvnr: Деплой через `git archive` или `git pull`?\n\ncc @backendsecret",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Aug 25 11:22:58 +0000 2015",
+        "id": 636136682392301600,
+        "id_str": "636136682392301569",
+        "text": "Деплой через `git archive` или `git pull`?\n\ncc @backendsecret",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 123898240,
+          "id_str": "123898240"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "5714382051c06d1e",
+          "url": "https://api.twitter.com/1.1/geo/id/5714382051c06d1e.json",
+          "place_type": "country",
+          "name": "Russia",
+          "full_name": "Russia",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -180,
+                  41.1868
+                ],
+                [
+                  180,
+                  41.1868
+                ],
+                [
+                  180,
+                  81.8568204
+                ],
+                [
+                  -180,
+                  81.8568204
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                47,
+                61
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kmmbvnr",
+            "name": "kmmbvnr",
+            "id": 123898240,
+            "id_str": "123898240",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              60,
+              74
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Aug 25 11:04:39 +0000 2015",
+      "id": 636132072978055200,
+      "id_str": "636132072978055172",
+      "text": "Есть такой проект https://t.co/jbiAsKqWeZ, включает множество компонентов и позволяет разрабатывать полноценные проекты на lua под Nginx",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636131490083012600,
+      "in_reply_to_status_id_str": "636131490083012608",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jbiAsKqWeZ",
+            "expanded_url": "https://openresty.org/",
+            "display_url": "openresty.org",
+            "indices": [
+              18,
+              41
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 25 11:02:20 +0000 2015",
+      "id": 636131490083012600,
+      "id_str": "636131490083012608",
+      "text": "http://t.co/RqFj1dsK7h https://t.co/JHT6KtNeUF",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 636130274997350400,
+      "quoted_status_id_str": "636130274997350400",
+      "quoted_status": {
+        "created_at": "Tue Aug 25 10:57:30 +0000 2015",
+        "id": 636130274997350400,
+        "id_str": "636130274997350400",
+        "text": "было интересно почитать про использование nginx как обработчик contact form. Есть другие варианты такого подхода? @backendsecret",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 149214312,
+          "id_str": "149214312"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                114,
+                128
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/RqFj1dsK7h",
+            "expanded_url": "http://dizballanze.com/drugoe/primenenie-nginx-lua-dlia-obrabotki-prostykh-form/",
+            "display_url": "dizballanze.com/drugoe/primene…",
+            "indices": [
+              0,
+              22
+            ]
+          },
+          {
+            "url": "https://t.co/JHT6KtNeUF",
+            "expanded_url": "https://twitter.com/RusAlexander/status/636130274997350400",
+            "display_url": "twitter.com/RusAlexander/s…",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Aug 25 09:07:10 +0000 2015",
+      "id": 636102508067336200,
+      "id_str": "636102508067336192",
+      "text": "SSH Kung Fu\nhttp://t.co/RnvJsIsw4E\nмного интересных способов использования ssh",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 11,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/RnvJsIsw4E",
+            "expanded_url": "http://blog.tjll.net/ssh-kung-fu/",
+            "display_url": "blog.tjll.net/ssh-kung-fu/",
+            "indices": [
+              12,
+              34
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 25 08:50:01 +0000 2015",
+      "id": 636098189146390500,
+      "id_str": "636098189146390528",
+      "text": "Недавно углубился в системное программирование под linux и сокеты.  Мне кажется всегда полезно копнуть на уровень ниже чем обычно работаешь.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 25 08:13:52 +0000 2015",
+      "id": 636089092078497800,
+      "id_str": "636089092078497792",
+      "text": "Coding style для контрибьютеров Django очень ок. Разумные отступления от PEP8 + специфичные для Django дополнения https://t.co/TuY01CyDyL",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TuY01CyDyL",
+            "expanded_url": "https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding-style/",
+            "display_url": "docs.djangoproject.com/en/1.8/interna…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 25 08:07:59 +0000 2015",
+      "id": 636087611237515300,
+      "id_str": "636087611237515265",
+      "text": ". @mktums согласен",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636084750130806800,
+      "in_reply_to_status_id_str": "636084750130806784",
+      "in_reply_to_user_id": 88753294,
+      "in_reply_to_user_id_str": "88753294",
+      "in_reply_to_screen_name": "mktums",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mktums",
+            "name": "Futility & Despair",
+            "id": 88753294,
+            "id_str": "88753294",
+            "indices": [
+              2,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 17:22:09 +0000 2015",
+      "id": 635864684239921200,
+      "id_str": "635864684239921152",
+      "text": "RT @b0noi: @backendsecret http://t.co/szXf1oqx8P либа по анализу естественного языка, планируем делать чато-бота",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 16:38:28 +0000 2015",
+        "id": 635853691577344000,
+        "id_str": "635853691577344000",
+        "text": "@backendsecret http://t.co/szXf1oqx8P либа по анализу естественного языка, планируем делать чато-бота",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 635749068300517400,
+        "in_reply_to_status_id_str": "635749068300517376",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 21795879,
+          "id_str": "21795879"
+        },
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            53.33230647,
+            -6.2462362
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            -6.2462362,
+            53.33230647
+          ]
+        },
+        "place": {
+          "id": "7dde0febc9ef245b",
+          "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+          "place_type": "city",
+          "name": "Dublin City",
+          "full_name": "Dublin City, Ireland",
+          "country_code": "IE",
+          "country": "Ireland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -6.3873911,
+                  53.2987449
+                ],
+                [
+                  -6.1078047,
+                  53.2987449
+                ],
+                [
+                  -6.1078047,
+                  53.4110598
+                ],
+                [
+                  -6.3873911,
+                  53.4110598
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/szXf1oqx8P",
+              "expanded_url": "http://aif.io",
+              "display_url": "aif.io",
+              "indices": [
+                15,
+                37
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "b0noi",
+            "name": "Viacheslav",
+            "id": 21795879,
+            "id_str": "21795879",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/szXf1oqx8P",
+            "expanded_url": "http://aif.io",
+            "display_url": "aif.io",
+            "indices": [
+              26,
+              48
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 16:00:42 +0000 2015",
+      "id": 635844188517609500,
+      "id_str": "635844188517609475",
+      "text": "RT @freiksenet_ru: @backendsecret В текущем состоянии согласен что бесполезно.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 16:00:29 +0000 2015",
+        "id": 635844131676418000,
+        "id_str": "635844131676418049",
+        "text": "@backendsecret В текущем состоянии согласен что бесполезно.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 635843974788423700,
+        "in_reply_to_status_id_str": "635843974788423680",
+        "in_reply_to_user_id": 3411018190,
+        "in_reply_to_user_id_str": "3411018190",
+        "in_reply_to_screen_name": "freiksenet_ru",
+        "user": {
+          "id": 3411018190,
+          "id_str": "3411018190"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 16:00:40 +0000 2015",
+      "id": 635844178040254500,
+      "id_str": "635844178040254464",
+      "text": "RT @freiksenet_ru: @backendsecret Да, я это в теории. Нужен валидатор как Flow, с выводом типов.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 15:59:51 +0000 2015",
+        "id": 635843974788423700,
+        "id_str": "635843974788423680",
+        "text": "@backendsecret Да, я это в теории. Нужен валидатор как Flow, с выводом типов.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 635843616800378900,
+        "in_reply_to_status_id_str": "635843616800378880",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 3411018190,
+          "id_str": "3411018190"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 15:58:35 +0000 2015",
+      "id": 635843654024855600,
+      "id_str": "635843654024855552",
+      "text": ". @freiksenet_ru поддерживать аннотации в актуальном состоянии будет достаточно сложно",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 635843616800378900,
+      "in_reply_to_status_id_str": "635843616800378880",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              2,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 15:58:26 +0000 2015",
+      "id": 635843616800378900,
+      "id_str": "635843616800378880",
+      "text": ". @freiksenet_ru да, но в отличии от языков со статической типизацией – Python не валидирует аннотации и соответсвенно",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 635843232937693200,
+      "in_reply_to_status_id_str": "635843232937693185",
+      "in_reply_to_user_id": 3411018190,
+      "in_reply_to_user_id_str": "3411018190",
+      "in_reply_to_screen_name": "freiksenet_ru",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              2,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 15:57:17 +0000 2015",
+      "id": 635843328983044100,
+      "id_str": "635843328983044097",
+      "text": "RT @freiksenet_ru: @backendsecret Дело привычки, это может добавить читабельности если в коде много словарей и списков, тк ясно что внутри.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 15:56:54 +0000 2015",
+        "id": 635843232937693200,
+        "id_str": "635843232937693185",
+        "text": "@backendsecret Дело привычки, это может добавить читабельности если в коде много словарей и списков, тк ясно что внутри.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 635842939248357400,
+        "in_reply_to_status_id_str": "635842939248357376",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 3411018190,
+          "id_str": "3411018190"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 15:55:44 +0000 2015",
+      "id": 635842939248357400,
+      "id_str": "635842939248357376",
+      "text": ". @freiksenet_ru я так и воспринимаю, но мне кажется оно того не стоит, слишком много дополнительного кода, который мешает читабельности",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 635842526172323800,
+      "in_reply_to_status_id_str": "635842526172323840",
+      "in_reply_to_user_id": 3411018190,
+      "in_reply_to_user_id_str": "3411018190",
+      "in_reply_to_screen_name": "freiksenet_ru",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              2,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 15:54:41 +0000 2015",
+      "id": 635842672960348200,
+      "id_str": "635842672960348160",
+      "text": "RT @freiksenet_ru: @backendsecret Для js хорошо работает (Flow), для питона думаю тоже. Считай это ещё одним линтером.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 15:54:06 +0000 2015",
+        "id": 635842526172323800,
+        "id_str": "635842526172323840",
+        "text": "@backendsecret Для js хорошо работает (Flow), для питона думаю тоже. Считай это ещё одним линтером.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 635828276229992400,
+        "in_reply_to_status_id_str": "635828276229992448",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 3411018190,
+          "id_str": "3411018190"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 15:54:38 +0000 2015",
+      "id": 635842659828019200,
+      "id_str": "635842659828019201",
+      "text": ". @sanek_kh насколько я знаю никаких проверок CPython не делает, т.е. это что-то вроде комментариев",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 635842282147684400,
+      "in_reply_to_status_id_str": "635842282147684352",
+      "in_reply_to_user_id": 16026478,
+      "in_reply_to_user_id_str": "16026478",
+      "in_reply_to_screen_name": "sanek_kh",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sanek_kh",
+            "name": "Alexander",
+            "id": 16026478,
+            "id_str": "16026478",
+            "indices": [
+              2,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 15:54:05 +0000 2015",
+      "id": 635842522355515400,
+      "id_str": "635842522355515392",
+      "text": "RT @sanek_kh: @backendsecret дебажить проще, проверка на тип вывалиться раньше, а не после n вызовов",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 15:53:08 +0000 2015",
+        "id": 635842282147684400,
+        "id_str": "635842282147684352",
+        "text": "@backendsecret дебажить проще, проверка на тип вывалиться раньше, а не после n вызовов",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 635828276229992400,
+        "in_reply_to_status_id_str": "635828276229992448",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 16026478,
+          "id_str": "16026478"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sanek_kh",
+            "name": "Alexander",
+            "id": 16026478,
+            "id_str": "16026478",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 15:48:29 +0000 2015",
+      "id": 635841114587725800,
+      "id_str": "635841114587725829",
+      "text": "Data streaming in #Python: generators, iterators, iterables http://t.co/hU3rzwVckT",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Python",
+            "indices": [
+              18,
+              25
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/hU3rzwVckT",
+            "expanded_url": "http://rare-technologies.com/data-streaming-in-python-generators-iterators-iterables/",
+            "display_url": "rare-technologies.com/data-streaming…",
+            "indices": [
+              60,
+              82
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 24 14:57:28 +0000 2015",
+      "id": 635828276229992400,
+      "id_str": "635828276229992448",
+      "text": "Кто что думает про type annotations в Python? ИМХО, фича не особо нужная.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 12:52:43 +0000 2015",
+      "id": 635796879150874600,
+      "id_str": "635796879150874624",
+      "text": "RT @vassilevsky: @backendsecret самодельный аналог HoundCI для Atlassian Stash https://t.co/HkMe5ViYa4 production ready, но ещё не 1.0",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 12:46:29 +0000 2015",
+        "id": 635795312955793400,
+        "id_str": "635795312955793408",
+        "text": "@backendsecret самодельный аналог HoundCI для Atlassian Stash https://t.co/HkMe5ViYa4 production ready, но ещё не 1.0",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 635749068300517400,
+        "in_reply_to_status_id_str": "635749068300517376",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 53391978,
+          "id_str": "53391978"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/HkMe5ViYa4",
+              "expanded_url": "https://github.com/vassilevsky/face_control",
+              "display_url": "github.com/vassilevsky/fa…",
+              "indices": [
+                62,
+                85
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vassilevsky",
+            "name": "White Russian",
+            "id": 53391978,
+            "id_str": "53391978",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HkMe5ViYa4",
+            "expanded_url": "https://github.com/vassilevsky/face_control",
+            "display_url": "github.com/vassilevsky/fa…",
+            "indices": [
+              79,
+              102
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Aug 24 11:21:33 +0000 2015",
+      "id": 635773937054523400,
+      "id_str": "635773937054523392",
+      "text": ". @dmitr_y кстати вот хороший пост о том, как правильно распространять cli-утилиты на Python\nhttps://t.co/YjWa8Ul77u",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 635773527514325000,
+      "in_reply_to_status_id_str": "635773527514324993",
+      "in_reply_to_user_id": 115024475,
+      "in_reply_to_user_id_str": "115024475",
+      "in_reply_to_screen_name": "dmitr_y",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dmitr_y",
+            "name": "Dmitry",
+            "id": 115024475,
+            "id_str": "115024475",
+            "indices": [
+              2,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YjWa8Ul77u",
+            "expanded_url": "https://gehrcke.de/2014/02/distributing-a-python-command-line-application/",
+            "display_url": "gehrcke.de/2014/02/distri…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 11:20:34 +0000 2015",
+      "id": 635773690358165500,
+      "id_str": "635773690358165504",
+      "text": "RT @dmitr_y: @backendsecret вот тот проектик для конвертации статейв пдфки про который я говорил https://t.co/OF5w5M4L30",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 11:19:55 +0000 2015",
+        "id": 635773527514325000,
+        "id_str": "635773527514324993",
+        "text": "@backendsecret вот тот проектик для конвертации статейв пдфки про который я говорил https://t.co/OF5w5M4L30",
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 115024475,
+          "id_str": "115024475"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/OF5w5M4L30",
+              "expanded_url": "https://github.com/polyx/HTMLtoPDF",
+              "display_url": "github.com/polyx/HTMLtoPDF",
+              "indices": [
+                84,
+                107
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dmitr_y",
+            "name": "Dmitry",
+            "id": 115024475,
+            "id_str": "115024475",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OF5w5M4L30",
+            "expanded_url": "https://github.com/polyx/HTMLtoPDF",
+            "display_url": "github.com/polyx/HTMLtoPDF",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 11:14:10 +0000 2015",
+      "id": 635772077807652900,
+      "id_str": "635772077807652865",
+      "text": "@Kukuruzovich @RusAlexander @davert пусть напишет меншон со ссылкой - ретвитну )",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 635770444348526600,
+      "in_reply_to_status_id_str": "635770444348526592",
+      "in_reply_to_user_id": 218139304,
+      "in_reply_to_user_id_str": "218139304",
+      "in_reply_to_screen_name": "Kukuruzovich",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Kukuruzovich",
+            "name": "Bro, Not Bro",
+            "id": 218139304,
+            "id_str": "218139304",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "RusAlexander",
+            "name": "Alex Pletnev",
+            "id": 149214312,
+            "id_str": "149214312",
+            "indices": [
+              14,
+              27
+            ]
+          },
+          {
+            "screen_name": "davert",
+            "name": "davert",
+            "id": 17285085,
+            "id_str": "17285085",
+            "indices": [
+              28,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 11:13:47 +0000 2015",
+      "id": 635771985067442200,
+      "id_str": "635771985067442176",
+      "text": "RT @NilzBor: @xomaa @backendsecret http://t.co/7EMo6AOVzn - поиск комнаты или соседа для подселения",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 11:11:24 +0000 2015",
+        "id": 635771381930704900,
+        "id_str": "635771381930704897",
+        "text": "@xomaa @backendsecret http://t.co/7EMo6AOVzn - поиск комнаты или соседа для подселения",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 635761535655276500,
+        "in_reply_to_status_id_str": "635761535655276544",
+        "in_reply_to_user_id": 25253037,
+        "in_reply_to_user_id_str": "25253037",
+        "in_reply_to_screen_name": "xomaa",
+        "user": {
+          "id": 109611350,
+          "id_str": "109611350"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "xomaa",
+              "name": "Андрей",
+              "id": 25253037,
+              "id_str": "25253037",
+              "indices": [
+                0,
+                6
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                7,
+                21
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/7EMo6AOVzn",
+              "expanded_url": "http://2soseda.com",
+              "display_url": "2soseda.com",
+              "indices": [
+                22,
+                44
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NilzBor",
+            "name": "Nils",
+            "id": 109611350,
+            "id_str": "109611350",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "xomaa",
+            "name": "Андрей",
+            "id": 25253037,
+            "id_str": "25253037",
+            "indices": [
+              13,
+              19
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              20,
+              34
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/7EMo6AOVzn",
+            "expanded_url": "http://2soseda.com",
+            "display_url": "2soseda.com",
+            "indices": [
+              35,
+              57
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 10:37:03 +0000 2015",
+      "id": 635762739084947500,
+      "id_str": "635762739084947457",
+      "text": "RT @RusAlexander: http://t.co/g1FRyIxXRI и мобильное предложение к нему. Полезно ювелирам на каждый день расчет цены золота в пробу 585 @ba…",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 10:36:29 +0000 2015",
+        "id": 635762596067549200,
+        "id_str": "635762596067549184",
+        "text": "http://t.co/g1FRyIxXRI и мобильное предложение к нему. Полезно ювелирам на каждый день расчет цены золота в пробу 585 @backendsecret",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 635749068300517400,
+        "in_reply_to_status_id_str": "635749068300517376",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 149214312,
+          "id_str": "149214312"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                118,
+                132
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/g1FRyIxXRI",
+              "expanded_url": "http://www.kurs585.ru",
+              "display_url": "kurs585.ru",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RusAlexander",
+            "name": "Alex Pletnev",
+            "id": 149214312,
+            "id_str": "149214312",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              136,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/g1FRyIxXRI",
+            "expanded_url": "http://www.kurs585.ru",
+            "display_url": "kurs585.ru",
+            "indices": [
+              18,
+              40
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 10:34:57 +0000 2015",
+      "id": 635762208736170000,
+      "id_str": "635762208736169984",
+      "text": "@RusAlexander @xomaa сделай плз меншон с не битым линком - ретвитну",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 635761887276322800,
+      "in_reply_to_status_id_str": "635761887276322816",
+      "in_reply_to_user_id": 149214312,
+      "in_reply_to_user_id_str": "149214312",
+      "in_reply_to_screen_name": "RusAlexander",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RusAlexander",
+            "name": "Alex Pletnev",
+            "id": 149214312,
+            "id_str": "149214312",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "xomaa",
+            "name": "Андрей",
+            "id": 25253037,
+            "id_str": "25253037",
+            "indices": [
+              14,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 10:32:59 +0000 2015",
+      "id": 635761715548921900,
+      "id_str": "635761715548921857",
+      "text": "RT @dmitr_y: @backendsecret сегодня собираюсь перевести маленькую утилиту для конвертации статей на сайтах в пдф, позже дам ссылучку",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 10:32:47 +0000 2015",
+        "id": 635761663363391500,
+        "id_str": "635761663363391488",
+        "text": "@backendsecret сегодня собираюсь перевести маленькую утилиту для конвертации статей на сайтах в пдф, позже дам ссылучку",
+        "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 635749068300517400,
+        "in_reply_to_status_id_str": "635749068300517376",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 115024475,
+          "id_str": "115024475"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dmitr_y",
+            "name": "Dmitry",
+            "id": 115024475,
+            "id_str": "115024475",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 10:32:37 +0000 2015",
+      "id": 635761623408492500,
+      "id_str": "635761623408492544",
+      "text": "RT @xomaa: @backendsecret http://t.co/yulzzvOnjJ - движочек для сайтиков и интернет-магазинов )",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 10:32:16 +0000 2015",
+        "id": 635761535655276500,
+        "id_str": "635761535655276544",
+        "text": "@backendsecret http://t.co/yulzzvOnjJ - движочек для сайтиков и интернет-магазинов )",
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 635749068300517400,
+        "in_reply_to_status_id_str": "635749068300517376",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 25253037,
+          "id_str": "25253037"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/yulzzvOnjJ",
+              "expanded_url": "http://yupe-project.ru",
+              "display_url": "yupe-project.ru",
+              "indices": [
+                15,
+                37
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xomaa",
+            "name": "Андрей",
+            "id": 25253037,
+            "id_str": "25253037",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/yulzzvOnjJ",
+            "expanded_url": "http://yupe-project.ru",
+            "display_url": "yupe-project.ru",
+            "indices": [
+              26,
+              48
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 10:30:09 +0000 2015",
+      "id": 635761003884625900,
+      "id_str": "635761003884625920",
+      "text": "@Timrael ну этот гем не покрывает все юзкейсы: нет шаринга и для стейджинг окружения тоже не подходит",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 635760615949103100,
+      "in_reply_to_status_id_str": "635760615949103104",
+      "in_reply_to_user_id": 286175573,
+      "in_reply_to_user_id_str": "286175573",
+      "in_reply_to_screen_name": "Timrael",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Timrael",
+            "name": "Timur Kozmenko",
+            "id": 286175573,
+            "id_str": "286175573",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 10:26:42 +0000 2015",
+      "id": 635760135588212700,
+      "id_str": "635760135588212737",
+      "text": "@Timrael ну вот, чтобы вручную это все не делать – прописал smtp и все письма можно в веб-итнерфейсе смотреть/делиться с коллегами.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 635759587178643500,
+      "in_reply_to_status_id_str": "635759587178643456",
+      "in_reply_to_user_id": 286175573,
+      "in_reply_to_user_id_str": "286175573",
+      "in_reply_to_screen_name": "Timrael",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Timrael",
+            "name": "Timur Kozmenko",
+            "id": 286175573,
+            "id_str": "286175573",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 10:06:45 +0000 2015",
+      "id": 635755113110487000,
+      "id_str": "635755113110487040",
+      "text": "RT @Fodoj: @backendsecret mkdev.me, платформа для менторства + курсы по веб-разработке",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 10:06:21 +0000 2015",
+        "id": 635755013294432300,
+        "id_str": "635755013294432256",
+        "text": "@backendsecret mkdev.me, платформа для менторства + курсы по веб-разработке",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 635749068300517400,
+        "in_reply_to_status_id_str": "635749068300517376",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 14741065,
+          "id_str": "14741065"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "uk"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon Aug 24 09:45:46 +0000 2015",
+      "id": 635749834394353700,
+      "id_str": "635749834394353664",
+      "text": "RT @webholt: @backendsecret *шутка про pet-проекты, идущие в школу через неделю*",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 09:44:53 +0000 2015",
+        "id": 635749609927741400,
+        "id_str": "635749609927741440",
+        "text": "@backendsecret *шутка про pet-проекты, идущие в школу через неделю*",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 635749068300517400,
+        "in_reply_to_status_id_str": "635749068300517376",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 97894369,
+          "id_str": "97894369"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 09:45:41 +0000 2015",
+      "id": 635749810423918600,
+      "id_str": "635749810423918592",
+      "text": "RT @tommy_diaver: @backendsecret датамайнинг, огромные графы с шахматами и куртизанками. Но не опенсорсю пока что)",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 24 09:45:19 +0000 2015",
+        "id": 635749717981462500,
+        "id_str": "635749717981462528",
+        "text": "@backendsecret датамайнинг, огромные графы с шахматами и куртизанками. Но не опенсорсю пока что)",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 635749068300517400,
+        "in_reply_to_status_id_str": "635749068300517376",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 364234216,
+          "id_str": "364234216"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tommy_diaver",
+            "name": "Aнтoн Kапycтин",
+            "id": 364234216,
+            "id_str": "364234216",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              18,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 09:42:44 +0000 2015",
+      "id": 635749068300517400,
+      "id_str": "635749068300517376",
+      "text": "А какие у вас pet-проекты? Присылайте ссылки с описанием – буду ретвитить.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 635748846061154300,
+      "in_reply_to_status_id_str": "635748846061154304",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 09:41:51 +0000 2015",
+      "id": 635748846061154300,
+      "id_str": "635748846061154304",
+      "text": "Пользуясь случаем попиарю свой pet-проект: https://t.co/zPGvPPCl2U. Сервис для совместной работы над email рассылками в dev окружении.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zPGvPPCl2U",
+            "expanded_url": "https://debugmail.io/",
+            "display_url": "debugmail.io",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Aug 24 09:23:35 +0000 2015",
       "id": 635744250160902100,
       "id_str": "635744250160902144",
@@ -1844,7 +4593,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2601,7 +5350,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
