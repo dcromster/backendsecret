@@ -5,6 +5,777 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Tue Aug 25 16:31:49 +0000 2015",
+      "id": 636214408050442200,
+      "id_str": "636214408050442240",
+      "text": "Large scale refactoring http://t.co/jdaxtsuym9\nХорошие советы о том как убедить начальство в необходимости рефакторинга :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 9,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/jdaxtsuym9",
+            "expanded_url": "http://pocket.co/sojKY6",
+            "display_url": "pocket.co/sojKY6",
+            "indices": [
+              24,
+              46
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 25 15:53:10 +0000 2015",
+      "id": 636204680150913000,
+      "id_str": "636204680150913024",
+      "text": "RT @amureki: @backendsecret оформление админки уже сейчас можно попробовать. https://t.co/ScsQc5ekzK",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Aug 25 15:52:54 +0000 2015",
+        "id": 636204613906079700,
+        "id_str": "636204613906079744",
+        "text": "@backendsecret оформление админки уже сейчас можно попробовать. https://t.co/ScsQc5ekzK",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 636190075127234600,
+        "in_reply_to_status_id_str": "636190075127234561",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 91391218,
+          "id_str": "91391218"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/ScsQc5ekzK",
+              "expanded_url": "https://pypi.python.org/pypi/django-flat-theme",
+              "display_url": "pypi.python.org/pypi/django-fl…",
+              "indices": [
+                64,
+                87
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amureki",
+            "name": "а у реки",
+            "id": 91391218,
+            "id_str": "91391218",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ScsQc5ekzK",
+            "expanded_url": "https://pypi.python.org/pypi/django-flat-theme",
+            "display_url": "pypi.python.org/pypi/django-fl…",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 25 15:05:25 +0000 2015",
+      "id": 636192664027852800,
+      "id_str": "636192664027852800",
+      "text": "Самое главное, что разметка шаблонов не изменилась – отличная новость для разработчиков пакетов под Django.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636190075127234600,
+      "in_reply_to_status_id_str": "636190075127234561",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 25 14:55:08 +0000 2015",
+      "id": 636190075127234600,
+      "id_str": "636190075127234561",
+      "text": "Если кто еще не видел – скриншоты обновленной админки #Django 1.9. http://t.co/3Y6KncKuMh",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Django",
+            "indices": [
+              54,
+              61
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 636190007699574800,
+            "id_str": "636190007699574784",
+            "indices": [
+              67,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/CNQzcPqWEAARqzt.png",
+            "media_url_https": "https://pbs.twimg.com/media/CNQzcPqWEAARqzt.png",
+            "url": "http://t.co/3Y6KncKuMh",
+            "display_url": "pic.twitter.com/3Y6KncKuMh",
+            "expanded_url": "http://twitter.com/backendsecret/status/636190075127234561/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 720,
+                "h": 359,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 299,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 169,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 636190007699574800,
+            "id_str": "636190007699574784",
+            "indices": [
+              67,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/CNQzcPqWEAARqzt.png",
+            "media_url_https": "https://pbs.twimg.com/media/CNQzcPqWEAARqzt.png",
+            "url": "http://t.co/3Y6KncKuMh",
+            "display_url": "pic.twitter.com/3Y6KncKuMh",
+            "expanded_url": "http://twitter.com/backendsecret/status/636190075127234561/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 720,
+                "h": 359,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 299,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 169,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 636190007783501800,
+            "id_str": "636190007783501824",
+            "indices": [
+              67,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/CNQzcP-WsAAnIdV.png",
+            "media_url_https": "https://pbs.twimg.com/media/CNQzcP-WsAAnIdV.png",
+            "url": "http://t.co/3Y6KncKuMh",
+            "display_url": "pic.twitter.com/3Y6KncKuMh",
+            "expanded_url": "http://twitter.com/backendsecret/status/636190075127234561/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 187,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 397,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 330,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 636190008131616800,
+            "id_str": "636190008131616769",
+            "indices": [
+              67,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/CNQzcRRWgAEhqjD.png",
+            "media_url_https": "https://pbs.twimg.com/media/CNQzcRRWgAEhqjD.png",
+            "url": "http://t.co/3Y6KncKuMh",
+            "display_url": "pic.twitter.com/3Y6KncKuMh",
+            "expanded_url": "http://twitter.com/backendsecret/status/636190075127234561/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 281,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 720,
+                "h": 338,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 159,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 636190006823006200,
+            "id_str": "636190006823006209",
+            "indices": [
+              67,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/CNQzcMZWsAERE8E.png",
+            "media_url_https": "https://pbs.twimg.com/media/CNQzcMZWsAERE8E.png",
+            "url": "http://t.co/3Y6KncKuMh",
+            "display_url": "pic.twitter.com/3Y6KncKuMh",
+            "expanded_url": "http://twitter.com/backendsecret/status/636190075127234561/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 266,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 320,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 151,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 25 14:53:39 +0000 2015",
+      "id": 636189700936568800,
+      "id_str": "636189700936568836",
+      "text": "RT @KSDaemon: @backendsecret @RusAlexander cloudflare юзают. Собсно основной разработчик openresty @agentzh сам оттуда.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Aug 25 14:53:11 +0000 2015",
+        "id": 636189582829203500,
+        "id_str": "636189582829203456",
+        "text": "@backendsecret @RusAlexander cloudflare юзают. Собсно основной разработчик openresty @agentzh сам оттуда.",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 636163829857189900,
+        "in_reply_to_status_id_str": "636163829857189888",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 103650148,
+          "id_str": "103650148"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "RusAlexander",
+              "name": "Alex Pletnev",
+              "id": 149214312,
+              "id_str": "149214312",
+              "indices": [
+                15,
+                28
+              ]
+            },
+            {
+              "screen_name": "agentzh",
+              "name": "agentzh",
+              "id": 111512878,
+              "id_str": "111512878",
+              "indices": [
+                85,
+                93
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KSDaemon",
+            "name": "Konstantin Burkalev",
+            "id": 103650148,
+            "id_str": "103650148",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              14,
+              28
+            ]
+          },
+          {
+            "screen_name": "RusAlexander",
+            "name": "Alex Pletnev",
+            "id": 149214312,
+            "id_str": "149214312",
+            "indices": [
+              29,
+              42
+            ]
+          },
+          {
+            "screen_name": "agentzh",
+            "name": "agentzh",
+            "id": 111512878,
+            "id_str": "111512878",
+            "indices": [
+              99,
+              107
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 25 14:28:13 +0000 2015",
+      "id": 636183299908628500,
+      "id_str": "636183299908628480",
+      "text": "RT @mktums: @backendsecret в догонку - песики :) http://t.co/ZXyK2dsTPn",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Aug 25 13:36:11 +0000 2015",
+        "id": 636170208047169500,
+        "id_str": "636170208047169537",
+        "text": "@backendsecret в догонку - песики :) http://t.co/ZXyK2dsTPn",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 636161767496941600,
+        "in_reply_to_status_id_str": "636161767496941568",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 88753294,
+          "id_str": "88753294"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 3,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/ZXyK2dsTPn",
+              "expanded_url": "http://httpstatusdogs.com/",
+              "display_url": "httpstatusdogs.com",
+              "indices": [
+                37,
+                59
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mktums",
+            "name": "Futility & Despair",
+            "id": 88753294,
+            "id_str": "88753294",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/ZXyK2dsTPn",
+            "expanded_url": "http://httpstatusdogs.com/",
+            "display_url": "httpstatusdogs.com",
+            "indices": [
+              49,
+              71
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 25 13:10:51 +0000 2015",
+      "id": 636163829857189900,
+      "id_str": "636163829857189888",
+      "text": ". @RusAlexander крупный китайский e-commerce (вроде alibaba) используют openresty в продакшн",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636162600783454200,
+      "in_reply_to_status_id_str": "636162600783454208",
+      "in_reply_to_user_id": 149214312,
+      "in_reply_to_user_id_str": "149214312",
+      "in_reply_to_screen_name": "RusAlexander",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RusAlexander",
+            "name": "Alex Pletnev",
+            "id": 149214312,
+            "id_str": "149214312",
+            "indices": [
+              2,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 25 13:02:39 +0000 2015",
+      "id": 636161767496941600,
+      "id_str": "636161767496941568",
+      "text": "HTTP Status Cats\nhttps://t.co/pmCLbQM8Te\nкотики, как и обещал )",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pmCLbQM8Te",
+            "expanded_url": "https://www.flickr.com/photos/girliemac/sets/72157628409467125",
+            "display_url": "flickr.com/photos/girliem…",
+            "indices": [
+              17,
+              40
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
       "created_at": "Tue Aug 25 11:29:24 +0000 2015",
       "id": 636138300898713600,
       "id_str": "636138300898713600",
@@ -344,7 +1115,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 3,
-      "favorite_count": 11,
+      "favorite_count": 13,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -387,7 +1158,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 1,
       "entities": {
         "hashtags": [],
@@ -421,7 +1192,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
