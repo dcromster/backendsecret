@@ -36,22 +36,22 @@
     }
   },
   "protected": false,
-  "followers_count": 693,
-  "friends_count": 315,
-  "listed_count": 33,
+  "followers_count": 696,
+  "friends_count": 321,
+  "listed_count": 37,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1424,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1987,
+  "statuses_count": 2032,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Aug 26 10:37:00 +0000 2015",
-    "id": 636487502027714600,
-    "id_str": "636487502027714560",
-    "text": "Крутая шпаргалка по форматированию строк в #Python https://t.co/3UNGVPPbPI",
+    "created_at": "Wed Aug 26 18:57:48 +0000 2015",
+    "id": 636613532314939400,
+    "id_str": "636613532314939393",
+    "text": "RT @dcromster: @backendsecret а ты рассказывал как контролируешь делегированные задачи? @rubyunderhood @iamstarkov",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -63,35 +63,116 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweeted_status": {
+      "created_at": "Wed Aug 26 18:57:23 +0000 2015",
+      "id": 636613426895265800,
+      "id_str": "636613426895265793",
+      "text": "@backendsecret а ты рассказывал как контролируешь делегированные задачи? @rubyunderhood @iamstarkov",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636613015656366100,
+      "in_reply_to_status_id_str": "636613015656366082",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              73,
+              87
+            ]
+          },
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              88,
+              99
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
     "entities": {
-      "hashtags": [
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
         {
-          "text": "Python",
+          "screen_name": "dcromster",
+          "name": "Roman Milovskiy",
+          "id": 81103006,
+          "id_str": "81103006",
           "indices": [
-            43,
-            50
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик Бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            15,
+            29
+          ]
+        },
+        {
+          "screen_name": "rubyunderhood",
+          "name": "Ruby разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
+          "indices": [
+            88,
+            102
+          ]
+        },
+        {
+          "screen_name": "iamstarkov",
+          "name": "Vladimir Starkov",
+          "id": 98084311,
+          "id_str": "98084311",
+          "indices": [
+            103,
+            114
           ]
         }
       ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/3UNGVPPbPI",
-          "expanded_url": "https://pyformat.info/",
-          "display_url": "pyformat.info",
-          "indices": [
-            51,
-            74
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
