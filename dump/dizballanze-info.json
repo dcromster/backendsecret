@@ -36,8 +36,8 @@
     }
   },
   "protected": false,
-  "followers_count": 692,
-  "friends_count": 311,
+  "followers_count": 693,
+  "friends_count": 315,
   "listed_count": 33,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1424,
@@ -45,14 +45,14 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1975,
+  "statuses_count": 1987,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Aug 25 16:31:49 +0000 2015",
-    "id": 636214408050442200,
-    "id_str": "636214408050442240",
-    "text": "Large scale refactoring http://t.co/jdaxtsuym9\nХорошие советы о том как убедить начальство в необходимости рефакторинга :)",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Wed Aug 26 10:37:00 +0000 2015",
+    "id": 636487502027714600,
+    "id_str": "636487502027714560",
+    "text": "Крутая шпаргалка по форматированию строк в #Python https://t.co/3UNGVPPbPI",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -63,20 +63,28 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 2,
-    "favorite_count": 9,
+    "retweet_count": 0,
+    "favorite_count": 2,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "Python",
+          "indices": [
+            43,
+            50
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "http://t.co/jdaxtsuym9",
-          "expanded_url": "http://pocket.co/sojKY6",
-          "display_url": "pocket.co/sojKY6",
+          "url": "https://t.co/3UNGVPPbPI",
+          "expanded_url": "https://pyformat.info/",
+          "display_url": "pyformat.info",
           "indices": [
-            24,
-            46
+            51,
+            74
           ]
         }
       ]
