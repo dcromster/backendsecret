@@ -36,8 +36,8 @@
     }
   },
   "protected": false,
-  "followers_count": 700,
-  "friends_count": 326,
+  "followers_count": 711,
+  "friends_count": 331,
   "listed_count": 37,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1424,
@@ -45,13 +45,13 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2046,
+  "statuses_count": 2059,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Aug 27 08:39:30 +0000 2015",
-    "id": 636820318498201600,
-    "id_str": "636820318498201600",
-    "text": "Недавно прочитал \"Just for fun\".\nОтличная книга, интересно узнать про историю unix, linux и OSS.\nhttp://t.co/HMR1LNYoab",
+    "created_at": "Thu Aug 27 15:30:18 +0000 2015",
+    "id": 636923701741510700,
+    "id_str": "636923701741510656",
+    "text": "Использование #python без ОС\nhttp://t.co/xDIau1ZwVW\nинтересный юзкейс от разработчиков железа",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -66,17 +66,25 @@
     "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "python",
+          "indices": [
+            14,
+            21
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "http://t.co/HMR1LNYoab",
-          "expanded_url": "http://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732",
-          "display_url": "amazon.com/Just-Fun-Story…",
+          "url": "http://t.co/xDIau1ZwVW",
+          "expanded_url": "http://lwn.net/Articles/641244/",
+          "display_url": "lwn.net/Articles/64124…",
           "indices": [
-            97,
-            119
+            29,
+            51
           ]
         }
       ]

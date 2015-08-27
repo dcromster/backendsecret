@@ -5,6 +5,669 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Aug 27 15:30:18 +0000 2015",
+      "id": 636923701741510700,
+      "id_str": "636923701741510656",
+      "text": "Использование #python без ОС\nhttp://t.co/xDIau1ZwVW\nинтересный юзкейс от разработчиков железа",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "python",
+            "indices": [
+              14,
+              21
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/xDIau1ZwVW",
+            "expanded_url": "http://lwn.net/Articles/641244/",
+            "display_url": "lwn.net/Articles/64124…",
+            "indices": [
+              29,
+              51
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 27 14:20:34 +0000 2015",
+      "id": 636906151184068600,
+      "id_str": "636906151184068609",
+      "text": ".@andreypopp @shuvalov_anton согласен",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636905907230801900,
+      "in_reply_to_status_id_str": "636905907230801920",
+      "in_reply_to_user_id": 14783481,
+      "in_reply_to_user_id_str": "14783481",
+      "in_reply_to_screen_name": "andreypopp",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "andreypopp",
+            "name": "Andrey Popp",
+            "id": 14783481,
+            "id_str": "14783481",
+            "indices": [
+              1,
+              12
+            ]
+          },
+          {
+            "screen_name": "shuvalov_anton",
+            "name": "Darth Shuvalov",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              13,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 27 14:18:15 +0000 2015",
+      "id": 636905568884662300,
+      "id_str": "636905568884662272",
+      "text": ".@andreypopp @shuvalov_anton да, но с HTTP/2 накладные расходы на \"грузить то что нужно\" уменьшаются",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636905299023142900,
+      "in_reply_to_status_id_str": "636905299023142912",
+      "in_reply_to_user_id": 14783481,
+      "in_reply_to_user_id_str": "14783481",
+      "in_reply_to_screen_name": "andreypopp",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "andreypopp",
+            "name": "Andrey Popp",
+            "id": 14783481,
+            "id_str": "14783481",
+            "indices": [
+              1,
+              12
+            ]
+          },
+          {
+            "screen_name": "shuvalov_anton",
+            "name": "Darth Shuvalov",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              13,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 27 14:12:53 +0000 2015",
+      "id": 636904219929395200,
+      "id_str": "636904219929395200",
+      "text": ".@andreypopp @shuvalov_anton а не все css/js хотя на странице возможно только малая часть используется",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636904128887849000,
+      "in_reply_to_status_id_str": "636904128887848960",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "andreypopp",
+            "name": "Andrey Popp",
+            "id": 14783481,
+            "id_str": "14783481",
+            "indices": [
+              1,
+              12
+            ]
+          },
+          {
+            "screen_name": "shuvalov_anton",
+            "name": "Darth Shuvalov",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              13,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 27 14:12:32 +0000 2015",
+      "id": 636904128887849000,
+      "id_str": "636904128887848960",
+      "text": ".@andreypopp @shuvalov_anton в HTTP/2 не нужно отдельные соединения делать для js/css, а значит можно грузить только то что нужно",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636902807577206800,
+      "in_reply_to_status_id_str": "636902807577206784",
+      "in_reply_to_user_id": 14783481,
+      "in_reply_to_user_id_str": "14783481",
+      "in_reply_to_screen_name": "andreypopp",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "andreypopp",
+            "name": "Andrey Popp",
+            "id": 14783481,
+            "id_str": "14783481",
+            "indices": [
+              1,
+              12
+            ]
+          },
+          {
+            "screen_name": "shuvalov_anton",
+            "name": "Darth Shuvalov",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              13,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 27 12:35:03 +0000 2015",
+      "id": 636879598635061200,
+      "id_str": "636879598635061248",
+      "text": "Протокол обычно критикуют за то, что он лишь решает старые проблемы HTTP, вместо того, чтобы нацелеваться на будущее https://t.co/uBlTp51c4D",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636876953262366700,
+      "in_reply_to_status_id_str": "636876953262366720",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uBlTp51c4D",
+            "expanded_url": "https://www.varnish-cache.org/docs/trunk/phk/http20.html",
+            "display_url": "varnish-cache.org/docs/trunk/phk…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 27 12:29:57 +0000 2015",
+      "id": 636878315048038400,
+      "id_str": "636878315048038400",
+      "text": "Всякие прокси/варниши/фаерволы нужно будет переписывать и быстро это не получится сделать. \n@Borovikov",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636878279169982500,
+      "in_reply_to_status_id_str": "636878279169982464",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Borovikov",
+            "name": "Денис Боровиков",
+            "id": 14354160,
+            "id_str": "14354160",
+            "indices": [
+              92,
+              102
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 27 12:29:49 +0000 2015",
+      "id": 636878279169982500,
+      "id_str": "636878279169982464",
+      "text": ".@Borovikov вероятно придется использовать TLS, т.к. браузеры видимо будут только секьюрный HTTP/2 реализовывать.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636876934379651100,
+      "in_reply_to_status_id_str": "636876934379651072",
+      "in_reply_to_user_id": 14354160,
+      "in_reply_to_user_id_str": "14354160",
+      "in_reply_to_screen_name": "Borovikov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Borovikov",
+            "name": "Денис Боровиков",
+            "id": 14354160,
+            "id_str": "14354160",
+            "indices": [
+              1,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 27 12:24:32 +0000 2015",
+      "id": 636876953262366700,
+      "id_str": "636876953262366720",
+      "text": "Еще и придется отказаться от костылей используемых годами - вроде спрайтов, склеивание css/js, domain sharding.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636876628300271600,
+      "in_reply_to_status_id_str": "636876628300271616",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 27 12:23:15 +0000 2015",
+      "id": 636876628300271600,
+      "id_str": "636876628300271616",
+      "text": "Как вам кажется стоит ли использовать HTTP/2 с учетом его сложности и усилий на обновление инфраструктуры?",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636876142373376000,
+      "in_reply_to_status_id_str": "636876142373376000",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 27 12:21:19 +0000 2015",
+      "id": 636876142373376000,
+      "id_str": "636876142373376000",
+      "text": "Протокол в целом стал намного более сложным, по сравнению с относительно простым и текстовым HTTP/1.1.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 636875747471323100,
+      "in_reply_to_status_id_str": "636875747471323137",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 27 12:19:45 +0000 2015",
+      "id": 636875747471323100,
+      "id_str": "636875747471323137",
+      "text": "Есть большая вероятность, что всем нам придется переходить на HTTP/2 в скором будущем https://t.co/UfyWcOLzWE",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UfyWcOLzWE",
+            "expanded_url": "https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present?slide=id.p19",
+            "display_url": "docs.google.com/presentation/d…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 27 11:26:14 +0000 2015",
+      "id": 636862280106397700,
+      "id_str": "636862280106397700",
+      "text": "В #pocket появилась вкладка \"Рекомендации\"! http://t.co/ONGodO1zJ7",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "pocket",
+            "indices": [
+              2,
+              9
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 636862278378229800,
+            "id_str": "636862278378229760",
+            "indices": [
+              44,
+              66
+            ],
+            "media_url": "http://pbs.twimg.com/media/CNaW3jGUkAA6iJc.png",
+            "media_url_https": "https://pbs.twimg.com/media/CNaW3jGUkAA6iJc.png",
+            "url": "http://t.co/ONGodO1zJ7",
+            "display_url": "pic.twitter.com/ONGodO1zJ7",
+            "expanded_url": "http://twitter.com/backendsecret/status/636862280106397700/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 498,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 292,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 165,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 636862278378229800,
+            "id_str": "636862278378229760",
+            "indices": [
+              44,
+              66
+            ],
+            "media_url": "http://pbs.twimg.com/media/CNaW3jGUkAA6iJc.png",
+            "media_url_https": "https://pbs.twimg.com/media/CNaW3jGUkAA6iJc.png",
+            "url": "http://t.co/ONGodO1zJ7",
+            "display_url": "pic.twitter.com/ONGodO1zJ7",
+            "expanded_url": "http://twitter.com/backendsecret/status/636862280106397700/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 498,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 292,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 165,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Aug 27 08:39:30 +0000 2015",
       "id": 636820318498201600,
       "id_str": "636820318498201600",
@@ -26,7 +689,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 5,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -168,7 +831,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 3,
+      "favorite_count": 5,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -212,7 +875,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 5,
+      "favorite_count": 8,
       "entities": {
         "hashtags": [
           {
@@ -308,7 +971,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 3,
-      "favorite_count": 19,
+      "favorite_count": 20,
       "entities": {
         "hashtags": [
           {
@@ -382,7 +1045,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 0,
-        "favorite_count": 3,
+        "favorite_count": 2,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -515,7 +1178,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 5,
-      "favorite_count": 5,
+      "favorite_count": 7,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3268,7 +3931,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 17,
+      "favorite_count": 18,
       "entities": {
         "hashtags": [],
         "symbols": [],
