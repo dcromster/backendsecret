@@ -36,8 +36,8 @@
     }
   },
   "protected": false,
-  "followers_count": 711,
-  "friends_count": 331,
+  "followers_count": 715,
+  "friends_count": 335,
   "listed_count": 37,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1424,
@@ -45,13 +45,13 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2059,
+  "statuses_count": 2063,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Aug 27 15:30:18 +0000 2015",
-    "id": 636923701741510700,
-    "id_str": "636923701741510656",
-    "text": "Использование #python без ОС\nhttp://t.co/xDIau1ZwVW\nинтересный юзкейс от разработчиков железа",
+    "created_at": "Thu Aug 27 18:29:18 +0000 2015",
+    "id": 636968746351992800,
+    "id_str": "636968746351992832",
+    "text": "Import and use #python packages in #nodejs.\nhttps://t.co/P3UatQ6mPT",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,14 +64,21 @@
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 5,
     "entities": {
       "hashtags": [
         {
           "text": "python",
           "indices": [
-            14,
-            21
+            15,
+            22
+          ]
+        },
+        {
+          "text": "nodejs",
+          "indices": [
+            35,
+            42
           ]
         }
       ],
@@ -79,12 +86,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "http://t.co/xDIau1ZwVW",
-          "expanded_url": "http://lwn.net/Articles/641244/",
-          "display_url": "lwn.net/Articles/64124…",
+          "url": "https://t.co/P3UatQ6mPT",
+          "expanded_url": "https://github.com/mateogianolio/node-pip",
+          "display_url": "github.com/mateogianolio/…",
           "indices": [
-            29,
-            51
+            44,
+            67
           ]
         }
       ]
@@ -92,7 +99,7 @@
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
