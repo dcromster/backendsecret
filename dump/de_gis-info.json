@@ -45,25 +45,74 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2148,
+  "statuses_count": 2149,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Sep 01 09:59:21 +0000 2015",
-    "id": 638652353684602900,
-    "id_str": "638652353684602880",
-    "text": ".@__fro @ivanenok @freiksenet_ru число разрабов в команде фикс,а число проблем нет.Потому \"босс\" должен выбирать постоянно что надо делать",
+    "created_at": "Tue Sep 01 10:00:12 +0000 2015",
+    "id": 638652569351536600,
+    "id_str": "638652569351536640",
+    "text": "RT @__fro: @freiksenet_ru @backendsecret фундаментальные вещи лучше знать.Это как строить дом из неизвестного материала с неизвестными свой…",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 638650440104702000,
-    "in_reply_to_status_id_str": "638650440104701952",
-    "in_reply_to_user_id": 104968314,
-    "in_reply_to_user_id_str": "104968314",
-    "in_reply_to_screen_name": "__fro",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue Sep 01 09:57:56 +0000 2015",
+      "id": 638651996208263200,
+      "id_str": "638651996208263168",
+      "text": "@freiksenet_ru @backendsecret фундаментальные вещи лучше знать.Это как строить дом из неизвестного материала с неизвестными свойствами",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 3411018190,
+      "in_reply_to_user_id_str": "3411018190",
+      "in_reply_to_screen_name": "freiksenet_ru",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
@@ -75,18 +124,8 @@
           "id": 104968314,
           "id_str": "104968314",
           "indices": [
-            1,
-            7
-          ]
-        },
-        {
-          "screen_name": "ivanenok",
-          "name": "Maxim S. Ivanov",
-          "id": 69355074,
-          "id_str": "69355074",
-          "indices": [
-            8,
-            17
+            3,
+            9
           ]
         },
         {
@@ -95,8 +134,18 @@
           "id": 3411018190,
           "id_str": "3411018190",
           "indices": [
-            18,
-            32
+            11,
+            25
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик Бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            26,
+            40
           ]
         }
       ],
