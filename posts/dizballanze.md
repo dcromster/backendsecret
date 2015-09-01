@@ -1,6 +1,6 @@
 # dizballanze
 
-_30 августа 2015_
+_01 сентября 2015_
 
 ## Понедельник <small>62 твита</small>
 
@@ -404,3 +404,13 @@ RT <a href="https://twitter.com/megaserg" title="Sergey Serebryakov">@megaserg</
 Моя неделя на <a href="https://twitter.com/backendsecret" title="Разработчик Бэкенда">@backendsecret</a> заканчивается через считанные часы. Всем спасибо за активность :)
 
 Напоминаю что с вами был <a href="https://twitter.com/dizballanze" title="Yuriy Shikanov">@dizballanze</a>, если я кому-то вдруг не успел надоесть за эту неделю – подписывайтесь :)
+
+## Вторник <small>4 твита</small>
+
+День добрый,коллеги.С некоторым опозданием,но всё-таки присоединяюсь к теме бэка. На этой неделе предлагаю обсудить ароматы <a href="https://twitter.com/search?q=%23Java">#Java</a>
+
+В моей биографии были и C/C++,и Pascal c Delphi,драйвера на tasm,Clipper и CA Visual Objects,PHP c Perl и JS. Но более всего зацепила <a href="https://twitter.com/search?q=%23Java">#Java</a>
+
+.<a href="https://twitter.com/freiksenet_ru" title="Михаил Новиков">@freiksenet_ru</a> однако, замечу, что мы каких-то особенностей свойственных именно 8ке не используем. Не было в том надобности
+
+.<a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a> <a href="https://twitter.com/de_gis" title="Igor Galtsev">@de_gis</a> вот история "про Clipper" 4 года назад <a href="http://t.co/tvZoeIxK8j">de-gis.livejournal.com/120917.html</a>
