@@ -45,13 +45,13 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2134,
+  "statuses_count": 2136,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Sep 01 09:45:46 +0000 2015",
-    "id": 638648936929083400,
-    "id_str": "638648936929083392",
-    "text": "RT @__fro: @backendsecret @freiksenet_ru Кстати, заметил, что чем умнее коллектив, тем проще находится консенсус.",
+    "created_at": "Tue Sep 01 09:46:47 +0000 2015",
+    "id": 638649191204581400,
+    "id_str": "638649191204581376",
+    "text": "RT @ivanenok: @backendsecret если честно, сам собеседовался всего несколько раз. Обычно знали кого они берут и потом формальностей не было …",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,20 +64,53 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Tue Sep 01 09:40:28 +0000 2015",
-      "id": 638647603434029000,
-      "id_str": "638647603434029056",
-      "text": "@backendsecret @freiksenet_ru Кстати, заметил, что чем умнее коллектив, тем проще находится консенсус.",
-      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "created_at": "Tue Sep 01 09:45:54 +0000 2015",
+      "id": 638648970277990400,
+      "id_str": "638648970277990400",
+      "text": "@backendsecret если честно, сам собеседовался всего несколько раз. Обычно знали кого они берут и потом формальностей не было :)",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "truncated": false,
-      "in_reply_to_status_id": 638646095678193700,
-      "in_reply_to_status_id_str": "638646095678193664",
+      "in_reply_to_status_id": 638648480467152900,
+      "in_reply_to_status_id_str": "638648480467152896",
       "in_reply_to_user_id": 3302551618,
       "in_reply_to_user_id_str": "3302551618",
       "in_reply_to_screen_name": "backendsecret",
       "geo": null,
       "coordinates": null,
-      "place": null,
+      "place": {
+        "id": "d07a55237d420b53",
+        "url": "https://api.twitter.com/1.1/geo/id/d07a55237d420b53.json",
+        "place_type": "city",
+        "name": "Калининград",
+        "full_name": "Калининград, Калининградская область",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                20.2947513,
+                54.627806
+              ],
+              [
+                20.6492806,
+                54.627806
+              ],
+              [
+                20.6492806,
+                54.7804963
+              ],
+              [
+                20.2947513,
+                54.7804963
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
       "contributors": null,
       "retweet_count": 1,
       "favorite_count": 0,
@@ -94,16 +127,6 @@
               0,
               14
             ]
-          },
-          {
-            "screen_name": "freiksenet_ru",
-            "name": "Михаил Новиков",
-            "id": 3411018190,
-            "id_str": "3411018190",
-            "indices": [
-              15,
-              29
-            ]
           }
         ],
         "urls": []
@@ -119,13 +142,13 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "__fro",
-          "name": "Alexey Frolov",
-          "id": 104968314,
-          "id_str": "104968314",
+          "screen_name": "ivanenok",
+          "name": "Maxim S. Ivanov",
+          "id": 69355074,
+          "id_str": "69355074",
           "indices": [
             3,
-            9
+            12
           ]
         },
         {
@@ -134,18 +157,8 @@
           "id": 3302551618,
           "id_str": "3302551618",
           "indices": [
-            11,
-            25
-          ]
-        },
-        {
-          "screen_name": "freiksenet_ru",
-          "name": "Михаил Новиков",
-          "id": 3411018190,
-          "id_str": "3411018190",
-          "indices": [
-            26,
-            40
+            14,
+            28
           ]
         }
       ],
