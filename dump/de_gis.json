@@ -5,6 +5,670 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Sep 03 05:31:33 +0000 2015",
+      "id": 639309735896989700,
+      "id_str": "639309735896989696",
+      "text": "RT @Spellful: @jsunderhood @backendsecret Я из тех, кто вылавливает моменты и просто читает. «А Виталька слушает эфир, да работает» ©",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Sep 03 00:50:25 +0000 2015",
+        "id": 639238984745529300,
+        "id_str": "639238984745529346",
+        "text": "@jsunderhood @backendsecret Я из тех, кто вылавливает моменты и просто читает. «А Виталька слушает эфир, да работает» ©",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 639238590090842100,
+        "in_reply_to_status_id_str": "639238590090842112",
+        "in_reply_to_user_id": 144939725,
+        "in_reply_to_user_id_str": "144939725",
+        "in_reply_to_screen_name": "Spellful",
+        "user": {
+          "id": 144939725,
+          "id_str": "144939725"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "cedd5f63f0c2c5aa",
+          "url": "https://api.twitter.com/1.1/geo/id/cedd5f63f0c2c5aa.json",
+          "place_type": "admin",
+          "name": "Province of Samara",
+          "full_name": "Province of Samara, Russia",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  47.9258,
+                  51.77415
+                ],
+                [
+                  52.5616,
+                  51.77415
+                ],
+                [
+                  52.5616,
+                  54.6756859
+                ],
+                [
+                  47.9258,
+                  54.6756859
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Разработчик",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                13,
+                27
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Spellful",
+            "name": "Соколов Виталий",
+            "id": 144939725,
+            "id_str": "144939725",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              14,
+              26
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              27,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 02 18:33:37 +0000 2015",
+      "id": 639144161359360000,
+      "id_str": "639144161359360000",
+      "text": "RT @korobeynikovmax: @backendsecret я рассуждаю с точки зрения команды. Правила общие, видно кто пишет хреновый код и не любит тесты. Краси…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Sep 02 18:26:53 +0000 2015",
+        "id": 639142468269776900,
+        "id_str": "639142468269776896",
+        "text": "@backendsecret я рассуждаю с точки зрения команды. Правила общие, видно кто пишет хреновый код и не любит тесты. Красиво/наглядно/молодёжно)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 639141289980756000,
+        "in_reply_to_status_id_str": "639141289980755969",
+        "in_reply_to_user_id": 2424155094,
+        "in_reply_to_user_id_str": "2424155094",
+        "in_reply_to_screen_name": "korobeynikovmax",
+        "user": {
+          "id": 2424155094,
+          "id_str": "2424155094"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "korobeynikovmax",
+            "name": "Maxim Korobeynikov",
+            "id": 2424155094,
+            "id_str": "2424155094",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 02 18:33:32 +0000 2015",
+      "id": 639144141776134100,
+      "id_str": "639144141776134145",
+      "text": "RT @korobeynikovmax: @backendsecret больше правил как минимум.Позволяет проверять код локально по общим рулам.Таки при наличии оного не виж…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Sep 02 18:22:12 +0000 2015",
+        "id": 639141289980756000,
+        "id_str": "639141289980755969",
+        "text": "@backendsecret больше правил как минимум.Позволяет проверять код локально по общим рулам.Таки при наличии оного не вижу смысла в FB отдельно",
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 639140322912661500,
+        "in_reply_to_status_id_str": "639140322912661504",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 2424155094,
+          "id_str": "2424155094"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "korobeynikovmax",
+            "name": "Maxim Korobeynikov",
+            "id": 2424155094,
+            "id_str": "2424155094",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 02 18:18:22 +0000 2015",
+      "id": 639140322912661500,
+      "id_str": "639140322912661504",
+      "text": ".@korobeynikovmax не,как мультитул - без вариантов,наверное.Но,как именно стат.анализ,я не вижу смысла юзать плагин от FB,если есть сам FB",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639139701803327500,
+      "in_reply_to_status_id_str": "639139701803327488",
+      "in_reply_to_user_id": 2424155094,
+      "in_reply_to_user_id_str": "2424155094",
+      "in_reply_to_screen_name": "korobeynikovmax",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "korobeynikovmax",
+            "name": "Maxim Korobeynikov",
+            "id": 2424155094,
+            "id_str": "2424155094",
+            "indices": [
+              1,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 02 18:13:31 +0000 2015",
+      "id": 639139101686542300,
+      "id_str": "639139101686542336",
+      "text": "@korobeynikovmax давно не следил за сонаром, но вроде как там стат.анализатором был плагин от финдбагз. Или они свой запилили? Или другой?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639129367361253400,
+      "in_reply_to_status_id_str": "639129367361253376",
+      "in_reply_to_user_id": 2424155094,
+      "in_reply_to_user_id_str": "2424155094",
+      "in_reply_to_screen_name": "korobeynikovmax",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "korobeynikovmax",
+            "name": "Maxim Korobeynikov",
+            "id": 2424155094,
+            "id_str": "2424155094",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 02 18:11:57 +0000 2015",
+      "id": 639138708738981900,
+      "id_str": "639138708738981888",
+      "text": "RT @korobeynikovmax: @backendsecret SonarQube наше всё",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Sep 02 17:34:50 +0000 2015",
+        "id": 639129367361253400,
+        "id_str": "639129367361253376",
+        "text": "@backendsecret SonarQube наше всё",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 639037653711724500,
+        "in_reply_to_status_id_str": "639037653711724544",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 2424155094,
+          "id_str": "2424155094"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "korobeynikovmax",
+            "name": "Maxim Korobeynikov",
+            "id": 2424155094,
+            "id_str": "2424155094",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Sep 02 16:07:51 +0000 2015",
+      "id": 639107479490699300,
+      "id_str": "639107479490699264",
+      "text": "@backendsecret надеюсь многие после такого вопроса полезут в доки своих баз и узнают для себя кое-что новое :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639107192398942200,
+      "in_reply_to_status_id_str": "639107192398942208",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 02 16:06:43 +0000 2015",
+      "id": 639107192398942200,
+      "id_str": "639107192398942208",
+      "text": "А вот загадка бэк-разрабу - какое значение стоит установить для кэша при создании sequence в базе данных?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 02 11:44:55 +0000 2015",
+      "id": 639041307156041700,
+      "id_str": "639041307156041728",
+      "text": ".@kurmanov кстати,у вас в MS мой товарищ @abeshkov вроде как делает внутренние семинары по SDL.Он возможно вам больше расскажет.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 639039152508543000,
+      "in_reply_to_status_id_str": "639039152508542976",
+      "in_reply_to_user_id": 40240849,
+      "in_reply_to_user_id_str": "40240849",
+      "in_reply_to_screen_name": "kurmanov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kurmanov",
+            "name": "Samat Kurmanov",
+            "id": 40240849,
+            "id_str": "40240849",
+            "indices": [
+              1,
+              10
+            ]
+          },
+          {
+            "screen_name": "abeshkov",
+            "name": "Andrey Beshkov",
+            "id": 21381695,
+            "id_str": "21381695",
+            "indices": [
+              41,
+              50
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Wed Sep 02 11:40:40 +0000 2015",
       "id": 639040241245028400,
       "id_str": "639040241245028354",
@@ -212,7 +876,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -245,7 +909,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 6,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -581,7 +1245,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -746,7 +1410,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 5,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -832,7 +1496,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 8,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1039,7 +1703,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
