@@ -1,6 +1,7 @@
 export default [
   // post: false
-  { username: 'de_gis',  start: '31 aug 2015', first: '638629782146707456', post: false },
+  { username: 'lomakin',      start: '07 sep 2015', first: '640816652293144576', post: false },
+  { username: 'de_gis',       start: '31 aug 2015', first: '638629782146707456' },
   { username: 'dizballanze',  start: '24 aug 2015', first: '635710925761343488' },
   { username: 'SBozhko',      start: '17 aug 2015', first: '633166676402565120' },
   { username: 'dsimonov',     start: '10 aug 2015', first: '630582718598791168' },
