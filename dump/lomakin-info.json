@@ -45,14 +45,14 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2634,
+  "statuses_count": 2679,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Sep 13 07:52:45 +0000 2015",
-    "id": 642969149367578600,
-    "id_str": "642969149367578624",
-    "text": "Друзья, всех с днем программиста! Мы делаем этот мир лучше! :)",
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "created_at": "Sun Sep 13 11:48:06 +0000 2015",
+    "id": 643028376815579100,
+    "id_str": "643028376815579137",
+    "text": "RT @makhov: @backendsecret футбол, картинг, походы/рыбалки, ну и всегда прогулки с ребёнком",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -63,12 +63,72 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 11,
-    "favorite_count": 2,
+    "retweeted_status": {
+      "created_at": "Sun Sep 13 11:46:25 +0000 2015",
+      "id": 643027953538977800,
+      "id_str": "643027953538977792",
+      "text": "@backendsecret футбол, картинг, походы/рыбалки, ну и всегда прогулки с ребёнком",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 643008533353644000,
+      "in_reply_to_status_id_str": "643008533353644032",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "makhov",
+          "name": "Alexey Makhov",
+          "id": 125115421,
+          "id_str": "125115421",
+          "indices": [
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик Бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            12,
+            26
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
