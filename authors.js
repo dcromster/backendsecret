@@ -1,6 +1,8 @@
 export default [
   // post: false
-  { username: 'lomakin',      start: '07 sep 2015', first: '640816652293144576', post: false },
+ // { username: 'twitter_name',      start: '07 sep 2015', first: '640816652293144576', post: false },
+  { username: '@kurmanov',    start: '14 sep 2015', first: '643351602309545984', post: false },
+  { username: 'lomakin',      start: '07 sep 2015', first: '640816652293144576' },
   { username: 'de_gis',       start: '31 aug 2015', first: '638629782146707456' },
   { username: 'dizballanze',  start: '24 aug 2015', first: '635710925761343488' },
   { username: 'SBozhko',      start: '17 aug 2015', first: '633166676402565120' },
