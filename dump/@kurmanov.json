@@ -5,6 +5,235 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Sep 14 10:36:36 +0000 2015",
+      "id": 643372771641303000,
+      "id_str": "643372771641303040",
+      "text": "RT @dcromster: @backendsecret расскажи про инструменты на вашей, тёмной стороне.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Sep 14 10:35:14 +0000 2015",
+        "id": 643372427452489700,
+        "id_str": "643372427452489728",
+        "text": "@backendsecret расскажи про инструменты на вашей, тёмной стороне.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 14 10:30:08 +0000 2015",
+      "id": 643371142930169900,
+      "id_str": "643371142930169857",
+      "text": "Я за баланс в TDD, удобно покрыть тестами ядро системы и настроить CI, но добиваться 100% покрытия только ради числа - лишь тратить время",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 14 10:27:54 +0000 2015",
+      "id": 643370579794464800,
+      "id_str": "643370579794464768",
+      "text": ".@yevvers имхо товарищи утверждающие \"TDD - везде\" неправы, сейчас я в Int-проекте, если что-то упадет то это не сильно страшно",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 643368478792138800,
+      "in_reply_to_status_id_str": "643368478792138752",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "yevvers",
+            "name": "Evgeny",
+            "id": 386263100,
+            "id_str": "386263100",
+            "indices": [
+              1,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 14 10:19:33 +0000 2015",
+      "id": 643368478792138800,
+      "id_str": "643368478792138752",
+      "text": ".RT @yevvers @backendsecret в холиваре про TDD ты на чьей стороне? за TDD или против?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 643361400576942100,
+      "in_reply_to_status_id_str": "643361400576942080",
+      "in_reply_to_user_id": 386263100,
+      "in_reply_to_user_id_str": "386263100",
+      "in_reply_to_screen_name": "yevvers",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "yevvers",
+            "name": "Evgeny",
+            "id": 386263100,
+            "id_str": "386263100",
+            "indices": [
+              4,
+              12
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Sep 14 09:17:27 +0000 2015",
       "id": 643352851750719500,
       "id_str": "643352851750719488",
