@@ -47,7 +47,7 @@
     }
   },
   "protected": false,
-  "followers_count": 917,
+  "followers_count": 921,
   "friends_count": 344,
   "listed_count": 52,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -56,13 +56,13 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2748,
+  "statuses_count": 2763,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Sep 15 10:30:48 +0000 2015",
-    "id": 643733697921974300,
-    "id_str": "643733697921974273",
-    "text": "Товарищи которые пишут что-то типа \"а у нас apt-get уже сто лет\", поймите, я не спорю что какие-то вещи в *nix сделаны лучше чем в Windows)",
+    "created_at": "Tue Sep 15 15:48:00 +0000 2015",
+    "id": 643813524578390000,
+    "id_str": "643813524578390016",
+    "text": "RT @maryjofoley: MS is working on a new big-data analytics framework, codenamed 'Prajna' that it thinks can go beyond  Apache Spark: http:/…",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -74,17 +74,78 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue Sep 15 15:29:05 +0000 2015",
+      "id": 643808764454400000,
+      "id_str": "643808764454400000",
+      "text": "MS is working on a new big-data analytics framework, codenamed 'Prajna' that it thinks can go beyond  Apache Spark: http://t.co/l3kFwryDGk",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 32,
+      "favorite_count": 25,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/l3kFwryDGk",
+            "expanded_url": "http://www.zdnet.com/article/microsoft-forges-ahead-with-prajna-big-data-analytics-framework-for-cloud-services/",
+            "display_url": "zdnet.com/article/micros…",
+            "indices": [
+              116,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 32,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "maryjofoley",
+          "name": "Mary Jo Foley",
+          "id": 49465463,
+          "id_str": "49465463",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/l3kFwryDGk",
+          "expanded_url": "http://www.zdnet.com/article/microsoft-forges-ahead-with-prajna-big-data-analytics-framework-for-cloud-services/",
+          "display_url": "zdnet.com/article/micros…",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
