@@ -47,22 +47,22 @@
     }
   },
   "protected": false,
-  "followers_count": 925,
+  "followers_count": 926,
   "friends_count": 344,
-  "listed_count": 52,
+  "listed_count": 53,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1426,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2768,
+  "statuses_count": 2769,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Sep 16 13:10:25 +0000 2015",
-    "id": 644136256335515600,
-    "id_str": "644136256335515648",
-    "text": "Используется в одном из курсов по ML на http://t.co/cM6hJyVLft https://t.co/XVjleXWK9Q",
+    "created_at": "Wed Sep 16 16:19:03 +0000 2015",
+    "id": 644183726252011500,
+    "id_str": "644183726252011520",
+    "text": "RT @housecor: Go up one folder:\n\nWindows: Alt + ↑\n\nMac: Cmd + ↑\n\nHandy.\n\n#CantBelieveIJustLearnedThis",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -74,37 +74,72 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweeted_status": {
+      "created_at": "Wed Sep 16 13:36:16 +0000 2015",
+      "id": 644142761403412500,
+      "id_str": "644142761403412480",
+      "text": "Go up one folder:\n\nWindows: Alt + ↑\n\nMac: Cmd + ↑\n\nHandy.\n\n#CantBelieveIJustLearnedThis",
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 10,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "CantBelieveIJustLearnedThis",
+            "indices": [
+              59,
+              87
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 10,
+    "favorite_count": 0,
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "hashtags": [
         {
-          "url": "http://t.co/cM6hJyVLft",
-          "expanded_url": "http://coursera.org",
-          "display_url": "coursera.org",
+          "text": "CantBelieveIJustLearnedThis",
           "indices": [
-            40,
-            62
-          ]
-        },
-        {
-          "url": "https://t.co/XVjleXWK9Q",
-          "expanded_url": "https://twitter.com/RusAlexander/status/644090530033483776",
-          "display_url": "twitter.com/RusAlexander/s…",
-          "indices": [
-            63,
-            86
+            73,
+            101
           ]
         }
-      ]
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "housecor",
+          "name": "Cory House",
+          "id": 19268321,
+          "id_str": "19268321",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
