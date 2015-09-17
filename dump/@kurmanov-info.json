@@ -56,38 +56,107 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2783,
+  "statuses_count": 2784,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Sep 17 11:39:55 +0000 2015",
-    "id": 644475866639020000,
-    "id_str": "644475866639020032",
-    "text": "@yelbota с таким подходом любая работа сводится к бездарному прожиганию денег",
+    "created_at": "Thu Sep 17 11:48:43 +0000 2015",
+    "id": 644478081516699600,
+    "id_str": "644478081516699648",
+    "text": "RT @yevvers: @Nevkontakte @backendsecret ну, что-то на эти вопросы отвечают. какие ответы считать \"правильными\"?",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 644472993696116700,
-    "in_reply_to_status_id_str": "644472993696116736",
-    "in_reply_to_user_id": 10634822,
-    "in_reply_to_user_id_str": "10634822",
-    "in_reply_to_screen_name": "yelbota",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Thu Sep 17 11:40:34 +0000 2015",
+      "id": 644476033018818600,
+      "id_str": "644476033018818560",
+      "text": "@Nevkontakte @backendsecret ну, что-то на эти вопросы отвечают. какие ответы считать \"правильными\"?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 644468998420172800,
+      "in_reply_to_status_id_str": "644468998420172800",
+      "in_reply_to_user_id": 36356150,
+      "in_reply_to_user_id_str": "36356150",
+      "in_reply_to_screen_name": "Nevkontakte",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Nevkontakte",
+            "name": "Alek$",
+            "id": 36356150,
+            "id_str": "36356150",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "yelbota",
-          "name": "Aleksey Fomkin",
-          "id": 10634822,
-          "id_str": "10634822",
+          "screen_name": "yevvers",
+          "name": "Evgeny",
+          "id": 386263100,
+          "id_str": "386263100",
           "indices": [
-            0,
-            8
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "Nevkontakte",
+          "name": "Alek$",
+          "id": 36356150,
+          "id_str": "36356150",
+          "indices": [
+            13,
+            25
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик Бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            26,
+            40
           ]
         }
       ],
