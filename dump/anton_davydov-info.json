@@ -3,8 +3,19 @@
   "id_str": "3302551618",
   "name": "Разработчик Бэкенда",
   "screen_name": "backendsecret",
-  "location": "Київ, Україна",
-  "profile_location": null,
+  "location": "Moscow, Russia",
+  "profile_location": {
+    "id": "4303d1afc1e98c37",
+    "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+    "place_type": "unknown",
+    "name": "Moscow, Russia",
+    "full_name": "Moscow, Russia",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Переходящий твиттер бекенд-разработчиков. Эту неделю ведет @anton_davydov Чат: https://t.co/g6sln8hSDy",
   "url": "http://t.co/SebwQPBWpx",
   "entities": {
@@ -36,23 +47,23 @@
     }
   },
   "protected": false,
-  "followers_count": 1070,
+  "followers_count": 1071,
   "friends_count": 344,
-  "listed_count": 64,
+  "listed_count": 65,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1433,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3033,
+  "statuses_count": 3074,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Sep 28 20:12:35 +0000 2015",
-    "id": 648591153458229200,
-    "id_str": "648591153458229249",
-    "text": "RT @artemeff: @backendsecret ets :)",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Tue Sep 29 12:29:31 +0000 2015",
+    "id": 648837006840213500,
+    "id_str": "648837006840213506",
+    "text": "RT @indieloki: @backendsecret pocket - для прочитать. Onenote - навыдирать кусочки и сохранить как тьюториал",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -64,20 +75,65 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Mon Sep 28 19:47:40 +0000 2015",
-      "id": 648584882617217000,
-      "id_str": "648584882617217024",
-      "text": "@backendsecret ets :)",
-      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "created_at": "Tue Sep 29 12:27:04 +0000 2015",
+      "id": 648836387060490200,
+      "id_str": "648836387060490241",
+      "text": "@backendsecret pocket - для прочитать. Onenote - навыдирать кусочки и сохранить как тьюториал",
+      "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #3</a>",
       "truncated": false,
-      "in_reply_to_status_id": 648545244858949600,
-      "in_reply_to_status_id_str": "648545244858949632",
+      "in_reply_to_status_id": 648813641458970600,
+      "in_reply_to_status_id_str": "648813641458970628",
       "in_reply_to_user_id": 3302551618,
       "in_reply_to_user_id_str": "3302551618",
       "in_reply_to_screen_name": "backendsecret",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          54.6178172,
+          39.7262762
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          39.7262762,
+          54.6178172
+        ]
+      },
+      "place": {
+        "id": "f4a405ee7b85831a",
+        "url": "https://api.twitter.com/1.1/geo/id/f4a405ee7b85831a.json",
+        "place_type": "city",
+        "name": "Rjazan",
+        "full_name": "Rjazan, Rjazan oblast",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                39.5694059,
+                54.5138511
+              ],
+              [
+                39.8593,
+                54.5138511
+              ],
+              [
+                39.8593,
+                54.8081861
+              ],
+              [
+                39.5694059,
+                54.8081861
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
       "contributors": null,
       "retweet_count": 1,
       "favorite_count": 0,
@@ -100,7 +156,7 @@
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "und"
+      "lang": "ru"
     },
     "retweet_count": 1,
     "favorite_count": 0,
@@ -109,13 +165,13 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "artemeff",
-          "name": "Yuri Artemev",
-          "id": 137293049,
-          "id_str": "137293049",
+          "screen_name": "indieloki",
+          "name": "Андрей",
+          "id": 164232459,
+          "id_str": "164232459",
           "indices": [
             3,
-            12
+            13
           ]
         },
         {
@@ -124,8 +180,8 @@
           "id": 3302551618,
           "id_str": "3302551618",
           "indices": [
-            14,
-            28
+            15,
+            29
           ]
         }
       ],
@@ -133,7 +189,7 @@
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
