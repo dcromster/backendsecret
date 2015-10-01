@@ -5,6 +5,660 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Oct 01 16:57:45 +0000 2015",
+      "id": 649629283355336700,
+      "id_str": "649629283355336704",
+      "text": "RT @ivanenok: @backendsecret думаем, делаем, плачем.... и так до полного просветления",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 01 16:55:22 +0000 2015",
+        "id": 649628685453107200,
+        "id_str": "649628685453107200",
+        "text": "@backendsecret думаем, делаем, плачем.... и так до полного просветления",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 649622385272967200,
+        "in_reply_to_status_id_str": "649622385272967168",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 69355074,
+          "id_str": "69355074"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 16:30:20 +0000 2015",
+      "id": 649622385272967200,
+      "id_str": "649622385272967168",
+      "text": "А как вы думаете о бенчмарках?\nКак я знаю-кто-то считает,что это круто,ну а кто-то просто не умеет писать бенчмарки https://t.co/HdCCGwny8Z",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 649609310734020600,
+      "quoted_status_id_str": "649609310734020608",
+      "quoted_status": {
+        "created_at": "Thu Oct 01 15:38:23 +0000 2015",
+        "id": 649609310734020600,
+        "id_str": "649609310734020608",
+        "text": "чем бы дитя ни тешилось, лишь бы не бенчмарками.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 53010195,
+          "id_str": "53010195"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "55a020e74abc073f",
+          "url": "https://api.twitter.com/1.1/geo/id/55a020e74abc073f.json",
+          "place_type": "city",
+          "name": "Aarhus",
+          "full_name": "Aarhus, Central Jutland",
+          "country_code": "DK",
+          "country": "Danmark",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  9.949081,
+                  55.9957712
+                ],
+                [
+                  10.3891573,
+                  55.9957712
+                ],
+                [
+                  10.3891573,
+                  56.3303159
+                ],
+                [
+                  9.949081,
+                  56.3303159
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 5,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HdCCGwny8Z",
+            "expanded_url": "https://twitter.com/mraleph/status/649609310734020608",
+            "display_url": "twitter.com/mraleph/status…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 16:28:22 +0000 2015",
+      "id": 649621888495415300,
+      "id_str": "649621888495415300",
+      "text": "RT @_bugov: @KSDaemon @dcromster На мой взгляд, главное - донести, что работа идёт не на ЧСВ, а на результат. Тогда и ревью становится логи…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 01 16:14:13 +0000 2015",
+        "id": 649618330467344400,
+        "id_str": "649618330467344384",
+        "text": "@KSDaemon @dcromster На мой взгляд, главное - донести, что работа идёт не на ЧСВ, а на результат. Тогда и ревью становится логичным.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 649595673348841500,
+        "in_reply_to_status_id_str": "649595673348841472",
+        "in_reply_to_user_id": 103650148,
+        "in_reply_to_user_id_str": "103650148",
+        "in_reply_to_screen_name": "KSDaemon",
+        "user": {
+          "id": 253874473,
+          "id_str": "253874473"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "KSDaemon",
+              "name": "Konstantin Burkalev",
+              "id": 103650148,
+              "id_str": "103650148",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "dcromster",
+              "name": "Roman Milovskiy",
+              "id": 81103006,
+              "id_str": "81103006",
+              "indices": [
+                10,
+                20
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_bugov",
+            "name": "Georgy Bazhukov",
+            "id": 253874473,
+            "id_str": "253874473",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "KSDaemon",
+            "name": "Konstantin Burkalev",
+            "id": 103650148,
+            "id_str": "103650148",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              22,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 16:28:15 +0000 2015",
+      "id": 649621858350927900,
+      "id_str": "649621858350927873",
+      "text": "RT @KSDaemon: Народ!! Код-ревью - это не нота протеста, не монолог в пустоту, а диалог!! Д И А Л О Г с целью найти общее лучшее решение для…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 01 14:44:12 +0000 2015",
+        "id": 649595673348841500,
+        "id_str": "649595673348841472",
+        "text": "Народ!! Код-ревью - это не нота протеста, не монолог в пустоту, а диалог!! Д И А Л О Г с целью найти общее лучшее решение для всех!",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 103650148,
+          "id_str": "103650148"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "22deffea18a2f1d2",
+          "url": "https://api.twitter.com/1.1/geo/id/22deffea18a2f1d2.json",
+          "place_type": "admin",
+          "name": "Moscow",
+          "full_name": "Moscow, Russia",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  37.1316733,
+                  55.4908342
+                ],
+                [
+                  37.9650116,
+                  55.4908342
+                ],
+                [
+                  37.9650116,
+                  56.0209192
+                ],
+                [
+                  37.1316733,
+                  56.0209192
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 3,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KSDaemon",
+            "name": "Konstantin Burkalev",
+            "id": 103650148,
+            "id_str": "103650148",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 16:26:38 +0000 2015",
+      "id": 649621454057771000,
+      "id_str": "649621454057771008",
+      "text": "RT @_bugov: @backendsecret A programmer had a problem. He thought to himself, \"I know, I'll solve it with threads!\". has Now problems. two …",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 01 16:21:40 +0000 2015",
+        "id": 649620205363175400,
+        "id_str": "649620205363175424",
+        "text": "@backendsecret A programmer had a problem. He thought to himself, \"I know, I'll solve it with threads!\". has Now problems. two he",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 649523043899973600,
+        "in_reply_to_status_id_str": "649523043899973632",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 253874473,
+          "id_str": "253874473"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_bugov",
+            "name": "Georgy Bazhukov",
+            "id": 253874473,
+            "id_str": "253874473",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Oct 01 16:26:22 +0000 2015",
+      "id": 649621384579153900,
+      "id_str": "649621384579153920",
+      "text": "RT @_bugov: @POS_troi @backendsecret У меня в отделе как-то работал пайщик 1-го разряда. Паять, как можно догадаться, мы его не заставляли.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 01 16:18:34 +0000 2015",
+        "id": 649619424396345300,
+        "id_str": "649619424396345344",
+        "text": "@POS_troi @backendsecret У меня в отделе как-то работал пайщик 1-го разряда. Паять, как можно догадаться, мы его не заставляли.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 649534936895070200,
+        "in_reply_to_status_id_str": "649534936895070208",
+        "in_reply_to_user_id": 62336528,
+        "in_reply_to_user_id_str": "62336528",
+        "in_reply_to_screen_name": "POS_troi",
+        "user": {
+          "id": 253874473,
+          "id_str": "253874473"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "POS_troi",
+              "name": "Алексей",
+              "id": 62336528,
+              "id_str": "62336528",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик Бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                10,
+                24
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_bugov",
+            "name": "Georgy Bazhukov",
+            "id": 253874473,
+            "id_str": "253874473",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "POS_troi",
+            "name": "Алексей",
+            "id": 62336528,
+            "id_str": "62336528",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик Бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              22,
+              36
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Oct 01 13:54:22 +0000 2015",
       "id": 649583133977899000,
       "id_str": "649583133977899008",
@@ -1847,7 +2501,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 11,
+        "favorite_count": 14,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -1946,7 +2600,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 2,
-        "favorite_count": 10,
+        "favorite_count": 13,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -2024,8 +2678,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 17,
-      "favorite_count": 46,
+      "retweet_count": 25,
+      "favorite_count": 60,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2402,7 +3056,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 4,
+      "favorite_count": 6,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2457,7 +3111,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 5,
-      "favorite_count": 9,
+      "favorite_count": 14,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2646,7 +3300,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 7,
+      "favorite_count": 8,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3693,7 +4347,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 1,
+        "favorite_count": 2,
         "entities": {
           "hashtags": [],
           "symbols": [],
