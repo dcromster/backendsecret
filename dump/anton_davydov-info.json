@@ -3,20 +3,9 @@
   "id_str": "3302551618",
   "name": "Разработчик Бэкенда",
   "screen_name": "backendsecret",
-  "location": "Moscow, Russia",
-  "profile_location": {
-    "id": "4303d1afc1e98c37",
-    "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
-    "place_type": "unknown",
-    "name": "Moscow, Russia",
-    "full_name": "Moscow, Russia",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
-  "description": "Переходящий твиттер бекенд-разработчиков. Эту неделю ведет @anton_davydov Чат: https://t.co/g6sln8hSDy",
+  "location": "Russia",
+  "profile_location": null,
+  "description": "Переходящий твиттер бекенд-разработчиков. Эту неделю ведет %username% Чат: https://t.co/g6sln8hSDy",
   "url": "http://t.co/SebwQPBWpx",
   "entities": {
     "url": {
@@ -39,8 +28,8 @@
           "expanded_url": "https://gitter.im/backendsecret/global_backend",
           "display_url": "gitter.im/backendsecret/…",
           "indices": [
-            79,
-            102
+            75,
+            98
           ]
         }
       ]
@@ -56,13 +45,13 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3345,
+  "statuses_count": 3347,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Oct 04 16:35:39 +0000 2015",
-    "id": 650710886932459500,
-    "id_str": "650710886932459520",
-    "text": "Думаю, что пора прощаться. С вами был @anton_davydov, спасибо за отличную неделю! :)",
+    "created_at": "Sun Oct 04 19:08:25 +0000 2015",
+    "id": 650749328953331700,
+    "id_str": "650749328953331712",
+    "text": "Хотите стать ведущим? Пишите в gitter (в профиле аккаунта), @dcromster или backendsecret@gmail.com. http://t.co/Fa6bsam2Au",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -75,26 +64,65 @@
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "anton_davydov",
-          "name": "Davy Dovanton",
-          "id": 539221178,
-          "id_str": "539221178",
+          "screen_name": "dcromster",
+          "name": "Roman Milovskiy",
+          "id": 81103006,
+          "id_str": "81103006",
           "indices": [
-            38,
-            52
+            60,
+            70
           ]
         }
       ],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 650749327309037600,
+          "id_str": "650749327309037568",
+          "indices": [
+            100,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/CQftELwUYAAPWJ0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CQftELwUYAAPWJ0.jpg",
+          "url": "http://t.co/Fa6bsam2Au",
+          "display_url": "pic.twitter.com/Fa6bsam2Au",
+          "expanded_url": "http://twitter.com/backendsecret/status/650749328953331712/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 334,
+              "h": 302,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 334,
+              "h": 302,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 334,
+              "h": 302,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -104,8 +132,8 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/648399615356612608/2nXvPnNC_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/648399615356612608/2nXvPnNC_normal.jpg",
+  "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+  "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
   "profile_link_color": "89C9FA",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
@@ -113,7 +141,7 @@
   "profile_use_background_image": false,
   "has_extended_profile": false,
   "default_profile": false,
-  "default_profile_image": false,
+  "default_profile_image": true,
   "following": true,
   "follow_request_sent": false,
   "notifications": false

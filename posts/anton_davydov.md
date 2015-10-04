@@ -736,7 +736,7 @@ RT <a href="https://twitter.com/rhamdeew" title="Раиль">@rhamdeew</a>: <a h
 
 RT <a href="https://twitter.com/vtivti" title="vti">@vtivti</a>: <a href="https://twitter.com/backendsecret" title="Разработчик Бэкенда">@backendsecret</a> бухал
 
-## Воскресенье <small>6 твитов</small>
+## Воскресенье <small>8 твитов</small>
 
 RT <a href="https://twitter.com/ojomio" title="Yury Paykov">@ojomio</a>: <a href="https://twitter.com/backendsecret" title="Разработчик Бэкенда">@backendsecret</a> приехал на работу, думал, думал - стемнело - думал, начал писать код, и тут меня охранник выгнал
 
@@ -749,3 +749,7 @@ RT <a href="https://twitter.com/EkaterinaSava" title="Sava">@EkaterinaSava</a>: 
 RT <a href="https://twitter.com/iamale_ru" title="Эль">@iamale_ru</a>: <a href="https://twitter.com/backendsecret" title="Разработчик Бэкенда">@backendsecret</a> Я бы завёл для питона, но, думаю, стоит самому попробовать поучаствовать сначала, прежде чем самому организов…
 
 Думаю, что пора прощаться. С вами был <a href="https://twitter.com/anton_davydov" title="Davy Dovanton">@anton_davydov</a>, спасибо за отличную неделю! :)
+
+Пока у нас пересменка хочу пригласить авторов для этого переходящего твиттера. Сейчас свободны: 26/10-1/11 2/11-8/11 <a href="http://t.co/f8c0QwQhS7">pic.twitter.com/f8c0QwQhS7</a>
+
+Хотите стать ведущим? Пишите в gitter (в профиле аккаунта), <a href="https://twitter.com/dcromster" title="Roman Milovskiy">@dcromster</a> или backendsecret@gmail.com. <a href="http://t.co/Fa6bsam2Au">pic.twitter.com/Fa6bsam2Au</a>
