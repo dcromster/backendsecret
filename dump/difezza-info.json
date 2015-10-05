@@ -38,20 +38,20 @@
   "protected": false,
   "followers_count": 1086,
   "friends_count": 346,
-  "listed_count": 70,
+  "listed_count": 71,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 1434,
+  "favourites_count": 1435,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3349,
+  "statuses_count": 3351,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 05 11:19:40 +0000 2015",
-    "id": 650993755428941800,
-    "id_str": "650993755428941828",
-    "text": "Надеюсь, ты следишь за новостями в индустрии ИБ? Наверняка даже все знаешь о самых свежих уязвимостях. Если нет, то подписывайся @difezza",
+    "created_at": "Mon Oct 05 11:26:28 +0000 2015",
+    "id": 650995464507142100,
+    "id_str": "650995464507142145",
+    "text": "Тот документ, с которого должна начинаться безопасная разработка веб-приложения: https://t.co/tbo5bmQRsc или думаешь, что XSS - не страшно?",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,26 +64,26 @@
     "place": null,
     "contributors": null,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 4,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "difezza",
-          "name": "Denis Makrushin",
-          "id": 93654149,
-          "id_str": "93654149",
+          "url": "https://t.co/tbo5bmQRsc",
+          "expanded_url": "https://www.owasp.org/images/0/08/OWASP_SCP_Quick_Reference_Guide_v2.pdf",
+          "display_url": "owasp.org/images/0/08/OW…",
           "indices": [
-            129,
-            137
+            81,
+            104
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
