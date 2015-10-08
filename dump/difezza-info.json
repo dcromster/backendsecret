@@ -45,13 +45,13 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3394,
+  "statuses_count": 3397,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Oct 08 08:20:46 +0000 2015",
-    "id": 652035898029264900,
-    "id_str": "652035898029264897",
-    "text": "Спам-рассылки - примитв, который хорошо работает. А вот как злодеи крадут второй фактор: http://t.co/kKLlSVAVg0 https://t.co/2RkpdchFGM",
+    "created_at": "Thu Oct 08 10:08:34 +0000 2015",
+    "id": 652063025957105700,
+    "id_str": "652063025957105664",
+    "text": "А вот тут материал о том, как этим фреймворком пользоваться #w3af https://t.co/QycqJIVhcz",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -66,26 +66,25 @@
     "retweet_count": 0,
     "favorite_count": 1,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "w3af",
+          "indices": [
+            60,
+            65
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "http://t.co/kKLlSVAVg0",
-          "expanded_url": "http://www.securelist.com/ru/analysis/208050811/Zashchita_ot_virtualnykh_grabiteley",
-          "display_url": "securelist.com/ru/analysis/20…",
+          "url": "https://t.co/QycqJIVhcz",
+          "expanded_url": "https://xakep.ru/2012/11/09/w3af-pentest/",
+          "display_url": "xakep.ru/2012/11/09/w3a…",
           "indices": [
-            89,
-            111
-          ]
-        },
-        {
-          "url": "https://t.co/2RkpdchFGM",
-          "expanded_url": "https://twitter.com/dcromster/status/652033668886740992",
-          "display_url": "twitter.com/dcromster/stat…",
-          "indices": [
-            112,
-            135
+            66,
+            89
           ]
         }
       ]
