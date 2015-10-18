@@ -1,7 +1,8 @@
 export default [
   // post: false
   // { username: 'twitter_name',      start: '07 sep 2015', first: '640816652293144576', post: false },
-  { username: 'anton_sunrise',      start: '12 Oct 2015', first: '653461144808620033', post: false },
+//  { username: 'AlexSerbul',      start: '19 Oct 2015', first: '', post: false },
+  { username: 'anton_sunrise',      start: '12 Oct 2015', first: '653461144808620033'},
   { username: 'difezza',     start: '05 Oct 2015', first: '650991584868233216'},
   { username: 'anton_davydov',   start: '28 sep 2015', first: '648399955430887425' },
   { username: 'listochkin',   start: '21 sep 2015', first: '645919948859146241' },
