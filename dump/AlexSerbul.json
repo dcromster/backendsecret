@@ -5,6 +5,843 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Oct 19 19:43:28 +0000 2015",
+      "id": 656193968628211700,
+      "id_str": "656193968628211716",
+      "text": "Сегодня порезали правду о жизни ) Завтра расскажу как собирать данные и как это делаем мы - nginx, lua, queues, nosql, amazon web services",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 19 19:39:39 +0000 2015",
+      "id": 656193007440535600,
+      "id_str": "656193007440535552",
+      "text": "Я про языки  средне-высокого уровня. А то начнут появляться ассемблерные вставки в HTML :) https://t.co/CMp6LFc82f",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 656187762685689900,
+      "quoted_status_id_str": "656187762685689856",
+      "quoted_status": {
+        "created_at": "Mon Oct 19 19:18:48 +0000 2015",
+        "id": 656187762685689900,
+        "id_str": "656187762685689856",
+        "text": "@unel86 @backendsecret а на языках ассемблера ещё сложнее.",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 656186384928145400,
+        "in_reply_to_status_id_str": "656186384928145408",
+        "in_reply_to_user_id": 38406852,
+        "in_reply_to_user_id_str": "38406852",
+        "in_reply_to_screen_name": "unel86",
+        "user": {
+          "id": 101620431,
+          "id_str": "101620431"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "unel86",
+              "name": "Peter Jah (0-)",
+              "id": 38406852,
+              "id_str": "38406852",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                8,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CMp6LFc82f",
+            "expanded_url": "https://twitter.com/rusgautama/status/656187762685689856",
+            "display_url": "twitter.com/rusgautama/sta…",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 19 19:36:22 +0000 2015",
+      "id": 656192184849403900,
+      "id_str": "656192184849403904",
+      "text": "Упаси вас! Снобы - высокомерны. Троли - злые. Я - маньяк, просто маньяк :-) https://t.co/Q81E6ZMwzw",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 656186384928145400,
+      "quoted_status_id_str": "656186384928145408",
+      "quoted_status": {
+        "created_at": "Mon Oct 19 19:13:20 +0000 2015",
+        "id": 656186384928145400,
+        "id_str": "656186384928145408",
+        "text": "@backendsecret а вы знатный сноб) или тролль, я даже не знаю",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 656150760909094900,
+        "in_reply_to_status_id_str": "656150760909094912",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 38406852,
+          "id_str": "38406852"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Q81E6ZMwzw",
+            "expanded_url": "https://twitter.com/unel86/status/656186384928145408",
+            "display_url": "twitter.com/unel86/status/…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 19 19:07:25 +0000 2015",
+      "id": 656184896688410600,
+      "id_str": "656184896688410625",
+      "text": "Откуда же мне код знать? :-)  https://t.co/3rMYKSLJlZ",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 656183241079148500,
+      "quoted_status_id_str": "656183241079148544",
+      "quoted_status": {
+        "created_at": "Mon Oct 19 19:00:50 +0000 2015",
+        "id": 656183241079148500,
+        "id_str": "656183241079148544",
+        "text": "@backendsecret Решил что знаешь код @ @backendsecret так не думает",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 656182994923835400,
+        "in_reply_to_status_id_str": "656182994923835392",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 159136782,
+          "id_str": "159136782"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                38,
+                52
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3rMYKSLJlZ",
+            "expanded_url": "https://twitter.com/pinyslutty/status/656183241079148544",
+            "display_url": "twitter.com/pinyslutty/sta…",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 19 19:06:05 +0000 2015",
+      "id": 656184561005633500,
+      "id_str": "656184561005633536",
+      "text": "Точно! https://t.co/vba3WaKjOp",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 656178557073387500,
+      "quoted_status_id_str": "656178557073387521",
+      "quoted_status": {
+        "created_at": "Mon Oct 19 18:42:13 +0000 2015",
+        "id": 656178557073387500,
+        "id_str": "656178557073387521",
+        "text": "@backendsecret чувак из компании благодаря которой существуют битрикс программисты, называет java ожирением мозга, оок",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 656150760909094900,
+        "in_reply_to_status_id_str": "656150760909094912",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 81804551,
+          "id_str": "81804551"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vba3WaKjOp",
+            "expanded_url": "https://twitter.com/tartakynov/status/656178557073387521",
+            "display_url": "twitter.com/tartakynov/sta…",
+            "indices": [
+              7,
+              30
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "bg"
+    },
+    {
+      "created_at": "Mon Oct 19 19:04:05 +0000 2015",
+      "id": 656184057869553700,
+      "id_str": "656184057869553664",
+      "text": "На рефакторинг нужно время выбивать силой. Не сидеть же всю жизнь в зловонии. Тролить и тролить и время дадут. https://t.co/bbfAuPSgTQ",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 656178294312804400,
+      "quoted_status_id_str": "656178294312804353",
+      "quoted_status": {
+        "created_at": "Mon Oct 19 18:41:11 +0000 2015",
+        "id": 656178294312804400,
+        "id_str": "656178294312804353",
+        "text": "@backendsecret ты хоть раз-то был доволен унаследованным кодом? уверен, что нет.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 656140973072851000,
+        "in_reply_to_status_id_str": "656140973072850946",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 1104986353,
+          "id_str": "1104986353"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bbfAuPSgTQ",
+            "expanded_url": "https://twitter.com/common_disease/status/656178294312804353",
+            "display_url": "twitter.com/common_disease…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 19 18:59:51 +0000 2015",
+      "id": 656182994923835400,
+      "id_str": "656182994923835392",
+      "text": "Да ну, мы станем круче и дороже! Прикинь если поощрять незнание алгоритмов и стандартов - что станет с планетой? ) https://t.co/vqteJhMdHh",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 656175496242184200,
+      "quoted_status_id_str": "656175496242184192",
+      "quoted_status": {
+        "created_at": "Mon Oct 19 18:30:04 +0000 2015",
+        "id": 656175496242184200,
+        "id_str": "656175496242184192",
+        "text": "Неделя депрессии и самобичевания с @backendsecret. Все плохо парни, мы все умрем!",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 656174168665378800,
+        "in_reply_to_status_id_str": "656174168665378816",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 40935452,
+          "id_str": "40935452"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                35,
+                49
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vqteJhMdHh",
+            "expanded_url": "https://twitter.com/muslimov/status/656175496242184192",
+            "display_url": "twitter.com/muslimov/statu…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 19 18:28:05 +0000 2015",
+      "id": 656174998957215700,
+      "id_str": "656174998957215744",
+      "text": "@_bugov ну типа говорят эволюция продолжается :-) хотя её и правда нет",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656166043229016000,
+      "in_reply_to_status_id_str": "656166043229016064",
+      "in_reply_to_user_id": 253874473,
+      "in_reply_to_user_id_str": "253874473",
+      "in_reply_to_screen_name": "_bugov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_bugov",
+            "name": "Georgy Bazhukov",
+            "id": 253874473,
+            "id_str": "253874473",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 19 18:27:10 +0000 2015",
+      "id": 656174766622179300,
+      "id_str": "656174766622179328",
+      "text": "@common_disease Посмотри \"Одержимость\", поймёшь меня и простишь",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 656174371145424900,
+      "in_reply_to_status_id_str": "656174371145424897",
+      "in_reply_to_user_id": 1104986353,
+      "in_reply_to_user_id_str": "1104986353",
+      "in_reply_to_screen_name": "common_disease",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "common_disease",
+            "name": "киберпанк и паранойя",
+            "id": 1104986353,
+            "id_str": "1104986353",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 19 18:24:47 +0000 2015",
+      "id": 656174168665378800,
+      "id_str": "656174168665378816",
+      "text": "Взять rfc по tcp - да там кладезь, море опыта зарыто. Раза три точно прочитал. Нет, шас принято слабоумно гуглить. Куда мы катимся? :-)",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 19 18:22:48 +0000 2015",
+      "id": 656173670721790000,
+      "id_str": "656173670721789953",
+      "text": "Кроме кода, есть стандарты (SQL, tcp/ip, smtp, dns, turn/stun/webrtc). Кто их читал от корки до корки вместо игры в онлайн-хрень? А нужно!!",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 19 18:17:48 +0000 2015",
+      "id": 656172410895540200,
+      "id_str": "656172410895540224",
+      "text": "Да! https://t.co/8iDAPngN6J",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 656168659057049600,
+      "quoted_status_id_str": "656168659057049600",
+      "quoted_status": {
+        "created_at": "Mon Oct 19 18:02:54 +0000 2015",
+        "id": 656168659057049600,
+        "id_str": "656168659057049600",
+        "text": "@backendsecret менеджеру еще не подставлять разрабов, а защищать их и признавать ошибки как свои",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 656148921937481700,
+        "in_reply_to_status_id_str": "656148921937481728",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 70939095,
+          "id_str": "70939095"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8iDAPngN6J",
+            "expanded_url": "https://twitter.com/vtivti/status/656168659057049600",
+            "display_url": "twitter.com/vtivti/status/…",
+            "indices": [
+              4,
+              27
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Oct 19 17:27:18 +0000 2015",
       "id": 656159700887711700,
       "id_str": "656159700887711744",
@@ -134,7 +971,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 3,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -542,7 +1379,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -788,7 +1625,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1366,7 +2203,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 1,
       "entities": {
         "hashtags": [],
@@ -1400,7 +2237,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2986,8 +3823,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 8,
+      "retweet_count": 2,
+      "favorite_count": 11,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3121,7 +3958,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 11,
+      "favorite_count": 12,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3221,7 +4058,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3596,7 +4433,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 3,
-      "favorite_count": 7,
+      "favorite_count": 8,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5858,7 +6695,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 5,
-      "favorite_count": 0,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6042,7 +6879,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 1,
+        "favorite_count": 2,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -6481,7 +7318,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 5,
+      "favorite_count": 6,
       "entities": {
         "hashtags": [],
         "symbols": [],
