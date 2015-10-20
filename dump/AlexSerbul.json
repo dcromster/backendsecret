@@ -5,6 +5,328 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Tue Oct 20 09:49:53 +0000 2015",
+      "id": 656406978042949600,
+      "id_str": "656406978042949632",
+      "text": "Коллеги, к делу. Я обещал рассказать как мы собираем данные для маш.обучения. Цепочка такая: nginx + Lua + Amazon Kinesis + DynamoDB",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 20 09:48:35 +0000 2015",
+      "id": 656406650736255000,
+      "id_str": "656406650736254976",
+      "text": "Я последнее время активно коллекционирую бизнес-кейсы применения маш.обучения и бигдаты. Их кстати очень немного. https://t.co/nf11CVdBI1",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 656406286502895600,
+      "quoted_status_id_str": "656406286502895616",
+      "quoted_status": {
+        "created_at": "Tue Oct 20 09:47:08 +0000 2015",
+        "id": 656406286502895600,
+        "id_str": "656406286502895616",
+        "text": "@anton_davydov @backendsecret один из самых больших примеров использования , что я видел, корректировка иппотечного процента.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 656373829695111200,
+        "in_reply_to_status_id_str": "656373829695111168",
+        "in_reply_to_user_id": 539221178,
+        "in_reply_to_user_id_str": "539221178",
+        "in_reply_to_screen_name": "anton_davydov",
+        "user": {
+          "id": 113404896,
+          "id_str": "113404896"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "anton_davydov",
+              "name": "Davy Dovanton",
+              "id": 539221178,
+              "id_str": "539221178",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                15,
+                29
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nf11CVdBI1",
+            "expanded_url": "https://twitter.com/ipronix/status/656406286502895616",
+            "display_url": "twitter.com/ipronix/status…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 20 09:47:32 +0000 2015",
+      "id": 656406386918760400,
+      "id_str": "656406386918760448",
+      "text": "Да, поменяйте, мало ли что еще скажу :-) https://t.co/eHuazIic2l",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 656380402257567700,
+      "quoted_status_id_str": "656380402257567744",
+      "quoted_status": {
+        "created_at": "Tue Oct 20 08:04:17 +0000 2015",
+        "id": 656380402257567700,
+        "id_str": "656380402257567744",
+        "text": "@backendsecret, поменяйте ведущего, наслушались бреда, хватит.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 656377529515814900,
+        "in_reply_to_status_id_str": "656377529515814912",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 191560496,
+          "id_str": "191560496"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eHuazIic2l",
+            "expanded_url": "https://twitter.com/vmakeev/status/656380402257567744",
+            "display_url": "twitter.com/vmakeev/status…",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 20 09:44:33 +0000 2015",
+      "id": 656405634074714100,
+      "id_str": "656405634074714112",
+      "text": "Вспомним XP https://t.co/wSY8kmy6jJ - горение разумеется нужно перед релизом, все время невозможно https://t.co/Ndwb5aLlYi",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 656380516531372000,
+      "quoted_status_id_str": "656380516531372032",
+      "quoted_status": {
+        "created_at": "Tue Oct 20 08:04:44 +0000 2015",
+        "id": 656380516531372000,
+        "id_str": "656380516531372032",
+        "text": "@backendsecret на долго такие программисты рождаются? что-то мне подсказывает что они тухнуть за 1-2 месяца с таким ритмом",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 656372576831303700,
+        "in_reply_to_status_id_str": "656372576831303681",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 25733176,
+          "id_str": "25733176"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wSY8kmy6jJ",
+            "expanded_url": "https://en.wikipedia.org/wiki/Extreme_programming_practices#Sustainable_pace",
+            "display_url": "en.wikipedia.org/wiki/Extreme_p…",
+            "indices": [
+              12,
+              35
+            ]
+          },
+          {
+            "url": "https://t.co/Ndwb5aLlYi",
+            "expanded_url": "https://twitter.com/Shiroginne/status/656380516531372032",
+            "display_url": "twitter.com/Shiroginne/sta…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Tue Oct 20 09:25:41 +0000 2015",
       "id": 656400888236527600,
       "id_str": "656400888236527616",
