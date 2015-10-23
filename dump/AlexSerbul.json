@@ -5,6 +5,1435 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Fri Oct 23 18:12:13 +0000 2015",
+      "id": 657620559128338400,
+      "id_str": "657620559128338433",
+      "text": "Вывод по Spark ML и Spark MLLib - до множеста алгоритмов в https://t.co/exufYWou0n - еще далеко. Но зато в Spark они параллельные и это сила",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/exufYWou0n",
+            "expanded_url": "http://scikit-learn.org",
+            "display_url": "scikit-learn.org",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 18:09:44 +0000 2015",
+      "id": 657619930641207300,
+      "id_str": "657619930641207296",
+      "text": "Spark MLLib для маш. обучения еще маленькая и сырая. В Spark ML - хотят сделать бизнес-процессы, как в SAS, SPSS, RapidMiner - но пока сыро",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 18:08:04 +0000 2015",
+      "id": 657619512402006000,
+      "id_str": "657619512402006017",
+      "text": "SparkSQL похоже не может успокоиться при виде Hive. Непонятно чем он особо лучше, сильно меняют АПИ. Думаю пока стоит воздержаться от него.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 18:07:01 +0000 2015",
+      "id": 657619247531733000,
+      "id_str": "657619247531732992",
+      "text": "Отправлять задачи на выполнение в Spark - получилось только локально с его управляющей ноды. Простого способа видимо нет, а было бы удобно",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 18:06:07 +0000 2015",
+      "id": 657619022373101600,
+      "id_str": "657619022373101568",
+      "text": "Еще Spark может становиться колом, если парочка машин в кластере внезапно умрет - хотя не должен. Почему - хз, думаю сырой. Предупредил.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 18:05:20 +0000 2015",
+      "id": 657618823584030700,
+      "id_str": "657618823584030720",
+      "text": "Много сил потратили, чтобы ограничить объем логов в Spark/Yarn - это какой-то кошмар. Но получилось. Кому интересно, пишите в личку, помогу",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 18:04:21 +0000 2015",
+      "id": 657618576489259000,
+      "id_str": "657618576489259008",
+      "text": "Когда не хватает родного АПИ Spark для работы с реляционной алгеброй, смотрим сюда: https://t.co/XzEwaubkoD https://t.co/VFO6s0jTqP",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XzEwaubkoD",
+            "expanded_url": "http://infolab.stanford.edu/~ullman/mmds/ch2.pdf",
+            "display_url": "infolab.stanford.edu/~ullman/mmds/c…",
+            "indices": [
+              84,
+              107
+            ]
+          },
+          {
+            "url": "https://t.co/VFO6s0jTqP",
+            "expanded_url": "http://www.mmds.org/",
+            "display_url": "mmds.org",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 18:01:42 +0000 2015",
+      "id": 657617911222243300,
+      "id_str": "657617911222243329",
+      "text": "Теперь про кластер. Мы сначала игрались в Standalone cluster, но надоело костылями его конфигурить. В амазоне запустили в Yarn - прекрасно",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 17:59:33 +0000 2015",
+      "id": 657617368449949700,
+      "id_str": "657617368449949697",
+      "text": "Есть, правда не всегда подходящий вариант выгрузки данных из Spark - писать в HDFS, но сломается сортировка. https://t.co/C67P5jHiX8",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/C67P5jHiX8",
+            "expanded_url": "https://databricks.gitbooks.io/databricks-spark-reference-applications/content/logs_analyzer/chapter3/save_the_rdd_to_files.html",
+            "display_url": "databricks.gitbooks.io/databricks-spa…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 17:57:15 +0000 2015",
+      "id": 657616790483247100,
+      "id_str": "657616790483247104",
+      "text": "toLocalIterator - работает очень медленно, поэтому пришлось писать свою реализацию выгрузки. Покурите еще это: https://t.co/IjaS1xJos4",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IjaS1xJos4",
+            "expanded_url": "http://stackoverflow.com/questions/21698443/spark-best-practice-for-retrieving-big-data-from-rdd-to-local-machine",
+            "display_url": "stackoverflow.com/questions/2169…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 17:55:31 +0000 2015",
+      "id": 657616354455986200,
+      "id_str": "657616354455986176",
+      "text": "Еще проблема Spark - выгрузка данных, в т.ч. отсортированных. Collect - все всасывает в память, что конечно криво: https://t.co/BX0SRIVuF6",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BX0SRIVuF6",
+            "expanded_url": "http://spark.apache.org/docs/latest/programming-guide.html#actions",
+            "display_url": "spark.apache.org/docs/latest/pr…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 17:53:32 +0000 2015",
+      "id": 657615855417708500,
+      "id_str": "657615855417708544",
+      "text": "Я думаю это архитектурный косяк в Spark и говорит о его пока сырости. Тем не менее, плюсы его превышают минусы - его скорость очень радует",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 17:52:43 +0000 2015",
+      "id": 657615649733267500,
+      "id_str": "657615649733267456",
+      "text": "Благо, в Spark есть неплохая веб-мордочка и причины выпадений по памяти можно там увидеть. Но готовьтесь, Spark будет выпадать часто :-)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 17:51:46 +0000 2015",
+      "id": 657615410901164000,
+      "id_str": "657615410901164032",
+      "text": "Основная имхо проблема Spark - выпадение по памяти из-за возможных перекосов данных и их распределения по ключам. Это - напрягает и смешит",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 17:50:41 +0000 2015",
+      "id": 657615138065948700,
+      "id_str": "657615138065948673",
+      "text": "Кэширование RDD в памяти - не используем, не быстрее. Данные RDD читаем сразу из s3, рядом клали в HDFS - не быстрее, поэтому забили",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 17:49:53 +0000 2015",
+      "id": 657614936391159800,
+      "id_str": "657614936391159809",
+      "text": "На Spark также удобно готовить данные и модели для коллаборативной фильтрации в Apache Mahout. В общем Spark - хорошо вписался в наш процесс",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 17:48:43 +0000 2015",
+      "id": 657614644593467400,
+      "id_str": "657614644593467392",
+      "text": "На Spark (десяток и иногда больше машин) мы статистически обрабатываем бигдату, считаем гистограммы,  считаем уникальные значения.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 17:47:08 +0000 2015",
+      "id": 657614243316027400,
+      "id_str": "657614243316027393",
+      "text": "Почему мы со Spark в амазоне? Простота! EMR кластер поднимается из админки за 5 кликов, вместе со Spark, HDFS, Impala, Hive. Удобно.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 17:27:35 +0000 2015",
+      "id": 657609326488604700,
+      "id_str": "657609326488604672",
+      "text": "В Амазоне можно для воркеров Spark взять машинки типа Spot, которые стоят раз в 5-7 дешевле обычных и их часто полно https://t.co/IW2Y4746Xi",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IW2Y4746Xi",
+            "expanded_url": "https://aws.amazon.com/ru/ec2/spot/",
+            "display_url": "aws.amazon.com/ru/ec2/spot/",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 17:25:28 +0000 2015",
+      "id": 657608793325490200,
+      "id_str": "657608793325490176",
+      "text": "Ну что, за работу? :-) Рассказываю, как мы используем Spark и на какие подводные камни натолкнулись. Напомню, что мы в Амазоне.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 16:25:35 +0000 2015",
+      "id": 657593723757449200,
+      "id_str": "657593723757449216",
+      "text": "@sananbozkurt @gruz0 Обязательно лазь по исходникам нормальных проектов, там кладезь информации, даже лучше чем в книгах.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657590401424085000,
+      "in_reply_to_status_id_str": "657590401424084992",
+      "in_reply_to_user_id": 2870249289,
+      "in_reply_to_user_id_str": "2870249289",
+      "in_reply_to_screen_name": "sananbozkurt",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sananbozkurt",
+            "name": "Sanan Bozkurt",
+            "id": 2870249289,
+            "id_str": "2870249289",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "gruz0",
+            "name": "Sasha Gruzov (18+)",
+            "id": 179090653,
+            "id_str": "179090653",
+            "indices": [
+              14,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 16:24:51 +0000 2015",
+      "id": 657593538235015200,
+      "id_str": "657593538235015168",
+      "text": "@sananbozkurt @gruz0 Старайся больше кодить, не отвлекаясь и читай про паттерны проектирования и все будет получаться.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657590401424085000,
+      "in_reply_to_status_id_str": "657590401424084992",
+      "in_reply_to_user_id": 2870249289,
+      "in_reply_to_user_id_str": "2870249289",
+      "in_reply_to_screen_name": "sananbozkurt",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sananbozkurt",
+            "name": "Sanan Bozkurt",
+            "id": 2870249289,
+            "id_str": "2870249289",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "gruz0",
+            "name": "Sasha Gruzov (18+)",
+            "id": 179090653,
+            "id_str": "179090653",
+            "indices": [
+              14,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 16:22:13 +0000 2015",
+      "id": 657592873462931500,
+      "id_str": "657592873462931456",
+      "text": "@sananbozkurt @gruz0 Не переживай, у тебя все впереди - и друзья, и проекты, и классные технологии! :-)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657590401424085000,
+      "in_reply_to_status_id_str": "657590401424084992",
+      "in_reply_to_user_id": 2870249289,
+      "in_reply_to_user_id_str": "2870249289",
+      "in_reply_to_screen_name": "sananbozkurt",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sananbozkurt",
+            "name": "Sanan Bozkurt",
+            "id": 2870249289,
+            "id_str": "2870249289",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "gruz0",
+            "name": "Sasha Gruzov (18+)",
+            "id": 179090653,
+            "id_str": "179090653",
+            "indices": [
+              14,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 16:05:11 +0000 2015",
+      "id": 657588586917810200,
+      "id_str": "657588586917810178",
+      "text": "Книги и хорошие авторы, братко, наше все! https://t.co/Rol3E8Chrq",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657588120943202300,
+      "quoted_status_id_str": "657588120943202305",
+      "quoted_status": {
+        "created_at": "Fri Oct 23 16:03:20 +0000 2015",
+        "id": 657588120943202300,
+        "id_str": "657588120943202305",
+        "text": "@gruz0 @backendsecret в общем, печалька когда ты один.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657494631274426400,
+        "in_reply_to_status_id_str": "657494631274426368",
+        "in_reply_to_user_id": 179090653,
+        "in_reply_to_user_id_str": "179090653",
+        "in_reply_to_screen_name": "gruz0",
+        "user": {
+          "id": 2870249289,
+          "id_str": "2870249289"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gruz0",
+              "name": "Sasha Gruzov (18+)",
+              "id": 179090653,
+              "id_str": "179090653",
+              "indices": [
+                0,
+                6
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                7,
+                21
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Rol3E8Chrq",
+            "expanded_url": "https://twitter.com/sananbozkurt/status/657588120943202305",
+            "display_url": "twitter.com/sananbozkurt/s…",
+            "indices": [
+              42,
+              65
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 14:23:48 +0000 2015",
+      "id": 657563076175265800,
+      "id_str": "657563076175265792",
+      "text": "Опс, что теперь будет с PHP ;-) https://t.co/3yQsBDTPLB",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3yQsBDTPLB",
+            "expanded_url": "http://habrahabr.ru/post/269125/",
+            "display_url": "habrahabr.ru/post/269125/",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 14:11:16 +0000 2015",
+      "id": 657559922012504000,
+      "id_str": "657559922012504064",
+      "text": "RT @ivanenok: @backendsecret ну побывав этим самым малолетним дебилом, понял что \"писать код\" под MS Office мне не нравится, и я таки инжен…",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 23 14:05:10 +0000 2015",
+        "id": 657558385433452500,
+        "id_str": "657558385433452544",
+        "text": "@backendsecret ну побывав этим самым малолетним дебилом, понял что \"писать код\" под MS Office мне не нравится, и я таки инженер :)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657556356879294500,
+        "in_reply_to_status_id_str": "657556356879294465",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 69355074,
+          "id_str": "69355074"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Александр Сербул",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 14:01:25 +0000 2015",
+      "id": 657557441572425700,
+      "id_str": "657557441572425728",
+      "text": "Менеджмент нужен. В Битрикс он прекрасен. Но это имхо нечастый кейс - чаще садомазо или солдат спит - служба идет https://t.co/R6yHJKdLZ6",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657557056896004100,
+      "quoted_status_id_str": "657557056896004096",
+      "quoted_status": {
+        "created_at": "Fri Oct 23 13:59:53 +0000 2015",
+        "id": 657557056896004100,
+        "id_str": "657557056896004096",
+        "text": "@Foxcool_ru @backendsecret хм, у меня ощущение что мы говорим на разных языках и вообще о разных вещах.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657556800036843500,
+        "in_reply_to_status_id_str": "657556800036843521",
+        "in_reply_to_user_id": 45988140,
+        "in_reply_to_user_id_str": "45988140",
+        "in_reply_to_screen_name": "Foxcool_ru",
+        "user": {
+          "id": 69355074,
+          "id_str": "69355074"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Foxcool_ru",
+              "name": "Foxcool",
+              "id": 45988140,
+              "id_str": "45988140",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                12,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/R6yHJKdLZ6",
+            "expanded_url": "https://twitter.com/ivanenok/status/657557056896004096",
+            "display_url": "twitter.com/ivanenok/statu…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 13:57:06 +0000 2015",
+      "id": 657556356879294500,
+      "id_str": "657556356879294465",
+      "text": "Да да. Это в корне неверно имхо. Любой дурак любит командовать - но делать это правильно очень сложно :-) https://t.co/TC7OFBDM00",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657556088217325600,
+      "quoted_status_id_str": "657556088217325569",
+      "quoted_status": {
+        "created_at": "Fri Oct 23 13:56:02 +0000 2015",
+        "id": 657556088217325600,
+        "id_str": "657556088217325569",
+        "text": "@Foxcool_ru @backendsecret у нас же есть типичная шизофрения, каждый программист имеет мантру \"я должен в 30 лет стать менеджером!\"",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657535616289275900,
+        "in_reply_to_status_id_str": "657535616289275904",
+        "in_reply_to_user_id": 45988140,
+        "in_reply_to_user_id_str": "45988140",
+        "in_reply_to_screen_name": "Foxcool_ru",
+        "user": {
+          "id": 69355074,
+          "id_str": "69355074"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Foxcool_ru",
+              "name": "Foxcool",
+              "id": 45988140,
+              "id_str": "45988140",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                12,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TC7OFBDM00",
+            "expanded_url": "https://twitter.com/ivanenok/status/657556088217325569",
+            "display_url": "twitter.com/ivanenok/statu…",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 13:22:03 +0000 2015",
+      "id": 657547534425043000,
+      "id_str": "657547534425042944",
+      "text": "Странная у вас терминология :-) https://t.co/1tnHIJ4rPP",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657541702333370400,
+      "quoted_status_id_str": "657541702333370368",
+      "quoted_status": {
+        "created_at": "Fri Oct 23 12:58:53 +0000 2015",
+        "id": 657541702333370400,
+        "id_str": "657541702333370368",
+        "text": "@backendsecret при грамотно организованном процессе не нужен кнут и пряник. Вообще наличие роли доминатора у лидера - признак мудака.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657538813514903600,
+        "in_reply_to_status_id_str": "657538813514903552",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 45988140,
+          "id_str": "45988140"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1tnHIJ4rPP",
+            "expanded_url": "https://twitter.com/Foxcool_ru/status/657541702333370368",
+            "display_url": "twitter.com/Foxcool_ru/sta…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Fri Oct 23 12:47:24 +0000 2015",
       "id": 657538813514903600,
       "id_str": "657538813514903552",
@@ -279,7 +1708,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -740,7 +2169,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 2,
+        "favorite_count": 3,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -1467,7 +2896,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 4,
+      "retweet_count": 5,
       "favorite_count": 3,
       "entities": {
         "hashtags": [],
@@ -1993,7 +3422,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 4,
-      "favorite_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3870,7 +5299,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4024,7 +5453,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 9,
+      "favorite_count": 10,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -7108,7 +8537,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -9146,7 +10575,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 16,
-        "favorite_count": 14,
+        "favorite_count": 15,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -11578,7 +13007,7 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 6,
+        "retweet_count": 7,
         "favorite_count": 3,
         "entities": {
           "hashtags": [],
@@ -11602,7 +13031,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 6,
+      "retweet_count": 7,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -12102,7 +13531,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -12752,7 +14181,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
