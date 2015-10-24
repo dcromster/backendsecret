@@ -5,6 +5,2806 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Sat Oct 24 10:32:31 +0000 2015",
+      "id": 657867257805197300,
+      "id_str": "657867257805197312",
+      "text": "Иногда многословность java так задалбывает, что хочется переписать на PHP :-)",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 10:13:09 +0000 2015",
+      "id": 657862382409130000,
+      "id_str": "657862382409129984",
+      "text": "Верно, word2vec или снижение размерности матрицы через факторизацию и SVD https://t.co/RtKgtd3GgV",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657857818993758200,
+      "quoted_status_id_str": "657857818993758208",
+      "quoted_status": {
+        "created_at": "Sat Oct 24 09:55:01 +0000 2015",
+        "id": 657857818993758200,
+        "id_str": "657857818993758208",
+        "text": "@backendsecret ну я на эластике делал, и оно более-менее работало, но есть но. выделение смысла из запроса в первую очередь. word2vec смотрю",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657853994115711000,
+        "in_reply_to_status_id_str": "657853994115710976",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 247528368,
+          "id_str": "247528368"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RtKgtd3GgV",
+            "expanded_url": "https://twitter.com/chunga1changa/status/657857818993758208",
+            "display_url": "twitter.com/chunga1changa/…",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 09:39:49 +0000 2015",
+      "id": 657853994115711000,
+      "id_str": "657853994115710976",
+      "text": "А ещё проще - поставь sphinx или solr/lucene, накидай туда текстов реклам, и ищи их - введя поисковый запрос! https://t.co/CRSMcUAYep",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657853059146633200,
+      "quoted_status_id_str": "657853059146633217",
+      "quoted_status": {
+        "created_at": "Sat Oct 24 09:36:06 +0000 2015",
+        "id": 657853059146633200,
+        "id_str": "657853059146633217",
+        "text": "@backendsecret спасибо, а есть откуда насыпать  ссылок на инструменты или методики. легкой кровью бы отделаться! )",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657848571774050300,
+        "in_reply_to_status_id_str": "657848571774050304",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 247528368,
+          "id_str": "247528368"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CRSMcUAYep",
+            "expanded_url": "https://twitter.com/chunga1changa/status/657853059146633217",
+            "display_url": "twitter.com/chunga1changa/…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 09:18:16 +0000 2015",
+      "id": 657848571774050300,
+      "id_str": "657848571774050304",
+      "text": "Векторизуй запрос и векторизуй тексты реклам, выкини стоп слова и редкие + tf/idf, сравни вектора и возьми похожие https://t.co/O4JdrtDC8G",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657840214476521500,
+      "quoted_status_id_str": "657840214476521472",
+      "quoted_status": {
+        "created_at": "Sat Oct 24 08:45:03 +0000 2015",
+        "id": 657840214476521500,
+        "id_str": "657840214476521472",
+        "text": "@backendsecret а порекомендуй что-нить под такую вот задачу: надо из поиск. запроса выделить суть и выбрать подходящее из сотен текст реклам",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657818168879140900,
+        "in_reply_to_status_id_str": "657818168879140864",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 247528368,
+          "id_str": "247528368"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/O4JdrtDC8G",
+            "expanded_url": "https://twitter.com/chunga1changa/status/657840214476521472",
+            "display_url": "twitter.com/chunga1changa/…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 07:24:52 +0000 2015",
+      "id": 657820033276596200,
+      "id_str": "657820033276596224",
+      "text": "На сегодня у меня все, завтра могу рассказать по обратный индекс и персональные предложения через него. Хорошей всем субботы!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 07:23:43 +0000 2015",
+      "id": 657819745098539000,
+      "id_str": "657819745098539009",
+      "text": "@zavyrylin @gumayunov да можно подстроится, у нас уже полгода не падает - обошли узкие места в нем",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657819360992587800,
+      "in_reply_to_status_id_str": "657819360992587776",
+      "in_reply_to_user_id": 1861060148,
+      "in_reply_to_user_id_str": "1861060148",
+      "in_reply_to_screen_name": "zavyrylin",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zavyrylin",
+            "name": "Max Zavyrylin",
+            "id": 1861060148,
+            "id_str": "1861060148",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "gumayunov",
+            "name": "Victor Gumayunov",
+            "id": 19202802,
+            "id_str": "19202802",
+            "indices": [
+              11,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 07:22:37 +0000 2015",
+      "id": 657819467964092400,
+      "id_str": "657819467964092416",
+      "text": "Как измерять, что оно работает? A/B-тестирование и/или анализ предсказательной силы - предложили 5, юзер купил 2. 20% - уже хорошо.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 07:21:09 +0000 2015",
+      "id": 657819100316569600,
+      "id_str": "657819100316569600",
+      "text": "Третий тип - учим бинарный классификатор делить на тех, кто склонен купить товар/услугу и тех, то скорее не купит. Предлагаем первым аналог",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 07:19:35 +0000 2015",
+      "id": 657818704902754300,
+      "id_str": "657818704902754305",
+      "text": "Еще кстати можно сделать content-based через кластерный анализ - предлагать юзеру товары для его кластера. Я думаю идею все поняли.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 07:17:27 +0000 2015",
+      "id": 657818168879140900,
+      "id_str": "657818168879140864",
+      "text": "Content-based - матчит текстовое многомерный вектор текстового описания профиля юзера с векторами товаров и находит ближ: cosine distance",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 07:13:08 +0000 2015",
+      "id": 657817081006673900,
+      "id_str": "657817081006673920",
+      "text": "Коллабор. фильтрация позволяет порекомендовать юзеру то, что уже понравилось его друзьям, но нет у него (user-user). См. также: item-item",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 07:11:10 +0000 2015",
+      "id": 657816586854801400,
+      "id_str": "657816586854801408",
+      "text": "Теперь как это работает. Грубо можно выделить 3 подхода: коллаборативная фильтрация, content-based, классификация в маш. обучении",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 07:08:38 +0000 2015",
+      "id": 657815947013718000,
+      "id_str": "657815947013718017",
+      "text": "RT @webholt: Да ладно, сварю я сам себе ужин… :: https://t.co/CDVwRPe8fu",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 23 19:45:57 +0000 2015",
+        "id": 657644145746538500,
+        "id_str": "657644145746538496",
+        "text": "Да ладно, сварю я сам себе ужин… :: https://t.co/CDVwRPe8fu",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 97894369,
+          "id_str": "97894369"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 657644144613986300,
+              "id_str": "657644144613986305",
+              "indices": [
+                36,
+                59
+              ],
+              "media_url": "http://pbs.twimg.com/media/CSBr3XxVEAEK9iE.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CSBr3XxVEAEK9iE.jpg",
+              "url": "https://t.co/CDVwRPe8fu",
+              "display_url": "pic.twitter.com/CDVwRPe8fu",
+              "expanded_url": "http://twitter.com/webholt/status/657644145746538496/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 720,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 800,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 657644144613986300,
+              "id_str": "657644144613986305",
+              "indices": [
+                36,
+                59
+              ],
+              "media_url": "http://pbs.twimg.com/media/CSBr3XxVEAEK9iE.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CSBr3XxVEAEK9iE.jpg",
+              "url": "https://t.co/CDVwRPe8fu",
+              "display_url": "pic.twitter.com/CDVwRPe8fu",
+              "expanded_url": "http://twitter.com/webholt/status/657644145746538496/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 720,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 800,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 657644144613986300,
+            "id_str": "657644144613986305",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/CSBr3XxVEAEK9iE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CSBr3XxVEAEK9iE.jpg",
+            "url": "https://t.co/CDVwRPe8fu",
+            "display_url": "pic.twitter.com/CDVwRPe8fu",
+            "expanded_url": "http://twitter.com/webholt/status/657644145746538496/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "source_status_id": 657644145746538500,
+            "source_status_id_str": "657644145746538496",
+            "source_user_id": 97894369,
+            "source_user_id_str": "97894369"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 657644144613986300,
+            "id_str": "657644144613986305",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/CSBr3XxVEAEK9iE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CSBr3XxVEAEK9iE.jpg",
+            "url": "https://t.co/CDVwRPe8fu",
+            "display_url": "pic.twitter.com/CDVwRPe8fu",
+            "expanded_url": "http://twitter.com/webholt/status/657644145746538496/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "source_status_id": 657644145746538500,
+            "source_status_id_str": "657644145746538496",
+            "source_user_id": 97894369,
+            "source_user_id_str": "97894369"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 07:07:52 +0000 2015",
+      "id": 657815756462248000,
+      "id_str": "657815756462247936",
+      "text": "Персонализируют также ранжирование в результатах поиска: купил Тойоту, затем ищешь шины, сначала показывают шины к Тойоте. Структуру и т.п.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 07:05:33 +0000 2015",
+      "id": 657815174548688900,
+      "id_str": "657815174548688896",
+      "text": "Персонализация - это о релевантности. Релевант данном клиенту контент лучше покупают, читают, делятся, запоминают. Чем она выше, тем выше $",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 07:04:03 +0000 2015",
+      "id": 657814797539496000,
+      "id_str": "657814797539495936",
+      "text": "Сегодня расскажу про персонализацию на основе бигдаты и математики. Персональные рекомендации мы видим, например, в электр. магазинах.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 07:02:37 +0000 2015",
+      "id": 657814436753907700,
+      "id_str": "657814436753907712",
+      "text": "Доброе утро - повелители цифрового мира, создатели жизни, позитивных эмоций и новых неведомых миров - разработчики! Продолжаем тему бигдаты",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 06:48:29 +0000 2015",
+      "id": 657810878880960500,
+      "id_str": "657810878880960512",
+      "text": "У меня план - 1000 твитов за неделю :-) https://t.co/PMGsljQOoN",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657802652294750200,
+      "quoted_status_id_str": "657802652294750208",
+      "quoted_status": {
+        "created_at": "Sat Oct 24 06:15:48 +0000 2015",
+        "id": 657802652294750200,
+        "id_str": "657802652294750208",
+        "text": "@KSDaemon @backendsecret я отписался почти от всех кто пишет больше семи твитов в неделю )",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657661641245511700,
+        "in_reply_to_status_id_str": "657661641245511682",
+        "in_reply_to_user_id": 103650148,
+        "in_reply_to_user_id_str": "103650148",
+        "in_reply_to_screen_name": "KSDaemon",
+        "user": {
+          "id": 20395759,
+          "id_str": "20395759"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "KSDaemon",
+              "name": "Konstantin Burkalev",
+              "id": 103650148,
+              "id_str": "103650148",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                10,
+                24
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PMGsljQOoN",
+            "expanded_url": "https://twitter.com/amahomet/status/657802652294750208",
+            "display_url": "twitter.com/amahomet/statu…",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 06:47:00 +0000 2015",
+      "id": 657810502857445400,
+      "id_str": "657810502857445376",
+      "text": "Простое хэширование при изменении числа корзин перетасует ключи, а это гораздо меньше https://t.co/2y1m0LqFCc",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657747029167312900,
+      "quoted_status_id_str": "657747029167312896",
+      "quoted_status": {
+        "created_at": "Sat Oct 24 02:34:46 +0000 2015",
+        "id": 657747029167312900,
+        "id_str": "657747029167312896",
+        "text": "@backendsecret а что значат все эти слова - консистентное хэширование",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657660318336708600,
+        "in_reply_to_status_id_str": "657660318336708608",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 17806300,
+          "id_str": "17806300"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2y1m0LqFCc",
+            "expanded_url": "https://twitter.com/nmishin/status/657747029167312896",
+            "display_url": "twitter.com/nmishin/status…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 06:45:38 +0000 2015",
+      "id": 657810161646612500,
+      "id_str": "657810161646612480",
+      "text": "Ну мы же живые люди, с недостатками https://t.co/01E97cHRzA",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657739752830054400,
+      "quoted_status_id_str": "657739752830054400",
+      "quoted_status": {
+        "created_at": "Sat Oct 24 02:05:51 +0000 2015",
+        "id": 657739752830054400,
+        "id_str": "657739752830054400",
+        "text": "@backendsecret я думал тут не будет политики и фанатизма... Ан нет, и сюда эта гадость лезет",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657244599161913300,
+        "in_reply_to_status_id_str": "657244599161913344",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 519534298,
+          "id_str": "519534298"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/01E97cHRzA",
+            "expanded_url": "https://twitter.com/serjonya1/status/657739752830054400",
+            "display_url": "twitter.com/serjonya1/stat…",
+            "indices": [
+              36,
+              59
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 24 06:44:17 +0000 2015",
+      "id": 657809819378851800,
+      "id_str": "657809819378851841",
+      "text": "SIGSEGV - да, он часто и сейчас попадается :-) https://t.co/wCcMDJtJlH",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657685659080085500,
+      "quoted_status_id_str": "657685659080085504",
+      "quoted_status": {
+        "created_at": "Fri Oct 23 22:30:54 +0000 2015",
+        "id": 657685659080085500,
+        "id_str": "657685659080085504",
+        "text": "@backendsecret заmmapил, размапил, в СИГСЕГВ - романтика",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657659443304362000,
+        "in_reply_to_status_id_str": "657659443304361984",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 842467634,
+          "id_str": "842467634"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "bg"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wCcMDJtJlH",
+            "expanded_url": "https://twitter.com/astarasikov/status/657685659080085504",
+            "display_url": "twitter.com/astarasikov/st…",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 21:42:59 +0000 2015",
+      "id": 657673599780847600,
+      "id_str": "657673599780847616",
+      "text": "Вот интересно, Selinux хоть у кого-нибудь работает или это такой громкий и бесполезный фейк?",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 21:27:27 +0000 2015",
+      "id": 657669688567164900,
+      "id_str": "657669688567164928",
+      "text": "Внимательно прочитав \"Patterns of Enterprise Application Architecture\" Фаулера осознал, что потерял время зря. Джошуа Блох - вот мастер!",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 21:17:25 +0000 2015",
+      "id": 657667166192455700,
+      "id_str": "657667166192455680",
+      "text": "@strangeqargo @ivanenok точно!",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657665830918996000,
+      "in_reply_to_status_id_str": "657665830918995969",
+      "in_reply_to_user_id": 127573172,
+      "in_reply_to_user_id_str": "127573172",
+      "in_reply_to_screen_name": "strangeqargo",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "strangeqargo",
+            "name": "hey you, kekoosh",
+            "id": 127573172,
+            "id_str": "127573172",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              14,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "bg"
+    },
+    {
+      "created_at": "Fri Oct 23 21:17:07 +0000 2015",
+      "id": 657667087821860900,
+      "id_str": "657667087821860864",
+      "text": "Ну да, мне не нравится мой код все чаще. Вон она, жизнь программиста - как она есть ;-) https://t.co/O34fODgCnp",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657664476376924200,
+      "quoted_status_id_str": "657664476376924162",
+      "quoted_status": {
+        "created_at": "Fri Oct 23 21:06:44 +0000 2015",
+        "id": 657664476376924200,
+        "id_str": "657664476376924162",
+        "text": "@backendsecret @SiliconBangalor ты о том что раньше через год не нравился, а теперь через неделю? :)",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657663433618387000,
+        "in_reply_to_status_id_str": "657663433618386944",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 69355074,
+          "id_str": "69355074"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "d07a55237d420b53",
+          "url": "https://api.twitter.com/1.1/geo/id/d07a55237d420b53.json",
+          "place_type": "city",
+          "name": "Калининград",
+          "full_name": "Калининград, Калининградская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  20.2947513,
+                  54.627806
+                ],
+                [
+                  20.6492806,
+                  54.627806
+                ],
+                [
+                  20.6492806,
+                  54.7804963
+                ],
+                [
+                  20.2947513,
+                  54.7804963
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "SiliconBangalor",
+              "name": "Кремниевый Бангалор",
+              "id": 310745798,
+              "id_str": "310745798",
+              "indices": [
+                15,
+                31
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/O34fODgCnp",
+            "expanded_url": "https://twitter.com/ivanenok/status/657664476376924162",
+            "display_url": "twitter.com/ivanenok/statu…",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 21:11:35 +0000 2015",
+      "id": 657665696604790800,
+      "id_str": "657665696604790784",
+      "text": "Обычно все опытные крутые админы обязательно когда нить жёстко роняли бой о камни и напрочь теряли данные без восстановления",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 21:04:11 +0000 2015",
+      "id": 657663833843085300,
+      "id_str": "657663833843085312",
+      "text": "Интересно, это только у нас на постсоветском пространстве или в силиконовой долине тоже? :-) https://t.co/Sn02WJzdPB",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657663420402135000,
+      "quoted_status_id_str": "657663420402135040",
+      "quoted_status": {
+        "created_at": "Fri Oct 23 21:02:32 +0000 2015",
+        "id": 657663420402135000,
+        "id_str": "657663420402135040",
+        "text": "@backendsecret @SiliconBangalor тесты для лохов, нормальные пацаны фиксают прям в продакшене! :)",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 657663005048610800,
+        "in_reply_to_status_id_str": "657663005048610816",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 69355074,
+          "id_str": "69355074"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "d07a55237d420b53",
+          "url": "https://api.twitter.com/1.1/geo/id/d07a55237d420b53.json",
+          "place_type": "city",
+          "name": "Калининград",
+          "full_name": "Калининград, Калининградская область",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  20.2947513,
+                  54.627806
+                ],
+                [
+                  20.6492806,
+                  54.627806
+                ],
+                [
+                  20.6492806,
+                  54.7804963
+                ],
+                [
+                  20.2947513,
+                  54.7804963
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "SiliconBangalor",
+              "name": "Кремниевый Бангалор",
+              "id": 310745798,
+              "id_str": "310745798",
+              "indices": [
+                15,
+                31
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Sn02WJzdPB",
+            "expanded_url": "https://twitter.com/ivanenok/status/657663420402135040",
+            "display_url": "twitter.com/ivanenok/statu…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 21:02:36 +0000 2015",
+      "id": 657663433618387000,
+      "id_str": "657663433618386944",
+      "text": "@ivanenok @SiliconBangalor :-) а мне до сих пор мой код не нравится, и ощущение становится все острее",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657663169419178000,
+      "in_reply_to_status_id_str": "657663169419177984",
+      "in_reply_to_user_id": 69355074,
+      "in_reply_to_user_id_str": "69355074",
+      "in_reply_to_screen_name": "ivanenok",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "SiliconBangalor",
+            "name": "Кремниевый Бангалор",
+            "id": 310745798,
+            "id_str": "310745798",
+            "indices": [
+              10,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 21:00:53 +0000 2015",
+      "id": 657663005048610800,
+      "id_str": "657663005048610816",
+      "text": "@ivanenok @SiliconBangalor а на тесты времени не дают. Где моя бензопила и калаш... :-)",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657662373503856600,
+      "in_reply_to_status_id_str": "657662373503856640",
+      "in_reply_to_user_id": 69355074,
+      "in_reply_to_user_id_str": "69355074",
+      "in_reply_to_screen_name": "ivanenok",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "SiliconBangalor",
+            "name": "Кремниевый Бангалор",
+            "id": 310745798,
+            "id_str": "310745798",
+            "indices": [
+              10,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:59:18 +0000 2015",
+      "id": 657662605230776300,
+      "id_str": "657662605230776321",
+      "text": "@SiliconBangalor @ivanenok тут баланс нужен, да, не закопаться и херню явную не нагородить неживую",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657661871877660700,
+      "in_reply_to_status_id_str": "657661871877660672",
+      "in_reply_to_user_id": 310745798,
+      "in_reply_to_user_id_str": "310745798",
+      "in_reply_to_screen_name": "SiliconBangalor",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SiliconBangalor",
+            "name": "Кремниевый Бангалор",
+            "id": 310745798,
+            "id_str": "310745798",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              17,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:58:15 +0000 2015",
+      "id": 657662341350334500,
+      "id_str": "657662341350334464",
+      "text": "RT @KSDaemon: Уже полторы тыщи непрочитанных твитов %)) ^__^ И кажется 60%, если не больше — это @backendsecret",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 23 20:55:28 +0000 2015",
+        "id": 657661641245511700,
+        "id_str": "657661641245511682",
+        "text": "Уже полторы тыщи непрочитанных твитов %)) ^__^ И кажется 60%, если не больше — это @backendsecret",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 103650148,
+          "id_str": "103650148"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Александр Сербул",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                83,
+                97
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KSDaemon",
+            "name": "Konstantin Burkalev",
+            "id": 103650148,
+            "id_str": "103650148",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Александр Сербул",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              97,
+              111
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:56:45 +0000 2015",
+      "id": 657661962109780000,
+      "id_str": "657661962109779968",
+      "text": "@ivanenok @SiliconBangalor есть же в XP - simple design об этом как раз",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657661617111453700,
+      "in_reply_to_status_id_str": "657661617111453696",
+      "in_reply_to_user_id": 69355074,
+      "in_reply_to_user_id_str": "69355074",
+      "in_reply_to_screen_name": "ivanenok",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "SiliconBangalor",
+            "name": "Кремниевый Бангалор",
+            "id": 310745798,
+            "id_str": "310745798",
+            "indices": [
+              10,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Fri Oct 23 20:55:08 +0000 2015",
+      "id": 657661555417489400,
+      "id_str": "657661555417489412",
+      "text": "@SiliconBangalor @ivanenok мы спорим что такое \"правильно\". Имхо это почувствовать точки расширения",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657660890465116200,
+      "in_reply_to_status_id_str": "657660890465116160",
+      "in_reply_to_user_id": 310745798,
+      "in_reply_to_user_id_str": "310745798",
+      "in_reply_to_screen_name": "SiliconBangalor",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SiliconBangalor",
+            "name": "Кремниевый Бангалор",
+            "id": 310745798,
+            "id_str": "310745798",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              17,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:53:52 +0000 2015",
+      "id": 657661239695441900,
+      "id_str": "657661239695441920",
+      "text": "Реляционная алгебра уже закоснела и подпротухла в РСУБД и прям заново расцвела в Spark. Здравствуйте Кодд и Дейт",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:50:13 +0000 2015",
+      "id": 657660318336708600,
+      "id_str": "657660318336708608",
+      "text": "Вспомнил интересную задачу - делали консистентное хэширование объектов на постоянно меняющемся кластере. DHT и через аналог minhash",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:47:46 +0000 2015",
+      "id": 657659700897554400,
+      "id_str": "657659700897554432",
+      "text": "@SiliconBangalor @ivanenok мы так Битрикс24 пишем :-)",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657659473553657900,
+      "in_reply_to_status_id_str": "657659473553657856",
+      "in_reply_to_user_id": 310745798,
+      "in_reply_to_user_id_str": "310745798",
+      "in_reply_to_screen_name": "SiliconBangalor",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SiliconBangalor",
+            "name": "Кремниевый Бангалор",
+            "id": 310745798,
+            "id_str": "310745798",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              17,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:46:44 +0000 2015",
+      "id": 657659443304362000,
+      "id_str": "657659443304361984",
+      "text": "Самая волнующая и красивая часть unix - это IPC: мьютексы, семафоры, очереди,  разделяемая память. Эх, романтика",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:44:14 +0000 2015",
+      "id": 657658814762733600,
+      "id_str": "657658814762733568",
+      "text": "@ivanenok @SiliconBangalor верно",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657658748626931700,
+      "in_reply_to_status_id_str": "657658748626931712",
+      "in_reply_to_user_id": 69355074,
+      "in_reply_to_user_id_str": "69355074",
+      "in_reply_to_screen_name": "ivanenok",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "SiliconBangalor",
+            "name": "Кремниевый Бангалор",
+            "id": 310745798,
+            "id_str": "310745798",
+            "indices": [
+              10,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:43:16 +0000 2015",
+      "id": 657658571040100400,
+      "id_str": "657658571040100352",
+      "text": "@SiliconBangalor @ivanenok ну если скриптики, то не стоит усложнять. Я про код, который вроде простой но начинает быстро жить",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657657571692650500,
+      "in_reply_to_status_id_str": "657657571692650496",
+      "in_reply_to_user_id": 310745798,
+      "in_reply_to_user_id_str": "310745798",
+      "in_reply_to_screen_name": "SiliconBangalor",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SiliconBangalor",
+            "name": "Кремниевый Бангалор",
+            "id": 310745798,
+            "id_str": "310745798",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              17,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:42:13 +0000 2015",
+      "id": 657658305809096700,
+      "id_str": "657658305809096705",
+      "text": "@ivanenok @SiliconBangalor хорошо сказал, я обычно очереди мутил",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657657544987582500,
+      "in_reply_to_status_id_str": "657657544987582464",
+      "in_reply_to_user_id": 69355074,
+      "in_reply_to_user_id_str": "69355074",
+      "in_reply_to_screen_name": "ivanenok",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "SiliconBangalor",
+            "name": "Кремниевый Бангалор",
+            "id": 310745798,
+            "id_str": "310745798",
+            "indices": [
+              10,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:41:13 +0000 2015",
+      "id": 657658053492383700,
+      "id_str": "657658053492383744",
+      "text": "@SiliconBangalor @ivanenok в этом согласен!",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657657374195470300,
+      "in_reply_to_status_id_str": "657657374195470336",
+      "in_reply_to_user_id": 310745798,
+      "in_reply_to_user_id_str": "310745798",
+      "in_reply_to_screen_name": "SiliconBangalor",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SiliconBangalor",
+            "name": "Кремниевый Бангалор",
+            "id": 310745798,
+            "id_str": "310745798",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              17,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:38:02 +0000 2015",
+      "id": 657657253084930000,
+      "id_str": "657657253084930048",
+      "text": "@SiliconBangalor @ivanenok когда чинишь в одном и отваливается в 10 - разве не благодаришь небо что можно заинкапсулировать в ООП?",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657656817368088600,
+      "in_reply_to_status_id_str": "657656817368088581",
+      "in_reply_to_user_id": 310745798,
+      "in_reply_to_user_id_str": "310745798",
+      "in_reply_to_screen_name": "SiliconBangalor",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SiliconBangalor",
+            "name": "Кремниевый Бангалор",
+            "id": 310745798,
+            "id_str": "310745798",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              17,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:35:54 +0000 2015",
+      "id": 657656716847390700,
+      "id_str": "657656716847390720",
+      "text": "Да надоело объяснять разницу между ip и tcp :-) https://t.co/pSaOwwBi0h",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 657656009167654900,
+      "quoted_status_id_str": "657656009167654913",
+      "quoted_status": {
+        "created_at": "Fri Oct 23 20:33:05 +0000 2015",
+        "id": 657656009167654900,
+        "id_str": "657656009167654913",
+        "text": "Что ты несешь, что ты несешь? https://t.co/JwlTCxm1zw",
+        "source": "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 193614046,
+          "id_str": "193614046"
+        },
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            52.52252252,
+            13.32585174
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            13.32585174,
+            52.52252252
+          ]
+        },
+        "place": {
+          "id": "3078869807f9dd36",
+          "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+          "place_type": "city",
+          "name": "Berlin",
+          "full_name": "Berlin, Germany",
+          "country_code": "DE",
+          "country": "Deutschland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  13.088304,
+                  52.338079
+                ],
+                [
+                  13.760909,
+                  52.338079
+                ],
+                [
+                  13.760909,
+                  52.675323
+                ],
+                [
+                  13.088304,
+                  52.675323
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 657654811068907500,
+        "quoted_status_id_str": "657654811068907520",
+        "is_quote_status": true,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/JwlTCxm1zw",
+              "expanded_url": "https://twitter.com/backendsecret/statuses/657654811068907520",
+              "display_url": "twitter.com/backendsecret/…",
+              "indices": [
+                30,
+                53
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pSaOwwBi0h",
+            "expanded_url": "https://twitter.com/cluevick/status/657656009167654913",
+            "display_url": "twitter.com/cluevick/statu…",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:35:08 +0000 2015",
+      "id": 657656525238988800,
+      "id_str": "657656525238988800",
+      "text": "@SiliconBangalor @ivanenok а если код накапливается и тянет все за собой",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 657655992138747900,
+      "in_reply_to_status_id_str": "657655992138747904",
+      "in_reply_to_user_id": 310745798,
+      "in_reply_to_user_id_str": "310745798",
+      "in_reply_to_screen_name": "SiliconBangalor",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SiliconBangalor",
+            "name": "Кремниевый Бангалор",
+            "id": 310745798,
+            "id_str": "310745798",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "ivanenok",
+            "name": "Maxim S. Ivanov",
+            "id": 69355074,
+            "id_str": "69355074",
+            "indices": [
+              17,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:30:48 +0000 2015",
+      "id": 657655433298055200,
+      "id_str": "657655433298055168",
+      "text": "Даже в mysql уровни изоляции транзакций - целая наука. Но как без из понимания биллинг делать, а? Фантомы накажут",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 23 20:28:20 +0000 2015",
+      "id": 657654811068907500,
+      "id_str": "657654811068907520",
+      "text": "Если ты веб-разработчик, будь добр, изучи наконец tcpdump/ethereal/wireshark. А нередко даже в php пригождаетя unix gdb, GDB Карл :-)",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
       "created_at": "Fri Oct 23 20:22:34 +0000 2015",
       "id": 657653359122489300,
       "id_str": "657653359122489344",
@@ -452,8 +3252,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 1,
+      "retweet_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -808,8 +3608,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 0,
+        "retweet_count": 3,
+        "favorite_count": 3,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -821,7 +3621,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 3,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -866,7 +3666,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1075,7 +3875,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1326,7 +4126,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1358,7 +4158,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
+      "retweet_count": 1,
       "favorite_count": 1,
       "entities": {
         "hashtags": [],
@@ -3736,7 +6536,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 5,
+      "retweet_count": 6,
       "favorite_count": 3,
       "entities": {
         "hashtags": [],
@@ -14237,7 +17037,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -14777,7 +17577,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 3,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -38488,7 +41288,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 0,
-        "favorite_count": 1,
+        "favorite_count": 2,
         "entities": {
           "hashtags": [],
           "symbols": [],
