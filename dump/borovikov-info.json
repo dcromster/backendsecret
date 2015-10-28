@@ -47,8 +47,8 @@
     }
   },
   "protected": false,
-  "followers_count": 1182,
-  "friends_count": 347,
+  "followers_count": 1189,
+  "friends_count": 346,
   "listed_count": 80,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1701,
@@ -56,45 +56,45 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4573,
+  "statuses_count": 4603,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 27 21:05:05 +0000 2015",
-    "id": 659113612729020400,
-    "id_str": "659113612729020416",
-    "text": "В Java для volatile гарантируется, что запис. значение видимо другим потокам и happens-before последующим чтениям https://t.co/jtCwdOPlFl",
+    "created_at": "Wed Oct 28 18:23:49 +0000 2015",
+    "id": 659435415305371600,
+    "id_str": "659435415305371649",
+    "text": "@solverit там все сложно, они пока и сами не знают будет ли это новый язык, или просто утащят что-то из Dotty в Scala. пока это эксперименты",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 659433523925942300,
+    "in_reply_to_status_id_str": "659433523925942272",
+    "in_reply_to_user_id": 387819171,
+    "in_reply_to_user_id_str": "387819171",
+    "in_reply_to_screen_name": "solverit",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 1,
-    "favorite_count": 2,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/jtCwdOPlFl",
-          "expanded_url": "https://twitter.com/rubyunderhood/status/659112922292092929",
-          "display_url": "twitter.com/rubyunderhood/…",
+          "screen_name": "solverit",
+          "name": "Solver",
+          "id": 387819171,
+          "id_str": "387819171",
           "indices": [
-            114,
-            137
+            0,
+            9
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,

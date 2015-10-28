@@ -5,6 +5,1551 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Wed Oct 28 18:23:49 +0000 2015",
+      "id": 659435415305371600,
+      "id_str": "659435415305371649",
+      "text": "@solverit там все сложно, они пока и сами не знают будет ли это новый язык, или просто утащят что-то из Dotty в Scala. пока это эксперименты",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659433523925942300,
+      "in_reply_to_status_id_str": "659433523925942272",
+      "in_reply_to_user_id": 387819171,
+      "in_reply_to_user_id_str": "387819171",
+      "in_reply_to_screen_name": "solverit",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "solverit",
+            "name": "Solver",
+            "id": 387819171,
+            "id_str": "387819171",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 18:03:09 +0000 2015",
+      "id": 659430216360702000,
+      "id_str": "659430216360701953",
+      "text": "Слушаешь евенты, локально собираешь какой нужно тебе query store и джойнишь https://t.co/ZgFYo4PD1a",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 659417913447854100,
+      "quoted_status_id_str": "659417913447854080",
+      "quoted_status": {
+        "created_at": "Wed Oct 28 17:14:16 +0000 2015",
+        "id": 659417913447854100,
+        "id_str": "659417913447854080",
+        "text": "@mr_mig_by @backendsecret если CQRS это то, что написано в википедии, то я не  понимаю как именно оно поможет сджоинить 2 таблицы",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659404391234015200,
+        "in_reply_to_status_id_str": "659404391234015232",
+        "in_reply_to_user_id": 170772902,
+        "in_reply_to_user_id_str": "170772902",
+        "in_reply_to_screen_name": "mr_mig_by",
+        "user": {
+          "id": 356409597,
+          "id_str": "356409597"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mr_mig_by",
+              "name": "Alexey Migutsky",
+              "id": 170772902,
+              "id_str": "170772902",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                11,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZgFYo4PD1a",
+            "expanded_url": "https://twitter.com/89__bo/status/659417913447854080",
+            "display_url": "twitter.com/89__bo/status/…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 18:01:48 +0000 2015",
+      "id": 659429873883217900,
+      "id_str": "659429873883217924",
+      "text": "@solverit не в ровной степени, в Dotty например собираются сделать так, что Cake Pattern сломается",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659391103339274200,
+      "in_reply_to_status_id_str": "659391103339274240",
+      "in_reply_to_user_id": 387819171,
+      "in_reply_to_user_id_str": "387819171",
+      "in_reply_to_screen_name": "solverit",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "solverit",
+            "name": "Solver",
+            "id": 387819171,
+            "id_str": "387819171",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 15:19:44 +0000 2015",
+      "id": 659389090790559700,
+      "id_str": "659389090790559744",
+      "text": "@fcoder но в любом случае реальность создают люди. Заюзайте скалу на работе, и вот уже +1 программист на скале (вы) и +1 вакансия на рынке",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659388239942414300,
+      "in_reply_to_status_id_str": "659388239942414336",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fcoder",
+            "name": "Andrew Demonov",
+            "id": 66184312,
+            "id_str": "66184312",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 15:16:21 +0000 2015",
+      "id": 659388239942414300,
+      "id_str": "659388239942414336",
+      "text": "В Берлине хватает :) https://t.co/5vNqBBYrCS",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 659360467043930100,
+      "quoted_status_id_str": "659360467043930112",
+      "quoted_status": {
+        "created_at": "Wed Oct 28 13:26:00 +0000 2015",
+        "id": 659360467043930100,
+        "id_str": "659360467043930112",
+        "text": "Чисто технически - да. Однако реальность в том, что по Scala очень мало позиций на рынке. И программистов тоже мало  https://t.co/Slfy4TOgiy",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 66184312,
+          "id_str": "66184312"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 659323271159136300,
+        "quoted_status_id_str": "659323271159136261",
+        "is_quote_status": true,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/Slfy4TOgiy",
+              "expanded_url": "https://twitter.com/backendsecret/status/659323271159136261",
+              "display_url": "twitter.com/backendsecret/…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5vNqBBYrCS",
+            "expanded_url": "https://twitter.com/fcoder/status/659360467043930112",
+            "display_url": "twitter.com/fcoder/status/…",
+            "indices": [
+              21,
+              44
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 15:13:15 +0000 2015",
+      "id": 659387456790380500,
+      "id_str": "659387456790380544",
+      "text": "@skl1f можно и хаскель! но если TypeSafe перефигачит все на хаскель ) для меня язык не так принципиален, как платформа",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659364187643248600,
+      "in_reply_to_status_id_str": "659364187643248640",
+      "in_reply_to_user_id": 76731064,
+      "in_reply_to_user_id_str": "76731064",
+      "in_reply_to_screen_name": "skl1f",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "skl1f",
+            "name": "Oleksiy M.",
+            "id": 76731064,
+            "id_str": "76731064",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 13:17:32 +0000 2015",
+      "id": 659358339164446700,
+      "id_str": "659358339164446720",
+      "text": "В общем Scala это такой Haskell, который раз, и в прод!",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 13:14:00 +0000 2015",
+      "id": 659357449338683400,
+      "id_str": "659357449338683392",
+      "text": "RT @podmostom: @backendsecret Одерский супер-спец, но никто же спорить не будет с тем, что Scala — по факту — не получилась с точки зрения …",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 28 12:35:10 +0000 2015",
+        "id": 659347677151371300,
+        "id_str": "659347677151371265",
+        "text": "@backendsecret Одерский супер-спец, но никто же спорить не будет с тем, что Scala — по факту — не получилась с точки зрения pl design.",
+        "source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659347297449476100,
+        "in_reply_to_status_id_str": "659347297449476097",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 127846207,
+          "id_str": "127846207"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "podmostom",
+            "name": "Jonn Mostovoy",
+            "id": 127846207,
+            "id_str": "127846207",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 13:01:39 +0000 2015",
+      "id": 659354341724311600,
+      "id_str": "659354341724311552",
+      "text": "@podmostom Пока точно не ясно судьба Dotty, но возможно это и будет Scala 3.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659353114424811500,
+      "in_reply_to_status_id_str": "659353114424811524",
+      "in_reply_to_user_id": 127846207,
+      "in_reply_to_user_id_str": "127846207",
+      "in_reply_to_screen_name": "podmostom",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "podmostom",
+            "name": "Jonn Mostovoy",
+            "id": 127846207,
+            "id_str": "127846207",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 12:53:56 +0000 2015",
+      "id": 659352399518289900,
+      "id_str": "659352399518289921",
+      "text": "@solverit Dotty это новый язык в том числе. Он конечно похож на Scala, но есть отличия",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659350752670916600,
+      "in_reply_to_status_id_str": "659350752670916608",
+      "in_reply_to_user_id": 387819171,
+      "in_reply_to_user_id_str": "387819171",
+      "in_reply_to_screen_name": "solverit",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "solverit",
+            "name": "Solver",
+            "id": 387819171,
+            "id_str": "387819171",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 12:44:16 +0000 2015",
+      "id": 659349964041101300,
+      "id_str": "659349964041101313",
+      "text": "@podmostom @rufuse G1 грубо говоря такой. Но он не всегда нужен, иногда нужен high throughput коллектор",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659348363343695900,
+      "in_reply_to_status_id_str": "659348363343695872",
+      "in_reply_to_user_id": 127846207,
+      "in_reply_to_user_id_str": "127846207",
+      "in_reply_to_screen_name": "podmostom",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "podmostom",
+            "name": "Jonn Mostovoy",
+            "id": 127846207,
+            "id_str": "127846207",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "rufuse",
+            "name": "Denis Redozubov",
+            "id": 37674063,
+            "id_str": "37674063",
+            "indices": [
+              11,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 12:43:12 +0000 2015",
+      "id": 659349698013241300,
+      "id_str": "659349698013241345",
+      "text": "После Scala будет Dotty, и это очень хорошо. Язык столкнулся с реальностью и развился во что-то новое. https://t.co/56s7DtS2Xo",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 659347677151371300,
+      "quoted_status_id_str": "659347677151371265",
+      "quoted_status": {
+        "created_at": "Wed Oct 28 12:35:10 +0000 2015",
+        "id": 659347677151371300,
+        "id_str": "659347677151371265",
+        "text": "@backendsecret Одерский супер-спец, но никто же спорить не будет с тем, что Scala — по факту — не получилась с точки зрения pl design.",
+        "source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659347297449476100,
+        "in_reply_to_status_id_str": "659347297449476097",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 127846207,
+          "id_str": "127846207"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/56s7DtS2Xo",
+            "expanded_url": "https://twitter.com/podmostom/status/659347677151371265",
+            "display_url": "twitter.com/podmostom/stat…",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 12:37:03 +0000 2015",
+      "id": 659348150960918500,
+      "id_str": "659348150960918528",
+      "text": "@rufuse @podmostom nice )",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659346931563515900,
+      "in_reply_to_status_id_str": "659346931563515908",
+      "in_reply_to_user_id": 37674063,
+      "in_reply_to_user_id_str": "37674063",
+      "in_reply_to_screen_name": "rufuse",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rufuse",
+            "name": "Denis Redozubov",
+            "id": 37674063,
+            "id_str": "37674063",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "podmostom",
+            "name": "Jonn Mostovoy",
+            "id": 127846207,
+            "id_str": "127846207",
+            "indices": [
+              8,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 28 12:35:58 +0000 2015",
+      "id": 659347876124979200,
+      "id_str": "659347876124979200",
+      "text": "@rufuse @podmostom одного компилятора мало :) Сколько GC в вашем хаскеле на выбор?)",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659347507537969200,
+      "in_reply_to_status_id_str": "659347507537969153",
+      "in_reply_to_user_id": 37674063,
+      "in_reply_to_user_id_str": "37674063",
+      "in_reply_to_screen_name": "rufuse",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rufuse",
+            "name": "Denis Redozubov",
+            "id": 37674063,
+            "id_str": "37674063",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "podmostom",
+            "name": "Jonn Mostovoy",
+            "id": 127846207,
+            "id_str": "127846207",
+            "indices": [
+              8,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Wed Oct 28 12:33:40 +0000 2015",
+      "id": 659347297449476100,
+      "id_str": "659347297449476097",
+      "text": "Вообще самое замечательное в Scala - это комьюнити. Одерский супер спец в языках. TypeSafe делает чудесный стек.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 12:31:42 +0000 2015",
+      "id": 659346803368837100,
+      "id_str": "659346803368837120",
+      "text": "@podmostom да Haskell из той же оперы, но Scala все же ближе к проду. У неё за спиной JVM и TypeSafe",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659346447587004400,
+      "in_reply_to_status_id_str": "659346447587004416",
+      "in_reply_to_user_id": 127846207,
+      "in_reply_to_user_id_str": "127846207",
+      "in_reply_to_screen_name": "podmostom",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "podmostom",
+            "name": "Jonn Mostovoy",
+            "id": 127846207,
+            "id_str": "127846207",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 12:29:14 +0000 2015",
+      "id": 659346183685603300,
+      "id_str": "659346183685603328",
+      "text": "@podmostom если вам не надо описывать такие штуки, то да, Scala вам скорее не нужна",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659345357319577600,
+      "in_reply_to_status_id_str": "659345357319577600",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "podmostom",
+            "name": "Jonn Mostovoy",
+            "id": 127846207,
+            "id_str": "127846207",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 12:28:15 +0000 2015",
+      "id": 659345936477507600,
+      "id_str": "659345936477507584",
+      "text": "@podmostom обратите внимание на DSL для описания графа, это практически ascii-art :) При этом все статически типизировано, без динам. магии",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659345357319577600,
+      "in_reply_to_status_id_str": "659345357319577600",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "podmostom",
+            "name": "Jonn Mostovoy",
+            "id": 127846207,
+            "id_str": "127846207",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 12:25:57 +0000 2015",
+      "id": 659345357319577600,
+      "id_str": "659345357319577600",
+      "text": "Scala хороша для описания сложных процессов, пример: https://t.co/PXZAVYkD2V https://t.co/XMMbhgvZpo",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 659327973196234800,
+      "quoted_status_id_str": "659327973196234752",
+      "quoted_status": {
+        "created_at": "Wed Oct 28 11:16:53 +0000 2015",
+        "id": 659327973196234800,
+        "id_str": "659327973196234752",
+        "text": "@backendsecret какой профит от Scala? Реально ли нам надо в проектах таргетить этот ваш JVM?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659323271159136300,
+        "in_reply_to_status_id_str": "659323271159136261",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 127846207,
+          "id_str": "127846207"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PXZAVYkD2V",
+            "expanded_url": "http://doc.akka.io/docs/akka-stream-and-http-experimental/current/scala/stream-graphs.html",
+            "display_url": "doc.akka.io/docs/akka-stre…",
+            "indices": [
+              53,
+              76
+            ]
+          },
+          {
+            "url": "https://t.co/XMMbhgvZpo",
+            "expanded_url": "https://twitter.com/podmostom/status/659327973196234752",
+            "display_url": "twitter.com/podmostom/stat…",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 11:16:51 +0000 2015",
+      "id": 659327964740493300,
+      "id_str": "659327964740493312",
+      "text": "Как раз посматриваю на emacs последнее время :) Да, это мой подход https://t.co/bL5cdQ29GK",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 659326668520214500,
+      "quoted_status_id_str": "659326668520214528",
+      "quoted_status": {
+        "created_at": "Wed Oct 28 11:11:42 +0000 2015",
+        "id": 659326668520214500,
+        "id_str": "659326668520214528",
+        "text": "@backendsecret легкий троллинг тогда - почему не emacs вместо IDEA? сложно освоить но зато потом IDE для Scala и всего  в любом терминале",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659323271159136300,
+        "in_reply_to_status_id_str": "659323271159136261",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 55234514,
+          "id_str": "55234514"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bL5cdQ29GK",
+            "expanded_url": "https://twitter.com/strobegen/status/659326668520214528",
+            "display_url": "twitter.com/strobegen/stat…",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 11:12:48 +0000 2015",
+      "id": 659326947315552300,
+      "id_str": "659326947315552256",
+      "text": "@dcromster дают тебе много возможностей. например командную строку в линуксе освоить не так то просто. но куда без неё?",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659326502962659300,
+      "in_reply_to_status_id_str": "659326502962659328",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "dcromster",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 11:08:02 +0000 2015",
+      "id": 659325746771566600,
+      "id_str": "659325746771566592",
+      "text": "Да, тут надо оговориться, что технология должна быть сложной не из-за костылей, а из-за фич.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 11:03:56 +0000 2015",
+      "id": 659324717581643800,
+      "id_str": "659324717581643780",
+      "text": "Сейчас меня совершенно не пугают толстые мануалы и сухие спецификации.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 11:03:03 +0000 2015",
+      "id": 659324493102514200,
+      "id_str": "659324493102514176",
+      "text": "Что можно не съев пуд соли делать тоже, что и старшие коллеги",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 11:02:27 +0000 2015",
+      "id": 659324342707343400,
+      "id_str": "659324342707343360",
+      "text": "Джуниор программисты очень любят всякие технологии с низким порогом входа. С возрастом понимаешь, что часто это самообман",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 11:00:16 +0000 2015",
+      "id": 659323792607584300,
+      "id_str": "659323792607584256",
+      "text": "@dcromster я не системный программист, поэтому непонятно какой мне профит от этого",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659323464348794900,
+      "in_reply_to_status_id_str": "659323464348794880",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "dcromster",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:58:47 +0000 2015",
+      "id": 659323418752458800,
+      "id_str": "659323418752458752",
+      "text": "Да, забыл, любимые ОС - Linux и Mac OS X",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Oct 28 10:58:12 +0000 2015",
+      "id": 659323271159136300,
+      "id_str": "659323271159136261",
+      "text": "Я считаю выгодным изучать технологии, которые сложно учить, но потом получаешь профит",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:57:03 +0000 2015",
+      "id": 659322982951747600,
+      "id_str": "659322982951747584",
+      "text": "Лично я выбираю comprehensive решения. IDE - IDEA, язык - Scala. Сейчас объясню почему",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 28 10:54:45 +0000 2015",
+      "id": 659322406239105000,
+      "id_str": "659322406239105024",
+      "text": "Так, повышаем градус холивара :) Сегодня поговорим про выбор технологий",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Tue Oct 27 21:05:05 +0000 2015",
       "id": 659113612729020400,
       "id_str": "659113612729020416",
@@ -3112,7 +4657,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 1838,
-          "favorite_count": 1375,
+          "favorite_count": 1376,
           "entities": {
             "hashtags": [],
             "symbols": [],
@@ -4468,7 +6013,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 3,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4914,7 +6459,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
