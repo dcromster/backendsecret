@@ -5,6 +5,3704 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Tue Oct 27 21:05:05 +0000 2015",
+      "id": 659113612729020400,
+      "id_str": "659113612729020416",
+      "text": "В Java для volatile гарантируется, что запис. значение видимо другим потокам и happens-before последующим чтениям https://t.co/jtCwdOPlFl",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 659112922292092900,
+      "quoted_status_id_str": "659112922292092929",
+      "quoted_status": {
+        "created_at": "Tue Oct 27 21:02:21 +0000 2015",
+        "id": 659112922292092900,
+        "id_str": "659112922292092929",
+        "text": "Кто-нибудь может с ходу ответить, что такое volatile в других языках?",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659112766201077800,
+        "in_reply_to_status_id_str": "659112766201077762",
+        "in_reply_to_user_id": 3341793591,
+        "in_reply_to_user_id_str": "3341793591",
+        "in_reply_to_screen_name": "rubyunderhood",
+        "user": {
+          "id": 3341793591,
+          "id_str": "3341793591"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jtCwdOPlFl",
+            "expanded_url": "https://twitter.com/rubyunderhood/status/659112922292092929",
+            "display_url": "twitter.com/rubyunderhood/…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 20:45:43 +0000 2015",
+      "id": 659108738658402300,
+      "id_str": "659108738658402304",
+      "text": "@ipronix вобщем тролинг и ничего нового",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659106588146409500,
+      "in_reply_to_status_id_str": "659106588146409472",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 20:45:13 +0000 2015",
+      "id": 659108614171398100,
+      "id_str": "659108614171398144",
+      "text": "@ipronix и где я написал, что не нужна? я же написал, что есть ряд вопросов, которые только на высшем уровне решается, например о перепис-ии",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659106588146409500,
+      "in_reply_to_status_id_str": "659106588146409472",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 20:35:20 +0000 2015",
+      "id": 659106123975413800,
+      "id_str": "659106123975413760",
+      "text": "@ipronix а может это вы так себе работаете, раз считаете что куча начальников - это хорошо?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659102914921824300,
+      "in_reply_to_status_id_str": "659102914921824258",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 20:31:42 +0000 2015",
+      "id": 659105209013157900,
+      "id_str": "659105209013157888",
+      "text": "@ipronix а рядовые у вас чаи гоняют поди)) сказки не рассказывайте, менеджментом все заняты это и есть работа начальства.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659102710751432700,
+      "in_reply_to_status_id_str": "659102710751432706",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 20:19:34 +0000 2015",
+      "id": 659102156511907800,
+      "id_str": "659102156511907840",
+      "text": "@ipronix @Fedor_Sukhov и чем же занять всю иерархию, как не микроменеджментом?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659101924873121800,
+      "in_reply_to_status_id_str": "659101924873121792",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "Fedor_Sukhov",
+            "name": "Фёдор Сухов",
+            "id": 2333442762,
+            "id_str": "2333442762",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 20:17:32 +0000 2015",
+      "id": 659101646987898900,
+      "id_str": "659101646987898881",
+      "text": "@ipronix @Fedor_Sukhov беда наступает тогда, когда начальник считает, что без него ты не справишся нигде. вот это и есть излишняя иерархия",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659101145181229000,
+      "in_reply_to_status_id_str": "659101145181229056",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "Fedor_Sukhov",
+            "name": "Фёдор Сухов",
+            "id": 2333442762,
+            "id_str": "2333442762",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 20:14:15 +0000 2015",
+      "id": 659100818147160000,
+      "id_str": "659100818147160064",
+      "text": "@ipronix @Fedor_Sukhov тогда встречный вопрос, а если начальник не поставит задачи, то сами не справитесь?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659098183759482900,
+      "in_reply_to_status_id_str": "659098183759482880",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "Fedor_Sukhov",
+            "name": "Фёдор Сухов",
+            "id": 2333442762,
+            "id_str": "2333442762",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 20:02:46 +0000 2015",
+      "id": 659097929483948000,
+      "id_str": "659097929483948032",
+      "text": "@Fodoj к чему эти ярлыки?) вообще все должно быть так или иначе основано на common sense.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659097354507853800,
+      "in_reply_to_status_id_str": "659097354507853825",
+      "in_reply_to_user_id": 14741065,
+      "in_reply_to_user_id_str": "14741065",
+      "in_reply_to_screen_name": "Fodoj",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 20:01:29 +0000 2015",
+      "id": 659097606732279800,
+      "id_str": "659097606732279808",
+      "text": "@ipronix @Fedor_Sukhov слушайте, по-моему уже давно ясно, что мы разные люди и так",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659096823467003900,
+      "in_reply_to_status_id_str": "659096823467003905",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "Fedor_Sukhov",
+            "name": "Фёдор Сухов",
+            "id": 2333442762,
+            "id_str": "2333442762",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 19:55:23 +0000 2015",
+      "id": 659096070648168400,
+      "id_str": "659096070648168448",
+      "text": "Не совсем, у них жирный core проект + микросервисы: https://t.co/cJb5prbfst https://t.co/vvRm7rP2pX",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 659094112772214800,
+      "quoted_status_id_str": "659094112772214784",
+      "quoted_status": {
+        "created_at": "Tue Oct 27 19:47:36 +0000 2015",
+        "id": 659094112772214800,
+        "id_str": "659094112772214784",
+        "text": "@Fedor_Sukhov @backendsecret и то не обязательно. Не забываем, что наш любимый https://t.co/U69ZH5FOt7 это как раз таки здоровенный монолит.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659093888418844700,
+        "in_reply_to_status_id_str": "659093888418844672",
+        "in_reply_to_user_id": 14741065,
+        "in_reply_to_user_id_str": "14741065",
+        "in_reply_to_screen_name": "Fodoj",
+        "user": {
+          "id": 14741065,
+          "id_str": "14741065"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Fedor_Sukhov",
+              "name": "Фёдор Сухов",
+              "id": 2333442762,
+              "id_str": "2333442762",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                14,
+                28
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/U69ZH5FOt7",
+              "expanded_url": "http://github.com",
+              "display_url": "github.com",
+              "indices": [
+                79,
+                102
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cJb5prbfst",
+            "expanded_url": "https://github.com/blog/530-how-we-made-github-fast",
+            "display_url": "github.com/blog/530-how-w…",
+            "indices": [
+              52,
+              75
+            ]
+          },
+          {
+            "url": "https://t.co/vvRm7rP2pX",
+            "expanded_url": "https://twitter.com/Fodoj/status/659094112772214784",
+            "display_url": "twitter.com/Fodoj/status/6…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 19:53:16 +0000 2015",
+      "id": 659095537489195000,
+      "id_str": "659095537489195008",
+      "text": "@ipronix @Fedor_Sukhov вам правда интересно? потому что убивает инициативу на местах",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659095232970149900,
+      "in_reply_to_status_id_str": "659095232970149890",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "Fedor_Sukhov",
+            "name": "Фёдор Сухов",
+            "id": 2333442762,
+            "id_str": "2333442762",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 19:52:21 +0000 2015",
+      "id": 659095307297398800,
+      "id_str": "659095307297398784",
+      "text": "RT @Fodoj: @Fedor_Sukhov @backendsecret на начальных этапах смысла ноль, особенно если компания маленькая. Надо просто писать хороший монол…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Oct 27 19:46:43 +0000 2015",
+        "id": 659093888418844700,
+        "id_str": "659093888418844672",
+        "text": "@Fedor_Sukhov @backendsecret на начальных этапах смысла ноль, особенно если компания маленькая. Надо просто писать хороший монолит.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 659087971484893200,
+        "in_reply_to_status_id_str": "659087971484893184",
+        "in_reply_to_user_id": 2333442762,
+        "in_reply_to_user_id_str": "2333442762",
+        "in_reply_to_screen_name": "Fedor_Sukhov",
+        "user": {
+          "id": 14741065,
+          "id_str": "14741065"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Fedor_Sukhov",
+              "name": "Фёдор Сухов",
+              "id": 2333442762,
+              "id_str": "2333442762",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                14,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fodoj",
+            "name": "Kirill Shirinkin",
+            "id": 14741065,
+            "id_str": "14741065",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "Fedor_Sukhov",
+            "name": "Фёдор Сухов",
+            "id": 2333442762,
+            "id_str": "2333442762",
+            "indices": [
+              11,
+              24
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              25,
+              39
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 19:51:43 +0000 2015",
+      "id": 659095147335041000,
+      "id_str": "659095147335041024",
+      "text": "@ipronix @Fedor_Sukhov иерархия это плохо, но в некоторых вопросах по другому никак.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659094450430484500,
+      "in_reply_to_status_id_str": "659094450430484480",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "Fedor_Sukhov",
+            "name": "Фёдор Сухов",
+            "id": 2333442762,
+            "id_str": "2333442762",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 19:47:35 +0000 2015",
+      "id": 659094106438836200,
+      "id_str": "659094106438836224",
+      "text": "@ipronix @Fedor_Sukhov переписывать дорого, но это один раз, а поддерживать все время. вопрос очень не простой и это компетенция CTO",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659093117522595800,
+      "in_reply_to_status_id_str": "659093117522595840",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "Fedor_Sukhov",
+            "name": "Фёдор Сухов",
+            "id": 2333442762,
+            "id_str": "2333442762",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 19:29:03 +0000 2015",
+      "id": 659089445270986800,
+      "id_str": "659089445270986752",
+      "text": "@Fedor_Sukhov самый распространенный кейс, когда написали монолит, но все тормозит и глючит, и исправлять проблемы дорого или не возможно",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659087971484893200,
+      "in_reply_to_status_id_str": "659087971484893184",
+      "in_reply_to_user_id": 2333442762,
+      "in_reply_to_user_id_str": "2333442762",
+      "in_reply_to_screen_name": "Fedor_Sukhov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fedor_Sukhov",
+            "name": "Фёдор Сухов",
+            "id": 2333442762,
+            "id_str": "2333442762",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 19:24:40 +0000 2015",
+      "id": 659088341393133600,
+      "id_str": "659088341393133568",
+      "text": "@atnartur @jsunderhood @cssunderhood есть же старое правило у автомобилистов: если замечаешь как моргаешь, пора спать :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659075753355685900,
+      "in_reply_to_status_id_str": "659075753355685888",
+      "in_reply_to_user_id": 1316599309,
+      "in_reply_to_user_id_str": "1316599309",
+      "in_reply_to_screen_name": "atnartur",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "atnartur",
+            "name": "atnartur",
+            "id": 1316599309,
+            "id_str": "1316599309",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              10,
+              22
+            ]
+          },
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              23,
+              36
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 19:20:12 +0000 2015",
+      "id": 659087219265769500,
+      "id_str": "659087219265769477",
+      "text": "@Fedor_Sukhov уникальная реализация без уникальных возможностей бессмыслена",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659086778637406200,
+      "in_reply_to_status_id_str": "659086778637406208",
+      "in_reply_to_user_id": 2333442762,
+      "in_reply_to_user_id_str": "2333442762",
+      "in_reply_to_screen_name": "Fedor_Sukhov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fedor_Sukhov",
+            "name": "Фёдор Сухов",
+            "id": 2333442762,
+            "id_str": "2333442762",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 19:18:29 +0000 2015",
+      "id": 659086786904399900,
+      "id_str": "659086786904399872",
+      "text": "@Fedor_Sukhov ведь что такое инновации? это риск в первую очередь. это частые провалы и учеба на ошибках.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659066856037359600,
+      "in_reply_to_status_id_str": "659066856037359616",
+      "in_reply_to_user_id": 2333442762,
+      "in_reply_to_user_id_str": "2333442762",
+      "in_reply_to_screen_name": "Fedor_Sukhov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fedor_Sukhov",
+            "name": "Фёдор Сухов",
+            "id": 2333442762,
+            "id_str": "2333442762",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 19:17:10 +0000 2015",
+      "id": 659086454681903100,
+      "id_str": "659086454681903104",
+      "text": "@Fedor_Sukhov но если компания готова инвестировать в разработку, делать уникальные, сложные, качественные приложения все по-другому",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659066856037359600,
+      "in_reply_to_status_id_str": "659066856037359616",
+      "in_reply_to_user_id": 2333442762,
+      "in_reply_to_user_id_str": "2333442762",
+      "in_reply_to_screen_name": "Fedor_Sukhov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fedor_Sukhov",
+            "name": "Фёдор Сухов",
+            "id": 2333442762,
+            "id_str": "2333442762",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 19:16:20 +0000 2015",
+      "id": 659086245327450100,
+      "id_str": "659086245327450112",
+      "text": "@Fedor_Sukhov чего нибудь наколякать по-дешевле и впарить",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659066856037359600,
+      "in_reply_to_status_id_str": "659066856037359616",
+      "in_reply_to_user_id": 2333442762,
+      "in_reply_to_user_id_str": "2333442762",
+      "in_reply_to_screen_name": "Fedor_Sukhov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fedor_Sukhov",
+            "name": "Фёдор Сухов",
+            "id": 2333442762,
+            "id_str": "2333442762",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 19:15:45 +0000 2015",
+      "id": 659086096941363200,
+      "id_str": "659086096941363201",
+      "text": "@Fedor_Sukhov тут нет простого ответа, видите же у всех разная стратегия. не всем нужно качество, не нужны инновации вообще",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659066856037359600,
+      "in_reply_to_status_id_str": "659066856037359616",
+      "in_reply_to_user_id": 2333442762,
+      "in_reply_to_user_id_str": "2333442762",
+      "in_reply_to_screen_name": "Fedor_Sukhov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fedor_Sukhov",
+            "name": "Фёдор Сухов",
+            "id": 2333442762,
+            "id_str": "2333442762",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 16:29:38 +0000 2015",
+      "id": 659044292258889700,
+      "id_str": "659044292258889728",
+      "text": "@Timrael Выносишь в отдельный м.с., который слушает апдейты нужных сущностей, пакетно что-то считает и складывает в локальную БД",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659043844240113700,
+      "in_reply_to_status_id_str": "659043844240113668",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Timrael",
+            "name": "Timur Kozmenko",
+            "id": 286175573,
+            "id_str": "286175573",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 16:27:51 +0000 2015",
+      "id": 659043844240113700,
+      "id_str": "659043844240113668",
+      "text": "На вскидку у нас много такого: нужно сделать какую-нибудь ML задачу. https://t.co/2MX3ujkEm4",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 659040653620305900,
+      "quoted_status_id_str": "659040653620305920",
+      "quoted_status": {
+        "created_at": "Tue Oct 27 16:15:10 +0000 2015",
+        "id": 659040653620305900,
+        "id_str": "659040653620305920",
+        "text": "@backendsecret а можешь привести пример задачи и как бы ты её разбил на микро сервисы?",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658935218427068400,
+        "in_reply_to_status_id_str": "658935218427068416",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 286175573,
+          "id_str": "286175573"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2MX3ujkEm4",
+            "expanded_url": "https://twitter.com/timrael/status/659040653620305920",
+            "display_url": "twitter.com/timrael/status…",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 15:58:55 +0000 2015",
+      "id": 659036562857029600,
+      "id_str": "659036562857029632",
+      "text": "@strobegen но если на онбординге не научился, не проблема, коллеги покажут как деплоить проект, в детали въедешь позже по докам",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 659036125978316800,
+      "in_reply_to_status_id_str": "659036125978316800",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "strobegen",
+            "name": "Evgeniy Tokarev",
+            "id": 55234514,
+            "id_str": "55234514",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 15:57:11 +0000 2015",
+      "id": 659036125978316800,
+      "id_str": "659036125978316800",
+      "text": "Есть один месяц онбординга, там в том числе учишься stups. https://t.co/yPb3a2nJiL",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 658972113563439100,
+      "quoted_status_id_str": "658972113563439104",
+      "quoted_status": {
+        "created_at": "Tue Oct 27 11:42:49 +0000 2015",
+        "id": 658972113563439100,
+        "id_str": "658972113563439104",
+        "text": "@backendsecret интересно, а как у вас обучают новых коллег местным тулам - stups и тп ?",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 55234514,
+          "id_str": "55234514"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yPb3a2nJiL",
+            "expanded_url": "https://twitter.com/strobegen/status/658972113563439104",
+            "display_url": "twitter.com/strobegen/stat…",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 13:22:26 +0000 2015",
+      "id": 658997181282721800,
+      "id_str": "658997181282721793",
+      "text": "Да! Когда-то и отмена рабства казалась не выгодной, как так платить ЗП, это же не выгодно! https://t.co/6tdujYw7ru",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 658992375495336000,
+      "quoted_status_id_str": "658992375495335936",
+      "quoted_status": {
+        "created_at": "Tue Oct 27 13:03:20 +0000 2015",
+        "id": 658992375495336000,
+        "id_str": "658992375495335936",
+        "text": "@backendsecret повышение производительности? :)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658990606933479400,
+        "in_reply_to_status_id_str": "658990606933479424",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6tdujYw7ru",
+            "expanded_url": "https://twitter.com/dcromster/status/658992375495335936",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 12:59:04 +0000 2015",
+      "id": 658991303364124700,
+      "id_str": "658991303364124672",
+      "text": "Монетизация свободы. Win-win, как говорят консультанты.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 12:56:18 +0000 2015",
+      "id": 658990606933479400,
+      "id_str": "658990606933479424",
+      "text": "Продолжая измышлизмы: а какой прок работодателю от свободы программиста, скажет %username%. И выдаст в себе советикуса обыкновенного :)",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 12:53:43 +0000 2015",
+      "id": 658989953813258200,
+      "id_str": "658989953813258244",
+      "text": "@ipronix толсто, я же написал \"изначально\"",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658986587204751400,
+      "in_reply_to_status_id_str": "658986587204751360",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 12:31:31 +0000 2015",
+      "id": 658984369391018000,
+      "id_str": "658984369391017984",
+      "text": "Интересно как тогда работают венчурные инвестиции? Людям дают денег не получив изначально в замен ничего. https://t.co/6l4jF80GgT",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 658979299228303400,
+      "quoted_status_id_str": "658979299228303360",
+      "quoted_status": {
+        "created_at": "Tue Oct 27 12:11:22 +0000 2015",
+        "id": 658979299228303400,
+        "id_str": "658979299228303360",
+        "text": "@ipronix @podmostom @backendsecret цель любого объекта в этом мире получить максимум, затратив минимум.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658964276909121500,
+        "in_reply_to_status_id_str": "658964276909121537",
+        "in_reply_to_user_id": 113404896,
+        "in_reply_to_user_id_str": "113404896",
+        "in_reply_to_screen_name": "ipronix",
+        "user": {
+          "id": 229812906,
+          "id_str": "229812906"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ipronix",
+              "name": "pronix",
+              "id": 113404896,
+              "id_str": "113404896",
+              "indices": [
+                0,
+                8
+              ]
+            },
+            {
+              "screen_name": "podmostom",
+              "name": "Jonn Mostovoy",
+              "id": 127846207,
+              "id_str": "127846207",
+              "indices": [
+                9,
+                19
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                20,
+                34
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6l4jF80GgT",
+            "expanded_url": "https://twitter.com/de_gis/status/658979299228303360",
+            "display_url": "twitter.com/de_gis/status/…",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 12:28:47 +0000 2015",
+      "id": 658983681315446800,
+      "id_str": "658983681315446784",
+      "text": "@Timrael там позже был уже ответ - CQRS и тому подобное. и конечно связи нужно стараться минизировать изначально.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658983067424452600,
+      "in_reply_to_status_id_str": "658983067424452608",
+      "in_reply_to_user_id": 286175573,
+      "in_reply_to_user_id_str": "286175573",
+      "in_reply_to_screen_name": "Timrael",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Timrael",
+            "name": "Timur Kozmenko",
+            "id": 286175573,
+            "id_str": "286175573",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 11:23:34 +0000 2015",
+      "id": 658967267032629200,
+      "id_str": "658967267032629248",
+      "text": "RT @podmostom: @ipronix @backendsecret деньги и власть — это ресурсы. Личная и профессиональная свобода — цели в индивидуальном образовател…",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Oct 27 11:09:13 +0000 2015",
+        "id": 658963656739311600,
+        "id_str": "658963656739311617",
+        "text": "@ipronix @backendsecret деньги и власть — это ресурсы. Личная и профессиональная свобода — цели в индивидуальном образовательном проекте.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658963331437436900,
+        "in_reply_to_status_id_str": "658963331437436928",
+        "in_reply_to_user_id": 113404896,
+        "in_reply_to_user_id_str": "113404896",
+        "in_reply_to_screen_name": "ipronix",
+        "user": {
+          "id": 127846207,
+          "id_str": "127846207"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ipronix",
+              "name": "pronix",
+              "id": 113404896,
+              "id_str": "113404896",
+              "indices": [
+                0,
+                8
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                9,
+                23
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "podmostom",
+            "name": "Jonn Mostovoy",
+            "id": 127846207,
+            "id_str": "127846207",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              15,
+              23
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              24,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 11:02:16 +0000 2015",
+      "id": 658961907706130400,
+      "id_str": "658961907706130432",
+      "text": "Вам в гадалки надо :) По одному файлу судите. Ну-да, ну-да, вокруг же заговор и все плохие )) https://t.co/0wKU8CZ85W",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 658961227427807200,
+      "quoted_status_id_str": "658961227427807232",
+      "quoted_status": {
+        "created_at": "Tue Oct 27 10:59:34 +0000 2015",
+        "id": 658961227427807200,
+        "id_str": "658961227427807232",
+        "text": "@backendsecret а вы наивно на них пашете за идею. ну удачи. да еще вчера расписывали как все красиво пока во внутренности не заглянуть.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658960381470208000,
+        "in_reply_to_status_id_str": "658960381470208000",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 113404896,
+          "id_str": "113404896"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0wKU8CZ85W",
+            "expanded_url": "https://twitter.com/ipronix/status/658961227427807232",
+            "display_url": "twitter.com/ipronix/status…",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 11:00:31 +0000 2015",
+      "id": 658961469116125200,
+      "id_str": "658961469116125184",
+      "text": "Не всем нужно. Если компания не ИТ, то им хватит и обычных писак за деньги https://t.co/1jyF4srOLA",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 658960894244823000,
+      "quoted_status_id_str": "658960894244823040",
+      "quoted_status": {
+        "created_at": "Tue Oct 27 10:58:14 +0000 2015",
+        "id": 658960894244823000,
+        "id_str": "658960894244823040",
+        "text": "@ipronix @backendsecret я сам за новые технологии, мне интересно с точки зрения управленя, не все могут себе позволить такую свободу",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658960431302754300,
+        "in_reply_to_status_id_str": "658960431302754304",
+        "in_reply_to_user_id": 32959868,
+        "in_reply_to_user_id_str": "32959868",
+        "in_reply_to_screen_name": "raxpost",
+        "user": {
+          "id": 32959868,
+          "id_str": "32959868"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ipronix",
+              "name": "pronix",
+              "id": 113404896,
+              "id_str": "113404896",
+              "indices": [
+                0,
+                8
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                9,
+                23
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1jyF4srOLA",
+            "expanded_url": "https://twitter.com/raxpost/status/658960894244823040",
+            "display_url": "twitter.com/raxpost/status…",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 10:56:12 +0000 2015",
+      "id": 658960381470208000,
+      "id_str": "658960381470208000",
+      "text": "Вам так хипстеры в заландо покоя не дают, что сразу видно какой вы счастливый со своими деньгами :)  https://t.co/5qZ8LkkldI",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 658958210817245200,
+      "quoted_status_id_str": "658958210817245184",
+      "quoted_status": {
+        "created_at": "Tue Oct 27 10:47:34 +0000 2015",
+        "id": 658958210817245200,
+        "id_str": "658958210817245184",
+        "text": "@backendsecret @dcromster так заландо хипстеров понабрало пропагандируя демократию и равноправие ? или таки они за деньги работают ?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658957046436528100,
+        "in_reply_to_status_id_str": "658957046436528128",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 113404896,
+          "id_str": "113404896"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "dcromster",
+              "name": "Roman Milovskiy",
+              "id": 81103006,
+              "id_str": "81103006",
+              "indices": [
+                15,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5qZ8LkkldI",
+            "expanded_url": "https://twitter.com/ipronix/status/658958210817245184",
+            "display_url": "twitter.com/ipronix/status…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 10:44:46 +0000 2015",
+      "id": 658957506111238100,
+      "id_str": "658957506111238145",
+      "text": "Вы сами себя загнали в такое место, что белого света не видите https://t.co/BNs61drfe9",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 658955294375063600,
+      "quoted_status_id_str": "658955294375063552",
+      "quoted_status": {
+        "created_at": "Tue Oct 27 10:35:59 +0000 2015",
+        "id": 658955294375063600,
+        "id_str": "658955294375063552",
+        "text": "@backendsecret какая ересь. все хотят власти и денег.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658953897353060400,
+        "in_reply_to_status_id_str": "658953897353060352",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 113404896,
+          "id_str": "113404896"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BNs61drfe9",
+            "expanded_url": "https://twitter.com/ipronix/status/658955294375063552",
+            "display_url": "twitter.com/ipronix/status…",
+            "indices": [
+              63,
+              86
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 10:43:59 +0000 2015",
+      "id": 658957308949565400,
+      "id_str": "658957308949565440",
+      "text": "@podmostom отговорки пошли :) ну и какая проблема скалисту скалиста прособеседовать? где тут увеличение нагрузки?",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658956652213833700,
+      "in_reply_to_status_id_str": "658956652213833728",
+      "in_reply_to_user_id": 127846207,
+      "in_reply_to_user_id_str": "127846207",
+      "in_reply_to_screen_name": "podmostom",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "podmostom",
+            "name": "Jonn Mostovoy",
+            "id": 127846207,
+            "id_str": "127846207",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 10:42:57 +0000 2015",
+      "id": 658957046436528100,
+      "id_str": "658957046436528128",
+      "text": "@ipronix @dcromster как систему построите, таких людей и привличете. хотите орков пашущих исключительно за зп, вперёд",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658956361687027700,
+      "in_reply_to_status_id_str": "658956361687027712",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              9,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 10:30:26 +0000 2015",
+      "id": 658953897353060400,
+      "id_str": "658953897353060352",
+      "text": "И вообще, чего в конце концов хотят разработчики - они хотят свободы, как и все нормальные люди. #философияотпрограммирования",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "философияотпрограммирования",
+            "indices": [
+              97,
+              125
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 10:01:01 +0000 2015",
+      "id": 658946492972027900,
+      "id_str": "658946492972027904",
+      "text": "Точно! Как раз чаще такое и бывает - заставили писать всех на одной унылой технологии, нашли только унылых людей https://t.co/ZsZeSmEVUl",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 658935589258022900,
+      "quoted_status_id_str": "658935589258022912",
+      "quoted_status": {
+        "created_at": "Tue Oct 27 09:17:41 +0000 2015",
+        "id": 658935589258022900,
+        "id_str": "658935589258022912",
+        "text": "@dcromster @backendsecret А если команда развалилась и там просто все херово написано? Не переоценивай важность языка.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658934390697959400,
+        "in_reply_to_status_id_str": "658934390697959424",
+        "in_reply_to_user_id": 81103006,
+        "in_reply_to_user_id_str": "81103006",
+        "in_reply_to_screen_name": "dcromster",
+        "user": {
+          "id": 3411018190,
+          "id_str": "3411018190"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "dcromster",
+              "name": "Roman Milovskiy",
+              "id": 81103006,
+              "id_str": "81103006",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                11,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZsZeSmEVUl",
+            "expanded_url": "https://twitter.com/freiksenet_ru/status/658935589258022912",
+            "display_url": "twitter.com/freiksenet_ru/…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 09:55:34 +0000 2015",
+      "id": 658945120755163100,
+      "id_str": "658945120755163136",
+      "text": "@podmostom для них просто набор непонятных ключевых слов меняется и увеличивается выбор кандидатов, т.е. даже проще",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658941284904804400,
+      "in_reply_to_status_id_str": "658941284904804352",
+      "in_reply_to_user_id": 127846207,
+      "in_reply_to_user_id_str": "127846207",
+      "in_reply_to_screen_name": "podmostom",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "podmostom",
+            "name": "Jonn Mostovoy",
+            "id": 127846207,
+            "id_str": "127846207",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 09:54:18 +0000 2015",
+      "id": 658944804164935700,
+      "id_str": "658944804164935680",
+      "text": "@podmostom эм, вообще-то HR не проводят технических интервью",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658941284904804400,
+      "in_reply_to_status_id_str": "658941284904804352",
+      "in_reply_to_user_id": 127846207,
+      "in_reply_to_user_id_str": "127846207",
+      "in_reply_to_screen_name": "podmostom",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "podmostom",
+            "name": "Jonn Mostovoy",
+            "id": 127846207,
+            "id_str": "127846207",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 09:40:24 +0000 2015",
+      "id": 658941307755364400,
+      "id_str": "658941307755364352",
+      "text": "@raxpost вот zalando может похвастаться наличием технологий. так они привлекли меня, например :)",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658940697073045500,
+      "in_reply_to_status_id_str": "658940697073045504",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "raxpost",
+            "name": "Роман Роман",
+            "id": 32959868,
+            "id_str": "32959868",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 09:37:59 +0000 2015",
+      "id": 658940697073045500,
+      "id_str": "658940697073045504",
+      "text": "@raxpost да и потом, наличие клевых технологий зачастую облегчает поиск людей",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658939726808928300,
+      "in_reply_to_status_id_str": "658939726808928256",
+      "in_reply_to_user_id": 32959868,
+      "in_reply_to_user_id_str": "32959868",
+      "in_reply_to_screen_name": "raxpost",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "raxpost",
+            "name": "Роман Роман",
+            "id": 32959868,
+            "id_str": "32959868",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 09:37:00 +0000 2015",
+      "id": 658940451819536400,
+      "id_str": "658940451819536388",
+      "text": "@raxpost что бы 10 человек большинством выбрали брейнфак - я в такое не поверю.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658939726808928300,
+      "in_reply_to_status_id_str": "658939726808928256",
+      "in_reply_to_user_id": 32959868,
+      "in_reply_to_user_id_str": "32959868",
+      "in_reply_to_screen_name": "raxpost",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "raxpost",
+            "name": "Роман Роман",
+            "id": 32959868,
+            "id_str": "32959868",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 09:35:50 +0000 2015",
+      "id": 658940158314750000,
+      "id_str": "658940158314749952",
+      "text": "@raxpost я же говорю, нужно доверять людям, не все так плохо",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658939726808928300,
+      "in_reply_to_status_id_str": "658939726808928256",
+      "in_reply_to_user_id": 32959868,
+      "in_reply_to_user_id_str": "32959868",
+      "in_reply_to_screen_name": "raxpost",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "raxpost",
+            "name": "Роман Роман",
+            "id": 32959868,
+            "id_str": "32959868",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 09:34:07 +0000 2015",
+      "id": 658939723935821800,
+      "id_str": "658939723935821824",
+      "text": "@podmostom человека как раз заменить проще, у тебя в 3 раза больше кандидатов на разных стеках :)",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658936138598654000,
+      "in_reply_to_status_id_str": "658936138598653952",
+      "in_reply_to_user_id": 127846207,
+      "in_reply_to_user_id_str": "127846207",
+      "in_reply_to_screen_name": "podmostom",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "podmostom",
+            "name": "Jonn Mostovoy",
+            "id": 127846207,
+            "id_str": "127846207",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 09:17:15 +0000 2015",
+      "id": 658935478738165800,
+      "id_str": "658935478738165760",
+      "text": "@dcromster на практике команды даже слишком консервативны и в основном выбирают java",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658935218427068400,
+      "in_reply_to_status_id_str": "658935218427068416",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 09:16:13 +0000 2015",
+      "id": 658935218427068400,
+      "id_str": "658935218427068416",
+      "text": "Основа основ - доверие. Ну какая вероятность, что целая команда полные неадекваты? https://t.co/6iiZDZ8HIe",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 658934390697959400,
+      "quoted_status_id_str": "658934390697959424",
+      "quoted_status": {
+        "created_at": "Tue Oct 27 09:12:55 +0000 2015",
+        "id": 658934390697959400,
+        "id_str": "658934390697959424",
+        "text": "@backendsecret хорошо, а если команда развалилась, а там всё написано на брейнфаке? :) (200% утрированно, но, надеюсь, мысль понятна)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658931647451144200,
+        "in_reply_to_status_id_str": "658931647451144192",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6iiZDZ8HIe",
+            "expanded_url": "https://twitter.com/dcromster/status/658934390697959424",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 09:09:37 +0000 2015",
+      "id": 658933557772066800,
+      "id_str": "658933557772066816",
+      "text": "RT @freiksenet_ru: @backendsecret https://t.co/UgHH9P6i6D",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Oct 27 08:55:36 +0000 2015",
+        "id": 658930030618222600,
+        "id_str": "658930030618222592",
+        "text": "@backendsecret https://t.co/UgHH9P6i6D",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658929876154646500,
+        "in_reply_to_status_id_str": "658929876154646528",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 3411018190,
+          "id_str": "3411018190"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 604486595098636300,
+        "quoted_status_id_str": "604486595098636288",
+        "quoted_status": {
+          "created_at": "Sat May 30 03:16:49 +0000 2015",
+          "id": 604486595098636300,
+          "id_str": "604486595098636288",
+          "text": "WE SPENT 18 MONTHS MIGRATING FROM A MONOLITH TO MICROSERVICES\n\nRESULT:\n\n- GITHUB GETS PAID FOR MORE PRIVATE REPOS\n\n- FIND/REPLACE IS HARDER",
+          "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 2317524115,
+            "id_str": "2317524115"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 1838,
+          "favorite_count": 1375,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "is_quote_status": true,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/UgHH9P6i6D",
+              "expanded_url": "https://twitter.com/php_ceo/status/604486595098636288",
+              "display_url": "twitter.com/php_ceo/status…",
+              "indices": [
+                15,
+                38
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UgHH9P6i6D",
+            "expanded_url": "https://twitter.com/php_ceo/status/604486595098636288",
+            "display_url": "twitter.com/php_ceo/status…",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Oct 27 09:04:46 +0000 2015",
+      "id": 658932339393876000,
+      "id_str": "658932339393875968",
+      "text": "@dcromster но если так, то контре гибкости в выборе технологий меньше",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658932219256377300,
+      "in_reply_to_status_id_str": "658932219256377344",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 09:04:18 +0000 2015",
+      "id": 658932219256377300,
+      "id_str": "658932219256377344",
+      "text": "Сама по себе такая ситуация - плохая. Это уже какой-то распределённый монолит https://t.co/e1m37rFyp9",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 658931467028942800,
+      "quoted_status_id_str": "658931467028942848",
+      "quoted_status": {
+        "created_at": "Tue Oct 27 09:01:18 +0000 2015",
+        "id": 658931467028942800,
+        "id_str": "658931467028942848",
+        "text": "@backendsecret а если нет деления на команды? Одна большая, но микросервисы.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658930928639717400,
+        "in_reply_to_status_id_str": "658930928639717377",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/e1m37rFyp9",
+            "expanded_url": "https://twitter.com/dcromster/status/658931467028942848",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 09:02:01 +0000 2015",
+      "id": 658931647451144200,
+      "id_str": "658931647451144192",
+      "text": "Деплой и мониторинг конечно должен быть общим. А там уже какая разница что внутри Docker образа запускается https://t.co/HaheUUIF2V",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 658930499444985900,
+      "quoted_status_id_str": "658930499444985856",
+      "quoted_status": {
+        "created_at": "Tue Oct 27 08:57:28 +0000 2015",
+        "id": 658930499444985900,
+        "id_str": "658930499444985856",
+        "text": "@backendsecret а не получится зоопарк, который сложно станет поддерживать?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 658930246553632800,
+        "in_reply_to_status_id_str": "658930246553632768",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HaheUUIF2V",
+            "expanded_url": "https://twitter.com/dcromster/status/658930499444985856",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 08:59:10 +0000 2015",
+      "id": 658930928639717400,
+      "id_str": "658930928639717377",
+      "text": "@dcromster Деление на сервисы должно совпадать с делением на команды. А они автономны.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658930499444985900,
+      "in_reply_to_status_id_str": "658930499444985856",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "dcromster",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 08:56:27 +0000 2015",
+      "id": 658930246553632800,
+      "id_str": "658930246553632768",
+      "text": "Микросервис на то он и микро, что у него нет проблем больших кодовых баз. Выбор языка больше вопрос личных предпочтений.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 08:55:39 +0000 2015",
+      "id": 658930042890793000,
+      "id_str": "658930042890792960",
+      "text": "Часто спрашивают, а какой язык хороший / плохой для современного бекенда. Так вот с микросервисами выбор свободней",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 08:54:59 +0000 2015",
+      "id": 658929876154646500,
+      "id_str": "658929876154646528",
+      "text": "Так, продолжаем мусолить микросервисы :) Сейчас это не делает только ленивый, но все же.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 08:15:58 +0000 2015",
+      "id": 658920055590297600,
+      "id_str": "658920055590297600",
+      "text": "@cluevick чаще всего можно, но иногда, хоть и редко, данные нужны рядом, идеального разделения на сервисы не существует, только близкое к",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658908612841074700,
+      "in_reply_to_status_id_str": "658908612841074688",
+      "in_reply_to_user_id": 193614046,
+      "in_reply_to_user_id_str": "193614046",
+      "in_reply_to_screen_name": "cluevick",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cluevick",
+            "name": "Anatoly Lebedev",
+            "id": 193614046,
+            "id_str": "193614046",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 07:18:41 +0000 2015",
+      "id": 658905641084395500,
+      "id_str": "658905641084395520",
+      "text": "@cluevick и как решение я НЕ предлагаю держать все в одной бд",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658788527375827000,
+      "in_reply_to_status_id_str": "658788527375826944",
+      "in_reply_to_user_id": 193614046,
+      "in_reply_to_user_id_str": "193614046",
+      "in_reply_to_screen_name": "cluevick",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cluevick",
+            "name": "Anatoly Lebedev",
+            "id": 193614046,
+            "id_str": "193614046",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 27 07:17:25 +0000 2015",
+      "id": 658905323097432000,
+      "id_str": "658905323097432064",
+      "text": "@cluevick так как рано или поздно появится кейс, в котором нужны данные разных сервисов. При правильном разделении этих кейсов меньшинство",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 658788527375827000,
+      "in_reply_to_status_id_str": "658788527375826944",
+      "in_reply_to_user_id": 193614046,
+      "in_reply_to_user_id_str": "193614046",
+      "in_reply_to_screen_name": "cluevick",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cluevick",
+            "name": "Anatoly Lebedev",
+            "id": 193614046,
+            "id_str": "193614046",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Tue Oct 27 07:13:12 +0000 2015",
       "id": 658904262081126400,
       "id_str": "658904262081126400",
@@ -770,7 +4468,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1504,7 +5202,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1890,7 +5588,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 7,
+      "favorite_count": 6,
       "entities": {
         "hashtags": [],
         "symbols": [],

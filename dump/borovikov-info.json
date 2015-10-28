@@ -3,9 +3,20 @@
   "id_str": "3302551618",
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
-  "location": "Russia",
-  "profile_location": null,
-  "description": "Переходящий твиттер бекенд-разработчиков. Эту неделю ведет https://t.co/WhT1qCB6np Чат: https://t.co/g6sln8hSDy",
+  "location": "Berlin, Germany",
+  "profile_location": {
+    "id": "3078869807f9dd36",
+    "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+    "place_type": "unknown",
+    "name": "Berlin, Germany",
+    "full_name": "Berlin, Germany",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Переходящий твиттер бекенд-разработчиков. Эту неделю ведет @borovikov Чат: https://t.co/g6sln8hSDy",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
     "url": {
@@ -24,75 +35,66 @@
     "description": {
       "urls": [
         {
-          "url": "https://t.co/WhT1qCB6np",
-          "expanded_url": "https://twitter.com/borovikov",
-          "display_url": "twitter.com/borovikov",
-          "indices": [
-            59,
-            82
-          ]
-        },
-        {
           "url": "https://t.co/g6sln8hSDy",
           "expanded_url": "https://gitter.im/backendsecret/global_backend",
           "display_url": "gitter.im/backendsecret/…",
           "indices": [
-            88,
-            111
+            75,
+            98
           ]
         }
       ]
     }
   },
   "protected": false,
-  "followers_count": 1175,
+  "followers_count": 1181,
   "friends_count": 347,
   "listed_count": 80,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 1700,
+  "favourites_count": 1701,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4512,
+  "statuses_count": 4573,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 27 07:13:12 +0000 2015",
-    "id": 658904262081126400,
-    "id_str": "658904262081126400",
-    "text": "@cluevick и где написано, что я предлагаю держать данные в одной бд? Я как раз пишу обратное. Но проблема джойна никуда не девается",
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "created_at": "Tue Oct 27 21:05:05 +0000 2015",
+    "id": 659113612729020400,
+    "id_str": "659113612729020416",
+    "text": "В Java для volatile гарантируется, что запис. значение видимо другим потокам и happens-before последующим чтениям https://t.co/jtCwdOPlFl",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 658788527375827000,
-    "in_reply_to_status_id_str": "658788527375826944",
-    "in_reply_to_user_id": 193614046,
-    "in_reply_to_user_id_str": "193614046",
-    "in_reply_to_screen_name": "cluevick",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 2,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "cluevick",
-          "name": "Anatoly Lebedev",
-          "id": 193614046,
-          "id_str": "193614046",
+          "url": "https://t.co/jtCwdOPlFl",
+          "expanded_url": "https://twitter.com/rubyunderhood/status/659112922292092929",
+          "display_url": "twitter.com/rubyunderhood/…",
           "indices": [
-            0,
-            9
+            114,
+            137
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
