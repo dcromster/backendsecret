@@ -119,3 +119,9 @@
 [bkst]: https://twitter.com/backendsecret
 [proposal]: mailto:backendsecret@gmail.com?subject=Author’s%20proposal%20for%20@backendsecret
 [coc-violations]: mailto:backendsecret@gmail.com?subject=CoC%20violations%20in%20@backendsecret
+
+## Другие коллективные твиттер-аккаунты:
+* [Javascript](https://twitter.com/jsunderhood)
+* [Ruby](https://twitter.com/rubyunderhood)
+* [CSS](https://twitter.com/cssunderhood)
+* [Design](https://twitter.com/iamspacegray)
