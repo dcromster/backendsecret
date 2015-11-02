@@ -297,6 +297,7 @@
       "gainedFollowers": -16,
       "maxTweets": true,
       "maxOwnTweets": true,
+      "maxOwnTweetsPercentage": true,
       "maxFavorited": true,
       "maxRetweeted": true
     },
@@ -320,20 +321,19 @@
     {
       "username": "rpashkoff",
       "index": 19,
-      "followers_count": 1247,
-      "tweets": 1,
-      "ownTweets": 1,
-      "ownTweetsPercentage": 100,
+      "followers_count": 1285,
+      "tweets": 5,
+      "ownTweets": 3,
+      "ownTweetsPercentage": 60,
       "retweets": 0,
       "retweetsPercentage": 0,
-      "replies": 0,
-      "repliesPercentage": 0,
-      "retweeted": 1,
+      "replies": 2,
+      "repliesPercentage": 40,
+      "retweeted": 3,
       "retweetedKpi": 1,
-      "favorited": 0,
-      "favoritedKpi": 0,
-      "gainedFollowers": 4,
-      "maxOwnTweetsPercentage": true
+      "favorited": 2,
+      "favoritedKpi": 0.67,
+      "gainedFollowers": 42
     }
   ]
 }
