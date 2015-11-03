@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1309,
+  "followers_count": 1340,
   "friends_count": 350,
-  "listed_count": 84,
+  "listed_count": 85,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1716,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4735,
+  "statuses_count": 4739,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Nov 02 19:08:39 +0000 2015",
-    "id": 661258638271598600,
-    "id_str": "661258638271598593",
-    "text": "Серия \"Невошедшее в https://t.co/vPu7sod89Y \" : Expired, untrusted, invalid common name - это всё разные проблемы из области сертификатов.",
+    "created_at": "Tue Nov 03 06:48:35 +0000 2015",
+    "id": 661434783394832400,
+    "id_str": "661434783394832384",
+    "text": "RT @afiskon: В мире есть не только Docker! RT чтобы все знали! ::: Контейнерная виртуализация при помощи OpenVZ https://t.co/GVY75ZEQKt #op…",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,20 +64,100 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue Nov 03 06:39:54 +0000 2015",
+      "id": 661432598330232800,
+      "id_str": "661432598330232832",
+      "text": "В мире есть не только Docker! RT чтобы все знали! ::: Контейнерная виртуализация при помощи OpenVZ https://t.co/GVY75ZEQKt #openvz #docker",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 5,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "openvz",
+            "indices": [
+              123,
+              130
+            ]
+          },
+          {
+            "text": "docker",
+            "indices": [
+              131,
+              138
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GVY75ZEQKt",
+            "expanded_url": "http://eax.me/openvz/",
+            "display_url": "eax.me/openvz/",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "retweet_count": 5,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "openvz",
+          "indices": [
+            136,
+            140
+          ]
+        },
+        {
+          "text": "docker",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "afiskon",
+          "name": "Eax Melanhovich",
+          "id": 49702510,
+          "id_str": "49702510",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/vPu7sod89Y",
-          "expanded_url": "http://bit.ly/1GHsDea",
-          "display_url": "bit.ly/1GHsDea",
+          "url": "https://t.co/GVY75ZEQKt",
+          "expanded_url": "http://eax.me/openvz/",
+          "display_url": "eax.me/openvz/",
           "indices": [
-            20,
-            43
+            112,
+            135
           ]
         }
       ]
