@@ -46,13 +46,13 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4768,
+  "statuses_count": 4769,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 05 07:25:43 +0000 2015",
-    "id": 662168904081502200,
-    "id_str": "662168904081502208",
-    "text": "Как выяснилось - не все, а многие. https://t.co/vPu7sod89Y #backend #update https://t.co/LLzMyg9kYe",
+    "created_at": "Thu Nov 05 07:32:47 +0000 2015",
+    "id": 662170680457318400,
+    "id_str": "662170680457318400",
+    "text": "Стартовал обратный отсчёт времени, когда более-менее безболезнено можно обновить продакшн перед выходными . #update #backend",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -69,75 +69,26 @@
     "entities": {
       "hashtags": [
         {
-          "text": "backend",
+          "text": "update",
           "indices": [
-            59,
-            67
+            108,
+            115
           ]
         },
         {
-          "text": "update",
+          "text": "backend",
           "indices": [
-            68,
-            75
+            116,
+            124
           ]
         }
       ],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/vPu7sod89Y",
-          "expanded_url": "http://bit.ly/1GHsDea",
-          "display_url": "bit.ly/1GHsDea",
-          "indices": [
-            35,
-            58
-          ]
-        }
-      ],
-      "media": [
-        {
-          "id": 662168903011840000,
-          "id_str": "662168903011840000",
-          "indices": [
-            76,
-            99
-          ],
-          "media_url": "http://pbs.twimg.com/media/CTB_G-VUsAAV-pv.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CTB_G-VUsAAV-pv.jpg",
-          "url": "https://t.co/LLzMyg9kYe",
-          "display_url": "pic.twitter.com/LLzMyg9kYe",
-          "expanded_url": "http://twitter.com/backendsecret/status/662168904081502208/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1024,
-              "h": 512,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 600,
-              "h": 300,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 340,
-              "h": 170,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
