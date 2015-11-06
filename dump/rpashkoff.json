@@ -5,6 +5,1376 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Nov 05 21:16:52 +0000 2015",
+      "id": 662378067206266900,
+      "id_str": "662378067206266880",
+      "text": "Посмотри доклады с #highload. Семь раз отмерь, один отрежь. https://t.co/vPu7sod89Y #optimization #backend https://t.co/eQjw3FvwTY",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "highload",
+            "indices": [
+              19,
+              28
+            ]
+          },
+          {
+            "text": "optimization",
+            "indices": [
+              84,
+              97
+            ]
+          },
+          {
+            "text": "backend",
+            "indices": [
+              98,
+              106
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vPu7sod89Y",
+            "expanded_url": "http://bit.ly/1GHsDea",
+            "display_url": "bit.ly/1GHsDea",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 662378066082181100,
+            "id_str": "662378066082181120",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/CTE9V3fWsAATOjB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTE9V3fWsAATOjB.jpg",
+            "url": "https://t.co/eQjw3FvwTY",
+            "display_url": "pic.twitter.com/eQjw3FvwTY",
+            "expanded_url": "http://twitter.com/backendsecret/status/662378067206266880/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 662378066082181100,
+            "id_str": "662378066082181120",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/CTE9V3fWsAATOjB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTE9V3fWsAATOjB.jpg",
+            "url": "https://t.co/eQjw3FvwTY",
+            "display_url": "pic.twitter.com/eQjw3FvwTY",
+            "expanded_url": "http://twitter.com/backendsecret/status/662378067206266880/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 20:42:21 +0000 2015",
+      "id": 662369379720560600,
+      "id_str": "662369379720560641",
+      "text": "RT @a_lithium: @backendsecret От javaone2015 доклады про #nashorn\nhttps://t.co/GcX3TZQBH6\nhttps://t.co/ivODWU9qqE\nhttps://t.co/Gt0BffpY2M",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 05 20:27:41 +0000 2015",
+        "id": 662365691224412200,
+        "id_str": "662365691224412161",
+        "text": "@backendsecret От javaone2015 доклады про #nashorn\nhttps://t.co/GcX3TZQBH6\nhttps://t.co/ivODWU9qqE\nhttps://t.co/Gt0BffpY2M",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 662347628156440600,
+        "in_reply_to_status_id_str": "662347628156440576",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 52007266,
+          "id_str": "52007266"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "nashorn",
+              "indices": [
+                42,
+                50
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/GcX3TZQBH6",
+              "expanded_url": "https://www.youtube.com/watch?v=ao2cY6hMKw0#t=7h44m30s",
+              "display_url": "youtube.com/watch?v=ao2cY6…",
+              "indices": [
+                51,
+                74
+              ]
+            },
+            {
+              "url": "https://t.co/ivODWU9qqE",
+              "expanded_url": "https://www.youtube.com/watch?v=o10ETyiNIsM#t=1h54m13s",
+              "display_url": "youtube.com/watch?v=o10ETy…",
+              "indices": [
+                75,
+                98
+              ]
+            },
+            {
+              "url": "https://t.co/Gt0BffpY2M",
+              "expanded_url": "https://www.youtube.com/watch?v=OgcEmdT1Ifk#t=6h6m43s",
+              "display_url": "youtube.com/watch?v=OgcEmd…",
+              "indices": [
+                99,
+                122
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "nashorn",
+            "indices": [
+              57,
+              65
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "a_lithium",
+            "name": "Aliaksei Lithium",
+            "id": 52007266,
+            "id_str": "52007266",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GcX3TZQBH6",
+            "expanded_url": "https://www.youtube.com/watch?v=ao2cY6hMKw0#t=7h44m30s",
+            "display_url": "youtube.com/watch?v=ao2cY6…",
+            "indices": [
+              66,
+              89
+            ]
+          },
+          {
+            "url": "https://t.co/ivODWU9qqE",
+            "expanded_url": "https://www.youtube.com/watch?v=o10ETyiNIsM#t=1h54m13s",
+            "display_url": "youtube.com/watch?v=o10ETy…",
+            "indices": [
+              90,
+              113
+            ]
+          },
+          {
+            "url": "https://t.co/Gt0BffpY2M",
+            "expanded_url": "https://www.youtube.com/watch?v=OgcEmdT1Ifk#t=6h6m43s",
+            "display_url": "youtube.com/watch?v=OgcEmd…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Nov 05 20:18:42 +0000 2015",
+      "id": 662363429890621400,
+      "id_str": "662363429890621440",
+      "text": "@a_lithium а какого рода проекты собираете?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 662363013257785300,
+      "in_reply_to_status_id_str": "662363013257785345",
+      "in_reply_to_user_id": 52007266,
+      "in_reply_to_user_id_str": "52007266",
+      "in_reply_to_screen_name": "a_lithium",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "a_lithium",
+            "name": "Aliaksei Lithium",
+            "id": 52007266,
+            "id_str": "52007266",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 19:23:06 +0000 2015",
+      "id": 662349437537296400,
+      "id_str": "662349437537296385",
+      "text": "@gruz0 те, кто используют ПТ-САУ думаю в твиттере об использовании не напишут :) Я этот имел ввиду https://t.co/WNZG253aql",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 662348979544457200,
+      "in_reply_to_status_id_str": "662348979544457216",
+      "in_reply_to_user_id": 179090653,
+      "in_reply_to_user_id_str": "179090653",
+      "in_reply_to_screen_name": "gruz0",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gruz0",
+            "name": "Sasha Gruzov (18+)",
+            "id": 179090653,
+            "id_str": "179090653",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WNZG253aql",
+            "expanded_url": "https://en.wikipedia.org/wiki/Nashorn_(JavaScript_engine)",
+            "display_url": "en.wikipedia.org/wiki/Nashorn_(…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 19:15:55 +0000 2015",
+      "id": 662347628156440600,
+      "id_str": "662347628156440576",
+      "text": "Как-то мало кто говорит и пишет о #nashorn , неужели никто не пробует, не внедряет? #jvm",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "nashorn",
+            "indices": [
+              34,
+              42
+            ]
+          },
+          {
+            "text": "jvm",
+            "indices": [
+              84,
+              88
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 15:24:28 +0000 2015",
+      "id": 662289384893468700,
+      "id_str": "662289384893468672",
+      "text": "Чем сложнее инфраструктура, тем о большем нужно помнить! https://t.co/vPu7sod89Y #backend https://t.co/oulkPNtOB4",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "backend",
+            "indices": [
+              81,
+              89
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vPu7sod89Y",
+            "expanded_url": "http://bit.ly/1GHsDea",
+            "display_url": "bit.ly/1GHsDea",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 662289383916204000,
+            "id_str": "662289383916204033",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/CTDsr4rWcAE_VAn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTDsr4rWcAE_VAn.jpg",
+            "url": "https://t.co/oulkPNtOB4",
+            "display_url": "pic.twitter.com/oulkPNtOB4",
+            "expanded_url": "http://twitter.com/backendsecret/status/662289384893468672/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 662289383916204000,
+            "id_str": "662289383916204033",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/CTDsr4rWcAE_VAn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTDsr4rWcAE_VAn.jpg",
+            "url": "https://t.co/oulkPNtOB4",
+            "display_url": "pic.twitter.com/oulkPNtOB4",
+            "expanded_url": "http://twitter.com/backendsecret/status/662289384893468672/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 14:57:02 +0000 2015",
+      "id": 662282477969518600,
+      "id_str": "662282477969518593",
+      "text": "Кто испольузет #aerospike ? Какие впечатления?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "aerospike",
+            "indices": [
+              15,
+              25
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 14:31:01 +0000 2015",
+      "id": 662275931357192200,
+      "id_str": "662275931357192193",
+      "text": "@freiksenet_ru автоподставлялка подвела %)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 662275570940645400,
+      "in_reply_to_status_id_str": "662275570940645381",
+      "in_reply_to_user_id": 3411018190,
+      "in_reply_to_user_id_str": "3411018190",
+      "in_reply_to_screen_name": "freiksenet_ru",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freiksenet_ru",
+            "name": "Михаил Новиков",
+            "id": 3411018190,
+            "id_str": "3411018190",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 14:27:58 +0000 2015",
+      "id": 662275166400061400,
+      "id_str": "662275166400061440",
+      "text": "Чем вы пользуетесь или планируете? #backend #chief #ansible",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "backend",
+            "indices": [
+              35,
+              43
+            ]
+          },
+          {
+            "text": "chief",
+            "indices": [
+              44,
+              50
+            ]
+          },
+          {
+            "text": "ansible",
+            "indices": [
+              51,
+              59
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 12:58:41 +0000 2015",
+      "id": 662252696397836300,
+      "id_str": "662252696397836288",
+      "text": "RT @mishok13: Django ORM also conviniently has no idea that ENUM is a thing in SQL. Handy. :/",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 05 12:56:05 +0000 2015",
+        "id": 662252042359070700,
+        "id_str": "662252042359070720",
+        "text": "Django ORM also conviniently has no idea that ENUM is a thing in SQL. Handy. :/",
+        "source": "<a href=\"http://twmode.sf.net/\" rel=\"nofollow\">twmode</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 20470831,
+          "id_str": "20470831"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mishok13",
+            "name": "Andrii Mishkovskyi",
+            "id": 20470831,
+            "id_str": "20470831",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 05 12:43:15 +0000 2015",
+      "id": 662248813130854400,
+      "id_str": "662248813130854402",
+      "text": "Чтобы крепко спать по ночам нужно немножко непоспать  https://t.co/vPu7sod89Y #backend #monitoring https://t.co/fHO2PSoDUl",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "backend",
+            "indices": [
+              78,
+              86
+            ]
+          },
+          {
+            "text": "monitoring",
+            "indices": [
+              87,
+              98
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vPu7sod89Y",
+            "expanded_url": "http://bit.ly/1GHsDea",
+            "display_url": "bit.ly/1GHsDea",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 662248812044353500,
+            "id_str": "662248812044353536",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/CTDHySrUAAAPsSO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTDHySrUAAAPsSO.jpg",
+            "url": "https://t.co/fHO2PSoDUl",
+            "display_url": "pic.twitter.com/fHO2PSoDUl",
+            "expanded_url": "http://twitter.com/backendsecret/status/662248813130854402/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 662248812044353500,
+            "id_str": "662248812044353536",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/CTDHySrUAAAPsSO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTDHySrUAAAPsSO.jpg",
+            "url": "https://t.co/fHO2PSoDUl",
+            "display_url": "pic.twitter.com/fHO2PSoDUl",
+            "expanded_url": "http://twitter.com/backendsecret/status/662248813130854402/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 11:29:13 +0000 2015",
+      "id": 662230182028267500,
+      "id_str": "662230182028267521",
+      "text": "@rubyunderhood вопрос вдогонку кто может посоветовать полезные материалы по вашим базам? По #Cassandra у Datastax очень полезные выложены",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 662229318941155300,
+      "in_reply_to_status_id_str": "662229318941155328",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Cassandra",
+            "indices": [
+              92,
+              102
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 11:06:10 +0000 2015",
+      "id": 662224379552604200,
+      "id_str": "662224379552604161",
+      "text": "Grace period не самая удобная с точки зрения реализации ф-ия, зато юзеры, которые затягивают до последнего момента, скажут спасибо #backend",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "backend",
+            "indices": [
+              131,
+              139
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 09:06:19 +0000 2015",
+      "id": 662194219273101300,
+      "id_str": "662194219273101312",
+      "text": "То, что обычно откладывается на потом, и в итоге неожиданно выстреливает #backend #log https://t.co/vPu7sod89Y https://t.co/lUZXiurcjU",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "backend",
+            "indices": [
+              73,
+              81
+            ]
+          },
+          {
+            "text": "log",
+            "indices": [
+              82,
+              86
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vPu7sod89Y",
+            "expanded_url": "http://bit.ly/1GHsDea",
+            "display_url": "bit.ly/1GHsDea",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 662194218291568600,
+            "id_str": "662194218291568640",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/CTCWIhGWIAAhjal.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTCWIhGWIAAhjal.jpg",
+            "url": "https://t.co/lUZXiurcjU",
+            "display_url": "pic.twitter.com/lUZXiurcjU",
+            "expanded_url": "http://twitter.com/backendsecret/status/662194219273101312/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 662194218291568600,
+            "id_str": "662194218291568640",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/CTCWIhGWIAAhjal.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTCWIhGWIAAhjal.jpg",
+            "url": "https://t.co/lUZXiurcjU",
+            "display_url": "pic.twitter.com/lUZXiurcjU",
+            "expanded_url": "http://twitter.com/backendsecret/status/662194219273101312/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 08:05:21 +0000 2015",
+      "id": 662178878362882000,
+      "id_str": "662178878362882048",
+      "text": "Придерживающимся принципа лишь \"бы работало\" на заметку #coding  https://t.co/IsXXklYuqf",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 662178580537954300,
+      "quoted_status_id_str": "662178580537954304",
+      "quoted_status": {
+        "created_at": "Thu Nov 05 08:04:10 +0000 2015",
+        "id": 662178580537954300,
+        "id_str": "662178580537954304",
+        "text": "#Blog post: Principles for Writing Maintainable Code https://t.co/hjMCYp3mWu #ruby #rails #code #bestpractices",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 61991841,
+          "id_str": "61991841"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Blog",
+              "indices": [
+                0,
+                5
+              ]
+            },
+            {
+              "text": "ruby",
+              "indices": [
+                77,
+                82
+              ]
+            },
+            {
+              "text": "rails",
+              "indices": [
+                83,
+                89
+              ]
+            },
+            {
+              "text": "code",
+              "indices": [
+                90,
+                95
+              ]
+            },
+            {
+              "text": "bestpractices",
+              "indices": [
+                96,
+                110
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/hjMCYp3mWu",
+              "expanded_url": "http://customgears.net/blog/principles-for-writing-maintainable-code/",
+              "display_url": "customgears.net/blog/principle…",
+              "indices": [
+                53,
+                76
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "coding",
+            "indices": [
+              56,
+              63
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IsXXklYuqf",
+            "expanded_url": "https://twitter.com/sesharim/status/662178580537954304",
+            "display_url": "twitter.com/sesharim/statu…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 05 08:01:26 +0000 2015",
+      "id": 662177891334144000,
+      "id_str": "662177891334144000",
+      "text": "Ищем выдающихся #javaee девелоперов в Мск, желающих влиться в наши ряды и решать интересные задачи https://t.co/keL2nd9Rx5 #job",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "javaee",
+            "indices": [
+              16,
+              23
+            ]
+          },
+          {
+            "text": "job",
+            "indices": [
+              123,
+              127
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/keL2nd9Rx5",
+            "expanded_url": "http://hh.ru/vacancy/14748690",
+            "display_url": "hh.ru/vacancy/147486…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Nov 05 07:32:47 +0000 2015",
       "id": 662170680457318400,
       "id_str": "662170680457318400",
@@ -73,8 +1443,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [
           {
@@ -210,8 +1580,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 4,
-      "favorite_count": 15,
+      "retweet_count": 5,
+      "favorite_count": 26,
       "entities": {
         "hashtags": [
           {
@@ -406,8 +1776,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 3,
-      "favorite_count": 3,
+      "retweet_count": 4,
+      "favorite_count": 4,
       "entities": {
         "hashtags": [
           {
@@ -742,8 +2112,8 @@
         },
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 24,
-        "favorite_count": 80,
+        "retweet_count": 25,
+        "favorite_count": 82,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -766,7 +2136,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 24,
+      "retweet_count": 25,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -870,7 +2240,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 5,
+      "favorite_count": 6,
       "entities": {
         "hashtags": [
           {
@@ -1006,7 +2376,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 3,
+      "retweet_count": 4,
       "favorite_count": 2,
       "entities": {
         "hashtags": [
@@ -1240,7 +2610,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 4,
-      "favorite_count": 5,
+      "favorite_count": 6,
       "entities": {
         "hashtags": [
           {
@@ -1628,7 +2998,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 18,
+      "favorite_count": 20,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2098,7 +3468,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [
           {
@@ -2279,7 +3649,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [
           {
@@ -2405,7 +3775,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2764,7 +4134,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 6,
-      "favorite_count": 5,
+      "favorite_count": 6,
       "entities": {
         "hashtags": [
           {
@@ -3228,7 +4598,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 4,
-      "favorite_count": 8,
+      "favorite_count": 9,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3291,8 +4661,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 316,
-        "favorite_count": 138,
+        "retweet_count": 318,
+        "favorite_count": 142,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -3393,7 +4763,7 @@
         "lang": "en"
       },
       "is_quote_status": false,
-      "retweet_count": 316,
+      "retweet_count": 318,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -3631,8 +5001,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 1,
-        "favorite_count": 4,
+        "retweet_count": 2,
+        "favorite_count": 3,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -3655,7 +5025,7 @@
         "lang": "ru"
       },
       "is_quote_status": false,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -4731,8 +6101,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 5,
-      "favorite_count": 14,
+      "retweet_count": 6,
+      "favorite_count": 15,
       "entities": {
         "hashtags": [
           {
