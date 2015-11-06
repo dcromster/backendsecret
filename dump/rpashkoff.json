@@ -5,6 +5,644 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Fri Nov 06 10:07:23 +0000 2015",
+      "id": 662571975869640700,
+      "id_str": "662571975869640704",
+      "text": "@rubyunderhood @zhulikgleb на #stackoverflow пишут что OOM Killer шлет SIGKILL в #Linux",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 662571334082392000,
+      "in_reply_to_status_id_str": "662571334082392064",
+      "in_reply_to_user_id": 3341793591,
+      "in_reply_to_user_id_str": "3341793591",
+      "in_reply_to_screen_name": "rubyunderhood",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "stackoverflow",
+            "indices": [
+              30,
+              44
+            ]
+          },
+          {
+            "text": "Linux",
+            "indices": [
+              81,
+              87
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "zhulikgleb",
+            "name": "gleb.zhulik",
+            "id": 139645030,
+            "id_str": "139645030",
+            "indices": [
+              15,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Fri Nov 06 09:59:26 +0000 2015",
+      "id": 662569974419071000,
+      "id_str": "662569974419070976",
+      "text": "@zhulikgleb @rubyunderhood как предположение - требуешь много памяти, оомкиллер прибивает самый жирный процесс",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 662559549870706700,
+      "in_reply_to_status_id_str": "662559549870706688",
+      "in_reply_to_user_id": 139645030,
+      "in_reply_to_user_id_str": "139645030",
+      "in_reply_to_screen_name": "zhulikgleb",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zhulikgleb",
+            "name": "gleb.zhulik",
+            "id": 139645030,
+            "id_str": "139645030",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 06 09:11:42 +0000 2015",
+      "id": 662557960107925500,
+      "id_str": "662557960107925504",
+      "text": "Полезная подборка, в копилку! https://t.co/ogtlZDhs6c",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 662340526440624100,
+      "quoted_status_id_str": "662340526440624129",
+      "quoted_status": {
+        "created_at": "Thu Nov 05 18:47:41 +0000 2015",
+        "id": 662340526440624100,
+        "id_str": "662340526440624129",
+        "text": "Full Stack #Python - #Flask resources https://t.co/rBtOKPQYoq https://t.co/r4m3qIHikW",
+        "source": "<a href=\"https://inbound.li/\" rel=\"nofollow\">inboundli</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 239047527,
+          "id_str": "239047527"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 14,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Python",
+              "indices": [
+                11,
+                18
+              ]
+            },
+            {
+              "text": "Flask",
+              "indices": [
+                21,
+                27
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/rBtOKPQYoq",
+              "expanded_url": "http://inb.li/jTMaG",
+              "display_url": "inb.li/jTMaG",
+              "indices": [
+                38,
+                61
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 662340525379448800,
+              "id_str": "662340525379448832",
+              "indices": [
+                62,
+                85
+              ],
+              "media_url": "http://pbs.twimg.com/media/CTEbMteWcAAVZeY.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CTEbMteWcAAVZeY.jpg",
+              "url": "https://t.co/r4m3qIHikW",
+              "display_url": "pic.twitter.com/r4m3qIHikW",
+              "expanded_url": "http://twitter.com/yprez/status/662340526440624129/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 133,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 235,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 401,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 662340525379448800,
+              "id_str": "662340525379448832",
+              "indices": [
+                62,
+                85
+              ],
+              "media_url": "http://pbs.twimg.com/media/CTEbMteWcAAVZeY.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CTEbMteWcAAVZeY.jpg",
+              "url": "https://t.co/r4m3qIHikW",
+              "display_url": "pic.twitter.com/r4m3qIHikW",
+              "expanded_url": "http://twitter.com/yprez/status/662340526440624129/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 133,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 235,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 401,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ogtlZDhs6c",
+            "expanded_url": "https://twitter.com/yprez/status/662340526440624129",
+            "display_url": "twitter.com/yprez/status/6…",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 06 09:07:46 +0000 2015",
+      "id": 662556974056382500,
+      "id_str": "662556974056382464",
+      "text": "@pinyslutty @rubyunderhood одно волшебное слово #deadline",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 662328514834772000,
+      "in_reply_to_status_id_str": "662328514834771969",
+      "in_reply_to_user_id": 159136782,
+      "in_reply_to_user_id_str": "159136782",
+      "in_reply_to_screen_name": "pinyslutty",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "deadline",
+            "indices": [
+              48,
+              57
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pinyslutty",
+            "name": "Порнозвезда Твиттера",
+            "id": 159136782,
+            "id_str": "159136782",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "rubyunderhood",
+            "name": "Ruby разработчик",
+            "id": 3341793591,
+            "id_str": "3341793591",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 06 08:28:51 +0000 2015",
+      "id": 662547176946573300,
+      "id_str": "662547176946573312",
+      "text": "RT @4gophers: Скрипт для сервисов Travis CI и AppVeyor. Деплоим Go приложение по умному.... #golang https://t.co/RUjzLq68SN | https://t.co/…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 06 08:11:27 +0000 2015",
+        "id": 662542801071116300,
+        "id_str": "662542801071116288",
+        "text": "Скрипт для сервисов Travis CI и AppVeyor. Деплоим Go приложение по умному.... #golang https://t.co/RUjzLq68SN | https://t.co/jLzlXHqgVz",
+        "source": "<a href=\"http://4gophesr.com\" rel=\"nofollow\">4gophesr.com</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3004076915,
+          "id_str": "3004076915"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "golang",
+              "indices": [
+                78,
+                85
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/RUjzLq68SN",
+              "expanded_url": "https://blog.klauspost.com/travisappveyor-ci-script-for-go/",
+              "display_url": "blog.klauspost.com/travisappveyor…",
+              "indices": [
+                86,
+                109
+              ]
+            },
+            {
+              "url": "https://t.co/jLzlXHqgVz",
+              "expanded_url": "http://4gophers.com",
+              "display_url": "4gophers.com",
+              "indices": [
+                112,
+                135
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "golang",
+            "indices": [
+              92,
+              99
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "4gophers",
+            "name": "4gophers",
+            "id": 3004076915,
+            "id_str": "3004076915",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RUjzLq68SN",
+            "expanded_url": "https://blog.klauspost.com/travisappveyor-ci-script-for-go/",
+            "display_url": "blog.klauspost.com/travisappveyor…",
+            "indices": [
+              100,
+              123
+            ]
+          },
+          {
+            "url": "https://t.co/jLzlXHqgVz",
+            "expanded_url": "http://4gophers.com",
+            "display_url": "4gophers.com",
+            "indices": [
+              126,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 06 07:36:53 +0000 2015",
+      "id": 662534099064737800,
+      "id_str": "662534099064737792",
+      "text": "Раздавая пользовтелям плюшки помни о системе, которая их раздает. https://t.co/vPu7sod89Y #backend #highload https://t.co/iSrL8Ygb0u",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "backend",
+            "indices": [
+              90,
+              98
+            ]
+          },
+          {
+            "text": "highload",
+            "indices": [
+              99,
+              108
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vPu7sod89Y",
+            "expanded_url": "http://bit.ly/1GHsDea",
+            "display_url": "bit.ly/1GHsDea",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 662534097584132100,
+            "id_str": "662534097584132096",
+            "indices": [
+              109,
+              132
+            ],
+            "media_url": "http://pbs.twimg.com/media/CTHLQGIWEAAi3ce.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTHLQGIWEAAi3ce.jpg",
+            "url": "https://t.co/iSrL8Ygb0u",
+            "display_url": "pic.twitter.com/iSrL8Ygb0u",
+            "expanded_url": "http://twitter.com/backendsecret/status/662534099064737792/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 662534097584132100,
+            "id_str": "662534097584132096",
+            "indices": [
+              109,
+              132
+            ],
+            "media_url": "http://pbs.twimg.com/media/CTHLQGIWEAAi3ce.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTHLQGIWEAAi3ce.jpg",
+            "url": "https://t.co/iSrL8Ygb0u",
+            "display_url": "pic.twitter.com/iSrL8Ygb0u",
+            "expanded_url": "http://twitter.com/backendsecret/status/662534099064737792/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Fri Nov 06 07:34:39 +0000 2015",
       "id": 662533538223407100,
       "id_str": "662533538223407104",
@@ -555,7 +1193,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 3,
-      "favorite_count": 9,
+      "favorite_count": 10,
       "entities": {
         "hashtags": [
           {

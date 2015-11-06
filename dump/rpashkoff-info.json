@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1402,
+  "followers_count": 1404,
   "friends_count": 350,
   "listed_count": 84,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,20 +46,20 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4786,
+  "statuses_count": 4792,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Nov 06 07:34:39 +0000 2015",
-    "id": 662533538223407100,
-    "id_str": "662533538223407104",
-    "text": "@megaserg ну тут вроде микс проверенного, ибо #js, #jvm и #nashorn уже не дети и даже не школьники. Вопрос скорее в удобности использования.",
+    "created_at": "Fri Nov 06 10:07:23 +0000 2015",
+    "id": 662571975869640700,
+    "id_str": "662571975869640704",
+    "text": "@rubyunderhood @zhulikgleb на #stackoverflow пишут что OOM Killer шлет SIGKILL в #Linux",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 662354729477902300,
-    "in_reply_to_status_id_str": "662354729477902336",
-    "in_reply_to_user_id": 132897304,
-    "in_reply_to_user_id_str": "132897304",
-    "in_reply_to_screen_name": "megaserg",
+    "in_reply_to_status_id": 662571334082392000,
+    "in_reply_to_status_id_str": "662571334082392064",
+    "in_reply_to_user_id": 3341793591,
+    "in_reply_to_user_id_str": "3341793591",
+    "in_reply_to_screen_name": "rubyunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,37 +69,40 @@
     "entities": {
       "hashtags": [
         {
-          "text": "js",
+          "text": "stackoverflow",
           "indices": [
-            46,
-            49
+            30,
+            44
           ]
         },
         {
-          "text": "jvm",
+          "text": "Linux",
           "indices": [
-            51,
-            55
-          ]
-        },
-        {
-          "text": "nashorn",
-          "indices": [
-            58,
-            66
+            81,
+            87
           ]
         }
       ],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "megaserg",
-          "name": "Sergey Serebryakov",
-          "id": 132897304,
-          "id_str": "132897304",
+          "screen_name": "rubyunderhood",
+          "name": "Ruby разработчик",
+          "id": 3341793591,
+          "id_str": "3341793591",
           "indices": [
             0,
-            9
+            14
+          ]
+        },
+        {
+          "screen_name": "zhulikgleb",
+          "name": "gleb.zhulik",
+          "id": 139645030,
+          "id_str": "139645030",
+          "indices": [
+            15,
+            26
           ]
         }
       ],
@@ -107,7 +110,7 @@
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
