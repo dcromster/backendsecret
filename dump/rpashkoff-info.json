@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1404,
+  "followers_count": 1413,
   "friends_count": 350,
-  "listed_count": 84,
+  "listed_count": 83,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1716,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4802,
+  "statuses_count": 4810,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Nov 06 15:48:28 +0000 2015",
-    "id": 662657811378237400,
-    "id_str": "662657811378237441",
-    "text": "Кто ищет, тот всегда найдет https://t.co/vPu7sod89Y #backend #bug https://t.co/HhM4lvlvw0",
+    "created_at": "Sat Nov 07 17:42:01 +0000 2015",
+    "id": 663048775901032400,
+    "id_str": "663048775901032448",
+    "text": "Монти на Q&amp;A сессии в офисе @ru_Parallels убедил нас, что пора мигрировать с #MySQL на #mariadb . Кто уже пробовал?",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -69,75 +69,37 @@
     "entities": {
       "hashtags": [
         {
-          "text": "backend",
+          "text": "MySQL",
           "indices": [
-            52,
-            60
+            81,
+            87
           ]
         },
         {
-          "text": "bug",
+          "text": "mariadb",
           "indices": [
-            61,
-            65
+            91,
+            99
           ]
         }
       ],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/vPu7sod89Y",
-          "expanded_url": "http://bit.ly/1GHsDea",
-          "display_url": "bit.ly/1GHsDea",
+          "screen_name": "ru_Parallels",
+          "name": "Parallels по-русски",
+          "id": 24207739,
+          "id_str": "24207739",
           "indices": [
-            28,
-            51
+            32,
+            45
           ]
         }
       ],
-      "media": [
-        {
-          "id": 662657807833915400,
-          "id_str": "662657807833915392",
-          "indices": [
-            66,
-            89
-          ],
-          "media_url": "http://pbs.twimg.com/media/CTI7w-uUYAA6TPm.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CTI7w-uUYAA6TPm.jpg",
-          "url": "https://t.co/HhM4lvlvw0",
-          "display_url": "pic.twitter.com/HhM4lvlvw0",
-          "expanded_url": "http://twitter.com/backendsecret/status/662657811378237441/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1024,
-              "h": 512,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 600,
-              "h": 300,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 340,
-              "h": 170,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
