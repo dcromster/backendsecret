@@ -16,7 +16,7 @@
     "bounding_box": null,
     "attributes": {}
   },
-  "description": "Эту неделю публикуем неписанные правила бекенд от @rpashkoff из @ru_parallels.",
+  "description": "",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
     "url": {
@@ -46,13 +46,13 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4816,
+  "statuses_count": 4818,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Nov 08 14:51:46 +0000 2015",
-    "id": 663368318053720000,
-    "id_str": "663368318053720064",
-    "text": "Вершина нашего познания. Применимо к любому виду человеческой деятельности. https://t.co/vPu7sod89Y  #optimisation https://t.co/8sp4vSB9Ka",
+    "created_at": "Sun Nov 08 18:10:25 +0000 2015",
+    "id": 663418311653392400,
+    "id_str": "663418311653392384",
+    "text": "Всем спасибо! С вами на этой неделе был @rpashkoff . Приходите решать интересные задачи в @ru_Parallels Мск и Нск!",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,73 +64,37 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [
-        {
-          "text": "optimisation",
-          "indices": [
-            101,
-            114
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/vPu7sod89Y",
-          "expanded_url": "http://bit.ly/1GHsDea",
-          "display_url": "bit.ly/1GHsDea",
+          "screen_name": "rpashkoff",
+          "name": "Ruslan Pashkoff",
+          "id": 136913190,
+          "id_str": "136913190",
           "indices": [
-            76,
-            99
+            40,
+            50
+          ]
+        },
+        {
+          "screen_name": "ru_Parallels",
+          "name": "Parallels по-русски",
+          "id": 24207739,
+          "id_str": "24207739",
+          "indices": [
+            90,
+            103
           ]
         }
       ],
-      "media": [
-        {
-          "id": 663368316883501000,
-          "id_str": "663368316883501056",
-          "indices": [
-            115,
-            138
-          ],
-          "media_url": "http://pbs.twimg.com/media/CTTB-DMXAAAVSsv.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CTTB-DMXAAAVSsv.jpg",
-          "url": "https://t.co/8sp4vSB9Ka",
-          "display_url": "pic.twitter.com/8sp4vSB9Ka",
-          "expanded_url": "http://twitter.com/backendsecret/status/663368318053720064/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1024,
-              "h": 512,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 600,
-              "h": 300,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 340,
-              "h": 170,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -140,9 +104,8 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/660927434825437184/WicPuaO4_normal.png",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/660927434825437184/WicPuaO4_normal.png",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3302551618/1446412813",
+  "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+  "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
   "profile_link_color": "89C9FA",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
@@ -150,7 +113,7 @@
   "profile_use_background_image": false,
   "has_extended_profile": false,
   "default_profile": false,
-  "default_profile_image": false,
+  "default_profile_image": true,
   "following": false,
   "follow_request_sent": false,
   "notifications": false
