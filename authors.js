@@ -1,7 +1,7 @@
 export default [
   // post: false
   // { username: 'twitter_name',      start: '07 sep 2015', first: '640816652293144576', post: false }, 
-  { username: 'ipronix',      start: '07 sep 2015', first: '663627289570201600', post: false },
+  { username: 'ipronix',      start: '09 nov 2015', first: '663627289570201600', post: false },
   { username: 'rpashkoff',      start: '02 nov 2015', first: '661079629902553088'},
   { username: 'borovikov',      start: '26 Oct 2015', first: '658572186203090944'},
   { username: 'AlexSerbul',     start: '19 Oct 2015', first: '656031493249216512'},
