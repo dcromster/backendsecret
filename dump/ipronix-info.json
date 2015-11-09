@@ -46,13 +46,13 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4829,
+  "statuses_count": 4831,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Nov 09 08:19:36 +0000 2015",
-    "id": 663632013992321000,
-    "id_str": "663632013992321024",
-    "text": "RT @unix_tips: Вывести номер строки и количество слов, разделённых пробелом в данной строке:\n$ awk '{ print NR,\":\",NF }' input.txt https://…",
+    "created_at": "Mon Nov 09 08:25:48 +0000 2015",
+    "id": 663633572641824800,
+    "id_str": "663633572641824768",
+    "text": "RT @unix_tips: @backendsecret есть любопытная статья на тему фуллстеков \"\nThe full stack developer is a myth\" https://t.co/Fncw5P9nph :)",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -65,73 +65,56 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Mon Nov 09 08:18:36 +0000 2015",
-      "id": 663631764011753500,
-      "id_str": "663631764011753472",
-      "text": "Вывести номер строки и количество слов, разделённых пробелом в данной строке:\n$ awk '{ print NR,\":\",NF }' input.txt https://t.co/hll3TbcQwV",
+      "created_at": "Mon Nov 09 08:24:51 +0000 2015",
+      "id": 663633334275317800,
+      "id_str": "663633334275317760",
+      "text": "@backendsecret есть любопытная статья на тему фуллстеков \"\nThe full stack developer is a myth\" https://t.co/Fncw5P9nph :)",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 663629491093307400,
+      "in_reply_to_status_id_str": "663629491093307392",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 2,
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
-        "urls": [],
-        "media": [
+        "user_mentions": [
           {
-            "id": 663631762946261000,
-            "id_str": "663631762946260993",
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
             "indices": [
-              116,
-              139
-            ],
-            "media_url": "http://pbs.twimg.com/media/CTWxkoQUAAEjm3D.png",
-            "media_url_https": "https://pbs.twimg.com/media/CTWxkoQUAAEjm3D.png",
-            "url": "https://t.co/hll3TbcQwV",
-            "display_url": "pic.twitter.com/hll3TbcQwV",
-            "expanded_url": "http://twitter.com/unix_tips/status/663631764011753472/photo/1",
-            "type": "photo",
-            "sizes": {
-              "small": {
-                "w": 340,
-                "h": 179,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "medium": {
-                "w": 550,
-                "h": 291,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 550,
-                "h": 291,
-                "resize": "fit"
-              }
-            }
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Fncw5P9nph",
+            "expanded_url": "https://medium.com/swlh/the-full-stack-developer-is-a-myth-4e3fb9c25867",
+            "display_url": "medium.com/swlh/the-full-…",
+            "indices": [
+              95,
+              118
+            ]
           }
         ]
       },
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
-      "lang": "ru"
+      "lang": "und"
     },
-    "retweet_count": 2,
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
@@ -146,56 +129,34 @@
             3,
             13
           ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            15,
+            29
+          ]
         }
       ],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 663631762946261000,
-          "id_str": "663631762946260993",
+          "url": "https://t.co/Fncw5P9nph",
+          "expanded_url": "https://medium.com/swlh/the-full-stack-developer-is-a-myth-4e3fb9c25867",
+          "display_url": "medium.com/swlh/the-full-…",
           "indices": [
-            139,
-            140
-          ],
-          "media_url": "http://pbs.twimg.com/media/CTWxkoQUAAEjm3D.png",
-          "media_url_https": "https://pbs.twimg.com/media/CTWxkoQUAAEjm3D.png",
-          "url": "https://t.co/hll3TbcQwV",
-          "display_url": "pic.twitter.com/hll3TbcQwV",
-          "expanded_url": "http://twitter.com/unix_tips/status/663631764011753472/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 340,
-              "h": 179,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 550,
-              "h": 291,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 550,
-              "h": 291,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 663631764011753500,
-          "source_status_id_str": "663631764011753472",
-          "source_user_id": 3320635454,
-          "source_user_id_str": "3320635454"
+            110,
+            133
+          ]
         }
       ]
     },
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
