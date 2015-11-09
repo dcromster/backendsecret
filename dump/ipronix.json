@@ -1,9 +1,384 @@
 {
   "username": "ipronix",
-  "start": "07 sep 2015",
+  "start": "09 nov 2015",
   "first": "663627289570201600",
   "post": false,
   "tweets": [
+    {
+      "created_at": "Mon Nov 09 08:19:36 +0000 2015",
+      "id": 663632013992321000,
+      "id_str": "663632013992321024",
+      "text": "RT @unix_tips: Вывести номер строки и количество слов, разделённых пробелом в данной строке:\n$ awk '{ print NR,\":\",NF }' input.txt https://…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 09 08:18:36 +0000 2015",
+        "id": 663631764011753500,
+        "id_str": "663631764011753472",
+        "text": "Вывести номер строки и количество слов, разделённых пробелом в данной строке:\n$ awk '{ print NR,\":\",NF }' input.txt https://t.co/hll3TbcQwV",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3320635454,
+          "id_str": "3320635454"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 663631762946261000,
+              "id_str": "663631762946260993",
+              "indices": [
+                116,
+                139
+              ],
+              "media_url": "http://pbs.twimg.com/media/CTWxkoQUAAEjm3D.png",
+              "media_url_https": "https://pbs.twimg.com/media/CTWxkoQUAAEjm3D.png",
+              "url": "https://t.co/hll3TbcQwV",
+              "display_url": "pic.twitter.com/hll3TbcQwV",
+              "expanded_url": "http://twitter.com/unix_tips/status/663631764011753472/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 179,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 550,
+                  "h": 291,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 550,
+                  "h": 291,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 663631762946261000,
+              "id_str": "663631762946260993",
+              "indices": [
+                116,
+                139
+              ],
+              "media_url": "http://pbs.twimg.com/media/CTWxkoQUAAEjm3D.png",
+              "media_url_https": "https://pbs.twimg.com/media/CTWxkoQUAAEjm3D.png",
+              "url": "https://t.co/hll3TbcQwV",
+              "display_url": "pic.twitter.com/hll3TbcQwV",
+              "expanded_url": "http://twitter.com/unix_tips/status/663631764011753472/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 179,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 550,
+                  "h": 291,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 550,
+                  "h": 291,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "unix_tips",
+            "name": "unix_tips",
+            "id": 3320635454,
+            "id_str": "3320635454",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 663631762946261000,
+            "id_str": "663631762946260993",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CTWxkoQUAAEjm3D.png",
+            "media_url_https": "https://pbs.twimg.com/media/CTWxkoQUAAEjm3D.png",
+            "url": "https://t.co/hll3TbcQwV",
+            "display_url": "pic.twitter.com/hll3TbcQwV",
+            "expanded_url": "http://twitter.com/unix_tips/status/663631764011753472/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 179,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 550,
+                "h": 291,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 550,
+                "h": 291,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 663631764011753500,
+            "source_status_id_str": "663631764011753472",
+            "source_user_id": 3320635454,
+            "source_user_id_str": "3320635454"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 663631762946261000,
+            "id_str": "663631762946260993",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CTWxkoQUAAEjm3D.png",
+            "media_url_https": "https://pbs.twimg.com/media/CTWxkoQUAAEjm3D.png",
+            "url": "https://t.co/hll3TbcQwV",
+            "display_url": "pic.twitter.com/hll3TbcQwV",
+            "expanded_url": "http://twitter.com/unix_tips/status/663631764011753472/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 179,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 550,
+                "h": 291,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 550,
+                "h": 291,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 663631764011753500,
+            "source_status_id_str": "663631764011753472",
+            "source_user_id": 3320635454,
+            "source_user_id_str": "3320635454"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 09 08:18:55 +0000 2015",
+      "id": 663631840620736500,
+      "id_str": "663631840620736512",
+      "text": "@dcromster в англии и германии есть даже фрилансерские визы: находите контракт больше 7к в месяц и виза в кармане",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 663630446480244700,
+      "in_reply_to_status_id_str": "663630446480244736",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "dcromster",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 09 08:18:00 +0000 2015",
+      "id": 663631610726715400,
+      "id_str": "663631610726715392",
+      "text": "@dcromster а если серьезно - то это тот же поиск работы, только не permanent, а contract. А через пару лет уже знакомые знакомых нанимают.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 663630446480244700,
+      "in_reply_to_status_id_str": "663630446480244736",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "dcromster",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 09 08:16:49 +0000 2015",
+      "id": 663631312994050000,
+      "id_str": "663631312994050049",
+      "text": "@dcromster приходите в офис и говорите: налоги, страховки,курсы, ноутбуки,сервера я покупаю сам!!! \nДиректор: наконец-то!!!!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 663630446480244700,
+      "in_reply_to_status_id_str": "663630446480244736",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "dcromster",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
     {
       "created_at": "Mon Nov 09 08:09:34 +0000 2015",
       "id": 663629491093307400,
