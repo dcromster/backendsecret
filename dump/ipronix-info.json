@@ -46,20 +46,20 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 5834,
+  "statuses_count": 5836,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Nov 14 16:04:46 +0000 2015",
-    "id": 665561015401205800,
-    "id_str": "665561015401205760",
-    "text": "Или даже интереснее - кто использует cgroup без докера ?",
+    "created_at": "Sat Nov 14 16:06:03 +0000 2015",
+    "id": 665561339868405800,
+    "id_str": "665561339868405760",
+    "text": "@ctrlok а сейчас вы кто ?",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 665561172767322100,
+    "in_reply_to_status_id_str": "665561172767322112",
+    "in_reply_to_user_id": 17509585,
+    "in_reply_to_user_id_str": "17509585",
+    "in_reply_to_screen_name": "ctrlok",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,7 +69,18 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "ctrlok",
+          "name": "Seua",
+          "id": 17509585,
+          "id_str": "17509585",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
