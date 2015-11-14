@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1429,
+  "followers_count": 1428,
   "friends_count": 376,
   "listed_count": 95,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 5838,
+  "statuses_count": 5840,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Nov 14 16:07:46 +0000 2015",
-    "id": 665561772397625300,
-    "id_str": "665561772397625344",
-    "text": "Вы не верблюд.Вы, скажем это гордо, человек. Человек. А будуте хорошо работать, станете Инженером. https://t.co/5z8grWwHNp",
+    "created_at": "Sat Nov 14 16:11:51 +0000 2015",
+    "id": 665562799578480600,
+    "id_str": "665562799578480640",
+    "text": "RT @ctrlok: мда, что-то текущий @backendsecret не столько тролль, сколько хамло и демагог.",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -64,27 +64,121 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Sat Nov 14 16:10:51 +0000 2015",
+      "id": 665562548725555200,
+      "id_str": "665562548725555200",
+      "text": "мда, что-то текущий @backendsecret не столько тролль, сколько хамло и демагог.",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          50.40208761,
+          30.52645244
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          30.52645244,
+          50.40208761
+        ]
+      },
+      "place": {
+        "id": "084d0d0155787e9d",
+        "url": "https://api.twitter.com/1.1/geo/id/084d0d0155787e9d.json",
+        "place_type": "country",
+        "name": "Ukraine",
+        "full_name": "Ukraine",
+        "country_code": "UA",
+        "country": "Ukraina",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                22.1357201,
+                44.386383
+              ],
+              [
+                40.227172,
+                44.386383
+              ],
+              [
+                40.227172,
+                52.379475
+              ],
+              [
+                22.1357201,
+                52.379475
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              20,
+              34
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/5z8grWwHNp",
-          "expanded_url": "https://twitter.com/ctrlok/status/665561434831630336",
-          "display_url": "twitter.com/ctrlok/status/…",
+          "screen_name": "ctrlok",
+          "name": "Seua",
+          "id": 17509585,
+          "id_str": "17509585",
           "indices": [
-            99,
-            122
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            32,
+            46
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
