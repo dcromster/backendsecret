@@ -35,95 +35,46 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 6069,
+  "statuses_count": 6070,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Nov 16 07:53:25 +0000 2015",
-    "id": 666162138092838900,
-    "id_str": "666162138092838912",
-    "text": "RT @vassilevsky: @backendsecret Terraform",
+    "created_at": "Mon Nov 16 07:54:01 +0000 2015",
+    "id": 666162291436572700,
+    "id_str": "666162291436572672",
+    "text": "лично мне нравится haskell, но никто на нём не пишет. https://t.co/9gA5iht590",
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 666161799457296400,
+    "in_reply_to_status_id_str": "666161799457296384",
+    "in_reply_to_user_id": 3302551618,
+    "in_reply_to_user_id_str": "3302551618",
+    "in_reply_to_screen_name": "backendsecret",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Nov 16 07:50:48 +0000 2015",
-      "id": 666161481013198800,
-      "id_str": "666161481013198848",
-      "text": "@backendsecret Terraform",
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 666160798742536200,
-      "in_reply_to_status_id_str": "666160798742536192",
-      "in_reply_to_user_id": 3302551618,
-      "in_reply_to_user_id_str": "3302551618",
-      "in_reply_to_screen_name": "backendsecret",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              0,
-              14
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": false,
-      "lang": "et"
-    },
     "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "vassilevsky",
-          "name": "White Russian",
-          "id": 53391978,
-          "id_str": "53391978",
+          "url": "https://t.co/9gA5iht590",
+          "expanded_url": "https://twitter.com/backendsecret/status/666161799457296384",
+          "display_url": "twitter.com/backendsecret/…",
           "indices": [
-            3,
-            15
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            17,
-            31
+            54,
+            77
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "et"
+    "possibly_sensitive": false,
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
