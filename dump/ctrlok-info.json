@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1507,
+  "followers_count": 1510,
   "friends_count": 380,
   "listed_count": 101,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,14 +35,14 @@
   "time_zone": "Moscow",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 6583,
+  "statuses_count": 6590,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 19 17:27:15 +0000 2015",
-    "id": 667393712499114000,
-    "id_str": "667393712499113984",
-    "text": "но всю и не надо. Главное хотя бы примерно понимать что именно ты не знаешь :)  https://t.co/Y1wupJfMRs",
-    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "created_at": "Fri Nov 20 06:15:43 +0000 2015",
+    "id": 667587106248777700,
+    "id_str": "667587106248777728",
+    "text": "RT @Shiroginne: /cc @backendsecret ;) https://t.co/kw5OHmvlTq",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -53,20 +53,91 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Fri Nov 20 06:14:41 +0000 2015",
+      "id": 667586844570292200,
+      "id_str": "667586844570292224",
+      "text": "/cc @backendsecret ;) https://t.co/kw5OHmvlTq",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              4,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kw5OHmvlTq",
+            "expanded_url": "https://twitter.com/j00bar/status/667521010065772544",
+            "display_url": "twitter.com/j00bar/status/…",
+            "indices": [
+              22,
+              45
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "Shiroginne",
+          "name": "Mac Shifford",
+          "id": 25733176,
+          "id_str": "25733176",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            20,
+            34
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/Y1wupJfMRs",
-          "expanded_url": "https://twitter.com/vassilevsky/status/667391846629433344",
-          "display_url": "twitter.com/vassilevsky/st…",
+          "url": "https://t.co/kw5OHmvlTq",
+          "expanded_url": "https://twitter.com/j00bar/status/667521010065772544",
+          "display_url": "twitter.com/j00bar/status/…",
           "indices": [
-            80,
-            103
+            38,
+            61
           ]
         }
       ]
@@ -74,7 +145,7 @@
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
