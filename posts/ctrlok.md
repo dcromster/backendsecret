@@ -122,7 +122,7 @@ RT <a href="https://twitter.com/zhulikgleb" title="gleb.zhulik">@zhulikgleb</a>:
 
 RT <a href="https://twitter.com/freiksenet_ru" title="Михаил Новиков">@freiksenet_ru</a>: <a href="https://twitter.com/strizhechenko" title="Алкоголь и Кислота">@strizhechenko</a> <a href="https://twitter.com/backendsecret" title="Разработчик бэкенда">@backendsecret</a> Твой билд сломался - ты его чинишь. Главное это чуство собственности продукта, тогда не на…
 
-RT <a href="https://twitter.com/strizhechenko" title="Хардкор и EBM">@strizhechenko</a>: <a href="https://twitter.com/backendsecret" title="Разработчик бэкенда">@backendsecret</a> выяснить причину возникающей баги, которая не возникает на других серверах обычно.
+RT <a href="https://twitter.com/strizhechenko" title="Боты и Код">@strizhechenko</a>: <a href="https://twitter.com/backendsecret" title="Разработчик бэкенда">@backendsecret</a> выяснить причину возникающей баги, которая не возникает на других серверах обычно.
 
 В смысле что девопсов не существует? <a href="https://t.co/o1yg2qo3oE">twitter.com/raxpost/status…</a>
 
