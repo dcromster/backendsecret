@@ -5,6 +5,1530 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Sun Nov 29 17:51:56 +0000 2015",
+      "id": 671023805884665900,
+      "id_str": "671023805884665856",
+      "text": ". @ruxeg да, есть ещё ReactNative и CLJS-обёртка для него, но я не пробовал :) https://t.co/ZSaoR61E31",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671021520232300500,
+      "in_reply_to_status_id_str": "671021520232300544",
+      "in_reply_to_user_id": 113131428,
+      "in_reply_to_user_id_str": "113131428",
+      "in_reply_to_screen_name": "ruxeg",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruxeg",
+            "name": "ruX",
+            "id": 113131428,
+            "id_str": "113131428",
+            "indices": [
+              2,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZSaoR61E31",
+            "expanded_url": "https://www.youtube.com/watch?v=KVZ-P-ZI6W4",
+            "display_url": "youtube.com/watch?v=KVZ-P-…",
+            "indices": [
+              79,
+              102
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:51:11 +0000 2015",
+      "id": 671023614372814800,
+      "id_str": "671023614372814848",
+      "text": "RT @ruxeg: @backendsecret хочу также для андроида! Слышал что вроде jrebel для него вышел",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 29 17:42:52 +0000 2015",
+        "id": 671021520232300500,
+        "id_str": "671021520232300544",
+        "text": "@backendsecret хочу также для андроида! Слышал что вроде jrebel для него вышел",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671020878348615700,
+        "in_reply_to_status_id_str": "671020878348615680",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 113131428,
+          "id_str": "113131428"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruxeg",
+            "name": "ruX",
+            "id": 113131428,
+            "id_str": "113131428",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:40:35 +0000 2015",
+      "id": 671020948661891100,
+      "id_str": "671020948661891073",
+      "text": "RT @clojure_ru: @backendsecret а еще у нас есть скобочки, интероп в джаву и джаваскрипт, датомик и ом.некст.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 29 17:38:25 +0000 2015",
+        "id": 671020403792457700,
+        "id_str": "671020403792457728",
+        "text": "@backendsecret а еще у нас есть скобочки, интероп в джаву и джаваскрипт, датомик и ом.некст.",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671018544637833200,
+        "in_reply_to_status_id_str": "671018544637833216",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 3347380889,
+          "id_str": "3347380889"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "clojure_ru",
+            "name": "clojure-russia",
+            "id": 3347380889,
+            "id_str": "3347380889",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              16,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:40:29 +0000 2015",
+      "id": 671020924242645000,
+      "id_str": "671020924242644992",
+      "text": "RT @ivan0yu: @backendsecret на https://t.co/oPPJqPqgbu объясняли :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 29 17:39:02 +0000 2015",
+        "id": 671020557597597700,
+        "id_str": "671020557597597698",
+        "text": "@backendsecret на https://t.co/oPPJqPqgbu объясняли :)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671007474191867900,
+        "in_reply_to_status_id_str": "671007474191867908",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 866589110,
+          "id_str": "866589110"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/oPPJqPqgbu",
+              "expanded_url": "https://www.coursera.org/course/crypto",
+              "display_url": "coursera.org/course/crypto",
+              "indices": [
+                18,
+                41
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ivan0yu",
+            "name": "Ivαn Yurchenko",
+            "id": 866589110,
+            "id_str": "866589110",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/oPPJqPqgbu",
+            "expanded_url": "https://www.coursera.org/course/crypto",
+            "display_url": "coursera.org/course/crypto",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:40:19 +0000 2015",
+      "id": 671020878348615700,
+      "id_str": "671020878348615680",
+      "text": "Насчёт тулчейна: вот примерно такая магия работает прям очень легко (с Boot) https://t.co/hpfmgOqWaT",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671018544637833200,
+      "in_reply_to_status_id_str": "671018544637833216",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hpfmgOqWaT",
+            "expanded_url": "https://www.instagram.com/p/tce_F3FVe6/",
+            "display_url": "instagram.com/p/tce_F3FVe6/",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:35:14 +0000 2015",
+      "id": 671019600658767900,
+      "id_str": "671019600658767873",
+      "text": ". @ruxeg компьютеры и JS-движки вообще контринтуитивно быстрые сегодня. Ну и всегда можно использовать примитивы, если очень надо.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671019368755671000,
+      "in_reply_to_status_id_str": "671019368755671040",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruxeg",
+            "name": "ruX",
+            "id": 113131428,
+            "id_str": "113131428",
+            "indices": [
+              2,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:34:19 +0000 2015",
+      "id": 671019368755671000,
+      "id_str": "671019368755671040",
+      "text": ". @ruxeg скажем так, обычно незаметно на фоне того, что умудряются нафигачить в библиотеках люди.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671018923157008400,
+      "in_reply_to_status_id_str": "671018923157008385",
+      "in_reply_to_user_id": 113131428,
+      "in_reply_to_user_id_str": "113131428",
+      "in_reply_to_screen_name": "ruxeg",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruxeg",
+            "name": "ruX",
+            "id": 113131428,
+            "id_str": "113131428",
+            "indices": [
+              2,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:34:14 +0000 2015",
+      "id": 671019349432475600,
+      "id_str": "671019349432475648",
+      "text": "RT @ruxeg: @backendsecret а для дилетанта, из за немутабельности скорость сильно падает?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Nov 29 17:32:32 +0000 2015",
+        "id": 671018923157008400,
+        "id_str": "671018923157008385",
+        "text": "@backendsecret а для дилетанта, из за немутабельности скорость сильно падает?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671018544637833200,
+        "in_reply_to_status_id_str": "671018544637833216",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 113131428,
+          "id_str": "113131428"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruxeg",
+            "name": "ruX",
+            "id": 113131428,
+            "id_str": "113131428",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:31:02 +0000 2015",
+      "id": 671018544637833200,
+      "id_str": "671018544637833216",
+      "text": "Ну и то, что «в комплекте» с CLJS идёт знание просто Clojure, добавляет няшности платформе. Рекомандасики!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671018294514688000,
+      "in_reply_to_status_id_str": "671018294514688000",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:30:02 +0000 2015",
+      "id": 671018294514688000,
+      "id_str": "671018294514688000",
+      "text": "Мы тут, конечно, backend-разработчики, но тем и ценен CLJS, что можно на нём писать, не сходя с ума от _интересных особенностей_ JS.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671018022312747000,
+      "in_reply_to_status_id_str": "671018022312747008",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:28:58 +0000 2015",
+      "id": 671018022312747000,
+      "id_str": "671018022312747008",
+      "text": "Продолжая тему «если не писать, то хотя бы поинтересоваться»: у ClojureScript на сегодня чуть ли не более адекватная экосистема, чем у JS.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:24:42 +0000 2015",
+      "id": 671016950219317200,
+      "id_str": "671016950219317250",
+      "text": "Что-то я мало вас развлекал на этой неделе, да. Простите :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:15:33 +0000 2015",
+      "id": 671014649031192600,
+      "id_str": "671014649031192579",
+      "text": "@strangeqargo да, мне тоже оче нравится",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671013782425047000,
+      "in_reply_to_status_id_str": "671013782425047040",
+      "in_reply_to_user_id": 127573172,
+      "in_reply_to_user_id_str": "127573172",
+      "in_reply_to_screen_name": "strangeqargo",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "strangeqargo",
+            "name": "hey you, kekoosh",
+            "id": 127573172,
+            "id_str": "127573172",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:15:03 +0000 2015",
+      "id": 671014523793489900,
+      "id_str": "671014523793489924",
+      "text": "Овервью кандидатов в первом раунде можно найти тут https://t.co/596S18NRM2 правда, тут не отмечены прошедшие во второй",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671013452887023600,
+      "in_reply_to_status_id_str": "671013452887023617",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/596S18NRM2",
+            "expanded_url": "https://eprint.iacr.org/2014/792.pdf",
+            "display_url": "eprint.iacr.org/2014/792.pdf",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:10:48 +0000 2015",
+      "id": 671013452887023600,
+      "id_str": "671013452887023617",
+      "text": "О, кто-то ответил «да»! Тогда поделюсь недавней радостью: CAESAR движется вперёд https://t.co/oOZSoSlLTj , скоро у нас будет хороший AEAD",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oOZSoSlLTj",
+            "expanded_url": "http://competitions.cr.yp.to/caesar-submissions.html",
+            "display_url": "competitions.cr.yp.to/caesar-submiss…",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:03:55 +0000 2015",
+      "id": 671011722044571600,
+      "id_str": "671011722044571648",
+      "text": "Если всё-таки очень хочется: https://t.co/bFIRzjrGGU\n\nТам нет никакой магии, но понять, что происходит, таки нужно.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671011513898025000,
+      "in_reply_to_status_id_str": "671011513898024964",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bFIRzjrGGU",
+            "expanded_url": "https://www.coursera.org/course/crypto",
+            "display_url": "coursera.org/course/crypto",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:03:06 +0000 2015",
+      "id": 671011513898025000,
+      "id_str": "671011513898024964",
+      "text": "Ага, опрос показывает, что это будет актуально. Почему никогда не нужно писать буквы AES в своём коде: https://t.co/4jWr8L7wLo",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4jWr8L7wLo",
+            "expanded_url": "https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2009/july/if-youre-typing-the-letters-a-e-s-into-your-code-youre-doing-it-wrong/",
+            "display_url": "nccgroup.trust/us/about-us/ne…",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:01:43 +0000 2015",
+      "id": 671011164948668400,
+      "id_str": "671011164948668416",
+      "text": "У них есть удобное апи, чтобы пушить туда эвенты с клиента и сервера, и хорошая панель, чтобы из них делать графики. Это всё, никакой магии",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671011032488394800,
+      "in_reply_to_status_id_str": "671011032488394752",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 17:01:11 +0000 2015",
+      "id": 671011032488394800,
+      "id_str": "671011032488394752",
+      "text": "Да, точно, забыл сказать: опять же, в отличие от стандартной статистики, микспанель заточена под нас, то есть под погромистов",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671006796060995600,
+      "in_reply_to_status_id_str": "671006796060995588",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 16:59:51 +0000 2015",
+      "id": 671010695303991300,
+      "id_str": "671010695303991296",
+      "text": "@antony_aa само — вроде бы только для тегов кампаний, но там вся идея в том, что ты сам его эвентами кормишь",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671009134905589800,
+      "in_reply_to_status_id_str": "671009134905589760",
+      "in_reply_to_user_id": 287610591,
+      "in_reply_to_user_id_str": "287610591",
+      "in_reply_to_screen_name": "antony_aa",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "antony_aa",
+            "name": "Antony A",
+            "id": 287610591,
+            "id_str": "287610591",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 16:47:03 +0000 2015",
+      "id": 671007474191867900,
+      "id_str": "671007474191867908",
+      "text": "Кстати, интересно. Вопрос: знаете ли вы, чем отличается AES-GCM от AES-CBC?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 16:44:21 +0000 2015",
+      "id": 671006796060995600,
+      "id_str": "671006796060995588",
+      "text": "В частности, возможность построить воронки в ретроспективе рулит и педалит",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671006706676179000,
+      "in_reply_to_status_id_str": "671006706676178945",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 16:44:00 +0000 2015",
+      "id": 671006706676179000,
+      "id_str": "671006706676178945",
+      "text": "В отличие от всякого бесплатного вроде яметрики и гугланалитики,посоны просто хранят эвенты и позволяют их по-разному массировать постфактум",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671006552296431600,
+      "in_reply_to_status_id_str": "671006552296431616",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 16:43:23 +0000 2015",
+      "id": 671006552296431600,
+      "id_str": "671006552296431616",
+      "text": "Если вы вдруг не используете https://t.co/k3qImGjpOG для своего стартапчика, вы делаете это зря. Они очень крутые!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/k3qImGjpOG",
+            "expanded_url": "http://mixpanel.com",
+            "display_url": "mixpanel.com",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 16:42:45 +0000 2015",
+      "id": 671006393806270500,
+      "id_str": "671006393806270464",
+      "text": "@tru_pablo там ещё ватерфолы есть реалистичные достаточно.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 670361464507600900,
+      "in_reply_to_status_id_str": "670361464507600897",
+      "in_reply_to_user_id": 515206451,
+      "in_reply_to_user_id_str": "515206451",
+      "in_reply_to_screen_name": "tru_pablo",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tru_pablo",
+            "name": "pablo trukhanov",
+            "id": 515206451,
+            "id_str": "515206451",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 16:41:20 +0000 2015",
+      "id": 671006035340107800,
+      "id_str": "671006035340107776",
+      "text": ". @yelbota скорее\n— студенты пишут на хаскеле\n— забыли зафорсить thunk\n— в продакшне течёт память, всё падает, ад, черти, сатана",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 670363129851854800,
+      "in_reply_to_status_id_str": "670363129851854848",
+      "in_reply_to_user_id": 10634822,
+      "in_reply_to_user_id_str": "10634822",
+      "in_reply_to_screen_name": "yelbota",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "yelbota",
+            "name": "Aleksey Fomkin",
+            "id": 10634822,
+            "id_str": "10634822",
+            "indices": [
+              2,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 16:40:39 +0000 2015",
+      "id": 671005864334106600,
+      "id_str": "671005864334106624",
+      "text": "RT @yelbota: @backendsecret студенты пишут на хаскеле. Ничего не тормозит, все легко рефакторить, заказчик доволен, заплатил подрядчику.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 27 22:06:39 +0000 2015",
+        "id": 670363129851854800,
+        "id_str": "670363129851854848",
+        "text": "@backendsecret студенты пишут на хаскеле. Ничего не тормозит, все легко рефакторить, заказчик доволен, заплатил подрядчику.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 670278957145694200,
+        "in_reply_to_status_id_str": "670278957145694213",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 10634822,
+          "id_str": "10634822"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "yelbota",
+            "name": "Aleksey Fomkin",
+            "id": 10634822,
+            "id_str": "10634822",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 16:40:27 +0000 2015",
+      "id": 671005814329602000,
+      "id_str": "671005814329602048",
+      "text": "@tru_pablo пойнт в том, что очень сложно сделать продукт, если ты умеешь только в кобол, например. Нужно ещё иметь soft skills, например.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 670367374839840800,
+      "in_reply_to_status_id_str": "670367374839840768",
+      "in_reply_to_user_id": 515206451,
+      "in_reply_to_user_id_str": "515206451",
+      "in_reply_to_screen_name": "tru_pablo",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tru_pablo",
+            "name": "pablo trukhanov",
+            "id": 515206451,
+            "id_str": "515206451",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 16:39:23 +0000 2015",
+      "id": 671005547903209500,
+      "id_str": "671005547903209474",
+      "text": "@tru_pablo ну большинство тут из РФ же, плюс есть смерти от всяких автоаварий.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 670367884841996300,
+      "in_reply_to_status_id_str": "670367884841996289",
+      "in_reply_to_user_id": 515206451,
+      "in_reply_to_user_id_str": "515206451",
+      "in_reply_to_screen_name": "tru_pablo",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tru_pablo",
+            "name": "pablo trukhanov",
+            "id": 515206451,
+            "id_str": "515206451",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 29 14:37:03 +0000 2015",
+      "id": 670974759543431200,
+      "id_str": "670974759543431168",
+      "text": "@tru_pablo я ж не пират!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 670362335542952000,
+      "in_reply_to_status_id_str": "670362335542951936",
+      "in_reply_to_user_id": 515206451,
+      "in_reply_to_user_id_str": "515206451",
+      "in_reply_to_screen_name": "tru_pablo",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tru_pablo",
+            "name": "pablo trukhanov",
+            "id": 515206451,
+            "id_str": "515206451",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Fri Nov 27 21:41:33 +0000 2015",
       "id": 670356814555430900,
       "id_str": "670356814555430913",
@@ -437,7 +1961,7 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 2,
+      "retweet_count": 3,
       "favorite_count": 8,
       "entities": {
         "hashtags": [],
@@ -1574,8 +3098,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 4,
+      "retweet_count": 2,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2857,7 +4381,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 22,
+      "favorite_count": 23,
       "entities": {
         "hashtags": [],
         "symbols": [],
