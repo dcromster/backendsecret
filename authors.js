@@ -1,7 +1,8 @@
 export default [
   // post: false
   // { username: 'twitter_name',      start: '07 sep 2015', first: '640816652293144576', post: false }, 
-  { username: 'lambdadmitry',      start: '23 nov 2015', first: '670194583100383232', post: false }, 
+  // { username: 'twitter_name',      start: '30 nov 2015', first: '', post: false }, 
+  { username: 'lambdadmitry',      start: '23 nov 2015', first: '670194583100383232' }, 
   { username: 'ctrlok',      start: '16 nov 2015', first: '666158756582006785' }, 
   { username: 'ipronix',      start: '09 nov 2015', first: '663627289570201600'},
   { username: 'rpashkoff',      start: '02 nov 2015', first: '661079629902553088'},
