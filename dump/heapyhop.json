@@ -5,6 +5,1142 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Mon Nov 30 15:17:22 +0000 2015",
+      "id": 671347294814498800,
+      "id_str": "671347294814498816",
+      "text": "RT @xgrommx: @backendsecret И еще, для асинхронности лучше RxJava нет, а она с Kotlin вообще круто интегрируется + есть https://t.co/zCzG1B…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 30 15:14:27 +0000 2015",
+        "id": 671346560521904100,
+        "id_str": "671346560521904128",
+        "text": "@backendsecret И еще, для асинхронности лучше RxJava нет, а она с Kotlin вообще круто интегрируется + есть https://t.co/zCzG1Bsds9",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671341807628890100,
+        "in_reply_to_status_id_str": "671341807628890112",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 354807612,
+          "id_str": "354807612"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/zCzG1Bsds9",
+              "expanded_url": "https://github.com/ReactiveX/RxKotlin",
+              "display_url": "github.com/ReactiveX/RxKo…",
+              "indices": [
+                107,
+                130
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xgrommx",
+            "name": "Denis Stoyanov",
+            "id": 354807612,
+            "id_str": "354807612",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zCzG1Bsds9",
+            "expanded_url": "https://github.com/ReactiveX/RxKotlin",
+            "display_url": "github.com/ReactiveX/RxKo…",
+            "indices": [
+              120,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 14:55:34 +0000 2015",
+      "id": 671341807628890100,
+      "id_str": "671341807628890112",
+      "text": "Можно использовать джавовый интерфейс Akka из Kotlin. А вообще у quasar есть поддежка kotlin https://t.co/wM5vJ7J9m1 https://t.co/xuIRhKU5RB",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 671338211998847000,
+      "quoted_status_id_str": "671338211998846976",
+      "quoted_status": {
+        "created_at": "Mon Nov 30 14:41:17 +0000 2015",
+        "id": 671338211998847000,
+        "id_str": "671338211998846976",
+        "text": "@backendsecret я скорее имею в виду Akka, Play, Slick и так далее. без них и Scala нахрен не нужна",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671335719873470500,
+        "in_reply_to_status_id_str": "671335719873470465",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 14354160,
+          "id_str": "14354160"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wM5vJ7J9m1",
+            "expanded_url": "http://www.paralleluniverse.co",
+            "display_url": "paralleluniverse.co",
+            "indices": [
+              93,
+              116
+            ]
+          },
+          {
+            "url": "https://t.co/xuIRhKU5RB",
+            "expanded_url": "https://twitter.com/borovikov/status/671338211998846976",
+            "display_url": "twitter.com/borovikov/stat…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 14:31:23 +0000 2015",
+      "id": 671335719873470500,
+      "id_str": "671335719873470465",
+      "text": "Про инфарструктуру (в особенности IDE) я бы поспорил. А еще можно накинуть про скорость ide и компиляции) https://t.co/6T2dD6IYLc",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 671325937154334700,
+      "quoted_status_id_str": "671325937154334720",
+      "quoted_status": {
+        "created_at": "Mon Nov 30 13:52:30 +0000 2015",
+        "id": 671325937154334700,
+        "id_str": "671325937154334720",
+        "text": "@backendsecret эх, зря. там много правильных подмножеств, в зависимости от потребностей, да и инфраструктура лучше",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671325459930550300,
+        "in_reply_to_status_id_str": "671325459930550272",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 14354160,
+          "id_str": "14354160"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6T2dD6IYLc",
+            "expanded_url": "https://twitter.com/borovikov/status/671325937154334720",
+            "display_url": "twitter.com/borovikov/stat…",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 14:29:07 +0000 2015",
+      "id": 671335152740642800,
+      "id_str": "671335152740642816",
+      "text": "А чтобы одной не скучно было есть несколько чатов https://t.co/QhJqA3K0HJ (900+) https://t.co/ckhITJLro0 (46) https://t.co/ULyjbGeVf4",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 671322901073797100,
+      "quoted_status_id_str": "671322901073797120",
+      "quoted_status": {
+        "created_at": "Mon Nov 30 13:40:26 +0000 2015",
+        "id": 671322901073797100,
+        "id_str": "671322901073797120",
+        "text": "@backendsecret буду сегодня с kotlin играться значит :)",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671322015119315000,
+        "in_reply_to_status_id_str": "671322015119314944",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 858582841,
+          "id_str": "858582841"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QhJqA3K0HJ",
+            "expanded_url": "http://kotlinslackin.herokuapp.com/",
+            "display_url": "kotlinslackin.herokuapp.com",
+            "indices": [
+              50,
+              73
+            ]
+          },
+          {
+            "url": "https://t.co/ckhITJLro0",
+            "expanded_url": "https://gitter.im/JavaBy/Kotlin",
+            "display_url": "gitter.im/JavaBy/Kotlin",
+            "indices": [
+              81,
+              104
+            ]
+          },
+          {
+            "url": "https://t.co/ULyjbGeVf4",
+            "expanded_url": "https://twitter.com/White_Desay/status/671322901073797120",
+            "display_url": "twitter.com/White_Desay/st…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 13:50:36 +0000 2015",
+      "id": 671325459930550300,
+      "id_str": "671325459930550272",
+      "text": "Вопрос не в том что он лучше или хуже. Я бы сказал что Котлин это правильное подмножество Scala. https://t.co/RQ0LyRzU9R",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 671322540971843600,
+      "quoted_status_id_str": "671322540971843584",
+      "quoted_status": {
+        "created_at": "Mon Nov 30 13:39:00 +0000 2015",
+        "id": 671322540971843600,
+        "id_str": "671322540971843584",
+        "text": "@backendsecret https://t.co/RlCZ1XhNWc",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671321003931357200,
+        "in_reply_to_status_id_str": "671321003931357184",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 14354160,
+          "id_str": "14354160"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 671322539734470700,
+              "id_str": "671322539734470656",
+              "indices": [
+                15,
+                38
+              ],
+              "media_url": "http://pbs.twimg.com/media/CVEESwaWEAAlf77.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CVEESwaWEAAlf77.jpg",
+              "url": "https://t.co/RlCZ1XhNWc",
+              "display_url": "pic.twitter.com/RlCZ1XhNWc",
+              "expanded_url": "http://twitter.com/borovikov/status/671322540971843584/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 191,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 700,
+                  "h": 394,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 337,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 671322539734470700,
+              "id_str": "671322539734470656",
+              "indices": [
+                15,
+                38
+              ],
+              "media_url": "http://pbs.twimg.com/media/CVEESwaWEAAlf77.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CVEESwaWEAAlf77.jpg",
+              "url": "https://t.co/RlCZ1XhNWc",
+              "display_url": "pic.twitter.com/RlCZ1XhNWc",
+              "expanded_url": "http://twitter.com/borovikov/status/671322540971843584/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 191,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 700,
+                  "h": 394,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 337,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RQ0LyRzU9R",
+            "expanded_url": "https://twitter.com/borovikov/status/671322540971843584",
+            "display_url": "twitter.com/borovikov/stat…",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 13:36:55 +0000 2015",
+      "id": 671322015119315000,
+      "id_str": "671322015119314944",
+      "text": "https://t.co/e2AnnQ8Etr\nВот тут краткий список фич. С Java можно жить, но со временем это сильно надоедает. https://t.co/7KjwcSfPMH",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 671321354721980400,
+      "quoted_status_id_str": "671321354721980416",
+      "quoted_status": {
+        "created_at": "Mon Nov 30 13:34:18 +0000 2015",
+        "id": 671321354721980400,
+        "id_str": "671321354721980416",
+        "text": "@backendsecret приду как адепт java :) чем она тебе не нравится?",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671319388537102300,
+        "in_reply_to_status_id_str": "671319388537102336",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 858582841,
+          "id_str": "858582841"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/e2AnnQ8Etr",
+            "expanded_url": "https://kotlinlang.org/docs/reference/comparison-to-java.html",
+            "display_url": "kotlinlang.org/docs/reference…",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "url": "https://t.co/7KjwcSfPMH",
+            "expanded_url": "https://twitter.com/White_Desay/status/671321354721980416",
+            "display_url": "twitter.com/White_Desay/st…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 13:32:54 +0000 2015",
+      "id": 671321003931357200,
+      "id_str": "671321003931357184",
+      "text": "Я не из JB :) Я просто считаю что на Java нельзя сегодня писать, a достойной замены  для Java кроме Kotlin нет. https://t.co/a3v88rEfnX",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 671320319051845600,
+      "quoted_status_id_str": "671320319051845632",
+      "quoted_status": {
+        "created_at": "Mon Nov 30 13:30:11 +0000 2015",
+        "id": 671320319051845600,
+        "id_str": "671320319051845632",
+        "text": "@backendsecret я может пропустил, ты из джетбрейнс или просто неравнодушен к контлину?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671319388537102300,
+        "in_reply_to_status_id_str": "671319388537102336",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 113131428,
+          "id_str": "113131428"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/a3v88rEfnX",
+            "expanded_url": "https://twitter.com/ruxeg/status/671320319051845632",
+            "display_url": "twitter.com/ruxeg/status/6…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 13:26:29 +0000 2015",
+      "id": 671319388537102300,
+      "id_str": "671319388537102336",
+      "text": "Уже начался, уже есть адепты Scala, Clojure :D Ждем Groovy, Ceylon и конечно же Java. https://t.co/w57Yv0hLCH",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 671318985137365000,
+      "quoted_status_id_str": "671318985137364992",
+      "quoted_status": {
+        "created_at": "Mon Nov 30 13:24:53 +0000 2015",
+        "id": 671318985137365000,
+        "id_str": "671318985137364992",
+        "text": "ааа новый ведущий  @backendsecret связан с котлином, да будет срач! :)",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671288588022251500,
+        "in_reply_to_status_id_str": "671288588022251521",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 113131428,
+          "id_str": "113131428"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                19,
+                33
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/w57Yv0hLCH",
+            "expanded_url": "https://twitter.com/ruxeg/status/671318985137364992",
+            "display_url": "twitter.com/ruxeg/status/6…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Nov 30 12:51:10 +0000 2015",
+      "id": 671310500995665900,
+      "id_str": "671310500995665920",
+      "text": "@clojure_ru @yelbota еще есть хаскель и эрланг. а еще есть прагматизм, порог вхождения, поддержка IDE и куча java разработчиков",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671303525339656200,
+      "in_reply_to_status_id_str": "671303525339656194",
+      "in_reply_to_user_id": 3347380889,
+      "in_reply_to_user_id_str": "3347380889",
+      "in_reply_to_screen_name": "clojure_ru",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "clojure_ru",
+            "name": "clojure-russia",
+            "id": 3347380889,
+            "id_str": "3347380889",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "yelbota",
+            "name": "Aleksey Fomkin",
+            "id": 10634822,
+            "id_str": "10634822",
+            "indices": [
+              12,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 12:49:35 +0000 2015",
+      "id": 671310102331289600,
+      "id_str": "671310102331289601",
+      "text": "RT @xgrommx: @backendsecret @listochkin Рантайм kotlin меньше чем у Scala это круто для Android + https://t.co/dPozkKjNBJ",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Nov 30 12:35:28 +0000 2015",
+        "id": 671306548623360000,
+        "id_str": "671306548623360000",
+        "text": "@backendsecret @listochkin Рантайм kotlin меньше чем у Scala это круто для Android + https://t.co/dPozkKjNBJ",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671288588022251500,
+        "in_reply_to_status_id_str": "671288588022251521",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 354807612,
+          "id_str": "354807612"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "listochkin",
+              "name": "Андрей Листочкин",
+              "id": 20910792,
+              "id_str": "20910792",
+              "indices": [
+                15,
+                26
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/dPozkKjNBJ",
+              "expanded_url": "https://github.com/Kotlin/anko",
+              "display_url": "github.com/Kotlin/anko",
+              "indices": [
+                85,
+                108
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xgrommx",
+            "name": "Denis Stoyanov",
+            "id": 354807612,
+            "id_str": "354807612",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              13,
+              27
+            ]
+          },
+          {
+            "screen_name": "listochkin",
+            "name": "Андрей Листочкин",
+            "id": 20910792,
+            "id_str": "20910792",
+            "indices": [
+              28,
+              39
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dPozkKjNBJ",
+            "expanded_url": "https://github.com/Kotlin/anko",
+            "display_url": "github.com/Kotlin/anko",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Nov 30 11:36:08 +0000 2015",
+      "id": 671291619342213100,
+      "id_str": "671291619342213120",
+      "text": "@yelbota Котлин нужен если есть андроид, если есть существующий java проект или если вам не хочется бить по рукам джуниоров(или наоборот).",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671291009800806400,
+      "in_reply_to_status_id_str": "671291009800806400",
+      "in_reply_to_user_id": 10634822,
+      "in_reply_to_user_id_str": "10634822",
+      "in_reply_to_screen_name": "yelbota",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "yelbota",
+            "name": "Aleksey Fomkin",
+            "id": 10634822,
+            "id_str": "10634822",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 30 11:24:05 +0000 2015",
+      "id": 671288588022251500,
+      "id_str": "671288588022251521",
+      "text": "Но java постепенно уходит на второй план и остается только ES2015 и Kotlin, про последний я бы поговорил",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Mon Nov 30 11:06:04 +0000 2015",
       "id": 671284050796105700,
       "id_str": "671284050796105728",
@@ -79,8 +1215,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 2,
       "entities": {
         "hashtags": [],
         "symbols": [],
