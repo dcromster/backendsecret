@@ -5,6 +5,229 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Fri Dec 04 13:36:48 +0000 2015",
+      "id": 672771534721826800,
+      "id_str": "672771534721826816",
+      "text": "Уже три года опыта, глюки конечно бывали, но приемущества слишком весомы, чтобы возвращаться на maven. https://t.co/wSYAAXrUIR",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 672763883271168000,
+      "quoted_status_id_str": "672763883271168000",
+      "quoted_status": {
+        "created_at": "Fri Dec 04 13:06:23 +0000 2015",
+        "id": 672763883271168000,
+        "id_str": "672763883271168000",
+        "text": "@backendsecret Конечно есть: те, кто хочет работать, а не глюки интеграции с Idea собирать",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 672323971132612600,
+        "in_reply_to_status_id_str": "672323971132612608",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 431777317,
+          "id_str": "431777317"
+        },
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            55.7804794,
+            37.61429189
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            37.61429189,
+            55.7804794
+          ]
+        },
+        "place": {
+          "id": "4303d1afc1e98c37",
+          "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+          "place_type": "city",
+          "name": "Moscow",
+          "full_name": "Moscow, Russia",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  37.1316733,
+                  55.4908342
+                ],
+                [
+                  37.9650116,
+                  55.4908342
+                ],
+                [
+                  37.9650116,
+                  56.0209192
+                ],
+                [
+                  37.1316733,
+                  56.0209192
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wSYAAXrUIR",
+            "expanded_url": "https://twitter.com/dchuiko/status/672763883271168000",
+            "display_url": "twitter.com/dchuiko/status…",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 04 13:35:35 +0000 2015",
+      "id": 672771230869622800,
+      "id_str": "672771230869622784",
+      "text": "А мне говорят что я набрасываю: https://t.co/EYoTEgBcbU",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EYoTEgBcbU",
+            "expanded_url": "http://zeroturnaround.com/rebellabs/4-examples-of-a-dynamic-language-kicking-a-static-languages-ass/",
+            "display_url": "zeroturnaround.com/rebellabs/4-ex…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 04 12:21:58 +0000 2015",
+      "id": 672752706168217600,
+      "id_str": "672752706168217600",
+      "text": "Eclipse Foundation выпустил еще одну облачную IDE https://t.co/QNnXW1KWJB\nКажется в плане создания UI Web технологии всё же победили.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QNnXW1KWJB",
+            "expanded_url": "https://eclipse.org/che/",
+            "display_url": "eclipse.org/che/",
+            "indices": [
+              50,
+              73
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Dec 03 21:48:05 +0000 2015",
       "id": 672532783189925900,
       "id_str": "672532783189925889",
@@ -46,7 +269,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -124,7 +347,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 3,
-      "favorite_count": 16,
+      "favorite_count": 20,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -178,8 +401,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 1595,
-        "favorite_count": 845,
+        "retweet_count": 1783,
+        "favorite_count": 932,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -236,7 +459,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 17,
+      "favorite_count": 20,
       "entities": {
         "hashtags": [],
         "symbols": [],
