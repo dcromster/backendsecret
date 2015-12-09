@@ -47,7 +47,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1681,
+  "followers_count": 1686,
   "friends_count": 0,
   "listed_count": 105,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -56,20 +56,20 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 6987,
+  "statuses_count": 7017,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Dec 08 22:11:34 +0000 2015",
-    "id": 674350633076580400,
-    "id_str": "674350633076580356",
-    "text": "@kotchuprik спасибо, я пока не купил ещё, но у меня есть",
-    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "created_at": "Wed Dec 09 18:33:34 +0000 2015",
+    "id": 674658160934854700,
+    "id_str": "674658160934854657",
+    "text": "Про то как работать с непривелигерованными неймспейсами в Go от разработчика Docker https://t.co/SsLPp2CTiq. Он русский, кстати @LK4D4math",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 674340920897224700,
-    "in_reply_to_status_id_str": "674340920897224705",
-    "in_reply_to_user_id": 145469624,
-    "in_reply_to_user_id_str": "145469624",
-    "in_reply_to_screen_name": "kotchuprik",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -81,20 +81,31 @@
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "kotchuprik",
-          "name": "Constantine",
-          "id": 145469624,
-          "id_str": "145469624",
+          "screen_name": "LK4D4math",
+          "name": "Alexander Morozov",
+          "id": 615265740,
+          "id_str": "615265740",
           "indices": [
-            0,
-            11
+            128,
+            138
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/SsLPp2CTiq",
+          "expanded_url": "http://lk4d4.darth.io/categories/namespaces/",
+          "display_url": "lk4d4.darth.io/categories/nam…",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
