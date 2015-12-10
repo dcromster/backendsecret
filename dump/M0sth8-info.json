@@ -47,7 +47,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1686,
+  "followers_count": 1691,
   "friends_count": 0,
   "listed_count": 105,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -56,14 +56,14 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 7017,
+  "statuses_count": 7021,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Dec 09 18:33:34 +0000 2015",
-    "id": 674658160934854700,
-    "id_str": "674658160934854657",
-    "text": "Про то как работать с непривелигерованными неймспейсами в Go от разработчика Docker https://t.co/SsLPp2CTiq. Он русский, кстати @LK4D4math",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Wed Dec 09 22:16:07 +0000 2015",
+    "id": 674714168239394800,
+    "id_str": "674714168239394816",
+    "text": "RT @_openvz_: VIDEO: DockerCon: Live migrating a container pros cons and gotchas -- Pavel Emelyanov https://t.co/gQMxnELFIv",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -74,31 +74,70 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Wed Dec 09 21:42:17 +0000 2015",
+      "id": 674705650077859800,
+      "id_str": "674705650077859840",
+      "text": "VIDEO: DockerCon: Live migrating a container pros cons and gotchas -- Pavel Emelyanov https://t.co/gQMxnELFIv",
+      "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 4,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gQMxnELFIv",
+            "expanded_url": "http://youtu.be/bnvbq0ePqfs",
+            "display_url": "youtu.be/bnvbq0ePqfs",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 4,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "LK4D4math",
-          "name": "Alexander Morozov",
-          "id": 615265740,
-          "id_str": "615265740",
+          "screen_name": "_openvz_",
+          "name": "OpenVZ Containers",
+          "id": 1416711110,
+          "id_str": "1416711110",
           "indices": [
-            128,
-            138
+            3,
+            12
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/SsLPp2CTiq",
-          "expanded_url": "http://lk4d4.darth.io/categories/namespaces/",
-          "display_url": "lk4d4.darth.io/categories/nam…",
+          "url": "https://t.co/gQMxnELFIv",
+          "expanded_url": "http://youtu.be/bnvbq0ePqfs",
+          "display_url": "youtu.be/bnvbq0ePqfs",
           "indices": [
-            84,
-            107
+            100,
+            123
           ]
         }
       ]
@@ -106,7 +145,7 @@
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
