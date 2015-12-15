@@ -56,20 +56,20 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 7104,
+  "statuses_count": 7105,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Dec 15 09:38:17 +0000 2015",
-    "id": 676697778765094900,
-    "id_str": "676697778765094912",
-    "text": "Я бы не сильно доверял профилю с ником \"divan\" https://t.co/EigEkYlZkM",
+    "created_at": "Tue Dec 15 09:42:27 +0000 2015",
+    "id": 676698826116309000,
+    "id_str": "676698826116308992",
+    "text": ". @Xedin @M0sth8 потому что пхп там даже не упомянули? Вроде уже давно никто не считает это за серьёзный ЯП в современном мире.",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 676697987368652800,
+    "in_reply_to_status_id_str": "676697987368652800",
+    "in_reply_to_user_id": 179146879,
+    "in_reply_to_user_id_str": "179146879",
+    "in_reply_to_screen_name": "Xedin",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -79,22 +79,32 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/EigEkYlZkM",
-          "expanded_url": "https://twitter.com/M0sth8/status/676598675775160320",
-          "display_url": "twitter.com/M0sth8/status/…",
+          "screen_name": "Xedin",
+          "name": "Alexander P.",
+          "id": 179146879,
+          "id_str": "179146879",
           "indices": [
-            47,
-            70
+            2,
+            8
+          ]
+        },
+        {
+          "screen_name": "M0sth8",
+          "name": "M0sth8",
+          "id": 14380975,
+          "id_str": "14380975",
+          "indices": [
+            9,
+            16
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
