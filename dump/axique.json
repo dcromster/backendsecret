@@ -5,6 +5,129 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Wed Dec 16 11:09:27 +0000 2015",
+      "id": 677083109796487200,
+      "id_str": "677083109796487168",
+      "text": "Луна сделана из сыра. Факт. https://t.co/g8CTQQouf6",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 677082524997296100,
+      "quoted_status_id_str": "677082524997296128",
+      "quoted_status": {
+        "created_at": "Wed Dec 16 11:07:08 +0000 2015",
+        "id": 677082524997296100,
+        "id_str": "677082524997296128",
+        "text": "@backendsecret ой, давай без пафоса. ))) питонисты скоро встанут перед выбором - писать на JS или идти мыть туалеты )) факт.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 677081465696440300,
+        "in_reply_to_status_id_str": "677081465696440321",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 83444822,
+          "id_str": "83444822"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "4303d1afc1e98c37",
+          "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+          "place_type": "city",
+          "name": "Moscow",
+          "full_name": "Moscow, Russia",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  37.1316733,
+                  55.4908342
+                ],
+                [
+                  37.9650116,
+                  55.4908342
+                ],
+                [
+                  37.9650116,
+                  56.0209192
+                ],
+                [
+                  37.1316733,
+                  56.0209192
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/g8CTQQouf6",
+            "expanded_url": "https://twitter.com/nmatuhin/status/677082524997296128",
+            "display_url": "twitter.com/nmatuhin/statu…",
+            "indices": [
+              28,
+              51
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Wed Dec 16 11:08:06 +0000 2015",
       "id": 677082767742619600,
       "id_str": "677082767742619648",
@@ -316,7 +439,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -360,7 +483,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6367,8 +6490,8 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 19024,
-        "favorite_count": 14716,
+        "retweet_count": 19026,
+        "favorite_count": 14717,
         "entities": {
           "hashtags": [],
           "symbols": [],
