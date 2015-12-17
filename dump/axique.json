@@ -5,6 +5,50 @@
   "post": false,
   "tweets": [
     {
+      "created_at": "Thu Dec 17 08:09:07 +0000 2015",
+      "id": 677400112893722600,
+      "id_str": "677400112893722625",
+      "text": "Лично я пытаюсь писать код в defensive стиле: всегда валидирую входные данные, не использую *args, **kwargs где это возможно @geerk",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "geerk",
+            "name": "Тимофей",
+            "id": 187949135,
+            "id_str": "187949135",
+            "indices": [
+              125,
+              131
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
       "created_at": "Thu Dec 17 08:05:58 +0000 2015",
       "id": 677399323047497700,
       "id_str": "677399323047497728",
@@ -408,7 +452,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
