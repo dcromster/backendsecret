@@ -3,13 +3,13 @@
   "id_str": "3302551618",
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
-  "location": "Ukraine",
+  "location": "Tallinn, Harjumaa",
   "profile_location": {
-    "id": "084d0d0155787e9d",
-    "url": "https://api.twitter.com/1.1/geo/id/084d0d0155787e9d.json",
+    "id": "cba60fe77bc80469",
+    "url": "https://api.twitter.com/1.1/geo/id/cba60fe77bc80469.json",
     "place_type": "unknown",
-    "name": "Ukraine",
-    "full_name": "Ukraine",
+    "name": "Tallinn, Harjumaa",
+    "full_name": "Tallinn, Harjumaa",
     "country_code": "",
     "country": "",
     "contained_within": [],
@@ -47,7 +47,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1765,
+  "followers_count": 1767,
   "friends_count": 1,
   "listed_count": 109,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -56,13 +56,13 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 7408,
+  "statuses_count": 7415,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Dec 22 13:45:19 +0000 2015",
-    "id": 679296662947405800,
-    "id_str": "679296662947405824",
-    "text": "Судя по видео, неплохой способ быстро построить API  https://t.co/KVz67FQieH #api #server #BaaS",
+    "created_at": "Tue Dec 22 18:01:28 +0000 2015",
+    "id": 679361123855020000,
+    "id_str": "679361123855020032",
+    "text": "RT @Monoryable: @backendsecret я в своё время начинал с https://t.co/TyPUt2lkFA. Достаточно быстро переходит к интересному.",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -74,42 +74,124 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 22 18:00:20 +0000 2015",
+      "id": 679360839145627600,
+      "id_str": "679360839145627648",
+      "text": "@backendsecret я в своё время начинал с https://t.co/TyPUt2lkFA. Достаточно быстро переходит к интересному.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 679357451943170000,
+      "in_reply_to_status_id_str": "679357451943170048",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "db2714c66e93c2f8",
+        "url": "https://api.twitter.com/1.1/geo/id/db2714c66e93c2f8.json",
+        "place_type": "city",
+        "name": "Odinzowo",
+        "full_name": "Odinzowo, Oblast Moskau",
+        "country_code": "RU",
+        "country": "Rossiya",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                37.2261314,
+                55.6459312
+              ],
+              [
+                37.3120232,
+                55.6459312
+              ],
+              [
+                37.3120232,
+                55.6950722
+              ],
+              [
+                37.2261314,
+                55.6950722
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TyPUt2lkFA",
+            "expanded_url": "http://www.diveintopython3.net/",
+            "display_url": "diveintopython3.net",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "retweet_count": 1,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "entities": {
-      "hashtags": [
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
         {
-          "text": "api",
+          "screen_name": "Monoryable",
+          "name": "Nikita Chudinov",
+          "id": 570997010,
+          "id_str": "570997010",
           "indices": [
-            77,
-            81
+            3,
+            14
           ]
         },
         {
-          "text": "server",
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
           "indices": [
-            82,
-            89
-          ]
-        },
-        {
-          "text": "BaaS",
-          "indices": [
-            90,
-            95
+            16,
+            30
           ]
         }
       ],
-      "symbols": [],
-      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/KVz67FQieH",
-          "expanded_url": "http://deployd.com",
-          "display_url": "deployd.com",
+          "url": "https://t.co/TyPUt2lkFA",
+          "expanded_url": "http://www.diveintopython3.net/",
+          "display_url": "diveintopython3.net",
           "indices": [
-            53,
-            76
+            56,
+            79
           ]
         }
       ]
