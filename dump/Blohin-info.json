@@ -47,7 +47,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1759,
+  "followers_count": 1761,
   "friends_count": 1,
   "listed_count": 109,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -56,20 +56,20 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 7391,
+  "statuses_count": 7399,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Dec 21 19:17:41 +0000 2015",
-    "id": 679017916902297600,
-    "id_str": "679017916902297600",
-    "text": "@KozenkoCfif @axique на то он и идеал :)",
-    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "created_at": "Tue Dec 22 10:02:56 +0000 2015",
+    "id": 679240697556443100,
+    "id_str": "679240697556443136",
+    "text": "Если вы пишите backend на JavaScript, какую базу данных вы при этом используете? #backend #js #javascript #db",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 679017580921806800,
-    "in_reply_to_status_id_str": "679017580921806849",
-    "in_reply_to_user_id": 539217766,
-    "in_reply_to_user_id_str": "539217766",
-    "in_reply_to_screen_name": "KozenkoCfif",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -77,30 +77,38 @@
     "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
+      "hashtags": [
         {
-          "screen_name": "KozenkoCfif",
-          "name": "Александр Козенко",
-          "id": 539217766,
-          "id_str": "539217766",
+          "text": "backend",
           "indices": [
-            0,
-            12
+            81,
+            89
           ]
         },
         {
-          "screen_name": "axique",
-          "name": "Kyrylo Perevozchykov",
-          "id": 174612206,
-          "id_str": "174612206",
+          "text": "js",
           "indices": [
-            13,
-            20
+            90,
+            93
+          ]
+        },
+        {
+          "text": "javascript",
+          "indices": [
+            94,
+            105
+          ]
+        },
+        {
+          "text": "db",
+          "indices": [
+            106,
+            109
           ]
         }
       ],
+      "symbols": [],
+      "user_mentions": [],
       "urls": []
     },
     "favorited": false,
