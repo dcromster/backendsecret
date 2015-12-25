@@ -47,22 +47,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1774,
+  "followers_count": 1776,
   "friends_count": 0,
-  "listed_count": 106,
+  "listed_count": 108,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1786,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 7483,
+  "statuses_count": 7502,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Dec 24 18:42:53 +0000 2015",
-    "id": 680096322226143200,
-    "id_str": "680096322226143232",
-    "text": "RT @jxxf: For Christmas all I want is for:\n\n(1) the US to finally switch to metric\n(2) everyone to switch to YYYY-MM-DD date formats",
+    "created_at": "Fri Dec 25 11:42:06 +0000 2015",
+    "id": 680352815227744300,
+    "id_str": "680352815227744256",
+    "text": "RT @Blohin: Мастер Йода уже не тот...  #StarWars #Yoda https://t.co/ZumsHYXtCI",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -75,10 +75,10 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Thu Dec 24 13:45:34 +0000 2015",
-      "id": 680021499235848200,
-      "id_str": "680021499235848192",
-      "text": "For Christmas all I want is for:\n\n(1) the US to finally switch to metric\n(2) everyone to switch to YYYY-MM-DD date formats",
+      "created_at": "Fri Dec 25 11:41:25 +0000 2015",
+      "id": 680352645089996800,
+      "id_str": "680352645089996801",
+      "text": "Мастер Йода уже не тот...  #StarWars #Yoda https://t.co/ZumsHYXtCI",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -90,40 +90,152 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 266,
-      "favorite_count": 250,
+      "retweet_count": 2,
+      "favorite_count": 7,
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "StarWars",
+            "indices": [
+              27,
+              36
+            ]
+          },
+          {
+            "text": "Yoda",
+            "indices": [
+              37,
+              42
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [],
-        "urls": []
+        "urls": [],
+        "media": [
+          {
+            "id": 680352642938343400,
+            "id_str": "680352642938343424",
+            "indices": [
+              43,
+              66
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXEZH8RWkAAjKnX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CXEZH8RWkAAjKnX.jpg",
+            "url": "https://t.co/ZumsHYXtCI",
+            "display_url": "pic.twitter.com/ZumsHYXtCI",
+            "expanded_url": "http://twitter.com/Blohin/status/680352645089996801/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
       },
       "favorited": false,
       "retweeted": false,
-      "lang": "en"
+      "possibly_sensitive": false,
+      "lang": "ru"
     },
-    "retweet_count": 266,
+    "retweet_count": 2,
     "favorite_count": 0,
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
+      "hashtags": [
         {
-          "screen_name": "jxxf",
-          "name": "John Feminella",
-          "id": 19463693,
-          "id_str": "19463693",
+          "text": "StarWars",
           "indices": [
-            3,
-            8
+            39,
+            48
+          ]
+        },
+        {
+          "text": "Yoda",
+          "indices": [
+            49,
+            54
           ]
         }
       ],
-      "urls": []
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Blohin",
+          "name": "Nikolay Blokhin",
+          "id": 15472137,
+          "id_str": "15472137",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 680352642938343400,
+          "id_str": "680352642938343424",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/CXEZH8RWkAAjKnX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CXEZH8RWkAAjKnX.jpg",
+          "url": "https://t.co/ZumsHYXtCI",
+          "display_url": "pic.twitter.com/ZumsHYXtCI",
+          "expanded_url": "http://twitter.com/Blohin/status/680352645089996801/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 340,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 680352645089996800,
+          "source_status_id_str": "680352645089996801",
+          "source_user_id": 15472137,
+          "source_user_id_str": "15472137"
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
-    "lang": "en"
+    "possibly_sensitive": false,
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
