@@ -1,10 +1,16 @@
 nav
+  a.btn.btn-success.btn-menu(href="https://twitter.com/" + underhood.underhood)
+    b Подписаться
   a(href="/stats/") Статистика
-  = " • "
-  a(href="/about/") О проекте
-  = " • "
+  = " • "
+  a(href="/about/") О проекте
+  = " • "
+  a(href="/authoring/") Стать автором
+  = " • "
   a(href="/rss.xml") RSS
-  = " • "
-  a(href="https://github.com/dcromster/backendsecret") GitHub
-  = " • "
-  a(href="https://google.com/?q=site:backendsecret.ru+что-нибудь") Поиск
+  = " • "
+  a(href="https://github.com/#{ underhood.githubUser }/#{ underhood.githubRepo }") GitHub
+  = " • "
+  a(href="https://google.com/?q=site:#{underhood.site.site_url}+что-нибудь") Поиск
+  = " • "
+  a(href="https://github.com/iamstarkov/awesome-collective-twitters") Похожие проекты

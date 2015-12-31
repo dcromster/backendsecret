@@ -1,222 +1,218 @@
-'use strict';
+import buildbranch from 'buildbranch';
+import rimraf from 'rimraf';
+import each from 'each-done';
+import express from 'express';
+import fs, { outputFile as output } from 'fs-extra';
+import { html } from 'commonmark-helpers';
+import numbers from 'typographic-numbers';
+import numd from 'numd';
+import RSS from 'rss';
+import { merge, pipe, prop, head, splitEvery } from 'ramda';
+import sequence from 'run-sequence';
+import renderTweet from 'tweet.md';
+import autoprefixer from 'autoprefixer';
+import pcssImport from 'postcss-import';
+import pcssInitial from 'postcss-initial';
+import webpack from 'webpack';
 
-var through = require('through2');
-var gulp = require('gulp');
-var watch = require('gulp-watch');
-var rename = require('gulp-rename');
-var data = require('gulp-data');
-var jade = require('gulp-jade');
-var debug = require('gulp-debug');
-var replace = require('gulp-replace');
-var log = require('gulp-util').log;
-var buildbranch = require('buildbranch');
-var rss = require('rss');
-var del = require('del');
-var fs = require('fs-extra');
-var output = require('fs-extra').outputFile;
-var express = require('express');
-var assign = require('object-assign');
-var sequence = require('run-sequence');
-var each = require('each-done');
-var path = require('path');
-var numd = require('numd');
+import gulp, { dest, src, start as _start, task as _task } from 'gulp';
+import gulpJade from 'gulp-jade';
+import rename from 'gulp-rename';
+import watch from 'gulp-watch';
+import { log, PluginError } from 'gulp-util';
+import jimp from 'gulp-jimp';
+import postcss from 'gulp-postcss';
 
-var finalStats = fs.readJsonSync('./final-stats.json').stats;
+import articleData from 'article-data';
+import getStats from './stats.js';
+import underhood from './.underhoodrc.json';
+import webpackConfig from './webpack.config.babel.js';
 
-var moment = require('moment');
-var d = function(input) { return moment(new Date(input)).format("DD MMMM YYYY"); };
-var unix = function(text) { return moment(new Date(text)).unix(); }
-var site = require('./package.json').site;
+import authorRender from './helpers/author-render';
+import bust from './helpers/bust';
+import lastUpdated from './helpers/last-updated';
 
-var getBasename = function(file) {
-  return path.basename(file.relative, path.extname(file.relative));
+import authors from './dump';
+const latestInfo = (head(authors) || {}).info;
+
+const start = _start.bind(gulp);
+const task = _task.bind(gulp);
+
+const jadeDefaults = {
+  pretty: true,
+  locals: {
+    site: underhood.site,
+    latestInfo,
+    numbers: input => numbers(input, { locale: 'ru' }),
+    people: numd('человек', 'человека', 'человек'),
+  },
 };
 
-var articleData = require('./article-data');
-
-var articles = [];
-var articleHarvesting = function() {
-  return through.obj(function(file, enc, cb) {
-    var article = articleData(file.contents.toString());
-    var url = getBasename(file);
-    var title = article.title;
-
-    if (getBasename(file) === 'README') {
-      url = 'about';
-      title = 'О проекте';
-    }
-
-    var author = fs.readJsonSync('./dump/' + title + '.json');
-
-    articles.push({
-      site: site,
-      filename: file.relative,
-      url: url + '/',
-      title: title,
-      image: article.image,
-      desc: author.tweets[author.tweets.length - 1].text,
-      descText: author.tweets[author.tweets.length - 1].text,
-      date: d(author.tweets[author.tweets.length - 1].created_at),
-      content: article.content,
-      rss: {
-        url: site.site_url + getBasename(file) + '/',
-        description: author.tweets[author.tweets.length - 1].text
-      }
-    });
-    articles.sort(function(a, b) { return unix(b.date) - unix(a.date); });
-    cb(null, file);
+const getOptions = (opts = {}) =>
+  Object.assign({}, jadeDefaults, opts, {
+    locals: Object.assign({}, jadeDefaults.locals, opts.locals),
   });
-};
 
-gulp.task('articles-registry', function() {
-  articles = [];
-  return gulp.src(['./posts/*.md'])
-    .pipe(replace('https://backendsecret.ru', 'http://localhost:4000'))
-    .pipe(articleHarvesting());
-});
+const jade = opts => gulpJade(getOptions(opts));
+const firstTweet = pipe(prop('tweets'), head);
+const render = pipe(renderTweet, html);
 
-gulp.task('articles-registry-prod', function() {
-  articles = [];
-  return gulp.src(['./posts/*.md', '!./posts/*draft*.md'])
-    .pipe(articleHarvesting());
-});
-
-gulp.task('index-page', function() {
-  var groupInGrid = function(state, item, i) {
-    if (i % 3 === 0) { state.push([]); }
-    state[state.length - 1].push(item);
-    return state;
-  };
-  return gulp.src('layouts/index.jade')
+/**
+ * MAIN TASKS
+ */
+task('index', ['css'], () => {
+  const authorsToPost = authors.filter(author => author.post !== false);
+  return src('layouts/index.jade')
     .pipe(jade({
-      pretty: true,
-
       locals: {
-        title: site.title,
-        url: '',
-        desc: site.description,
-        site: site,
-        list: articles.reduce(groupInGrid, [])
-      }
+        title: `Сайт @${underhood.underhood}`,
+        desc: underhood.underhoodDesc,
+        underhood,
+        currentAuthor: head(authors),
+        authors: splitEvery(3, authorsToPost),
+        helpers: { bust, firstTweet, render },
+      },
     }))
     .pipe(rename({ basename: 'index' }))
-    .pipe(gulp.dest('dist'));
+    .pipe(dest('dist'));
 });
 
-
-
-gulp.task('stats-page', function() {
-  var stats = [].concat(finalStats);
-  stats.reverse();
-  return gulp.src('layouts/stats.jade')
+task('stats', ['css'], () =>
+  src('layouts/stats.jade')
     .pipe(jade({
-      pretty: true,
-
       locals: {
-        title: 'Статистика backendsecret',
+        title: `Статистика @${underhood.underhood}`,
         url: 'stats/',
-        desc: site.description,
-        site: site,
-        stats: stats,
-        ownTweetsUnit: numd('cвой твит', 'cвоих твита', 'cвоих твитов'),
-        retweetsUnit: numd('ретвит', 'ретвита', 'ретвитов'),
-        repliesUnit: numd('ответ', 'ответа', 'ответов')
-      }
+        desc: underhood.underhoodDesc,
+        lastUpdated,
+        underhood,
+        stats: getStats(authors),
+        helpers: { bust },
+      },
     }))
     .pipe(rename({ dirname: 'stats' }))
     .pipe(rename({ basename: 'index' }))
-    .pipe(gulp.dest('dist'));
-});
+    .pipe(dest('dist')));
 
-gulp.task('about-page', function() {
-  var readme = fs.readFileSync('./README.md', { encoding: 'utf8' });
-  var article = articleData(readme);
-
-  return gulp.src('layouts/article.jade')
-    .pipe(jade({
-      pretty: true,
-      locals: assign({}, article, {
-        title: 'О проекте',
-        url: 'about/',
-        site: site
-      })
-    }))
-    .pipe(rename({ dirname: 'about' }))
-    .pipe(rename({ basename: 'index' }))
-    .pipe(gulp.dest('dist'));
-});
-
-gulp.task('articles-pages', function(done) {
-  each(articles, function(article) {
-    return gulp.src('layouts/article.jade')
-      .pipe(data(function() { return article; }))
-      .pipe(jade({ pretty: true }))
-      .pipe(rename({ dirname: article.url }))
+task('md-pages', ['css'], done => {
+  each([
+    { name: 'about', title: 'О проекте' },
+    { name: 'authoring', title: 'Авторам' },
+    { name: 'instruction', title: 'Инструкция' },
+  ], item => {
+    const page = fs.readFileSync(`./pages/${item.name}.md`, { encoding: 'utf8' });
+    const article = articleData(page, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
+    return src('layouts/article.jade')
+      .pipe(jade({
+        locals: merge(article, {
+          title: item.title,
+          url: item.name + '/',
+          underhood,
+          helpers: { bust },
+        }),
+      }))
+      .pipe(rename({ dirname: item.name }))
       .pipe(rename({ basename: 'index' }))
-      .pipe(gulp.dest('dist'));
+      .pipe(dest('dist'));
   }, done);
 });
 
-gulp.task('rss', function(done) {
-  var feed = new rss(site);
-  articles.forEach(function(article) {
-    feed.item(assign({}, article, article.rss));
+task('rss', done => {
+  const feed = new RSS(underhood.site);
+  const authorsToPost = authors.filter(author => author.post !== false);
+  authorsToPost.forEach(author => {
+    feed.item({
+      title: author.username,
+      description: render(firstTweet(author)),
+      url: `https://jsunderhood.ru/${author.username}/`,
+      date: firstTweet(author).created_at,
+    });
   });
   output('dist/rss.xml', feed.xml({ indent: true }), done);
 });
 
-gulp.task('default', ['watch']);
-
-gulp.task('watch', ['express', 'build'], function() {
-  watch(['**/*{jade,md,json,js}', '*.css'], function() { gulp.start('build'); });
+task('authors', ['css'], done => {
+  const authorsToPost = authors.filter(author => author.post !== false);
+  each(authorsToPost, author => {
+    return src('./layouts/author.jade')
+      .pipe(jade({
+        pretty: true,
+        locals: {
+          title: `Неделя @${author.username} в @${underhood.underhood}`,
+          author, underhood,
+          helpers: { authorRender, bust },
+        },
+      }))
+      .pipe(rename({ dirname: author.username }))
+      .pipe(rename({ basename: 'index' }))
+      .pipe(dest('dist'));
+  }, done);
 });
 
-gulp.task('clean', function(done) { del('dist', done); });
+task('userpics', () =>
+  src('dump/images/*-image*')
+    .pipe(jimp({ resize: { width: 96, height: 96 }}))
+    .pipe(dest('dist/images')));
 
+task('current-userpic', () =>
+  head(authors) && src(`dump/images/${head(authors).username}-image*`)
+    .pipe(jimp({ resize: { width: 192, height: 192 }}))
+    .pipe(rename('current-image'))
+    .pipe(dest('dist/images')));
 
-gulp.task('build-common', function(done) {
-  sequence(['index-page', 'articles-pages', 'rss', 'about-page', 'stats-page'], 'cname', 'nojekyll', 'css', 'js', done);
+task('current-banner', () =>
+  head(authors) && src(`dump/images/${head(authors).username}-banner*`)
+    .pipe(rename('current-banner'))
+    .pipe(dest('dist/images')));
+
+task('current-media', ['current-userpic', 'current-banner']);
+
+task('css', () =>
+  src('css/styles.css')
+    .pipe(postcss([
+      pcssImport,
+      pcssInitial,
+      autoprefixer,
+    ]))
+    .pipe(dest('dist/css')));
+
+task('js', done => {
+  webpack(webpackConfig, err => {
+    if (err) throw new PluginError('webpack', err);
+    done();
+  });
 });
 
-gulp.task('build', function(done) {
-  sequence('articles-registry', 'build-common', done);
-});
+task('static', () =>
+  src([
+    'static/**',
+    'static/.**',
+    'node_modules/bootstrap/dist/**',
+  ]).pipe(dest('dist')));
 
-gulp.task('build-prod', function(done) {
-  sequence('clean', 'articles-registry-prod', 'build-common', done);
-});
-
-gulp.task('nojekyll', function() {
-  return gulp.src('.nojekyll').pipe(gulp.dest('dist'));
-});
-
-gulp.task('cname', function() {
-  return gulp.src('CNAME').pipe(gulp.dest('dist'));
-});
-
-gulp.task('css-bootstrap', function() {
-  return gulp.src('node_modules/bootstrap/dist/**').pipe(gulp.dest('dist'));
-});
-
-gulp.task('css', ['css-bootstrap'], function() {
-  return gulp.src('styles.css').pipe(gulp.dest('dist/css'));
-});
-
-gulp.task('js', function() {
-  return gulp.src([
-    'node_modules/tablesort/src/tablesort.js',
-    'node_modules/tablesort/src/sorts/tablesort.numeric.js'
-  ]).pipe(gulp.dest('dist/js'));
-});
-
-gulp.task('gh', ['build-prod'], function(done) {
-  buildbranch({ branch: 'gh-pages', folder: 'dist' }, done);
-});
-
-gulp.task('express', function() {
-  var app = express();
+task('server', () => {
+  const app = express();
   app.use(express.static('dist'));
   app.listen(4000);
-
   log('Server is running on http://localhost:4000');
 });
+
+/**
+ * FLOW
+ */
+task('clean', done => rimraf('dist', done));
+
+task('html', ['stats', 'authors', 'index', 'rss', 'md-pages']);
+task('build', done => sequence( 'html', 'css', 'js', 'stats', 'static', 'userpics', 'current-media', done));
+
+task('default', done => sequence('clean', 'watch', done));
+
+task('watch', ['server', 'build'], () => {
+  watch(['**/*.jade'], () => start('html'));
+  watch(['css/**/*.css'], () => start('css'));
+  watch('js/**/*.js', () => start('js'));
+  watch('static/**', () => start('static'));
+});
+
+task('deploy', ['build'], done =>
+  buildbranch({ branch: 'gh-pages', folder: 'dist' }, done));
