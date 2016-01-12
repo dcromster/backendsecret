@@ -45,14 +45,14 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 8010,
+  "statuses_count": 8036,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jan 12 11:55:24 +0000 2016",
-    "id": 686879143372406800,
-    "id_str": "686879143372406784",
-    "text": "Например на месяц свалить в Альпы и поработать там? https://t.co/3dGyAvrGwn",
-    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "created_at": "Tue Jan 12 15:42:50 +0000 2016",
+    "id": 686936379306209300,
+    "id_str": "686936379306209280",
+    "text": "RT @anton_davydov: @backendsecret не хочу в СТО, хочу просто хорошим девелопером быть :)",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -63,27 +63,76 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue Jan 12 13:52:10 +0000 2016",
+      "id": 686908528578170900,
+      "id_str": "686908528578170880",
+      "text": "@backendsecret не хочу в СТО, хочу просто хорошим девелопером быть :)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 686906033214763000,
+      "in_reply_to_status_id_str": "686906033214763010",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/3dGyAvrGwn",
-          "expanded_url": "https://twitter.com/dcromster/status/686878671722921984",
-          "display_url": "twitter.com/dcromster/stat…",
+          "screen_name": "anton_davydov",
+          "name": "Davy Dovanton",
+          "id": 539221178,
+          "id_str": "539221178",
           "indices": [
-            52,
-            75
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            19,
+            33
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
