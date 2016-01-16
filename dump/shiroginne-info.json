@@ -40,51 +40,101 @@
   "friends_count": 1,
   "listed_count": 113,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 1799,
+  "favourites_count": 1800,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 8292,
+  "statuses_count": 8383,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Jan 15 18:00:41 +0000 2016",
-    "id": 688058234867986400,
-    "id_str": "688058234867986432",
-    "text": "@nick_jastix пробовал ведьмак 3? очень крутая история. ( ПРОТИВ ЗАПРЕТА ИГР )",
-    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "created_at": "Sat Jan 16 11:39:19 +0000 2016",
+    "id": 688324649130811400,
+    "id_str": "688324649130811392",
+    "text": "RT @ruxeg: @backendsecret просто надо скрыть все нотификации с лок скрина. У меня появилось больше времени после этого )",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "truncated": false,
-    "in_reply_to_status_id": 688055231498850300,
-    "in_reply_to_status_id_str": "688055231498850304",
-    "in_reply_to_user_id": 18577007,
-    "in_reply_to_user_id_str": "18577007",
-    "in_reply_to_screen_name": "nick_jastix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Jan 16 11:36:57 +0000 2016",
+      "id": 688324051832561700,
+      "id_str": "688324051832561665",
+      "text": "@backendsecret просто надо скрыть все нотификации с лок скрина. У меня появилось больше времени после этого )",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 688280751545028600,
+      "in_reply_to_status_id_str": "688280751545028609",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "nick_jastix",
-          "name": "Nikolay",
-          "id": 18577007,
-          "id_str": "18577007",
+          "screen_name": "ruxeg",
+          "name": "ruX",
+          "id": 113131428,
+          "id_str": "113131428",
           "indices": [
-            0,
-            12
+            3,
+            9
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            11,
+            25
           ]
         }
       ],
       "urls": []
     },
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
