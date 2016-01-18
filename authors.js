@@ -1,8 +1,8 @@
 export default [
-  // post: false
   // { username: 'twitter_name',      start: '07 sep 2015', first: '640816652293144576', post: false }, 
-  { username: 'shiroginne',      start: '10 jan 2016', first: '686436675157889024', post: false }, 
-  { username: 'backendsecret',      start: '28 dec 2015', first: '681543502535258112', post: false }, 
+  { username: 'dlagoza',      start: '18 jan 2016', first: '689042340074405888' }, 
+  { username: 'shiroginne',      start: '10 jan 2016', first: '686436675157889024' }, 
+  { username: 'backendsecret',      start: '28 dec 2015', first: '681543502535258112' }, 
   { username: 'Blohin',      start: '21 dec 2015', first: '678842716055314432' }, 
   { username: 'axique',      start: '14 dec 2015', first: '676316898255110144'}, 
   { username: 'M0sth8',      start: '07 dec 2015', first: '673858081277796352' }, 
