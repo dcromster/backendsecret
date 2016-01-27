@@ -45,20 +45,20 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 9243,
+  "statuses_count": 9358,
   "lang": "en",
   "status": {
-    "created_at": "Wed Jan 27 15:42:41 +0000 2016",
-    "id": 692372159864422400,
-    "id_str": "692372159864422400",
-    "text": "кто как считает, когда нужно повышать зарплату программисту и насколько?",
+    "created_at": "Wed Jan 27 19:10:12 +0000 2016",
+    "id": 692424384867373000,
+    "id_str": "692424384867373057",
+    "text": "@backendsecret в такой ситуации даже делать ничего не надо, вы уже постарались и все верно сделали =)",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 692424233520095200,
+    "in_reply_to_status_id_str": "692424233520095233",
+    "in_reply_to_user_id": 3302551618,
+    "in_reply_to_user_id_str": "3302551618",
+    "in_reply_to_screen_name": "backendsecret",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,7 +69,18 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
