@@ -1,7 +1,7 @@
 export default [
   // { username: 'twitter_name', start: '07 sep 2015', first: '640816652293144576', post: false }, 
   //https://twitter.com/backendsecret/status/691715803209687040
-  { username: 'Kukuruzovich',    start: '25 jan 2016', first: '691715803209687040', post: false },
+  { username: 'Kukuruzovich',    start: '25 jan 2016', first: '691715803209687040' },
   { username: 'dlagoza',         start: '18 jan 2016', first: '689042340074405888' }, 
   { username: 'shiroginne',      start: '10 jan 2016', first: '686436675157889024' }, 
   { username: 'backendsecret',   start: '28 dec 2015', first: '681543502535258112' }, 
