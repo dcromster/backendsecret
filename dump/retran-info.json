@@ -5,7 +5,7 @@
   "screen_name": "backendsecret",
   "location": "Worldwide",
   "profile_location": null,
-  "description": "Переходящий твиттер backend разработчиков. Эту неделю ведёт %username%. Чат: https://t.co/16TCoYIo2K…",
+  "description": "Переходящий твиттер backend разработчиков. Эту неделю ведёт @retran. Чат: https://t.co/16TCoYIo2K…",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
     "url": {
@@ -28,30 +28,30 @@
           "expanded_url": "http://gitter.im/backendsecret/",
           "display_url": "gitter.im/backendsecret/",
           "indices": [
-            77,
-            100
+            74,
+            97
           ]
         }
       ]
     }
   },
   "protected": false,
-  "followers_count": 1827,
+  "followers_count": 1825,
   "friends_count": 0,
-  "listed_count": 119,
+  "listed_count": 120,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1797,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 9863,
+  "statuses_count": 9917,
   "lang": "en",
   "status": {
-    "created_at": "Mon Feb 01 10:22:00 +0000 2016",
-    "id": 694103398229151700,
-    "id_str": "694103398229151744",
-    "text": "Мое больное место - непонимание кучи людей зачем в SOAP есть SOAPFault и как его использовать.",
+    "created_at": "Mon Feb 01 13:22:52 +0000 2016",
+    "id": 694148915822727200,
+    "id_str": "694148915822727169",
+    "text": "Мода пошла с появлением Akka. А так, даже в нашем дотнете есть - https://t.co/9jUE4SLWwg https://t.co/3Z8YVYUJJy",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -63,17 +63,39 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 694148320944635900,
+    "quoted_status_id_str": "694148320944635904",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/9jUE4SLWwg",
+          "expanded_url": "http://getakka.net/",
+          "display_url": "getakka.net",
+          "indices": [
+            65,
+            88
+          ]
+        },
+        {
+          "url": "https://t.co/3Z8YVYUJJy",
+          "expanded_url": "https://twitter.com/unel86/status/694148320944635904",
+          "display_url": "twitter.com/unel86/status/…",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
