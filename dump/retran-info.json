@@ -45,56 +45,48 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 9993,
+  "statuses_count": 10036,
   "lang": "en",
   "status": {
-    "created_at": "Mon Feb 01 19:40:30 +0000 2016",
-    "id": 694243948399857700,
-    "id_str": "694243948399857664",
-    "text": "\"@Woundless: @backendsecret т.е. в теории можешь прийти и уйти когда хочешь, но это не желательно?\" Не нежелательно, а \"надо предупредить\".",
-    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "created_at": "Tue Feb 02 11:58:43 +0000 2016",
+    "id": 694490123505909800,
+    "id_str": "694490123505909760",
+    "text": "Ну в типовом апи стандартные коллекции сущностей уже созданы, например, по факту наличия соответствующих таблиц в бд https://t.co/1bThtv4uRz",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
-    "in_reply_to_status_id": 694237962213691400,
-    "in_reply_to_status_id_str": "694237962213691392",
-    "in_reply_to_user_id": 212652978,
-    "in_reply_to_user_id_str": "212652978",
-    "in_reply_to_screen_name": "Woundless",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 694489436495704000,
+    "quoted_status_id_str": "694489436495704064",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "Woundless",
-          "name": "Записки сумасшедшего",
-          "id": 212652978,
-          "id_str": "212652978",
+          "url": "https://t.co/1bThtv4uRz",
+          "expanded_url": "https://twitter.com/chikiro_twi/status/694489436495704064",
+          "display_url": "twitter.com/chikiro_twi/st…",
           "indices": [
-            1,
-            11
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            13,
-            27
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
