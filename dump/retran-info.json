@@ -36,7 +36,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1824,
+  "followers_count": 1826,
   "friends_count": 0,
   "listed_count": 122,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -45,13 +45,13 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 10060,
+  "statuses_count": 10061,
   "lang": "en",
   "status": {
-    "created_at": "Tue Feb 02 13:59:23 +0000 2016",
-    "id": 694520493282594800,
-    "id_str": "694520493282594816",
-    "text": "Вот тут неплохая подборка ссылок - https://t.co/uw34vg4l6Z https://t.co/tKhK8Hr9hZ",
+    "created_at": "Tue Feb 02 15:05:20 +0000 2016",
+    "id": 694537088616828900,
+    "id_str": "694537088616828928",
+    "text": "RT @discopalevo: @backendsecret пустую коллекцию конечно, чтоб можно было единообразно обрабатывать ответы, типа response.map(...)",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -63,39 +63,78 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 694519249084223500,
-    "quoted_status_id_str": "694519249084223488",
-    "is_quote_status": true,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue Feb 02 15:05:06 +0000 2016",
+      "id": 694537030680875000,
+      "id_str": "694537030680875008",
+      "text": "@backendsecret пустую коллекцию конечно, чтоб можно было единообразно обрабатывать ответы, типа response.map(...)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 694487152520900600,
+      "in_reply_to_status_id_str": "694487152520900609",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/uw34vg4l6Z",
-          "expanded_url": "http://blog.langer.eu/2014/09/02/literature.html",
-          "display_url": "blog.langer.eu/2014/09/02/lit…",
+          "screen_name": "discopalevo",
+          "name": "discopalevo",
+          "id": 16385158,
+          "id_str": "16385158",
           "indices": [
-            35,
-            58
+            3,
+            15
           ]
         },
         {
-          "url": "https://t.co/tKhK8Hr9hZ",
-          "expanded_url": "https://twitter.com/unreal_michael/status/694519249084223488",
-          "display_url": "twitter.com/unreal_michael…",
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
           "indices": [
-            59,
-            82
+            17,
+            31
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
