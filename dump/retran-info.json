@@ -36,7 +36,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1829,
+  "followers_count": 1830,
   "friends_count": 0,
   "listed_count": 122,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -45,14 +45,14 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 10093,
+  "statuses_count": 10146,
   "lang": "en",
   "status": {
-    "created_at": "Wed Feb 03 13:31:09 +0000 2016",
-    "id": 694875773837123600,
-    "id_str": "694875773837123585",
-    "text": "Это там где не сломана система типов :) https://t.co/A26OsPk83o",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Wed Feb 03 17:32:44 +0000 2016",
+    "id": 694936570940489700,
+    "id_str": "694936570940489729",
+    "text": "RT @en_austin: @hatarist @VovanR @backendsecret а вот пример каста выражения \"+[]\" в тип \"number\" подтверждает то, почему JS можно приравня…",
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -63,30 +63,118 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 694875325432516600,
-    "quoted_status_id_str": "694875325432516608",
-    "is_quote_status": true,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Wed Feb 03 17:28:28 +0000 2016",
+      "id": 694935498259697700,
+      "id_str": "694935498259697664",
+      "text": "@hatarist @VovanR @backendsecret а вот пример каста выражения \"+[]\" в тип \"number\" подтверждает то, почему JS можно приравнять к мазохизму!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 694935198266441700,
+      "in_reply_to_status_id_str": "694935198266441728",
+      "in_reply_to_user_id": 2278745898,
+      "in_reply_to_user_id_str": "2278745898",
+      "in_reply_to_screen_name": "hatarist",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hatarist",
+            "name": "Igor Hatarist",
+            "id": 2278745898,
+            "id_str": "2278745898",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "VovanR",
+            "name": "Vladimir Rodkin",
+            "id": 105583919,
+            "id_str": "105583919",
+            "indices": [
+              10,
+              17
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              18,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/A26OsPk83o",
-          "expanded_url": "https://twitter.com/subzey/status/694875325432516608",
-          "display_url": "twitter.com/subzey/status/…",
+          "screen_name": "en_austin",
+          "name": "Vladimir `AusTiN`",
+          "id": 101895037,
+          "id_str": "101895037",
           "indices": [
-            40,
-            63
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "hatarist",
+          "name": "Igor Hatarist",
+          "id": 2278745898,
+          "id_str": "2278745898",
+          "indices": [
+            15,
+            24
+          ]
+        },
+        {
+          "screen_name": "VovanR",
+          "name": "Vladimir Rodkin",
+          "id": 105583919,
+          "id_str": "105583919",
+          "indices": [
+            25,
+            32
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            33,
+            47
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
