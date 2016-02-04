@@ -45,13 +45,13 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 10289,
+  "statuses_count": 10295,
   "lang": "en",
   "status": {
-    "created_at": "Thu Feb 04 12:21:09 +0000 2016",
-    "id": 695220548369043500,
-    "id_str": "695220548369043456",
-    "text": "Сервисам проще - они могут например генерить скрипты в девелопмент-тайм, хранить их под версионником и накатывать при деплое.",
+    "created_at": "Thu Feb 04 13:49:48 +0000 2016",
+    "id": 695242854600413200,
+    "id_str": "695242854600413184",
+    "text": "Опять же - это работает при определенных ограничениях на возможные изменения. https://t.co/V67ZK5Ra8Q",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -63,17 +63,30 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 695242048472010800,
+    "quoted_status_id_str": "695242048472010752",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/V67ZK5Ra8Q",
+          "expanded_url": "https://twitter.com/RinatGilmanov/status/695242048472010752",
+          "display_url": "twitter.com/RinatGilmanov/…",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
