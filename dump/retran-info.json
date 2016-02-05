@@ -36,7 +36,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1822,
+  "followers_count": 1825,
   "friends_count": 0,
   "listed_count": 122,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -45,14 +45,14 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 10295,
+  "statuses_count": 10297,
   "lang": "en",
   "status": {
-    "created_at": "Thu Feb 04 13:49:48 +0000 2016",
-    "id": 695242854600413200,
-    "id_str": "695242854600413184",
-    "text": "Опять же - это работает при определенных ограничениях на возможные изменения. https://t.co/V67ZK5Ra8Q",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Thu Feb 04 21:29:37 +0000 2016",
+    "id": 695358571374968800,
+    "id_str": "695358571374968833",
+    "text": "RT @de_gis: В ленту @jsunderhood  и @backendsecret ;) https://t.co/tKe2wscw3T",
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -63,29 +63,121 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 695242048472010800,
-    "quoted_status_id_str": "695242048472010752",
+    "retweeted_status": {
+      "created_at": "Thu Feb 04 20:14:48 +0000 2016",
+      "id": 695339746151702500,
+      "id_str": "695339746151702532",
+      "text": "В ленту @jsunderhood  и @backendsecret ;) https://t.co/tKe2wscw3T",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 695258847397675000,
+      "quoted_status_id_str": "695258847397675008",
+      "is_quote_status": true,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              8,
+              20
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              24,
+              38
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tKe2wscw3T",
+            "expanded_url": "https://twitter.com/kalduzov/status/695258847397675008",
+            "display_url": "twitter.com/kalduzov/statu…",
+            "indices": [
+              42,
+              65
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": true,
-    "retweet_count": 0,
+    "retweet_count": 2,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "de_gis",
+          "name": "Igor Galtsev",
+          "id": 229812906,
+          "id_str": "229812906",
+          "indices": [
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            20,
+            32
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            36,
+            50
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/V67ZK5Ra8Q",
-          "expanded_url": "https://twitter.com/RinatGilmanov/status/695242048472010752",
-          "display_url": "twitter.com/RinatGilmanov/…",
+          "url": "https://t.co/tKe2wscw3T",
+          "expanded_url": "https://twitter.com/kalduzov/status/695258847397675008",
+          "display_url": "twitter.com/kalduzov/statu…",
           "indices": [
-            78,
-            101
+            54,
+            77
           ]
         }
       ]
     },
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "possibly_sensitive": false,
     "lang": "ru"
   },
