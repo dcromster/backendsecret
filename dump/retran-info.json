@@ -36,7 +36,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1825,
+  "followers_count": 1827,
   "friends_count": 0,
   "listed_count": 122,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -45,20 +45,20 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 10299,
+  "statuses_count": 10307,
   "lang": "en",
   "status": {
-    "created_at": "Fri Feb 05 10:04:30 +0000 2016",
-    "id": 695548547228368900,
-    "id_str": "695548547228368897",
-    "text": "Добрый день, твиттер!",
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "created_at": "Fri Feb 05 17:44:35 +0000 2016",
+    "id": 695664326984790000,
+    "id_str": "695664326984790016",
+    "text": "@strangeqargo это к @dcromster",
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 695653865782448100,
+    "in_reply_to_status_id_str": "695653865782448130",
+    "in_reply_to_user_id": 127573172,
+    "in_reply_to_user_id_str": "127573172",
+    "in_reply_to_screen_name": "strangeqargo",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -69,7 +69,28 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "strangeqargo",
+          "name": "hey you, kekoosh",
+          "id": 127573172,
+          "id_str": "127573172",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "dcromster",
+          "name": "Roman Milovskiy",
+          "id": 81103006,
+          "id_str": "81103006",
+          "indices": [
+            20,
+            30
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
