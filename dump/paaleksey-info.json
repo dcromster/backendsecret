@@ -45,13 +45,13 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 10310,
+  "statuses_count": 10311,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Feb 08 08:33:04 +0000 2016",
-    "id": 696612697467658200,
-    "id_str": "696612697467658240",
-    "text": "Ну и говорить мы будем не только о Go, так что не отписывайтесь, передоза Go у вас не будет. :)",
+    "created_at": "Mon Feb 08 08:44:33 +0000 2016",
+    "id": 696615588140081200,
+    "id_str": "696615588140081152",
+    "text": "Basic, Pascal, C, C++, Ruby, Python и многое другое. А также большие, маленькие и свои компании и стартапы. https://t.co/EHk7HokmLy",
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -63,17 +63,30 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 696613368094986200,
+    "quoted_status_id_str": "696613368094986240",
+    "is_quote_status": true,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/EHk7HokmLy",
+          "expanded_url": "https://twitter.com/viatsko/status/696613368094986240",
+          "display_url": "twitter.com/viatsko/status…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
