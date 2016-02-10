@@ -45,13 +45,13 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 10368,
+  "statuses_count": 10375,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Feb 10 06:51:21 +0000 2016",
-    "id": 697311875709669400,
-    "id_str": "697311875709669376",
-    "text": "Сегодня я должен стать на год умнее. Предыдущие ведущие, откройте секрет: как вы умудрялись вести этот твиттер и работать?..",
+    "created_at": "Wed Feb 10 11:12:38 +0000 2016",
+    "id": 697377629574471700,
+    "id_str": "697377629574471680",
+    "text": "Нет, вы же продадите, например, подписку на месяц. Для жизни это мало. :) https://t.co/FBEZRIrDk4",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -63,17 +63,30 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 697377337076289500,
+    "quoted_status_id_str": "697377337076289536",
+    "is_quote_status": true,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/FBEZRIrDk4",
+          "expanded_url": "https://twitter.com/webholt/status/697377337076289536",
+          "display_url": "twitter.com/webholt/status…",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
