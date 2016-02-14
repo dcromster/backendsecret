@@ -36,22 +36,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1846,
+  "followers_count": 1854,
   "friends_count": 0,
-  "listed_count": 121,
+  "listed_count": 122,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1797,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 10385,
+  "statuses_count": 10386,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Feb 12 15:53:22 +0000 2016",
-    "id": 698173053927292900,
-    "id_str": "698173053927292928",
-    "text": "А как собирать с нескольких серверов? https://t.co/mIJV5vkNZb",
+    "created_at": "Fri Feb 12 18:58:01 +0000 2016",
+    "id": 698219523175026700,
+    "id_str": "698219523175026689",
+    "text": "Прямо сейчас мы пишем очередной выпуск @golangshow, подключайтесь! https://t.co/ZEgK0UVyzO",
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -63,23 +63,32 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 698166443402252300,
-    "quoted_status_id_str": "698166443402252288",
-    "is_quote_status": true,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "GolangShow",
+          "name": "GolangShow",
+          "id": 3382276751,
+          "id_str": "3382276751",
+          "indices": [
+            39,
+            50
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/mIJV5vkNZb",
-          "expanded_url": "https://twitter.com/de_gis/status/698166443402252288",
-          "display_url": "twitter.com/de_gis/status/…",
+          "url": "https://t.co/ZEgK0UVyzO",
+          "expanded_url": "https://golangshow.com/online/",
+          "display_url": "golangshow.com/online/",
           "indices": [
-            38,
-            61
+            67,
+            90
           ]
         }
       ]
