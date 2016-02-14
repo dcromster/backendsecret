@@ -1,7 +1,7 @@
 export default [
-  // { username: 'twitter_name', start: '07 sep 2015', first: '640816652293144576', post: false }, 
-  //https://twitter.com/backendsecret/status/696612497302937601
-  { username: 'paaleksey', start: '08 ауи 2016', first: '696612497302937601', post: false }, 
+  // { username: 'twitter_name', start: '15 feb 2016', first: '640816652293144576', post: false }, 
+  // { username: 'DenikeWeb', start: '15 feb 2016', first: '', post: false }, 
+  { username: 'paaleksey', start: '08 feb 2016', first: '696612497302937601'}, 
   { username: 'retran', start: '01 feb 2016', first: '694085450831695872'}, 
   { username: 'Kukuruzovich',    start: '25 jan 2016', first: '691715803209687040' },
   { username: 'dlagoza',         start: '18 jan 2016', first: '689042340074405888' }, 
