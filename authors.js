@@ -1,6 +1,6 @@
 export default [
   // { username: 'twitter_name', start: '15 feb 2016', first: '640816652293144576', post: false }, 
-  { username: 'DenikeWeb', start: '15 feb 2016', first: '699213083839963136', post: false }, 
+  { username: 'DenikeWeb', start: '15 feb 2016', first: '699213083839963136' }, 
   { username: 'paaleksey', start: '08 feb 2016', first: '696612497302937601'}, 
   { username: 'retran', start: '01 feb 2016', first: '694085450831695872'}, 
   { username: 'Kukuruzovich',    start: '25 jan 2016', first: '691715803209687040' },
