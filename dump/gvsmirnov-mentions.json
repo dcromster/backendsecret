@@ -5772,6 +5772,182 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 05 11:50:12 +0000 2016",
+      "id": 717318416034435100,
+      "id_str": "717318416034435074",
+      "text": "@backendsecret SuccessRate, SLA, QPS, перцентили latency; то же для up/downstream сервисов; # живых инстансов, deploy SHA, uptime, CPU, GC",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 717292823322705900,
+      "in_reply_to_status_id_str": "717292823322705920",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 132897304,
+        "id_str": "132897304"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Apr 05 12:11:09 +0000 2016",
+      "id": 717323688249413600,
+      "id_str": "717323688249413632",
+      "text": "@backendsecret это ещё не всё 😔 для каждого сервиса дашборд несколько страниц. Приходится поскроллить! Но привыкли, layout похожий у всех",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 717321415167459300,
+      "in_reply_to_status_id_str": "717321415167459328",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 132897304,
+        "id_str": "132897304"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 05 12:30:31 +0000 2016",
+      "id": 717328561905012700,
+      "id_str": "717328561905012736",
+      "text": "@backendsecret \n1)Храним данные с систем мониторинга при возникновении проблемы.\n2)При закрытии отмечаем причину (диск, сеть, алгоритм, etc)",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 717246858540744700,
+      "in_reply_to_status_id_str": "717246858540744704",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 249349277,
+        "id_str": "249349277"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 05 12:32:07 +0000 2016",
+      "id": 717328966131048400,
+      "id_str": "717328966131048448",
+      "text": "@backendsecret \n3) Наконец-то получаем набор данных вида [{статус_системы_при_тормозах, причина_тормозов}, ...] &lt;- из этого и генерим модель",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 717328561905012700,
+      "in_reply_to_status_id_str": "717328561905012736",
+      "in_reply_to_user_id": 249349277,
+      "in_reply_to_user_id_str": "249349277",
+      "in_reply_to_screen_name": "not_rated",
+      "user": {
+        "id": 249349277,
+        "id_str": "249349277"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
