@@ -26,45 +26,109 @@
     }
   },
   "protected": false,
-  "followers_count": 2093,
+  "followers_count": 2104,
   "friends_count": 0,
   "listed_count": 131,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 1854,
+  "favourites_count": 1859,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 11719,
+  "statuses_count": 11736,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Apr 08 07:39:28 +0000 2016",
-    "id": 718342481520279600,
-    "id_str": "718342481520279552",
-    "text": "The Next Big Thing среди APM-ов — это automated root cause detection. То есть, APM сам тебе и скажет, почему тормозит.",
+    "created_at": "Fri Apr 08 18:45:11 +0000 2016",
+    "id": 718510016966369300,
+    "id_str": "718510016966369281",
+    "text": "RT @sorrowunderhood: Неординарно собираюсь поспать и выспаться. И вам советую.  https://t.co/B13JQ8WwiQ",
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "sorrowunderhood",
+          "name": "Горемыка",
+          "id": 717801105053368300,
+          "id_str": "717801105053368321",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/B13JQ8WwiQ",
+          "expanded_url": "https://twitter.com/backendsecret/status/718501091999158273",
+          "display_url": "twitter.com/backendsecret/…",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ]
     },
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 718341929763778600,
-    "in_reply_to_status_id_str": "718341929763778560",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Fri Apr 08 18:36:47 +0000 2016",
+      "id": 718507902462468100,
+      "id_str": "718507902462468098",
+      "text": "Неординарно собираюсь поспать и выспаться. И вам советую.  https://t.co/B13JQ8WwiQ",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/B13JQ8WwiQ",
+            "expanded_url": "https://twitter.com/backendsecret/status/718501091999158273",
+            "display_url": "twitter.com/backendsecret/…",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 718501091999158300,
+      "quoted_status_id_str": "718501091999158273",
+      "is_quote_status": true,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "is_quote_status": true,
+    "retweet_count": 2,
     "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "und"
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
