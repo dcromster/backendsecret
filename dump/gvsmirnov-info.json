@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2112,
+  "followers_count": 2117,
   "friends_count": 0,
   "listed_count": 131,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,26 +35,37 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 11772,
+  "statuses_count": 11779,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Apr 10 09:24:48 +0000 2016",
-    "id": 719093763751194600,
-    "id_str": "719093763751194624",
-    "text": "Кстати, об ООМ. Еслион случился, то далеко не факт, что из-за утечки памяти. Проверьте: у вас все методы API возвращают списки с пагинацией?",
+    "created_at": "Sun Apr 10 13:28:52 +0000 2016",
+    "id": 719155188767060000,
+    "id_str": "719155188767059973",
+    "text": "@DevArtem будем рады фидбеку :)",
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "DevArtem",
+          "name": "Tim Zadorozhniy",
+          "id": 1916677075,
+          "id_str": "1916677075",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
       "urls": []
     },
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 719093124547612700,
-    "in_reply_to_status_id_str": "719093124547612672",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": 719100489862930400,
+    "in_reply_to_status_id_str": "719100489862930433",
+    "in_reply_to_user_id": 1916677075,
+    "in_reply_to_user_id_str": "1916677075",
+    "in_reply_to_screen_name": "DevArtem",
     "geo": null,
     "coordinates": null,
     "place": null,
