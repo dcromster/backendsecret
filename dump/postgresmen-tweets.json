@@ -4421,6 +4421,211 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 18 18:33:48 +0000 2016",
+      "id": 722131029578743800,
+      "id_str": "722131029578743808",
+      "text": "Про бэкапы. Осенью был отличный #PostgreSQLRussia в Яндексе. Владимир Бородин разложил по полочкам Постгрес-бэкапы https://t.co/GLyJ6JFslL",
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PostgreSQLRussia",
+            "indices": [
+              32,
+              49
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GLyJ6JFslL",
+            "expanded_url": "https://events.yandex.ru/events/yagosti/14-october-2015/",
+            "display_url": "events.yandex.ru/events/yagosti…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 18 18:45:54 +0000 2016",
+      "id": 722134074828005400,
+      "id_str": "722134074828005377",
+      "text": "@backendsecret а вот слайды про постгрес-бэкапы https://t.co/VYEFFhyarW \"Как спать спокойно\", Владимир Бородин (@man_brain), Яндекс.Почта",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "man_brain",
+            "name": "d0uble",
+            "id": 395164871,
+            "id_str": "395164871",
+            "indices": [
+              112,
+              122
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VYEFFhyarW",
+            "expanded_url": "http://www.slideshare.net/samokhvalov/20151014-postgresqlrussiaorg-meetup-in-yandex-office",
+            "display_url": "slideshare.net/samokhvalov/20…",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 722131029578743800,
+      "in_reply_to_status_id_str": "722131029578743808",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 18 18:51:56 +0000 2016",
+      "id": 722135590645289000,
+      "id_str": "722135590645288960",
+      "text": "А вот смежная тема — когда всё очень плохо и нужно срочно спасать свою БД 🙀  Немного, так сказать, про коррупцию:)   https://t.co/kYYJoNne29",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kYYJoNne29",
+            "expanded_url": "https://wiki.postgresql.org/wiki/Corruption",
+            "display_url": "wiki.postgresql.org/wiki/Corruption",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 18 18:52:54 +0000 2016",
+      "id": 722135837392003100,
+      "id_str": "722135837392003072",
+      "text": "@backendsecret эту страничку полезно иметь под рукой. На всякий пожарный.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 722135590645289000,
+      "in_reply_to_status_id_str": "722135590645288960",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
