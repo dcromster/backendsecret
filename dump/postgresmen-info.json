@@ -26,34 +26,54 @@
     }
   },
   "protected": false,
-  "followers_count": 2241,
+  "followers_count": 2247,
   "friends_count": 0,
   "listed_count": 138,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 1892,
+  "favourites_count": 1893,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 12181,
+  "statuses_count": 12196,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Apr 28 21:39:21 +0000 2016",
-    "id": 725801604826300400,
-    "id_str": "725801604826300416",
-    "text": "@mktums дайте ссылку, плз",
+    "created_at": "Sun May 01 16:30:27 +0000 2016",
+    "id": 726811027766014000,
+    "id_str": "726811027766013952",
+    "text": "RT @Uznick: @mkn8rd @backendsecret многие фреймворки не мешают прострелить себе ногу, если очень хочется",
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "mktums",
-          "name": "ztfk",
-          "id": 88753294,
-          "id_str": "88753294",
+          "screen_name": "Uznick",
+          "name": "Uznick",
+          "id": 8447112,
+          "id_str": "8447112",
           "indices": [
-            0,
-            7
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "mkn8rd",
+          "name": "Dmitry Nazarov",
+          "id": 247242874,
+          "id_str": "247242874",
+          "indices": [
+            12,
+            19
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            20,
+            34
           ]
         }
       ],
@@ -61,20 +81,103 @@
     },
     "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 725798521773916200,
-    "in_reply_to_status_id_str": "725798521773916160",
-    "in_reply_to_user_id": 88753294,
-    "in_reply_to_user_id_str": "88753294",
-    "in_reply_to_screen_name": "mktums",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun May 01 16:27:22 +0000 2016",
+      "id": 726810251744436200,
+      "id_str": "726810251744436224",
+      "text": "@mkn8rd @backendsecret многие фреймворки не мешают прострелить себе ногу, если очень хочется",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mkn8rd",
+            "name": "Dmitry Nazarov",
+            "id": 247242874,
+            "id_str": "247242874",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              8,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 726806986193551400,
+      "in_reply_to_status_id_str": "726806986193551360",
+      "in_reply_to_user_id": 247242874,
+      "in_reply_to_user_id_str": "247242874",
+      "in_reply_to_screen_name": "mkn8rd",
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "3cbdfee6e9009106",
+        "url": "https://api.twitter.com/1.1/geo/id/3cbdfee6e9009106.json",
+        "place_type": "city",
+        "name": "Пушкино",
+        "full_name": "Пушкино, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                37.7727208,
+                55.962646
+              ],
+              [
+                37.9484835,
+                55.962646
+              ],
+              [
+                37.9484835,
+                56.0607751
+              ],
+              [
+                37.7727208,
+                56.0607751
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
