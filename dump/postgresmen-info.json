@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2268,
+  "followers_count": 2290,
   "friends_count": 0,
   "listed_count": 138,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,33 +35,54 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 12226,
+  "statuses_count": 12228,
   "lang": "ru",
   "status": {
-    "created_at": "Fri May 06 10:55:55 +0000 2016",
-    "id": 728538779003150300,
-    "id_str": "728538779003150337",
-    "text": "В Heroku теперь Постгрес 9.5 в бою! Хероку — мегакрутые, посмотрите на них, если ещё не. Pet projects можно нахаляву крутить",
+    "created_at": "Tue May 10 19:52:14 +0000 2016",
+    "id": 730123301188567000,
+    "id_str": "730123301188567041",
+    "text": "@dcromster @kostja_osipov Костя говорит, что с удовольствием поведёт, но не сейчас — сейчас завал тотальный. Конец цитаты.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "dcromster",
+          "name": "Roman Milovskiy",
+          "id": 81103006,
+          "id_str": "81103006",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "kostja_osipov",
+          "name": "Konstantin Osipov",
+          "id": 501199814,
+          "id_str": "501199814",
+          "indices": [
+            11,
+            25
+          ]
+        }
+      ],
       "urls": []
     },
-    "truncated": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 730117213076762600,
+    "in_reply_to_status_id_str": "730117213076762624",
+    "in_reply_to_user_id": 81103006,
+    "in_reply_to_user_id_str": "81103006",
+    "in_reply_to_screen_name": "dcromster",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 8,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
