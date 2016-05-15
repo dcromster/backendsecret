@@ -1,6 +1,6 @@
 export default [
   // { username: 'twitter_name', start: '15 feb 2016', first: '640816652293144576', post: false },
-  { username: 'postgresmen', start: '18 apr 2016', first: '721971547859124224'},
+  { username: 'postgresmen', start: '18 apr 2016', first: '721971547859124224', post: false},
   { username: 'servzin',    start: '11 apr 2016', first: '719460712876216320' },
   { username: 'gvsmirnov',       start: '04 apr 2016', first: '716861849850015744'},
   { username: 'estet',           start: '28 mar 2016', first: '714391176145739776' },
