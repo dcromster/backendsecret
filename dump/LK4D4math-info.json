@@ -35,37 +35,36 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 12302,
+  "statuses_count": 12307,
   "lang": "ru",
   "status": {
-    "created_at": "Tue May 17 21:01:47 +0000 2016",
-    "id": 732677519808155600,
-    "id_str": "732677519808155648",
-    "text": "@fxposter да, это заслуга Го в основном",
+    "created_at": "Wed May 18 14:51:35 +0000 2016",
+    "id": 732946741398405100,
+    "id_str": "732946741398405120",
+    "text": "Штука на которой построен docker4mac https://t.co/JlQL50mFDp",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "fxposter",
-          "name": "Pavel Forkert",
-          "id": 9013972,
-          "id_str": "9013972",
+          "url": "https://t.co/JlQL50mFDp",
+          "expanded_url": "https://github.com/docker/hyperkit",
+          "display_url": "github.com/docker/hyperkit",
           "indices": [
-            0,
-            9
+            37,
+            60
           ]
         }
-      ],
-      "urls": []
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 732677066206937100,
-    "in_reply_to_status_id_str": "732677066206937088",
-    "in_reply_to_user_id": 9013972,
-    "in_reply_to_user_id_str": "9013972",
-    "in_reply_to_screen_name": "fxposter",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -75,6 +74,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
