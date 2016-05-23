@@ -5,13 +5,13 @@
   "screen_name": "backendsecret",
   "location": "Worldwide",
   "profile_location": null,
-  "description": "Переходящий твиттер backend разработчиков. Эту неделю ведёт %%username%%",
-  "url": "https://t.co/SebwQPTxh5",
+  "description": "Переходящий твиттер backend разработчиков. Эту неделю ведёт @smira",
+  "url": "https://t.co/SebwQPBWpx",
   "entities": {
     "url": {
       "urls": [
         {
-          "url": "https://t.co/SebwQPTxh5",
+          "url": "https://t.co/SebwQPBWpx",
           "expanded_url": "http://backendsecret.ru",
           "display_url": "backendsecret.ru",
           "indices": [
@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2327,
+  "followers_count": 2338,
   "friends_count": 0,
   "listed_count": 140,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,46 +35,48 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 12331,
+  "statuses_count": 12353,
   "lang": "ru",
   "status": {
-    "created_at": "Mon May 23 13:58:04 +0000 2016",
-    "id": 734745215714594800,
-    "id_str": "734745215714594816",
-    "text": "Всем привет! Эту неделю с вами буду я (@smira), Go, проектирование, Cassandra, микросервисы, нагрузка, удаленная работа, … спрашивайте!",
+    "created_at": "Mon May 23 18:41:29 +0000 2016",
+    "id": 734816537484365800,
+    "id_str": "734816537484365824",
+    "text": "Я работаю удаленно вот уже 2.5 года в очень сильной команде. Это - моя лучшая работа. https://t.co/FS6RudSOj5",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "smira",
-          "name": "Andrey Smirnov",
-          "id": 20218957,
-          "id_str": "20218957",
+          "url": "https://t.co/FS6RudSOj5",
+          "expanded_url": "https://twitter.com/backendsecret/status/734804647945375744",
+          "display_url": "twitter.com/backendsecret/…",
           "indices": [
-            39,
-            45
+            86,
+            109
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 734804647945375700,
+    "in_reply_to_status_id_str": "734804647945375744",
+    "in_reply_to_user_id": 3302551618,
+    "in_reply_to_user_id_str": "3302551618",
+    "in_reply_to_screen_name": "backendsecret",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 734804647945375700,
+    "quoted_status_id_str": "734804647945375744",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -84,8 +86,8 @@
   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/719457357969928192/_eI9U6jC.jpg",
   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/719457357969928192/_eI9U6jC.jpg",
   "profile_background_tile": false,
-  "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
-  "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/734771545546096640/6LDvkGTt_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/734771545546096640/6LDvkGTt_normal.jpg",
   "profile_link_color": "0090C0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
@@ -93,7 +95,7 @@
   "profile_use_background_image": false,
   "has_extended_profile": false,
   "default_profile": false,
-  "default_profile_image": true,
+  "default_profile_image": false,
   "following": false,
   "follow_request_sent": false,
   "notifications": false,
