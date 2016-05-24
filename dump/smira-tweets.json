@@ -1615,6 +1615,585 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 16:14:57 +0000 2016",
+      "id": 735142047716364300,
+      "id_str": "735142047716364288",
+      "text": "Поговорим про Cassandra? Cassandra очень сырая, куча багов. Но ни разу не потеряли данные. Скорость работы + масштабирование - это круто!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 16:16:02 +0000 2016",
+      "id": 735142320664940500,
+      "id_str": "735142320664940544",
+      "text": "Если твиттер про secretы разработки backend, надо раскрывать секреты?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 16:24:59 +0000 2016",
+      "id": 735144572926496800,
+      "id_str": "735144572926496768",
+      "text": "@raxpost вполне, а что с ним не так? да, больше надо делать в application",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "raxpost",
+            "name": "Roman Roman",
+            "id": 32959868,
+            "id_str": "32959868",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735143205482729500,
+      "in_reply_to_status_id_str": "735143205482729473",
+      "in_reply_to_user_id": 32959868,
+      "in_reply_to_user_id_str": "32959868",
+      "in_reply_to_screen_name": "raxpost",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 16:27:42 +0000 2016",
+      "id": 735145257646600200,
+      "id_str": "735145257646600192",
+      "text": "@redenergy0 например, зависает compaction настолько, что L0 переполняется и кассандра ложится",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "redenergy0",
+            "name": "Danil Dubrovsky",
+            "id": 3311616009,
+            "id_str": "3311616009",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735144891982970900,
+      "in_reply_to_status_id_str": "735144891982970880",
+      "in_reply_to_user_id": 3311616009,
+      "in_reply_to_user_id_str": "3311616009",
+      "in_reply_to_screen_name": "redenergy0",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 16:38:43 +0000 2016",
+      "id": 735148028932280300,
+      "id_str": "735148028932280320",
+      "text": "@dcromster например, у нас была ситуация когда у двух узлов был разный ring (с перепутанными местами узлами)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735147800669884400,
+      "in_reply_to_status_id_str": "735147800669884416",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "dcromster",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 16:39:06 +0000 2016",
+      "id": 735148125954936800,
+      "id_str": "735148125954936832",
+      "text": "@chubik @chudesnov у меня есть двое )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chubik",
+            "name": "Valentyn Chub",
+            "id": 20239932,
+            "id_str": "20239932",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "Chudesnov",
+            "name": "散厦知",
+            "id": 8505772,
+            "id_str": "8505772",
+            "indices": [
+              8,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735148033764102100,
+      "in_reply_to_status_id_str": "735148033764102147",
+      "in_reply_to_user_id": 20239932,
+      "in_reply_to_user_id_str": "20239932",
+      "in_reply_to_screen_name": "chubik",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 16:42:45 +0000 2016",
+      "id": 735149043396030500,
+      "id_str": "735149043396030464",
+      "text": "@chubik @chudesnov пижаму не ношу из принципа ;) утро - мое свободное время, в 15 сажусь за комп и работаю до поздней ночи.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chubik",
+            "name": "Valentyn Chub",
+            "id": 20239932,
+            "id_str": "20239932",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "Chudesnov",
+            "name": "散厦知",
+            "id": 8505772,
+            "id_str": "8505772",
+            "indices": [
+              8,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735148797836283900,
+      "in_reply_to_status_id_str": "735148797836283904",
+      "in_reply_to_user_id": 20239932,
+      "in_reply_to_user_id_str": "20239932",
+      "in_reply_to_screen_name": "chubik",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 16:43:54 +0000 2016",
+      "id": 735149333838860300,
+      "id_str": "735149333838860289",
+      "text": "@chubik “папа работает” и все  ;)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chubik",
+            "name": "Valentyn Chub",
+            "id": 20239932,
+            "id_str": "20239932",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735149232508801000,
+      "in_reply_to_status_id_str": "735149232508801024",
+      "in_reply_to_user_id": 20239932,
+      "in_reply_to_user_id_str": "20239932",
+      "in_reply_to_screen_name": "chubik",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 17:16:32 +0000 2016",
+      "id": 735157547796045800,
+      "id_str": "735157547796045824",
+      "text": "Секрет №1: разработка невозможна без тестов. Я делаю функциональные тесты на (почти) весь код, который я пишу. Unit-тесты для алгоритмов",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 17:19:44 +0000 2016",
+      "id": 735158352649572400,
+      "id_str": "735158352649572353",
+      "text": "@pkorobeinikov не совсем согласен. только функции с входом и выходом, без изменения состояния системы.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pkorobeinikov",
+            "name": "Petr Korobeinikov",
+            "id": 925642236,
+            "id_str": "925642236",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735158178606927900,
+      "in_reply_to_status_id_str": "735158178606927872",
+      "in_reply_to_user_id": 925642236,
+      "in_reply_to_user_id_str": "925642236",
+      "in_reply_to_screen_name": "pkorobeinikov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 17:21:15 +0000 2016",
+      "id": 735158732523507700,
+      "id_str": "735158732523507713",
+      "text": "RT @pkorobeinikov: @backendsecret Похоже, мы понимаем друг-друга в отношении тестов.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pkorobeinikov",
+            "name": "Petr Korobeinikov",
+            "id": 925642236,
+            "id_str": "925642236",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue May 24 17:20:31 +0000 2016",
+        "id": 735158550645866500,
+        "id_str": "735158550645866497",
+        "text": "@backendsecret Похоже, мы понимаем друг-друга в отношении тестов.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 735158352649572400,
+        "in_reply_to_status_id_str": "735158352649572353",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 925642236,
+          "id_str": "925642236"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 24 17:28:16 +0000 2016",
+      "id": 735160499718004700,
+      "id_str": "735160499718004736",
+      "text": "@cluevick @dcromster нет, конфигурация была автоматизирована… после рестарта всех узлов “вылечилось”. это глюк в gossip",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cluevick",
+            "name": "Anatoly Lebedev",
+            "id": 193614046,
+            "id_str": "193614046",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              10,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735160323800498200,
+      "in_reply_to_status_id_str": "735160323800498176",
+      "in_reply_to_user_id": 193614046,
+      "in_reply_to_user_id_str": "193614046",
+      "in_reply_to_screen_name": "cluevick",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
