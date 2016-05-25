@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2348,
+  "followers_count": 2349,
   "friends_count": 0,
   "listed_count": 140,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,18 +35,59 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 12382,
+  "statuses_count": 12399,
   "lang": "ru",
   "status": {
-    "created_at": "Tue May 24 22:01:35 +0000 2016",
-    "id": 735229284290297900,
-    "id_str": "735229284290297856",
-    "text": "Секрет №4: автоматизация. Если у вас рутинная задача, вы что-то забыли автоматизировать.",
+    "created_at": "Wed May 25 12:18:05 +0000 2016",
+    "id": 735444829384118300,
+    "id_str": "735444829384118272",
+    "text": "RT @freiksenet_ru: @dvbobrov Ничего страшного нет в поломке, есль есть redundancy. Единственное важное это как быстро можно поднять новое.@…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "freiksenet_ru",
+          "name": "Михаил Новиков",
+          "id": 3411018190,
+          "id_str": "3411018190",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "dvbobrov",
+          "name": "Dmitry Bobrov",
+          "id": 27836871,
+          "id_str": "27836871",
+          "indices": [
+            19,
+            28
+          ]
+        },
+        {
+          "screen_name": "ztaaz",
+          "name": "Stanislav Burnashev",
+          "id": 137622158,
+          "id_str": "137622158",
+          "indices": [
+            139,
+            140
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
@@ -59,11 +100,71 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed May 25 12:14:19 +0000 2016",
+      "id": 735443878342447100,
+      "id_str": "735443878342447104",
+      "text": "@dvbobrov Ничего страшного нет в поломке, есль есть redundancy. Единственное важное это как быстро можно поднять новое.@ztaaz @backendsecret",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dvbobrov",
+            "name": "Dmitry Bobrov",
+            "id": 27836871,
+            "id_str": "27836871",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "ztaaz",
+            "name": "Stanislav Burnashev",
+            "id": 137622158,
+            "id_str": "137622158",
+            "indices": [
+              119,
+              125
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              126,
+              140
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 735443761635954700,
+      "in_reply_to_status_id_str": "735443761635954688",
+      "in_reply_to_user_id": 3411018190,
+      "in_reply_to_user_id_str": "3411018190",
+      "in_reply_to_screen_name": "freiksenet_ru",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 7,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
