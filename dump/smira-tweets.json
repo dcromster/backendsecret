@@ -3686,6 +3686,1075 @@
       "favorited": false,
       "retweeted": true,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 25 12:58:25 +0000 2016",
+      "id": 735454976722473000,
+      "id_str": "735454976722472960",
+      "text": "Спасибо, интересно. Хотя у нас не менее основательно, вместо HAProxy Calico сути https://t.co/JlIBK8c0IZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JlIBK8c0IZ",
+            "expanded_url": "https://twitter.com/x_cray/status/735454601789509632",
+            "display_url": "twitter.com/x_cray/status/…",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 735454601789509600,
+      "quoted_status_id_str": "735454601789509632",
+      "quoted_status": {
+        "created_at": "Wed May 25 12:56:55 +0000 2016",
+        "id": 735454601789509600,
+        "id_str": "735454601789509632",
+        "text": "@ruxeg @backendsecret мы подошли к этому чуть более основательно https://t.co/ytaIuX55hS",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ruxeg",
+              "name": "ruX",
+              "id": 113131428,
+              "id_str": "113131428",
+              "indices": [
+                0,
+                6
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                7,
+                21
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/ytaIuX55hS",
+              "expanded_url": "https://medium.com/@x_cray/how-we-cook-mesos-db54814deb11#.q4vzv1boo",
+              "display_url": "medium.com/@x_cray/how-we…",
+              "indices": [
+                65,
+                88
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 735424377165058000,
+        "in_reply_to_status_id_str": "735424377165058048",
+        "in_reply_to_user_id": 113131428,
+        "in_reply_to_user_id_str": "113131428",
+        "in_reply_to_screen_name": "ruxeg",
+        "user": {
+          "id": 60935217,
+          "id_str": "60935217"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 25 12:58:37 +0000 2016",
+      "id": 735455028945801200,
+      "id_str": "735455028945801216",
+      "text": "@_demiurg_ что именно нужно?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_demiurg_",
+            "name": "demiurg",
+            "id": 134058171,
+            "id_str": "134058171",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735453952985206800,
+      "in_reply_to_status_id_str": "735453952985206789",
+      "in_reply_to_user_id": 134058171,
+      "in_reply_to_user_id_str": "134058171",
+      "in_reply_to_screen_name": "_demiurg_",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 25 13:12:19 +0000 2016",
+      "id": 735458478064566300,
+      "id_str": "735458478064566272",
+      "text": ". @x_cray Calico + Consul DNS + health check упрощает все до безобразия. my-app.service.consul резолвится в round-robin IP живых instance",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "x_cray",
+            "name": "Denis Parchenko",
+            "id": 60935217,
+            "id_str": "60935217",
+            "indices": [
+              2,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735458228344127500,
+      "in_reply_to_status_id_str": "735458228344127488",
+      "in_reply_to_user_id": 60935217,
+      "in_reply_to_user_id_str": "60935217",
+      "in_reply_to_screen_name": "x_cray",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ro"
+    },
+    {
+      "created_at": "Wed May 25 13:58:44 +0000 2016",
+      "id": 735470158098145300,
+      "id_str": "735470158098145280",
+      "text": "@_demiurg_ строить из них большую систему… степень их “микрости” может быть разной, конечно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_demiurg_",
+            "name": "demiurg",
+            "id": 134058171,
+            "id_str": "134058171",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735461871822721000,
+      "in_reply_to_status_id_str": "735461871822721024",
+      "in_reply_to_user_id": 134058171,
+      "in_reply_to_user_id_str": "134058171",
+      "in_reply_to_screen_name": "_demiurg_",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 25 14:04:23 +0000 2016",
+      "id": 735471579589713900,
+      "id_str": "735471579589713922",
+      "text": ". @kryakryak @x_cray c IPV6 вообще все плохо всегда и везде…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kryakryak",
+            "name": "Pono",
+            "id": 47125994,
+            "id_str": "47125994",
+            "indices": [
+              2,
+              12
+            ]
+          },
+          {
+            "screen_name": "x_cray",
+            "name": "Denis Parchenko",
+            "id": 60935217,
+            "id_str": "60935217",
+            "indices": [
+              13,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735467184202350600,
+      "in_reply_to_status_id_str": "735467184202350592",
+      "in_reply_to_user_id": 47125994,
+      "in_reply_to_user_id_str": "47125994",
+      "in_reply_to_screen_name": "kryakryak",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 25 14:24:29 +0000 2016",
+      "id": 735476636666236900,
+      "id_str": "735476636666236928",
+      "text": ". @sfilatov платформа разворачивается через saltstack orchestration, что само по себе очень круто )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sfilatov",
+            "name": "sfilatov",
+            "id": 18359020,
+            "id_str": "18359020",
+            "indices": [
+              2,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735476498258374700,
+      "in_reply_to_status_id_str": "735476498258374656",
+      "in_reply_to_user_id": 18359020,
+      "in_reply_to_user_id_str": "18359020",
+      "in_reply_to_screen_name": "sfilatov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 25 14:51:06 +0000 2016",
+      "id": 735483336035082200,
+      "id_str": "735483336035082240",
+      "text": "Я довольно долго был PHP-разработчиком. Не использовал уже PHP лет 7 или 8, как там дела в PHP мире?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 25 15:01:08 +0000 2016",
+      "id": 735485861790376000,
+      "id_str": "735485861790375937",
+      "text": ". @fardokbk @x_cray у нас в Consul пишет fork от mesos-dns",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fardokbk",
+            "name": "TopCoder",
+            "id": 2568682677,
+            "id_str": "2568682677",
+            "indices": [
+              2,
+              11
+            ]
+          },
+          {
+            "screen_name": "x_cray",
+            "name": "Denis Parchenko",
+            "id": 60935217,
+            "id_str": "60935217",
+            "indices": [
+              12,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735484589863505900,
+      "in_reply_to_status_id_str": "735484589863505920",
+      "in_reply_to_user_id": 2568682677,
+      "in_reply_to_user_id_str": "2568682677",
+      "in_reply_to_screen_name": "Fardokbk",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed May 25 15:14:35 +0000 2016",
+      "id": 735489244467212300,
+      "id_str": "735489244467212292",
+      "text": "Смотрели, но не нашли интересными для нас. https://t.co/9ZTMSoJVEH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9ZTMSoJVEH",
+            "expanded_url": "https://twitter.com/fardokbk/status/735487778071433216",
+            "display_url": "twitter.com/fardokbk/statu…",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 735487778071433200,
+      "quoted_status_id_str": "735487778071433216",
+      "quoted_status": {
+        "created_at": "Wed May 25 15:08:45 +0000 2016",
+        "id": 735487778071433200,
+        "id_str": "735487778071433216",
+        "text": "@backendsecret  а #mesosphere и dc/os  смотрели?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "mesosphere",
+              "indices": [
+                18,
+                29
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 735442994237734900,
+        "in_reply_to_status_id_str": "735442994237734912",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 2568682677,
+          "id_str": "2568682677"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 25 15:16:51 +0000 2016",
+      "id": 735489814439563300,
+      "id_str": "735489814439563265",
+      "text": ". @fardokbk @sfilatov контейнерная платформа (Mesos + Marathon) не поддерживает персистентные данные. Для Kafka/Cassandra нужен framework",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fardokbk",
+            "name": "TopCoder",
+            "id": 2568682677,
+            "id_str": "2568682677",
+            "indices": [
+              2,
+              11
+            ]
+          },
+          {
+            "screen_name": "sfilatov",
+            "name": "sfilatov",
+            "id": 18359020,
+            "id_str": "18359020",
+            "indices": [
+              12,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735489571719368700,
+      "in_reply_to_status_id_str": "735489571719368704",
+      "in_reply_to_user_id": 2568682677,
+      "in_reply_to_user_id_str": "2568682677",
+      "in_reply_to_screen_name": "Fardokbk",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 25 15:20:31 +0000 2016",
+      "id": 735490736678948900,
+      "id_str": "735490736678948864",
+      "text": ". @fardokbk @sfilatov конфигурация в Consul KV, сам контейнер в registry, зачем файлы??? :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fardokbk",
+            "name": "TopCoder",
+            "id": 2568682677,
+            "id_str": "2568682677",
+            "indices": [
+              2,
+              11
+            ]
+          },
+          {
+            "screen_name": "sfilatov",
+            "name": "sfilatov",
+            "id": 18359020,
+            "id_str": "18359020",
+            "indices": [
+              12,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735490555384303600,
+      "in_reply_to_status_id_str": "735490555384303616",
+      "in_reply_to_user_id": 2568682677,
+      "in_reply_to_user_id_str": "2568682677",
+      "in_reply_to_screen_name": "Fardokbk",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 25 15:27:16 +0000 2016",
+      "id": 735492436978507800,
+      "id_str": "735492436978507776",
+      "text": ". @nordicdyno_ru посмотреть наш фреймворк пока негде, к сожалению, но все компоненты открытые",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nordicdyno_ru",
+            "name": "Александр",
+            "id": 2699295199,
+            "id_str": "2699295199",
+            "indices": [
+              2,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735492114809782300,
+      "in_reply_to_status_id_str": "735492114809782272",
+      "in_reply_to_user_id": 2699295199,
+      "in_reply_to_user_id_str": "2699295199",
+      "in_reply_to_screen_name": "nordicdyno_ru",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 25 15:31:04 +0000 2016",
+      "id": 735493395519524900,
+      "id_str": "735493395519524864",
+      "text": "RT @pkorobeinikov: @backendsecret Два лагеря — Plain Old PHP и натягивание дизайна на CMS; второй — строгая типизация, AOP, тесты, инспекци…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pkorobeinikov",
+            "name": "Petr Korobeinikov",
+            "id": 925642236,
+            "id_str": "925642236",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed May 25 15:00:27 +0000 2016",
+        "id": 735485689484185600,
+        "id_str": "735485689484185604",
+        "text": "@backendsecret Два лагеря — Plain Old PHP и натягивание дизайна на CMS; второй — строгая типизация, AOP, тесты, инспекции, CI, DevOps...",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 735483336035082200,
+        "in_reply_to_status_id_str": "735483336035082240",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 925642236,
+          "id_str": "925642236"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "bg"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "bg"
+    },
+    {
+      "created_at": "Wed May 25 19:19:04 +0000 2016",
+      "id": 735550770410598400,
+      "id_str": "735550770410598402",
+      "text": "RT @tcheburator: @pkorobeinikov @backendsecret всё равно, ООП в php - джёпа, впрочем, как и в js. Как очень несмешная комедия.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tcheburator",
+            "name": "Roman",
+            "id": 184039117,
+            "id_str": "184039117",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "pkorobeinikov",
+            "name": "Petr Korobeinikov",
+            "id": 925642236,
+            "id_str": "925642236",
+            "indices": [
+              17,
+              31
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              32,
+              46
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed May 25 19:00:55 +0000 2016",
+        "id": 735546202851291100,
+        "id_str": "735546202851291137",
+        "text": "@pkorobeinikov @backendsecret всё равно, ООП в php - джёпа, впрочем, как и в js. Как очень несмешная комедия.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "pkorobeinikov",
+              "name": "Petr Korobeinikov",
+              "id": 925642236,
+              "id_str": "925642236",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                15,
+                29
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 735485689484185600,
+        "in_reply_to_status_id_str": "735485689484185604",
+        "in_reply_to_user_id": 925642236,
+        "in_reply_to_user_id_str": "925642236",
+        "in_reply_to_screen_name": "pkorobeinikov",
+        "user": {
+          "id": 184039117,
+          "id_str": "184039117"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 25 19:19:41 +0000 2016",
+      "id": 735550928758165500,
+      "id_str": "735550928758165504",
+      "text": ". @nordicdyno_ru  Mesos frameworkов куча разного качества, этот должен быть хороший - https://t.co/BIncyfBBZb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nordicdyno_ru",
+            "name": "Александр",
+            "id": 2699295199,
+            "id_str": "2699295199",
+            "indices": [
+              2,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BIncyfBBZb",
+            "expanded_url": "https://github.com/mesos/kafka",
+            "display_url": "github.com/mesos/kafka",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735497756714897400,
+      "in_reply_to_status_id_str": "735497756714897410",
+      "in_reply_to_user_id": 2699295199,
+      "in_reply_to_user_id_str": "2699295199",
+      "in_reply_to_screen_name": "nordicdyno_ru",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 25 21:16:39 +0000 2016",
+      "id": 735580361615347700,
+      "id_str": "735580361615347712",
+      "text": ". @notxcain @nordicdyno_ru мы пока не развернули Cassandra на Mesos, так что не буду советовать, что еще не проверили",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "notxcain",
+            "name": "implicit ev",
+            "id": 11905382,
+            "id_str": "11905382",
+            "indices": [
+              2,
+              11
+            ]
+          },
+          {
+            "screen_name": "nordicdyno_ru",
+            "name": "Александр",
+            "id": 2699295199,
+            "id_str": "2699295199",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 735579820277522400,
+      "in_reply_to_status_id_str": "735579820277522432",
+      "in_reply_to_user_id": 11905382,
+      "in_reply_to_user_id_str": "11905382",
+      "in_reply_to_screen_name": "notxcain",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 25 21:17:45 +0000 2016",
+      "id": 735580638561075200,
+      "id_str": "735580638561075200",
+      "text": "Секрет №5: fail fast and hard. Не надо маскировать ошибки. 500-я, stacktrace, Sentry/Airbrake/…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed May 25 21:18:31 +0000 2016",
+      "id": 735580832455381000,
+      "id_str": "735580832455380992",
+      "text": "Секрет №5 (продолжение). Только видимые ошибки будут исправлены. Невидимые приведут к краху всей системы позже.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
