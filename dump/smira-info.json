@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2353,
+  "followers_count": 2354,
   "friends_count": 0,
   "listed_count": 141,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,18 +35,39 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 12423,
+  "statuses_count": 12437,
   "lang": "ru",
   "status": {
-    "created_at": "Thu May 26 19:03:00 +0000 2016",
-    "id": 735909117487927300,
-    "id_str": "735909117487927297",
-    "text": "Расскажите, что новенького в области мониторинга? Крутой alerting? Динамические метрики? Push или pull?",
+    "created_at": "Thu May 26 21:40:17 +0000 2016",
+    "id": 735948697704509400,
+    "id_str": "735948697704509441",
+    "text": "RT @POS_troi: @backendsecret мне сейчас досталась сетка на 15 городов, у них юзается програмулина на MUMPS, 30 лет назад разрабатывалась. О…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "POS_troi",
+          "name": "POS_troi",
+          "id": 62336528,
+          "id_str": "62336528",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            14,
+            28
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
@@ -59,11 +80,51 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu May 26 21:40:00 +0000 2016",
+      "id": 735948626791419900,
+      "id_str": "735948626791419904",
+      "text": "@backendsecret мне сейчас досталась сетка на 15 городов, у них юзается програмулина на MUMPS, 30 лет назад разрабатывалась. Оно работает:)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 735945593000996900,
+      "in_reply_to_status_id_str": "735945593000996864",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
