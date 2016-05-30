@@ -5,7 +5,7 @@
   "screen_name": "backendsecret",
   "location": "Worldwide",
   "profile_location": null,
-  "description": "Переходящий твиттер backend разработчиков. Эту неделю ведёт @smira",
+  "description": "Переходящий твиттер backend разработчиков. Эту неделю ведёт %username%",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
     "url": {
@@ -26,48 +26,27 @@
     }
   },
   "protected": false,
-  "followers_count": 2354,
+  "followers_count": 2356,
   "friends_count": 0,
-  "listed_count": 141,
+  "listed_count": 140,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1900,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 12449,
+  "statuses_count": 12457,
   "lang": "ru",
   "status": {
-    "created_at": "Fri May 27 14:59:46 +0000 2016",
-    "id": 736210293748027400,
-    "id_str": "736210293748027392",
-    "text": "RT @pkorobeinikov: @backendsecret проверенный и удобный формат — скринкасты для служебного пользования.",
+    "created_at": "Sun May 29 19:28:53 +0000 2016",
+    "id": 737002794150940700,
+    "id_str": "737002794150940672",
+    "text": "Всем огромное спасибо, это была очень интересная неделя! Ну и до новых встреч!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "pkorobeinikov",
-          "name": "Petr Korobeinikov",
-          "id": 925642236,
-          "id_str": "925642236",
-          "indices": [
-            3,
-            17
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            19,
-            33
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
@@ -80,51 +59,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Fri May 27 14:59:29 +0000 2016",
-      "id": 736210219060080600,
-      "id_str": "736210219060080640",
-      "text": "@backendsecret проверенный и удобный формат — скринкасты для служебного пользования.",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              0,
-              14
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "in_reply_to_status_id": 736209698827972600,
-      "in_reply_to_status_id_str": "736209698827972609",
-      "in_reply_to_user_id": 3302551618,
-      "in_reply_to_user_id_str": "3302551618",
-      "in_reply_to_screen_name": "backendsecret",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -134,8 +73,8 @@
   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/719457357969928192/_eI9U6jC.jpg",
   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/719457357969928192/_eI9U6jC.jpg",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/734771545546096640/6LDvkGTt_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/734771545546096640/6LDvkGTt_normal.jpg",
+  "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+  "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
   "profile_link_color": "0090C0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
@@ -143,7 +82,7 @@
   "profile_use_background_image": false,
   "has_extended_profile": false,
   "default_profile": false,
-  "default_profile_image": false,
+  "default_profile_image": true,
   "following": false,
   "follow_request_sent": false,
   "notifications": false,
