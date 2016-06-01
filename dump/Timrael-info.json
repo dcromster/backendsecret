@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2373,
+  "followers_count": 2371,
   "friends_count": 0,
   "listed_count": 141,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,19 +35,29 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 12629,
+  "statuses_count": 12646,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Jun 01 07:47:00 +0000 2016",
-    "id": 737913322830495700,
-    "id_str": "737913322830495744",
-    "text": "Статистическая значимость - шанс того, что разница видна там, где ее на самом деле нет.",
+    "created_at": "Wed Jun 01 08:03:15 +0000 2016",
+    "id": 737917411924512800,
+    "id_str": "737917411924512768",
+    "text": "Так и делается, выбираются допустимые значения ошибок первого и второго рода, чтобы не гонять тест вечность https://t.co/WOjAcB6R6R",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/WOjAcB6R6R",
+          "expanded_url": "https://twitter.com/webholt/status/737917005123162112",
+          "display_url": "twitter.com/webholt/status…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -59,11 +69,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 737917005123162100,
+    "quoted_status_id_str": "737917005123162112",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
