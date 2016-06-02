@@ -26,28 +26,47 @@
     }
   },
   "protected": false,
-  "followers_count": 2372,
+  "followers_count": 2373,
   "friends_count": 0,
-  "listed_count": 141,
+  "listed_count": 142,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 1900,
+  "favourites_count": 1899,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 12651,
+  "statuses_count": 12708,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Jun 01 09:42:09 +0000 2016",
-    "id": 737942300370698200,
-    "id_str": "737942300370698241",
-    "text": "Какой методологии вы придерживаетесь на работе?",
+    "created_at": "Thu Jun 02 08:37:30 +0000 2016",
+    "id": 738288420464664600,
+    "id_str": "738288420464664578",
+    "text": "Набор гейтов и цены зависят от кук, тут подробнее можно про это прочитать и понять почему: https://t.co/1lnSj6RMTQ https://t.co/jyjPX9e9fI",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/1lnSj6RMTQ",
+          "expanded_url": "http://blog.travelpayouts.com/10-mifov-iz-mira-aviabiletov/",
+          "display_url": "blog.travelpayouts.com/10-mifov-iz-mi…",
+          "indices": [
+            91,
+            114
+          ]
+        },
+        {
+          "url": "https://t.co/jyjPX9e9fI",
+          "expanded_url": "https://twitter.com/_this_is_ak_/status/738283749205479425",
+          "display_url": "twitter.com/_this_is_ak_/s…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -59,11 +78,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 2,
+    "quoted_status_id": 738283749205479400,
+    "quoted_status_id_str": "738283749205479425",
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
