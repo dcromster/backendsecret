@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2373,
+  "followers_count": 2375,
   "friends_count": 0,
   "listed_count": 142,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,38 +35,60 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 12708,
+  "statuses_count": 12729,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Jun 02 08:37:30 +0000 2016",
-    "id": 738288420464664600,
-    "id_str": "738288420464664578",
-    "text": "Набор гейтов и цены зависят от кук, тут подробнее можно про это прочитать и понять почему: https://t.co/1lnSj6RMTQ https://t.co/jyjPX9e9fI",
+    "created_at": "Thu Jun 02 11:34:51 +0000 2016",
+    "id": 738333049662758900,
+    "id_str": "738333049662758913",
+    "text": "RT @fliptheweb: @ilnurkhalilov @backendsecret @mkuleshov у нас  в команде никогда такого не было :) прод только вытаскивает их на спринт, к…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/1lnSj6RMTQ",
-          "expanded_url": "http://blog.travelpayouts.com/10-mifov-iz-mira-aviabiletov/",
-          "display_url": "blog.travelpayouts.com/10-mifov-iz-mi…",
+          "screen_name": "fliptheweb",
+          "name": "Artur Kornakov",
+          "id": 99717399,
+          "id_str": "99717399",
           "indices": [
-            91,
-            114
+            3,
+            14
           ]
         },
         {
-          "url": "https://t.co/jyjPX9e9fI",
-          "expanded_url": "https://twitter.com/_this_is_ak_/status/738283749205479425",
-          "display_url": "twitter.com/_this_is_ak_/s…",
+          "screen_name": "ilnurkhalilov",
+          "name": "Ilnur Khalilov",
+          "id": 229002458,
+          "id_str": "229002458",
           "indices": [
-            115,
-            138
+            16,
+            30
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            31,
+            45
+          ]
+        },
+        {
+          "screen_name": "mkuleshov",
+          "name": "Mikhail Kuleshov",
+          "id": 80677365,
+          "id_str": "80677365",
+          "indices": [
+            46,
+            56
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -78,14 +100,71 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 738283749205479400,
-    "quoted_status_id_str": "738283749205479425",
-    "is_quote_status": true,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Thu Jun 02 11:33:44 +0000 2016",
+      "id": 738332770192105500,
+      "id_str": "738332770192105472",
+      "text": "@ilnurkhalilov @backendsecret @mkuleshov у нас  в команде никогда такого не было :) прод только вытаскивает их на спринт, команда оценивает",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ilnurkhalilov",
+            "name": "Ilnur Khalilov",
+            "id": 229002458,
+            "id_str": "229002458",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              15,
+              29
+            ]
+          },
+          {
+            "screen_name": "mkuleshov",
+            "name": "Mikhail Kuleshov",
+            "id": 80677365,
+            "id_str": "80677365",
+            "indices": [
+              30,
+              40
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 738295395470692400,
+      "in_reply_to_status_id_str": "738295395470692352",
+      "in_reply_to_user_id": 229002458,
+      "in_reply_to_user_id_str": "229002458",
+      "in_reply_to_screen_name": "ilnurkhalilov",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
