@@ -36,55 +36,105 @@
     }
   },
   "protected": false,
-  "followers_count": 2403,
+  "followers_count": 2401,
   "friends_count": 0,
-  "listed_count": 152,
+  "listed_count": 153,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 1942,
+  "favourites_count": 1941,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 13181,
+  "statuses_count": 13210,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Jun 24 11:40:51 +0000 2016",
-    "id": 746307095457374200,
-    "id_str": "746307095457374208",
-    "text": "@blia вопрос почему эти методы не у Set напрямую как у Array, и да, можно пример?",
+    "created_at": "Fri Jun 24 18:32:24 +0000 2016",
+    "id": 746410662201462800,
+    "id_str": "746410662201462784",
+    "text": "RT @yelbota: @backendsecret Кстати ASM классный язык. Сразу пишешь в какой регистр что пихать, что бы процессор не тупил.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "blia",
-          "name": "Амишей террариум",
-          "id": 11051452,
-          "id_str": "11051452",
+          "screen_name": "yelbota",
+          "name": "Aleksey Fomkin",
+          "id": 10634822,
+          "id_str": "10634822",
           "indices": [
-            0,
-            5
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            13,
+            27
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 746306478458417200,
-    "in_reply_to_status_id_str": "746306478458417152",
-    "in_reply_to_user_id": 11051452,
-    "in_reply_to_user_id_str": "11051452",
-    "in_reply_to_screen_name": "blia",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jun 24 18:05:37 +0000 2016",
+      "id": 746403921363603500,
+      "id_str": "746403921363603456",
+      "text": "@backendsecret Кстати ASM классный язык. Сразу пишешь в какой регистр что пихать, что бы процессор не тупил.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 746401063985647600,
+      "in_reply_to_status_id_str": "746401063985647616",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 3,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
