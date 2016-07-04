@@ -47,28 +47,38 @@
     }
   },
   "protected": false,
-  "followers_count": 2359,
+  "followers_count": 2363,
   "friends_count": 0,
-  "listed_count": 153,
+  "listed_count": 154,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1950,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 13712,
+  "statuses_count": 13742,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jul 04 09:26:15 +0000 2016",
-    "id": 749897098330513400,
-    "id_str": "749897098330513408",
-    "text": "Тем, кто ответил \"Занимаюсь инфраструктурой\":",
+    "created_at": "Mon Jul 04 11:48:49 +0000 2016",
+    "id": 749932977577193500,
+    "id_str": "749932977577193472",
+    "text": "с ними всё ок :) https://t.co/6cjtxjvhT2",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/6cjtxjvhT2",
+          "expanded_url": "https://twitter.com/ctrlok/status/749932363925323776",
+          "display_url": "twitter.com/ctrlok/status/…",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,11 +90,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 749932363925323800,
+    "quoted_status_id_str": "749932363925323776",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
