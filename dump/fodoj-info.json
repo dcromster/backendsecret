@@ -47,38 +47,49 @@
     }
   },
   "protected": false,
-  "followers_count": 2363,
+  "followers_count": 2364,
   "friends_count": 0,
-  "listed_count": 154,
+  "listed_count": 155,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1950,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 13742,
+  "statuses_count": 13755,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jul 04 11:48:49 +0000 2016",
-    "id": 749932977577193500,
-    "id_str": "749932977577193472",
-    "text": "с ними всё ок :) https://t.co/6cjtxjvhT2",
+    "created_at": "Mon Jul 04 14:39:34 +0000 2016",
+    "id": 749975949538627600,
+    "id_str": "749975949538627584",
+    "text": "RT @en_austin: @backendsecret особенно ценно для крупных ISV с кучей клиентов и реселлеров.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/6cjtxjvhT2",
-          "expanded_url": "https://twitter.com/ctrlok/status/749932363925323776",
-          "display_url": "twitter.com/ctrlok/status/…",
+          "screen_name": "en_austin",
+          "name": "Vladimir `AusTiN`",
+          "id": 101895037,
+          "id_str": "101895037",
           "indices": [
-            17,
-            40
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            15,
+            29
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -90,14 +101,51 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 749932363925323800,
-    "quoted_status_id_str": "749932363925323776",
-    "is_quote_status": true,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Mon Jul 04 14:31:13 +0000 2016",
+      "id": 749973844694274000,
+      "id_str": "749973844694274048",
+      "text": "@backendsecret особенно ценно для крупных ISV с кучей клиентов и реселлеров.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 749973702645776400,
+      "in_reply_to_status_id_str": "749973702645776385",
+      "in_reply_to_user_id": 101895037,
+      "in_reply_to_user_id_str": "101895037",
+      "in_reply_to_screen_name": "en_austin",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
