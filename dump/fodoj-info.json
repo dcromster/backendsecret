@@ -47,40 +47,41 @@
     }
   },
   "protected": false,
-  "followers_count": 2362,
+  "followers_count": 2366,
   "friends_count": 0,
-  "listed_count": 156,
+  "listed_count": 155,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1950,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 13849,
+  "statuses_count": 13852,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jul 05 12:03:54 +0000 2016",
-    "id": 750299161459916800,
-    "id_str": "750299161459916800",
-    "text": "Ну или через XML файлик :) https://t.co/3k85Bx2C9D",
+    "created_at": "Tue Jul 05 13:36:54 +0000 2016",
+    "id": 750322566028484600,
+    "id_str": "750322566028484609",
+    "text": "RT @search_adm: Хотелось бы подчеркнуть, что мы решительно против ксенофобии. А также против lxcфобии и квмофобии. Мы - за докерофобию.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/3k85Bx2C9D",
-          "expanded_url": "https://twitter.com/q210/status/750293853995933697",
-          "display_url": "twitter.com/q210/status/75…",
+          "screen_name": "search_adm",
+          "name": "Админы Поиска",
+          "id": 1650733896,
+          "id_str": "1650733896",
           "indices": [
-            27,
-            50
+            3,
+            14
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -90,15 +91,41 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 750293853995933700,
-    "quoted_status_id_str": "750293853995933697",
-    "is_quote_status": true,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Sun Jul 03 09:39:36 +0000 2016",
+      "id": 749538071335604200,
+      "id_str": "749538071335604224",
+      "text": "Хотелось бы подчеркнуть, что мы решительно против ксенофобии. А также против lxcфобии и квмофобии. Мы - за докерофобию.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "uk"
+    "retweeted": true,
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
