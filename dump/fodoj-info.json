@@ -47,7 +47,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2364,
+  "followers_count": 2363,
   "friends_count": 0,
   "listed_count": 155,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -56,40 +56,29 @@
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 13755,
+  "statuses_count": 13820,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jul 04 14:39:34 +0000 2016",
-    "id": 749975949538627600,
-    "id_str": "749975949538627584",
-    "text": "RT @en_austin: @backendsecret особенно ценно для крупных ISV с кучей клиентов и реселлеров.",
+    "created_at": "Tue Jul 05 09:03:52 +0000 2016",
+    "id": 750253854323867600,
+    "id_str": "750253854323867648",
+    "text": "Всё в Couchbase прекрасно, даже есть встроенный workload generator https://t.co/Dydu6N4tZf",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "en_austin",
-          "name": "Vladimir `AusTiN`",
-          "id": 101895037,
-          "id_str": "101895037",
+          "url": "https://t.co/Dydu6N4tZf",
+          "expanded_url": "http://blog.couchbase.com/couchbase-workload-generator",
+          "display_url": "blog.couchbase.com/couchbase-work…",
           "indices": [
-            3,
-            13
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            15,
-            29
+            67,
+            90
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -101,52 +90,13 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Jul 04 14:31:13 +0000 2016",
-      "id": 749973844694274000,
-      "id_str": "749973844694274048",
-      "text": "@backendsecret особенно ценно для крупных ISV с кучей клиентов и реселлеров.",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              0,
-              14
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 749973702645776400,
-      "in_reply_to_status_id_str": "749973702645776385",
-      "in_reply_to_user_id": 101895037,
-      "in_reply_to_user_id_str": "101895037",
-      "in_reply_to_screen_name": "en_austin",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
-    "lang": "ru"
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
