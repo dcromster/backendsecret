@@ -47,35 +47,56 @@
     }
   },
   "protected": false,
-  "followers_count": 2377,
+  "followers_count": 2383,
   "friends_count": 0,
-  "listed_count": 159,
+  "listed_count": 161,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 1956,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 14055,
+  "statuses_count": 14077,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Jul 09 11:20:08 +0000 2016",
-    "id": 751737697883025400,
-    "id_str": "751737697883025408",
-    "text": "Пережить жарищу https://t.co/AFFe4FbevE",
+    "created_at": "Mon Jul 11 10:53:15 +0000 2016",
+    "id": 752455708336123900,
+    "id_str": "752455708336123904",
+    "text": "RT @shutyourprogram: @backendsecret Опенсорснули транзакции для ноды) Если у кого есть/будет фидбэк - не стесняйтесь) https://t.co/EsJHtT9l…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "shutyourprogram",
+          "name": "Stanislav Slesarev",
+          "id": 3046991649,
+          "id_str": "3046991649",
+          "indices": [
+            3,
+            19
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            21,
+            35
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/AFFe4FbevE",
-          "expanded_url": "https://twitter.com/svyatmuzyka/status/751513654781181953",
-          "display_url": "twitter.com/svyatmuzyka/st…",
+          "url": "https://t.co/EsJHtT9llC",
+          "expanded_url": "https://www.npmjs.com/package/node-transactions",
+          "display_url": "npmjs.com/package/node-t…",
           "indices": [
-            16,
-            39
+            118,
+            140
           ]
         }
       ]
@@ -90,13 +111,62 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 751513654781182000,
-    "quoted_status_id_str": "751513654781181953",
+    "retweeted_status": {
+      "created_at": "Mon Jul 11 10:52:46 +0000 2016",
+      "id": 752455585421983700,
+      "id_str": "752455585421983744",
+      "text": "@backendsecret Опенсорснули транзакции для ноды) Если у кого есть/будет фидбэк - не стесняйтесь) https://t.co/EsJHtT9llC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EsJHtT9llC",
+            "expanded_url": "https://www.npmjs.com/package/node-transactions",
+            "display_url": "npmjs.com/package/node-t…",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 752435815800766500,
+      "in_reply_to_status_id_str": "752435815800766464",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
     "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "possibly_sensitive": false,
     "lang": "ru"
   },
