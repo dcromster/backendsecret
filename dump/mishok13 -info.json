@@ -54,15 +54,15 @@
   "favourites_count": 1957,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
-  "geo_enabled": false,
+  "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14143,
+  "statuses_count": 14146,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jul 18 14:34:32 +0000 2016",
-    "id": 755048111219863600,
-    "id_str": "755048111219863552",
-    "text": "Вообще сила макросов иногда приводит к вот таким вот эээ библиотекам: https://t.co/55FgpK7WS0 Эдакий бабай для начинающих учить Clojure.",
+    "created_at": "Mon Jul 18 17:16:00 +0000 2016",
+    "id": 755088746849108000,
+    "id_str": "755088746849107968",
+    "text": "Вот здесь будет проходить вечеринка. Это археол. музей + последний форум построенный в Риме https://t.co/gtCMlIXyv8 https://t.co/mPLBYKzZYe",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -70,12 +70,21 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/55FgpK7WS0",
-          "expanded_url": "https://github.com/rplevy/swiss-arrows",
-          "display_url": "github.com/rplevy/swiss-a…",
+          "url": "https://t.co/gtCMlIXyv8",
+          "expanded_url": "https://en.wikipedia.org/wiki/Trajan%27s_Forum",
+          "display_url": "en.wikipedia.org/wiki/Trajan%27…",
           "indices": [
-            70,
-            93
+            92,
+            115
+          ]
+        },
+        {
+          "url": "https://t.co/mPLBYKzZYe",
+          "expanded_url": "https://twitter.com/curry_on_conf/status/753515943112900609",
+          "display_url": "twitter.com/curry_on_conf/…",
+          "indices": [
+            116,
+            139
           ]
         }
       ]
@@ -90,9 +99,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 753515943112900600,
+    "quoted_status_id_str": "753515943112900609",
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -115,9 +126,9 @@
   "has_extended_profile": false,
   "default_profile": false,
   "default_profile_image": false,
-  "following": false,
+  "following": null,
   "follow_request_sent": false,
-  "notifications": false,
+  "notifications": null,
   "suspended": false,
   "needs_phone_verification": false
 }
