@@ -2856,6 +2856,340 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 19 10:11:48 +0000 2016",
+      "id": 755344378407821300,
+      "id_str": "755344378407821312",
+      "text": "Facebook переводит все PHP-проекты на Hack, если верить @francescologozz. Как-то про Hack ничего не было слышно последние пару лет. #curryon",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "curryon",
+            "indices": [
+              132,
+              140
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FrancescoLogozz",
+            "name": "Francesco Logozzo",
+            "id": 83260630,
+            "id_str": "83260630",
+            "indices": [
+              56,
+              72
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "555588be28d4e2a1",
+        "url": "https://api.twitter.com/1.1/geo/id/555588be28d4e2a1.json",
+        "place_type": "city",
+        "name": "Trento",
+        "full_name": "Trento, Trentino-Alto Adige",
+        "country_code": "IT",
+        "country": "Italia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                11.0214658,
+                45.975899
+              ],
+              [
+                11.1941383,
+                45.975899
+              ],
+              [
+                11.1941383,
+                46.1521934
+              ],
+              [
+                11.0214658,
+                46.1521934
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 19 10:30:48 +0000 2016",
+      "id": 755349159624994800,
+      "id_str": "755349159624994816",
+      "text": "Hack язык с gradual typing, я не считаю корректным сравнение с PHP 7 в данном случае. https://t.co/7riHAOSKmT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7riHAOSKmT",
+            "expanded_url": "https://twitter.com/PliskoVS/status/755344886363222016",
+            "display_url": "twitter.com/PliskoVS/statu…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 755344886363222000,
+      "quoted_status_id_str": "755344886363222016",
+      "quoted_status": {
+        "created_at": "Tue Jul 19 10:13:49 +0000 2016",
+        "id": 755344886363222000,
+        "id_str": "755344886363222016",
+        "text": "@backendsecret @francescologozz зачем, если уже вышел php7, там и типизация и производительность подтянута",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "FrancescoLogozz",
+              "name": "Francesco Logozzo",
+              "id": 83260630,
+              "id_str": "83260630",
+              "indices": [
+                15,
+                31
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 755344378407821300,
+        "in_reply_to_status_id_str": "755344378407821312",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 41207562,
+          "id_str": "41207562"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 19 12:12:45 +0000 2016",
+      "id": 755374816656523300,
+      "id_str": "755374816656523264",
+      "text": "Очень интересный доклад о CRDT. Ребята из TomTom рассказывают о том, как они решили проблему синхронизации данных. https://t.co/9x1sC6pQXz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9x1sC6pQXz",
+            "expanded_url": "https://twitter.com/idajantis/status/755363824258150400",
+            "display_url": "twitter.com/idajantis/stat…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 755363824258150400,
+      "quoted_status_id_str": "755363824258150400",
+      "quoted_status": {
+        "created_at": "Tue Jul 19 11:29:04 +0000 2016",
+        "id": 755363824258150400,
+        "id_str": "755363824258150400",
+        "text": ". @namiazad and I are going to try to demystify #CRDTs yet again at #CurryOn . Live streaming starts at 13:50 UTC+1: https://t.co/LVG3h3AvFZ",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "CRDTs",
+              "indices": [
+                48,
+                54
+              ]
+            },
+            {
+              "text": "CurryOn",
+              "indices": [
+                68,
+                76
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "namiazad",
+              "name": "Nami Nasserazad",
+              "id": 47110524,
+              "id_str": "47110524",
+              "indices": [
+                2,
+                11
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/LVG3h3AvFZ",
+              "expanded_url": "http://ventotene.conf.meetecho.com/room1/",
+              "display_url": "ventotene.conf.meetecho.com/room1/",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 113651615,
+          "id_str": "113651615"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "7d588036fe12e124",
+          "url": "https://api.twitter.com/1.1/geo/id/7d588036fe12e124.json",
+          "place_type": "city",
+          "name": "Roma",
+          "full_name": "Roma, Lazio",
+          "country_code": "IT",
+          "country": "Italia",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  12.2344266,
+                  41.6558738
+                ],
+                [
+                  12.8558641,
+                  41.6558738
+                ],
+                [
+                  12.8558641,
+                  42.140959
+                ],
+                [
+                  12.2344266,
+                  42.140959
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
