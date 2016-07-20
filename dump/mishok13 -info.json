@@ -47,7 +47,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2399,
+  "followers_count": 2398,
   "friends_count": 0,
   "listed_count": 161,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -56,116 +56,90 @@
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14253,
+  "statuses_count": 14254,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Jul 20 12:53:35 +0000 2016",
-    "id": 755747481481257000,
-    "id_str": "755747481481256960",
-    "text": "RT @ipronix: @rhamdeew @backendsecret plan.io на основе redmine . тем более на нём хостятся баги и доки для pulp и katello",
+    "created_at": "Wed Jul 20 15:17:00 +0000 2016",
+    "id": 755783574008332300,
+    "id_str": "755783574008332288",
+    "text": ".@ftk_ildar Вот тебе летающая кложура https://t.co/LNdTiw8E78",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "ipronix",
-          "name": "pronix",
-          "id": 113404896,
-          "id_str": "113404896",
+          "screen_name": "ftk_ildar",
+          "name": "Obfuscator",
+          "id": 467887425,
+          "id_str": "467887425",
           "indices": [
-            3,
+            1,
             11
-          ]
-        },
-        {
-          "screen_name": "rhamdeew",
-          "name": "Раиль",
-          "id": 199017927,
-          "id_str": "199017927",
-          "indices": [
-            13,
-            22
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            23,
-            37
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/LNdTiw8E78",
+          "expanded_url": "https://www.youtube.com/watch?v=iUC7noGU1mQ",
+          "display_url": "youtube.com/watch?v=iUC7no…",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 755759834977501200,
+    "in_reply_to_status_id_str": "755759834977501184",
+    "in_reply_to_user_id": 467887425,
+    "in_reply_to_user_id_str": "467887425",
+    "in_reply_to_screen_name": "ftk_ildar",
     "geo": null,
     "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "retweeted_status": {
-      "created_at": "Wed Jul 20 12:47:03 +0000 2016",
-      "id": 755745839314862100,
-      "id_str": "755745839314862081",
-      "text": "@rhamdeew @backendsecret plan.io на основе redmine . тем более на нём хостятся баги и доки для pulp и katello",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "rhamdeew",
-            "name": "Раиль",
-            "id": 199017927,
-            "id_str": "199017927",
-            "indices": [
-              0,
-              9
+    "place": {
+      "id": "99cdab25eddd6bce",
+      "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+      "place_type": "city",
+      "name": "Amsterdam",
+      "full_name": "Amsterdam, Nederland",
+      "country_code": "NL",
+      "country": "Nederland",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7288999,
+              52.2782266
+            ],
+            [
+              5.0792072,
+              52.2782266
+            ],
+            [
+              5.0792072,
+              52.4312289
+            ],
+            [
+              4.7288999,
+              52.4312289
             ]
-          },
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              10,
-              24
-            ]
-          }
-        ],
-        "urls": []
+          ]
+        ]
       },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 755738779734999000,
-      "in_reply_to_status_id_str": "755738779734999040",
-      "in_reply_to_user_id": 199017927,
-      "in_reply_to_user_id_str": "199017927",
-      "in_reply_to_screen_name": "rhamdeew",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 3,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
+      "attributes": {}
     },
+    "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
