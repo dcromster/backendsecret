@@ -47,7 +47,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2400,
+  "followers_count": 2401,
   "friends_count": 0,
   "listed_count": 161,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -56,83 +56,50 @@
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14266,
+  "statuses_count": 14271,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Jul 21 23:42:59 +0000 2016",
-    "id": 756273297550082000,
-    "id_str": "756273297550082048",
-    "text": "Я бы скорее спросил изначально, почему storm? Какую проблему решает? Исходя из этого можно ответить что и почему вместо. @tru_pablo @volyx",
+    "created_at": "Fri Jul 22 13:22:25 +0000 2016",
+    "id": 756479515275169800,
+    "id_str": "756479515275169792",
+    "text": "В итоге отказались, потому как оказался непредсказуемым и нестабильным. Написали свой Storm \"на диете\" :) @volyx @tru_pablo",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "tru_pablo",
-          "name": "pablo trukhanov",
-          "id": 515206451,
-          "id_str": "515206451",
-          "indices": [
-            121,
-            131
-          ]
-        },
-        {
           "screen_name": "volyx",
           "name": "Дима Волыхин",
           "id": 471255074,
           "id_str": "471255074",
           "indices": [
-            132,
-            138
+            106,
+            112
+          ]
+        },
+        {
+          "screen_name": "tru_pablo",
+          "name": "pablo trukhanov",
+          "id": 515206451,
+          "id_str": "515206451",
+          "indices": [
+            113,
+            123
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 756174011604701200,
-    "in_reply_to_status_id_str": "756174011604701184",
-    "in_reply_to_user_id": 515206451,
-    "in_reply_to_user_id_str": "515206451",
-    "in_reply_to_screen_name": "tru_pablo",
+    "in_reply_to_status_id": 756479113779609600,
+    "in_reply_to_status_id_str": "756479113779609600",
+    "in_reply_to_user_id": 3302551618,
+    "in_reply_to_user_id_str": "3302551618",
+    "in_reply_to_screen_name": "backendsecret",
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "99cdab25eddd6bce",
-      "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
-      "place_type": "city",
-      "name": "Amsterdam",
-      "full_name": "Amsterdam, Nederland",
-      "country_code": "NL",
-      "country": "Nederland",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              4.7288999,
-              52.2782266
-            ],
-            [
-              5.0792072,
-              52.2782266
-            ],
-            [
-              5.0792072,
-              52.4312289
-            ],
-            [
-              4.7288999,
-              52.4312289
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
