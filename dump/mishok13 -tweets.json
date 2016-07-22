@@ -12128,6 +12128,181 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 21 14:50:14 +0000 2016",
+      "id": 756139227423932400,
+      "id_str": "756139227423932417",
+      "text": "Добротное объяснение работы JIT в Java 8 на достаточно простом примере https://t.co/POD9JlIKv1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/POD9JlIKv1",
+            "expanded_url": "https://blog.jooq.org/2016/07/19/the-java-jit-compiler-is-darn-good-in-optimization/",
+            "display_url": "blog.jooq.org/2016/07/19/the…",
+            "indices": [
+              71,
+              94
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 21 16:53:24 +0000 2016",
+      "id": 756170223905022000,
+      "id_str": "756170223905021952",
+      "text": "TFW приходится делать ALTER SEQUENCE ... RESTART WITH 2 перед каждым тестом иначе всё идет по автобану прямиком в ад https://t.co/1Np3uYZVtT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1Np3uYZVtT",
+            "expanded_url": "http://i.imgur.com/Z4q94CA.mp4",
+            "display_url": "i.imgur.com/Z4q94CA.mp4",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 21 23:42:59 +0000 2016",
+      "id": 756273297550082000,
+      "id_str": "756273297550082048",
+      "text": "Я бы скорее спросил изначально, почему storm? Какую проблему решает? Исходя из этого можно ответить что и почему вместо. @tru_pablo @volyx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tru_pablo",
+            "name": "pablo trukhanov",
+            "id": 515206451,
+            "id_str": "515206451",
+            "indices": [
+              121,
+              131
+            ]
+          },
+          {
+            "screen_name": "volyx",
+            "name": "Дима Волыхин",
+            "id": 471255074,
+            "id_str": "471255074",
+            "indices": [
+              132,
+              138
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 756174011604701200,
+      "in_reply_to_status_id_str": "756174011604701184",
+      "in_reply_to_user_id": 515206451,
+      "in_reply_to_user_id_str": "515206451",
+      "in_reply_to_screen_name": "tru_pablo",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
