@@ -1,6 +1,6 @@
 export default [
   // { username: 'twitter_name', start: '15 feb 2016', first: '640816652293144576', post: false },  
-  { username: 'mishok13 ', start: '18 jul 2016', first: '754917185231974401', post: false },
+  { username: 'mishok13 ', start: '18 jul 2016', first: '754917185231974401'},
   { username: 'fodoj', start: '04 jul 2016', first: '749844861566738432' },  
   { username: 'smirnov', start: '27 jun 2016', first: '747346142929657857' },
   { username: 'ruxeg', start: '20 jun 2016', first: '744845125906472960' },
