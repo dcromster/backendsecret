@@ -36,7 +36,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2414,
+  "followers_count": 2416,
   "friends_count": 0,
   "listed_count": 163,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -45,40 +45,29 @@
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14371,
+  "statuses_count": 14373,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Jul 30 05:37:52 +0000 2016",
-    "id": 759261709680902100,
-    "id_str": "759261709680902144",
-    "text": "RT @yelbota: @backendsecret не нашел применения :(",
+    "created_at": "Sun Jul 31 10:12:20 +0000 2016",
+    "id": 759693169671802900,
+    "id_str": "759693169671802880",
+    "text": "А кто эти 25%, кто хочет выпилить? Почему? https://t.co/To06bYEemj",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "yelbota",
-          "name": "Aleksey Fomkin",
-          "id": 10634822,
-          "id_str": "10634822",
+          "url": "https://t.co/To06bYEemj",
+          "expanded_url": "https://twitter.com/backendsecret/status/758597701953003520",
+          "display_url": "twitter.com/backendsecret/…",
           "indices": [
-            3,
-            11
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            13,
-            27
+            43,
+            66
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
@@ -90,51 +79,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Fri Jul 29 17:45:48 +0000 2016",
-      "id": 759082510718529500,
-      "id_str": "759082510718529536",
-      "text": "@backendsecret не нашел применения :(",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              0,
-              14
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "in_reply_to_status_id": 759026241202683900,
-      "in_reply_to_status_id_str": "759026241202683904",
-      "in_reply_to_user_id": 3302551618,
-      "in_reply_to_user_id_str": "3302551618",
-      "in_reply_to_screen_name": "backendsecret",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
-    "retweet_count": 1,
+    "is_quote_status": true,
+    "quoted_status_id": 758597701953003500,
+    "quoted_status_id_str": "758597701953003520",
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
