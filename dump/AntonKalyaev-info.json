@@ -36,7 +36,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2500,
+  "followers_count": 2501,
   "friends_count": 0,
   "listed_count": 167,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -45,36 +45,37 @@
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14727,
+  "statuses_count": 14729,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 08 14:14:29 +0000 2016",
-    "id": 762653211761213400,
-    "id_str": "762653211761213440",
-    "text": "Очень редко бывает нужно написать на чистом erlang (это кроме плагинов на C) https://t.co/M7Bwn01j8l",
+    "created_at": "Mon Aug 08 15:19:50 +0000 2016",
+    "id": 762669654653403100,
+    "id_str": "762669654653403136",
+    "text": "@nwalkr а mix разве не для elixir?",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/M7Bwn01j8l",
-          "expanded_url": "http://ninenines.eu/talks/beyond-otp/beyond-otp.html",
-          "display_url": "ninenines.eu/talks/beyond-o…",
+          "screen_name": "nwalkr",
+          "name": "Alex Bubnoff",
+          "id": 14445002,
+          "id_str": "14445002",
           "indices": [
-            77,
-            100
+            0,
+            7
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 762666751721177100,
+    "in_reply_to_status_id_str": "762666751721177092",
+    "in_reply_to_user_id": 14445002,
+    "in_reply_to_user_id_str": "14445002",
+    "in_reply_to_screen_name": "nwalkr",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -84,8 +85,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
