@@ -36,7 +36,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2475,
+  "followers_count": 2480,
   "friends_count": 0,
   "listed_count": 167,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -45,35 +45,46 @@
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14697,
+  "statuses_count": 14711,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 08 08:45:00 +0000 2016",
-    "id": 762570295081365500,
-    "id_str": "762570295081365504",
-    "text": "Нарисовал тут шапку для backendsecret. Как вам?",
+    "created_at": "Mon Aug 08 09:53:58 +0000 2016",
+    "id": 762587648506683400,
+    "id_str": "762587648506683392",
+    "text": "Если у вас правильное дерево процессов (обработаны кейсы падений) и вы используете https://t.co/74KQAl4waB - может работать годами аппа",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/74KQAl4waB",
+          "expanded_url": "http://learnyousomeerlang.com/dialyzer",
+          "display_url": "learnyousomeerlang.com/dialyzer",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 762586363241832400,
+    "in_reply_to_status_id_str": "762586363241832448",
+    "in_reply_to_user_id": 3302551618,
+    "in_reply_to_user_id_str": "3302551618",
+    "in_reply_to_screen_name": "backendsecret",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
