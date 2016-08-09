@@ -36,56 +36,267 @@
     }
   },
   "protected": false,
-  "followers_count": 2501,
+  "followers_count": 2508,
   "friends_count": 0,
   "listed_count": 167,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 1953,
+  "favourites_count": 1954,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14729,
+  "statuses_count": 14741,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 08 15:19:50 +0000 2016",
-    "id": 762669654653403100,
-    "id_str": "762669654653403136",
-    "text": "@nwalkr а mix разве не для elixir?",
+    "created_at": "Tue Aug 09 07:59:34 +0000 2016",
+    "id": 762921249249062900,
+    "id_str": "762921249249062912",
+    "text": "RT @ElixirLangRO: I want more time to read them all! Elixir time! #myelixirstatus https://t.co/NAwQMdRIBp",
     "truncated": false,
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
+      "hashtags": [
         {
-          "screen_name": "nwalkr",
-          "name": "Alex Bubnoff",
-          "id": 14445002,
-          "id_str": "14445002",
+          "text": "myelixirstatus",
           "indices": [
-            0,
-            7
+            66,
+            81
           ]
         }
       ],
-      "urls": []
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ElixirLangRO",
+          "name": "Elixir Lang Romania",
+          "id": 2530637017,
+          "id_str": "2530637017",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 758335031400099800,
+          "id_str": "758335031400099840",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/CoYlsXdWcAA671g.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CoYlsXdWcAA671g.jpg",
+          "url": "https://t.co/NAwQMdRIBp",
+          "display_url": "pic.twitter.com/NAwQMdRIBp",
+          "expanded_url": "http://twitter.com/ElixirLangRO/status/758335064476360707/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 758335064476360700,
+          "source_status_id_str": "758335064476360707",
+          "source_user_id": 2530637017,
+          "source_user_id_str": "2530637017"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 758335031400099800,
+          "id_str": "758335031400099840",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/CoYlsXdWcAA671g.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CoYlsXdWcAA671g.jpg",
+          "url": "https://t.co/NAwQMdRIBp",
+          "display_url": "pic.twitter.com/NAwQMdRIBp",
+          "expanded_url": "http://twitter.com/ElixirLangRO/status/758335064476360707/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 758335064476360700,
+          "source_status_id_str": "758335064476360707",
+          "source_user_id": 2530637017,
+          "source_user_id_str": "2530637017"
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 762666751721177100,
-    "in_reply_to_status_id_str": "762666751721177092",
-    "in_reply_to_user_id": 14445002,
-    "in_reply_to_user_id_str": "14445002",
-    "in_reply_to_screen_name": "nwalkr",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jul 27 16:15:43 +0000 2016",
+      "id": 758335064476360700,
+      "id_str": "758335064476360707",
+      "text": "I want more time to read them all! Elixir time! #myelixirstatus https://t.co/NAwQMdRIBp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "myelixirstatus",
+            "indices": [
+              48,
+              63
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 758335031400099800,
+            "id_str": "758335031400099840",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/CoYlsXdWcAA671g.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CoYlsXdWcAA671g.jpg",
+            "url": "https://t.co/NAwQMdRIBp",
+            "display_url": "pic.twitter.com/NAwQMdRIBp",
+            "expanded_url": "http://twitter.com/ElixirLangRO/status/758335064476360707/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 758335031400099800,
+            "id_str": "758335031400099840",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/CoYlsXdWcAA671g.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CoYlsXdWcAA671g.jpg",
+            "url": "https://t.co/NAwQMdRIBp",
+            "display_url": "pic.twitter.com/NAwQMdRIBp",
+            "expanded_url": "http://twitter.com/ElixirLangRO/status/758335064476360707/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 29,
+      "favorite_count": 66,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 29,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "lang": "und"
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
