@@ -36,27 +36,48 @@
     }
   },
   "protected": false,
-  "followers_count": 2537,
+  "followers_count": 2539,
   "friends_count": 0,
   "listed_count": 169,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 1968,
+  "favourites_count": 1973,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14839,
+  "statuses_count": 14872,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Aug 11 08:21:40 +0000 2016",
-    "id": 763651584920326100,
-    "id_str": "763651584920326144",
-    "text": "О чем бы еще хотелось услышать/поговорить?",
+    "created_at": "Thu Aug 11 11:49:00 +0000 2016",
+    "id": 763703762246574100,
+    "id_str": "763703762246574080",
+    "text": "RT @develop7: @backendsecret оригинальная озвучка кино/сериалов плюс субтитры на русском ➡ английском ➡ никакие, английский язык интерфейса…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "develop7",
+          "name": "Schrödinger's Troll",
+          "id": 11597502,
+          "id_str": "11597502",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            14,
+            28
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
@@ -69,11 +90,84 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 11 11:42:29 +0000 2016",
+      "id": 763702120939974700,
+      "id_str": "763702120939974656",
+      "text": "@backendsecret оригинальная озвучка кино/сериалов плюс субтитры на русском ➡ английском ➡ никакие, английский язык интерфейса ОС и софта",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 763655816922693600,
+      "in_reply_to_status_id_str": "763655816922693632",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "333a5811d6b0c1cb",
+        "url": "https://api.twitter.com/1.1/geo/id/333a5811d6b0c1cb.json",
+        "place_type": "country",
+        "name": "Беларусь",
+        "full_name": "Беларусь",
+        "country_code": "BY",
+        "country": "Беларусь",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                23.179217,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                56.1717339
+              ],
+              [
+                23.179217,
+                56.1717339
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
