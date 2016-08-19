@@ -13789,6 +13789,2361 @@
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Fri Aug 19 07:43:47 +0000 2016",
+      "id": 766541154431017000,
+      "id_str": "766541154431016960",
+      "text": "@tishkova @abroadunderhood @jsunderhood @spbunderhood ну все, с этого дня я не трупоед (на самом деле, конечно же, нет)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tishkova",
+            "name": "Maria Tishkova",
+            "id": 138476432,
+            "id_str": "138476432",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              10,
+              26
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              27,
+              39
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              40,
+              53
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766531778924249100,
+      "in_reply_to_status_id_str": "766531778924249088",
+      "in_reply_to_user_id": 138476432,
+      "in_reply_to_user_id_str": "138476432",
+      "in_reply_to_screen_name": "tishkova",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 07:44:58 +0000 2016",
+      "id": 766541451270365200,
+      "id_str": "766541451270365186",
+      "text": "Потому что Kitematic снижает порог входа для разработчика, которому эти ваши докеры нафиг не нужны) https://t.co/VkQQ9JCY1P",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VkQQ9JCY1P",
+            "expanded_url": "https://twitter.com/ctrlok/status/766522453006819328",
+            "display_url": "twitter.com/ctrlok/status/…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766522453006819300,
+      "quoted_status_id_str": "766522453006819328",
+      "quoted_status": {
+        "created_at": "Fri Aug 19 06:29:28 +0000 2016",
+        "id": 766522453006819300,
+        "id_str": "766522453006819328",
+        "text": "@backendsecret а че мастхэв? Просто гуй, к тому же тупой.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 766388710845931500,
+        "in_reply_to_status_id_str": "766388710845931520",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 17509585,
+          "id_str": "17509585"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 07:45:44 +0000 2016",
+      "id": 766541645122711600,
+      "id_str": "766541645122711553",
+      "text": "Я вообще считаю, что Docker нужен только для разработки - в прод деплоиться докером мне кажется сомнительной идеей. Давайте обсудим )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 07:46:13 +0000 2016",
+      "id": 766541765067157500,
+      "id_str": "766541765067157504",
+      "text": "Есть ли у вас положительный личный опыт работы с докером в продакшне? Сколько граблей вы собрали?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766541645122711600,
+      "in_reply_to_status_id_str": "766541645122711553",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 07:47:00 +0000 2016",
+      "id": 766541962157527000,
+      "id_str": "766541962157527040",
+      "text": "Вы посмотрите, какая жадина!  https://t.co/S1FMKCKicY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S1FMKCKicY",
+            "expanded_url": "https://twitter.com/pos_troi/status/766541738596982785",
+            "display_url": "twitter.com/pos_troi/statu…",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766541738596982800,
+      "quoted_status_id_str": "766541738596982785",
+      "quoted_status": {
+        "created_at": "Fri Aug 19 07:46:06 +0000 2016",
+        "id": 766541738596982800,
+        "id_str": "766541738596982785",
+        "text": "@backendsecret нафига разработчику входить кудато, ему что своей отрасли не хватает? Нефиг входить в наши докеры :D",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 766541451270365200,
+        "in_reply_to_status_id_str": "766541451270365186",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 62336528,
+          "id_str": "62336528"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 07:49:07 +0000 2016",
+      "id": 766542498130911200,
+      "id_str": "766542498130911232",
+      "text": "@webholt ...или ansible playbook. Разве нет?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766542018281480200,
+      "in_reply_to_status_id_str": "766542018281480192",
+      "in_reply_to_user_id": 97894369,
+      "in_reply_to_user_id_str": "97894369",
+      "in_reply_to_screen_name": "webholt",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Fri Aug 19 08:22:21 +0000 2016",
+      "id": 766550858444136400,
+      "id_str": "766550858444136448",
+      "text": "@ctrlok @strangeqargo это хорошо, когда такая команда есть)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strangeqargo",
+            "name": "Hey you, kekoosh!",
+            "id": 127573172,
+            "id_str": "127573172",
+            "indices": [
+              8,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766547600895938600,
+      "in_reply_to_status_id_str": "766547600895938560",
+      "in_reply_to_user_id": 17509585,
+      "in_reply_to_user_id_str": "17509585",
+      "in_reply_to_screen_name": "ctrlok",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 08:23:01 +0000 2016",
+      "id": 766551026367287300,
+      "id_str": "766551026367287296",
+      "text": "@ctrlok @strizhechenko @Shoonoise любому бизнесу нужно минимизировать затраты и максимизировать профит (читай \"заделиверить фичи\").",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "screen_name": "Shoonoise",
+            "name": "свинцовый сахар",
+            "id": 20670772,
+            "id_str": "20670772",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766549788963643400,
+      "in_reply_to_status_id_str": "766549788963643392",
+      "in_reply_to_user_id": 17509585,
+      "in_reply_to_user_id_str": "17509585",
+      "in_reply_to_screen_name": "ctrlok",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 08:23:36 +0000 2016",
+      "id": 766551176082956300,
+      "id_str": "766551176082956288",
+      "text": "@ctrlok @strizhechenko @Shoonoise поэтому пока кто-то делает девопс департаменты для обмазывания докером, кто-то х*як-х*як и в продакшн",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "screen_name": "Shoonoise",
+            "name": "свинцовый сахар",
+            "id": 20670772,
+            "id_str": "20670772",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766551026367287300,
+      "in_reply_to_status_id_str": "766551026367287296",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 08:24:00 +0000 2016",
+      "id": 766551274254835700,
+      "id_str": "766551274254835713",
+      "text": "@ctrlok @strizhechenko @Shoonoise при этом я не говорю что \"х-як х-як и в прод\" это хорошо - это всего лишь суровые реалии :/",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "screen_name": "Shoonoise",
+            "name": "свинцовый сахар",
+            "id": 20670772,
+            "id_str": "20670772",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766551176082956300,
+      "in_reply_to_status_id_str": "766551176082956288",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 08:26:51 +0000 2016",
+      "id": 766551992986579000,
+      "id_str": "766551992986578945",
+      "text": "Это да. Надеюсь, в будущих релизах починят. Но создать контейнер с скажем PgSQL для локальной разработки - самое оно https://t.co/UWJWaH4ZUr",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UWJWaH4ZUr",
+            "expanded_url": "https://twitter.com/ztaaz/status/766544780956274691",
+            "display_url": "twitter.com/ztaaz/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766544780956274700,
+      "quoted_status_id_str": "766544780956274691",
+      "quoted_status": {
+        "created_at": "Fri Aug 19 07:58:12 +0000 2016",
+        "id": 766544780956274700,
+        "id_str": "766544780956274691",
+        "text": "@backendsecret к сожалению, не поддерживает докер композ.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 766541451270365200,
+        "in_reply_to_status_id_str": "766541451270365186",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 137622158,
+          "id_str": "137622158"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 08:27:56 +0000 2016",
+      "id": 766552265427521500,
+      "id_str": "766552265427521538",
+      "text": "Правды ради, мы в Ingram в одном из продуктов уже пришли к этому - и пилим деплой этого продукта на докере. https://t.co/4Lik6pWacK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4Lik6pWacK",
+            "expanded_url": "https://twitter.com/strizhechenko/status/766551934002040833",
+            "display_url": "twitter.com/strizhechenko/…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766551934002040800,
+      "quoted_status_id_str": "766551934002040833",
+      "quoted_status": {
+        "created_at": "Fri Aug 19 08:26:37 +0000 2016",
+        "id": 766551934002040800,
+        "id_str": "766551934002040833",
+        "text": "@backendsecret @ctrlok @Shoonoise надо просто находить нужный момент когда хуякнутый продакшн паковать в докеры нанятым отделом девопса.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "ctrlok",
+              "name": "Seua",
+              "id": 17509585,
+              "id_str": "17509585",
+              "indices": [
+                15,
+                22
+              ]
+            },
+            {
+              "screen_name": "Shoonoise",
+              "name": "свинцовый сахар",
+              "id": 20670772,
+              "id_str": "20670772",
+              "indices": [
+                23,
+                33
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 766551274254835700,
+        "in_reply_to_status_id_str": "766551274254835713",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 1033011720,
+          "id_str": "1033011720"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 08:29:30 +0000 2016",
+      "id": 766552657527836700,
+      "id_str": "766552657527836672",
+      "text": "@ztaaz само собой! Речь о том, что красивый гуй поможет осознать \"how it works\", а дальше - только CLI, только хардкор :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ztaaz",
+            "name": "Stanislav Burnashev",
+            "id": 137622158,
+            "id_str": "137622158",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766552361808433200,
+      "in_reply_to_status_id_str": "766552361808433153",
+      "in_reply_to_user_id": 137622158,
+      "in_reply_to_user_id_str": "137622158",
+      "in_reply_to_screen_name": "ztaaz",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 08:31:20 +0000 2016",
+      "id": 766553119417172000,
+      "id_str": "766553119417171968",
+      "text": "Я сейчас схожу на очередное design review и расскажу вам про свой личный опыт с докером (забегая вперед, он так себе, будете смеяться)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 08:31:52 +0000 2016",
+      "id": 766553254691864600,
+      "id_str": "766553254691864576",
+      "text": "Но тогда неочевидность некоторых моментов отбила желание дальше разбираться, сделал деплой на ансибле и на этом все закончилось)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766553119417172000,
+      "in_reply_to_status_id_str": "766553119417171968",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 08:32:24 +0000 2016",
+      "id": 766553388817363000,
+      "id_str": "766553388817362944",
+      "text": "Надо попробовать, спасибо! https://t.co/8cH4cGgyfw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8cH4cGgyfw",
+            "expanded_url": "https://twitter.com/ztaaz/status/766553210236526592",
+            "display_url": "twitter.com/ztaaz/status/7…",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766553210236526600,
+      "quoted_status_id_str": "766553210236526592",
+      "quoted_status": {
+        "created_at": "Fri Aug 19 08:31:41 +0000 2016",
+        "id": 766553210236526600,
+        "id_str": "766553210236526592",
+        "text": "@backendsecret клевая фича kitematic - подхватывание запущенных через cli контейнеров. Надо только с -d запускаться. Отличная фича!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 766552657527836700,
+        "in_reply_to_status_id_str": "766552657527836672",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 137622158,
+          "id_str": "137622158"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 08:59:47 +0000 2016",
+      "id": 766560281698963500,
+      "id_str": "766560281698963456",
+      "text": "@ctrlok @strizhechenko @Shoonoise мой прод - это OpenStack для деплойментов тестовых окружений, я об этом говорил ранее :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "screen_name": "Shoonoise",
+            "name": "свинцовый сахар",
+            "id": 20670772,
+            "id_str": "20670772",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766557475508072400,
+      "in_reply_to_status_id_str": "766557475508072448",
+      "in_reply_to_user_id": 17509585,
+      "in_reply_to_user_id_str": "17509585",
+      "in_reply_to_screen_name": "ctrlok",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:00:15 +0000 2016",
+      "id": 766560397776257000,
+      "id_str": "766560397776257024",
+      "text": "@ctrlok @strizhechenko @Shoonoise у нас и правда нет прода в полноценном его понимании, с клиентами и деньгами. зато есть толпа dev и QA, -&gt;",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "screen_name": "Shoonoise",
+            "name": "свинцовый сахар",
+            "id": 20670772,
+            "id_str": "20670772",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766560281698963500,
+      "in_reply_to_status_id_str": "766560281698963456",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:00:33 +0000 2016",
+      "id": 766560474703990800,
+      "id_str": "766560474703990784",
+      "text": "@ctrlok @strizhechenko @Shoonoise -&gt; которые, если что-то сломается, прибегут и будут возмущаться :) чем не прод?)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "screen_name": "Shoonoise",
+            "name": "свинцовый сахар",
+            "id": 20670772,
+            "id_str": "20670772",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766560397776257000,
+      "in_reply_to_status_id_str": "766560397776257024",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:03:13 +0000 2016",
+      "id": 766561143729127400,
+      "id_str": "766561143729127424",
+      "text": "@ctrlok @strizhechenko @Shoonoise конечно, даже не обсуждается)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "screen_name": "Shoonoise",
+            "name": "свинцовый сахар",
+            "id": 20670772,
+            "id_str": "20670772",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766561049113927700,
+      "in_reply_to_status_id_str": "766561049113927680",
+      "in_reply_to_user_id": 17509585,
+      "in_reply_to_user_id_str": "17509585",
+      "in_reply_to_screen_name": "ctrlok",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:03:32 +0000 2016",
+      "id": 766561224549072900,
+      "id_str": "766561224549072896",
+      "text": "@strizhechenko @ctrlok @Shoonoise да, всё так. DevOps отдел в Ingram Micro Cloud работает исключительно на внутренние нужды)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              15,
+              22
+            ]
+          },
+          {
+            "screen_name": "Shoonoise",
+            "name": "свинцовый сахар",
+            "id": 20670772,
+            "id_str": "20670772",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766560493918183400,
+      "in_reply_to_status_id_str": "766560493918183424",
+      "in_reply_to_user_id": 1033011720,
+      "in_reply_to_user_id_str": "1033011720",
+      "in_reply_to_screen_name": "strizhechenko",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:03:48 +0000 2016",
+      "id": 766561291758633000,
+      "id_str": "766561291758632960",
+      "text": "@ctrlok @strizhechenko @Shoonoise я не утверждал этого) я предложил как раз это и обсудить)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "screen_name": "Shoonoise",
+            "name": "свинцовый сахар",
+            "id": 20670772,
+            "id_str": "20670772",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766561182769610800,
+      "in_reply_to_status_id_str": "766561182769610752",
+      "in_reply_to_user_id": 17509585,
+      "in_reply_to_user_id_str": "17509585",
+      "in_reply_to_screen_name": "ctrlok",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:04:37 +0000 2016",
+      "id": 766561497996746800,
+      "id_str": "766561497996746752",
+      "text": "@ctrlok @strizhechenko @Shoonoise всё так. мы продаем не PaaS, а саму платформу, которая ставится у клиента в его ДЦ на его железе.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "screen_name": "Shoonoise",
+            "name": "свинцовый сахар",
+            "id": 20670772,
+            "id_str": "20670772",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766560756691263500,
+      "in_reply_to_status_id_str": "766560756691263488",
+      "in_reply_to_user_id": 17509585,
+      "in_reply_to_user_id_str": "17509585",
+      "in_reply_to_screen_name": "ctrlok",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:05:08 +0000 2016",
+      "id": 766561625050603500,
+      "id_str": "766561625050603520",
+      "text": "@ctrlok @strizhechenko @Shoonoise соответственно, эти инстансы обслуживаются самостоятельно клиентом (или нашим суппортом за отдельные $)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "screen_name": "Shoonoise",
+            "name": "свинцовый сахар",
+            "id": 20670772,
+            "id_str": "20670772",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766561497996746800,
+      "in_reply_to_status_id_str": "766561497996746752",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:06:21 +0000 2016",
+      "id": 766561930878287900,
+      "id_str": "766561930878287872",
+      "text": "@ctrlok @strizhechenko @Shoonoise при этом устанавливают их ВСЕГДА руками. Например, есть вот такой док https://t.co/jZw9gN66Zi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "screen_name": "Shoonoise",
+            "name": "свинцовый сахар",
+            "id": 20670772,
+            "id_str": "20670772",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jZw9gN66Zi",
+            "expanded_url": "http://download.pa.parallels.com/pba/5.5/doc/pdf/Deployment_Guides/pba_5.5_for_linux_deployment_guide.pdf",
+            "display_url": "download.pa.parallels.com/pba/5.5/doc/pd…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766561625050603500,
+      "in_reply_to_status_id_str": "766561625050603520",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:06:56 +0000 2016",
+      "id": 766562079453089800,
+      "id_str": "766562079453089792",
+      "text": "Зависит от продукта. Скорее всего, ISP - ведь этот код уйдёт им и пользоваться им будут они. https://t.co/YMRTiJdjmI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YMRTiJdjmI",
+            "expanded_url": "https://twitter.com/strizhechenko/status/766561445664452608",
+            "display_url": "twitter.com/strizhechenko/…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766561445664452600,
+      "quoted_status_id_str": "766561445664452608",
+      "quoted_status": {
+        "created_at": "Fri Aug 19 09:04:25 +0000 2016",
+        "id": 766561445664452600,
+        "id_str": "766561445664452608",
+        "text": "@backendsecret @ctrlok @shoonoise а вот я пилю вещь одну для провайдеров, она затрагивает абонентов\nКто мои пользователи - ISP или абоненты?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "ctrlok",
+              "name": "Seua",
+              "id": 17509585,
+              "id_str": "17509585",
+              "indices": [
+                15,
+                22
+              ]
+            },
+            {
+              "screen_name": "Shoonoise",
+              "name": "свинцовый сахар",
+              "id": 20670772,
+              "id_str": "20670772",
+              "indices": [
+                23,
+                33
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 766561143729127400,
+        "in_reply_to_status_id_str": "766561143729127424",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 1033011720,
+          "id_str": "1033011720"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:07:50 +0000 2016",
+      "id": 766562304322314200,
+      "id_str": "766562304322314240",
+      "text": "@ctrlok @strizhechenko @Shoonoise и по сути, мы как девопс - организуем автоматизацию вот этого (и еще около пяти таких же) документов",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "screen_name": "Shoonoise",
+            "name": "свинцовый сахар",
+            "id": 20670772,
+            "id_str": "20670772",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766561930878287900,
+      "in_reply_to_status_id_str": "766561930878287872",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:08:13 +0000 2016",
+      "id": 766562402372640800,
+      "id_str": "766562402372640768",
+      "text": "@ctrlok @strizhechenko @Shoonoise ...для внутренних нужд. Тестировщики, девелоперы, суппорт, сейлз и прочие.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "screen_name": "Shoonoise",
+            "name": "свинцовый сахар",
+            "id": 20670772,
+            "id_str": "20670772",
+            "indices": [
+              23,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766562304322314200,
+      "in_reply_to_status_id_str": "766562304322314240",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:08:42 +0000 2016",
+      "id": 766562522300346400,
+      "id_str": "766562522300346369",
+      "text": "@strizhechenko всё верно, это называется эскалация проблемы. так и задумано. ISP то не будет чинить код, написанный не им, правда?)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766562262253461500,
+      "in_reply_to_status_id_str": "766562262253461504",
+      "in_reply_to_user_id": 1033011720,
+      "in_reply_to_user_id_str": "1033011720",
+      "in_reply_to_screen_name": "strizhechenko",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:09:09 +0000 2016",
+      "id": 766562639245967400,
+      "id_str": "766562639245967360",
+      "text": "@strizhechenko примерно так же с нашими APS пакетами. Не работает пакет - пишут в наш суппорт - мы форвардим разработчику APS пакета.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766562522300346400,
+      "in_reply_to_status_id_str": "766562522300346369",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:10:17 +0000 2016",
+      "id": 766562921933570000,
+      "id_str": "766562921933570048",
+      "text": "@ctrlok @strizhechenko вот не согласен. абоненты тут не при чем (разве что при том, что эта вещь аффектит бизнес-логику, связанную с ними)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766562459771555800,
+      "in_reply_to_status_id_str": "766562459771555840",
+      "in_reply_to_user_id": 17509585,
+      "in_reply_to_user_id_str": "17509585",
+      "in_reply_to_screen_name": "ctrlok",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:10:55 +0000 2016",
+      "id": 766563083334582300,
+      "id_str": "766563083334582272",
+      "text": "@ctrlok @strizhechenko здесь кастомер это ISP, а что он с этим кодом делает и кого это аффектит - уже его личная боль",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766562921933570000,
+      "in_reply_to_status_id_str": "766562921933570048",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:11:56 +0000 2016",
+      "id": 766563338528624600,
+      "id_str": "766563338528624640",
+      "text": "@ctrlok @strizhechenko при этом, если к ISP придут и зарепортят проблему, то он будет на 100% прав, если эскалирует это девелоперу модуля.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766563083334582300,
+      "in_reply_to_status_id_str": "766563083334582272",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:12:56 +0000 2016",
+      "id": 766563588387536900,
+      "id_str": "766563588387536896",
+      "text": "@ctrlok @strizhechenko в любом случае, для однозначного ответа на вопрос слишком мало вводных данных - мы тут гаданием на гуще занимаемся)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              8,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766563422641283100,
+      "in_reply_to_status_id_str": "766563422641283072",
+      "in_reply_to_user_id": 17509585,
+      "in_reply_to_user_id_str": "17509585",
+      "in_reply_to_screen_name": "ctrlok",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:17:23 +0000 2016",
+      "id": 766564710586126300,
+      "id_str": "766564710586126336",
+      "text": "@strizhechenko @ctrlok на фразе \"ISP ставит\" напрашивается ответ - всё-таки end-user это ISP, разве нет?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              15,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766564395585593300,
+      "in_reply_to_status_id_str": "766564395585593344",
+      "in_reply_to_user_id": 1033011720,
+      "in_reply_to_user_id_str": "1033011720",
+      "in_reply_to_screen_name": "strizhechenko",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:25:41 +0000 2016",
+      "id": 766566799349518300,
+      "id_str": "766566799349518336",
+      "text": "@strizhechenko @ctrlok так \"проблемы абонентов - наши проблемы\" это тоже верно. но ваши кастомеры - это ISP )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "strizhechenko",
+            "name": "(((*Code && *Acid)))",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              15,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766564682773721100,
+      "in_reply_to_status_id_str": "766564682773721089",
+      "in_reply_to_user_id": 1033011720,
+      "in_reply_to_user_id_str": "1033011720",
+      "in_reply_to_screen_name": "strizhechenko",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:26:06 +0000 2016",
+      "id": 766566903355674600,
+      "id_str": "766566903355674625",
+      "text": "@strizhechenko @ctrlok у нас та же модель. Odin Service Automation (наш продукт) продается X кастомерам, у которых Y своих кастомеров.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "strizhechenko",
+            "name": "Я живу в Горбачеве",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              15,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766564682773721100,
+      "in_reply_to_status_id_str": "766564682773721089",
+      "in_reply_to_user_id": 1033011720,
+      "in_reply_to_user_id_str": "1033011720",
+      "in_reply_to_screen_name": "strizhechenko",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 09:26:40 +0000 2016",
+      "id": 766567045953687600,
+      "id_str": "766567045953687552",
+      "text": "@strizhechenko @ctrlok Но это не значит, что у нас X*Y клиентов - у нас их всё еще X, где X - кол-во компаний, которые купили у нас OSA )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "strizhechenko",
+            "name": "Я живу в Горбачеве",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "ctrlok",
+            "name": "Seua",
+            "id": 17509585,
+            "id_str": "17509585",
+            "indices": [
+              15,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766566903355674600,
+      "in_reply_to_status_id_str": "766566903355674625",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
