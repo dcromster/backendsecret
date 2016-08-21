@@ -1,6 +1,6 @@
 export default [
-  // { username: 'twitter_name', start: '15 feb 2016', first: '640816652293144576', post: false , post: false},
-  { username: 'en_austin', start: '15 aug 2016', first: '765096128983527424', post: false},
+  // { username: 'twitter_name', start: '15 feb 2016', first: '640816652293144576', post: false},
+  { username: 'en_austin', start: '15 aug 2016', first: '765096128983527424'},
   { username: 'AntonKalyaev', start: '08 aug 2016', first: '762568309338435584' },
   { username: 'yelbota', start: '01 aug 2016', first: '760756288473141248' },  
   { username: 'mogilnikov', start: '25 jul 2016', first: '757480734496002048'},
