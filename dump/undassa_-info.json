@@ -56,19 +56,40 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15247,
+  "statuses_count": 15248,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Aug 28 18:45:53 +0000 2016",
-    "id": 769969266363859000,
-    "id_str": "769969266363858944",
-    "text": "На этой космической ноте, я отправляюсь писать код ) Хорошей всем недели и спасибо за вопросы, ответы и внимание.\n\nВсем пока!",
+    "created_at": "Sun Aug 28 18:47:13 +0000 2016",
+    "id": 769969601576837100,
+    "id_str": "769969601576837125",
+    "text": "Я в twitter как @undassa, в FB как alexander.kaloshin и на github как https://t.co/5elZ73JUh5\nПишите по всем вопросам, буду рад помочь)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "Undassa",
+          "name": "Cupcake",
+          "id": 252282230,
+          "id_str": "252282230",
+          "indices": [
+            16,
+            24
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5elZ73JUh5",
+          "expanded_url": "http://github.com/undassa",
+          "display_url": "github.com/undassa",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -87,7 +108,8 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
