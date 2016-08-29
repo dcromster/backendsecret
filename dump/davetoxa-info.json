@@ -47,71 +47,59 @@
     }
   },
   "protected": false,
-  "followers_count": 2593,
+  "followers_count": 2591,
   "friends_count": 0,
-  "listed_count": 178,
+  "listed_count": 179,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 2004,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15250,
+  "statuses_count": 15254,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 29 08:21:15 +0000 2016",
-    "id": 770174463413477400,
-    "id_str": "770174463413477376",
-    "text": "Сегодня у меня выходной, гуляю по Мюнхену, поэтому stay tuned - завтра начнём ☀️🇩🇪",
+    "created_at": "Mon Aug 29 11:46:35 +0000 2016",
+    "id": 770226136999718900,
+    "id_str": "770226136999718912",
+    "text": "@Fodoj @perkovec24 как то не доходило дело до этого)))",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "Fodoj",
+          "name": "Kirill Shirinkin",
+          "id": 14741065,
+          "id_str": "14741065",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "screen_name": "perkovec24",
+          "name": "Ilya Perkovec",
+          "id": 2561984411,
+          "id_str": "2561984411",
+          "indices": [
+            7,
+            18
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 770173964148678700,
-    "in_reply_to_status_id_str": "770173964148678656",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": 770225482113646600,
+    "in_reply_to_status_id_str": "770225482113646592",
+    "in_reply_to_user_id": 14741065,
+    "in_reply_to_user_id_str": "14741065",
+    "in_reply_to_screen_name": "Fodoj",
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "37439688c6302728",
-      "url": "https://api.twitter.com/1.1/geo/id/37439688c6302728.json",
-      "place_type": "city",
-      "name": "München",
-      "full_name": "München, Deutschland",
-      "country_code": "DE",
-      "country": "Deutschland",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              11.360589,
-              48.061634
-            ],
-            [
-              11.722918,
-              48.061634
-            ],
-            [
-              11.722918,
-              48.248124
-            ],
-            [
-              11.360589,
-              48.248124
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
