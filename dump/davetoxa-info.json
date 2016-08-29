@@ -47,7 +47,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2591,
+  "followers_count": 2588,
   "friends_count": 0,
   "listed_count": 180,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -56,62 +56,50 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15259,
+  "statuses_count": 15273,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 29 14:26:51 +0000 2016",
-    "id": 770266466788732900,
-    "id_str": "770266466788732928",
-    "text": "На этой неделе в первый раз буду выступать на митапе, в Берлине, с докладом о Serverless. Кто даст советы для начинающего?",
+    "created_at": "Mon Aug 29 16:22:37 +0000 2016",
+    "id": 770295601229602800,
+    "id_str": "770295601229602818",
+    "text": "@ipronix @Fodoj не понял вопрос про решения",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "ipronix",
+          "name": "pronix",
+          "id": 113404896,
+          "id_str": "113404896",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "Fodoj",
+          "name": "Kirill Shirinkin",
+          "id": 14741065,
+          "id_str": "14741065",
+          "indices": [
+            9,
+            15
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 770295160039174100,
+    "in_reply_to_status_id_str": "770295160039174144",
+    "in_reply_to_user_id": 113404896,
+    "in_reply_to_user_id_str": "113404896",
+    "in_reply_to_screen_name": "ipronix",
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "37439688c6302728",
-      "url": "https://api.twitter.com/1.1/geo/id/37439688c6302728.json",
-      "place_type": "city",
-      "name": "München",
-      "full_name": "München, Deutschland",
-      "country_code": "DE",
-      "country": "Deutschland",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              11.360589,
-              48.061634
-            ],
-            [
-              11.722918,
-              48.061634
-            ],
-            [
-              11.722918,
-              48.248124
-            ],
-            [
-              11.360589,
-              48.248124
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
