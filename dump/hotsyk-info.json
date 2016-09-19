@@ -47,44 +47,105 @@
     }
   },
   "protected": false,
-  "followers_count": 2627,
+  "followers_count": 2642,
   "friends_count": 0,
   "listed_count": 180,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2004,
+  "favourites_count": 2005,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15433,
+  "statuses_count": 15456,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Sep 19 07:10:51 +0000 2016",
-    "id": 777766889808429000,
-    "id_str": "777766889808429056",
-    "text": "Продолжим моим утром, а пока - пишите свои вопросы и предложения, что лучше рассказать! :)",
+    "created_at": "Mon Sep 19 16:48:06 +0000 2016",
+    "id": 777912159120552000,
+    "id_str": "777912159120551937",
+    "text": "RT @soulmusic: @backendsecret скорее «у нас в компании все — девопсы»",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "soulmusic",
+          "name": "Gregory N!",
+          "id": 14338647,
+          "id_str": "14338647",
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            15,
+            29
+          ]
+        }
+      ],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 777766762330910700,
-    "in_reply_to_status_id_str": "777766762330910720",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Sep 19 16:46:55 +0000 2016",
+      "id": 777911861752791000,
+      "id_str": "777911861752791040",
+      "text": "@backendsecret скорее «у нас в компании все — девопсы»",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 777910292550389800,
+      "in_reply_to_status_id_str": "777910292550389760",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
