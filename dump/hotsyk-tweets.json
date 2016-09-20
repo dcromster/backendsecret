@@ -2152,6 +2152,3325 @@
       "favorited": false,
       "retweeted": true,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 19 18:24:50 +0000 2016",
+      "id": 777936503930519600,
+      "id_str": "777936503930519552",
+      "text": "Тут та же проблемма, что и с env файлами - при изменения пароля прийдется передеплоивать. https://t.co/RgLNZPJShN",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RgLNZPJShN",
+            "expanded_url": "https://twitter.com/vovanbo/status/777930497292984320",
+            "display_url": "twitter.com/vovanbo/status…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9fff4bb5d61a7564",
+        "url": "https://api.twitter.com/1.1/geo/id/9fff4bb5d61a7564.json",
+        "place_type": "neighborhood",
+        "name": "Civic Center",
+        "full_name": "Civic Center, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.42548188,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.79084502
+              ],
+              [
+                -122.42548188,
+                37.79084502
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 777930497292984300,
+      "quoted_status_id_str": "777930497292984320",
+      "quoted_status": {
+        "created_at": "Mon Sep 19 18:00:58 +0000 2016",
+        "id": 777930497292984300,
+        "id_str": "777930497292984320",
+        "text": "@backendsecret Если используешь Ansible, то что с его vault не так? По каким причинам не подходит? Секретов много? :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 777910689734197200,
+        "in_reply_to_status_id_str": "777910689734197248",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 10340002,
+          "id_str": "10340002"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 19 18:25:22 +0000 2016",
+      "id": 777936635933630500,
+      "id_str": "777936635933630465",
+      "text": "Плюс, вопрос - как хранить password файл - в репо? Нехорошо. На инстансе - проблеммы с обновлением https://t.co/RgLNZPJShN",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RgLNZPJShN",
+            "expanded_url": "https://twitter.com/vovanbo/status/777930497292984320",
+            "display_url": "twitter.com/vovanbo/status…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9fff4bb5d61a7564",
+        "url": "https://api.twitter.com/1.1/geo/id/9fff4bb5d61a7564.json",
+        "place_type": "neighborhood",
+        "name": "Civic Center",
+        "full_name": "Civic Center, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.42548188,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.79084502
+              ],
+              [
+                -122.42548188,
+                37.79084502
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 777930497292984300,
+      "quoted_status_id_str": "777930497292984320",
+      "quoted_status": {
+        "created_at": "Mon Sep 19 18:00:58 +0000 2016",
+        "id": 777930497292984300,
+        "id_str": "777930497292984320",
+        "text": "@backendsecret Если используешь Ansible, то что с его vault не так? По каким причинам не подходит? Секретов много? :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 777910689734197200,
+        "in_reply_to_status_id_str": "777910689734197248",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 10340002,
+          "id_str": "10340002"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 19 18:33:36 +0000 2016",
+      "id": 777938708913762300,
+      "id_str": "777938708913762304",
+      "text": "Безусловно лучше, чем нешифрованные совсем пароли. Но с отдельным сервисом - IMHO - разворачивание и контроль проще https://t.co/M1PbVK9PV1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/M1PbVK9PV1",
+            "expanded_url": "https://twitter.com/vovanbo/status/777938130657767424",
+            "display_url": "twitter.com/vovanbo/status…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9fff4bb5d61a7564",
+        "url": "https://api.twitter.com/1.1/geo/id/9fff4bb5d61a7564.json",
+        "place_type": "neighborhood",
+        "name": "Civic Center",
+        "full_name": "Civic Center, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.42548188,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.79084502
+              ],
+              [
+                -122.42548188,
+                37.79084502
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 777938130657767400,
+      "quoted_status_id_str": "777938130657767424",
+      "quoted_status": {
+        "created_at": "Mon Sep 19 18:31:18 +0000 2016",
+        "id": 777938130657767400,
+        "id_str": "777938130657767424",
+        "text": "@backendsecret Ключ от vault’а конечно в репозитории хранить не надо. Но это как бы получается единственный ключ, который надо передавать.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 777936635933630500,
+        "in_reply_to_status_id_str": "777936635933630465",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 10340002,
+          "id_str": "10340002"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 19 18:36:56 +0000 2016",
+      "id": 777939549070778400,
+      "id_str": "777939549070778368",
+      "text": "Про управление секретами - у нас пару месяцев назад в один день ушел чувак. https://t.co/M1PbVKrrjB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/M1PbVKrrjB",
+            "expanded_url": "https://twitter.com/vovanbo/status/777938130657767424",
+            "display_url": "twitter.com/vovanbo/status…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9fff4bb5d61a7564",
+        "url": "https://api.twitter.com/1.1/geo/id/9fff4bb5d61a7564.json",
+        "place_type": "neighborhood",
+        "name": "Civic Center",
+        "full_name": "Civic Center, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.42548188,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.79084502
+              ],
+              [
+                -122.42548188,
+                37.79084502
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 777938130657767400,
+      "quoted_status_id_str": "777938130657767424",
+      "quoted_status": {
+        "created_at": "Mon Sep 19 18:31:18 +0000 2016",
+        "id": 777938130657767400,
+        "id_str": "777938130657767424",
+        "text": "@backendsecret Ключ от vault’а конечно в репозитории хранить не надо. Но это как бы получается единственный ключ, который надо передавать.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 777936635933630500,
+        "in_reply_to_status_id_str": "777936635933630465",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 10340002,
+          "id_str": "10340002"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 19 18:37:37 +0000 2016",
+      "id": 777939721871851500,
+      "id_str": "777939721871851520",
+      "text": "Буквально встал - говорит - Я ухожу пилить свой стартап. Нужно было срочно сменить пароли на прод базу. Пришлось все передеплоивать.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 777939549070778400,
+      "in_reply_to_status_id_str": "777939549070778368",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9fff4bb5d61a7564",
+        "url": "https://api.twitter.com/1.1/geo/id/9fff4bb5d61a7564.json",
+        "place_type": "neighborhood",
+        "name": "Civic Center",
+        "full_name": "Civic Center, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.42548188,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.79084502
+              ],
+              [
+                -122.42548188,
+                37.79084502
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 19 18:38:39 +0000 2016",
+      "id": 777939982791180300,
+      "id_str": "777939982791180288",
+      "text": "Это с енв файлами. С ansible vault было бы точно также. С отдельным сервисом можно было бы просто перезапустить аппликейшены.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 777939721871851500,
+      "in_reply_to_status_id_str": "777939721871851520",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9fff4bb5d61a7564",
+        "url": "https://api.twitter.com/1.1/geo/id/9fff4bb5d61a7564.json",
+        "place_type": "neighborhood",
+        "name": "Civic Center",
+        "full_name": "Civic Center, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.42548188,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.79084502
+              ],
+              [
+                -122.42548188,
+                37.79084502
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 19 18:40:40 +0000 2016",
+      "id": 777940487139364900,
+      "id_str": "777940487139364864",
+      "text": "Исходил из того, что все, кто не проголосуют - не используют :) https://t.co/HEmZBuck0T",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HEmZBuck0T",
+            "expanded_url": "https://twitter.com/AlexKazak0v/status/777939967704231936",
+            "display_url": "twitter.com/AlexKazak0v/st…",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9fff4bb5d61a7564",
+        "url": "https://api.twitter.com/1.1/geo/id/9fff4bb5d61a7564.json",
+        "place_type": "neighborhood",
+        "name": "Civic Center",
+        "full_name": "Civic Center, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.42548188,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.79084502
+              ],
+              [
+                -122.42548188,
+                37.79084502
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 777939967704232000,
+      "quoted_status_id_str": "777939967704231936",
+      "quoted_status": {
+        "created_at": "Mon Sep 19 18:38:36 +0000 2016",
+        "id": 777939967704232000,
+        "id_str": "777939967704231936",
+        "text": "@backendsecret а где вариант \"не использую\"?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 777898738929008600,
+        "in_reply_to_status_id_str": "777898738929008640",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 715977544038813700,
+          "id_str": "715977544038813696"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 19 18:52:11 +0000 2016",
+      "id": 777943387966173200,
+      "id_str": "777943387966173186",
+      "text": "Согласен. https://t.co/38vFLLljaY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/38vFLLljaY",
+            "expanded_url": "https://twitter.com/vovanbo/status/777942778961620992",
+            "display_url": "twitter.com/vovanbo/status…",
+            "indices": [
+              10,
+              33
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9fff4bb5d61a7564",
+        "url": "https://api.twitter.com/1.1/geo/id/9fff4bb5d61a7564.json",
+        "place_type": "neighborhood",
+        "name": "Civic Center",
+        "full_name": "Civic Center, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.42548188,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.77322896
+              ],
+              [
+                -122.40997884,
+                37.79084502
+              ],
+              [
+                -122.42548188,
+                37.79084502
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 777942778961621000,
+      "quoted_status_id_str": "777942778961620992",
+      "quoted_status": {
+        "created_at": "Mon Sep 19 18:49:46 +0000 2016",
+        "id": 777942778961621000,
+        "id_str": "777942778961620992",
+        "text": "@backendsecret если .env снаружи контейнера, dockerа например, то заменяем env и перезапускаем сервис, что БД, что app. Всё от сценария же",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 777939982791180300,
+        "in_reply_to_status_id_str": "777939982791180288",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 10340002,
+          "id_str": "10340002"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 19 19:22:13 +0000 2016",
+      "id": 777950945137143800,
+      "id_str": "777950945137143808",
+      "text": "RT @nimnull: @backendsecret мы пришли к этому же, только код перестали запекать в имеджи. Только зависимости",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nimnull",
+            "name": "Selec Tfrom",
+            "id": 14828217,
+            "id_str": "14828217",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Sep 19 19:09:39 +0000 2016",
+        "id": 777947784217526300,
+        "id_str": "777947784217526273",
+        "text": "@backendsecret мы пришли к этому же, только код перестали запекать в имеджи. Только зависимости",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+        "in_reply_to_status_id": 777910534012334100,
+        "in_reply_to_status_id_str": "777910534012334081",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 14828217,
+          "id_str": "14828217"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 19 19:22:18 +0000 2016",
+      "id": 777950965861232600,
+      "id_str": "777950965861232640",
+      "text": "RT @dZift: @backendsecret gpg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dZift",
+            "name": "Шарик Макаров",
+            "id": 31421656,
+            "id_str": "31421656",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Sep 19 18:51:29 +0000 2016",
+        "id": 777943209368584200,
+        "id_str": "777943209368584192",
+        "text": "@backendsecret gpg",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 777911031700066300,
+        "in_reply_to_status_id_str": "777911031700066305",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 31421656,
+          "id_str": "31421656"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Sep 20 04:23:23 +0000 2016",
+      "id": 778087133668147200,
+      "id_str": "778087133668147201",
+      "text": "Доброго дня! Хочу поговорить немного о самообразовании. Каким образом вы учитесь?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:23:32 +0000 2016",
+      "id": 778087171848831000,
+      "id_str": "778087171848830976",
+      "text": "Удается ли на работе изучать и практиковать интересные вещи? Или выбираете работу с интересным стеком?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 778087133668147200,
+      "in_reply_to_status_id_str": "778087133668147201",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:23:46 +0000 2016",
+      "id": 778087229260460000,
+      "id_str": "778087229260460032",
+      "text": "Слушаете ли подкасты? Какие? Я из рускоязычных я слушаю Radio-T и DevZen (правда не все выпуски).",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 778087171848831000,
+      "in_reply_to_status_id_str": "778087171848830976",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:23:58 +0000 2016",
+      "id": 778087279558615000,
+      "id_str": "778087279558615040",
+      "text": "Из англоязычных - Software Engineering Radio, The New Stack Makers, Talk Python To Me, O’Reilly Data Show, a16z.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 778087229260460000,
+      "in_reply_to_status_id_str": "778087229260460032",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Sep 20 04:24:15 +0000 2016",
+      "id": 778087353114132500,
+      "id_str": "778087353114132480",
+      "text": "И нетехнические - Here’s The Thing with Alec Baldwin, TED Radio Hour, Freakonomics Radio.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 778087279558615000,
+      "in_reply_to_status_id_str": "778087279558615040",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Sep 20 04:24:58 +0000 2016",
+      "id": 778087531325825000,
+      "id_str": "778087531325825024",
+      "text": "Ходите ли на ивенты? Какие ивенты считаете полезными? Какие стараетесь не пропускать и на какие ни за что больше не пойдете?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 778087353114132500,
+      "in_reply_to_status_id_str": "778087353114132480",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          37.7761448,
+          -122.394115
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -122.394115,
+          37.7761448
+        ]
+      },
+      "place": {
+        "id": "5a110d312052166f",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+        "place_type": "city",
+        "name": "San Francisco",
+        "full_name": "San Francisco, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.514926,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.833238
+              ],
+              [
+                -122.514926,
+                37.833238
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:25:26 +0000 2016",
+      "id": 778087648229490700,
+      "id_str": "778087648229490689",
+      "text": "Воспользуюсь случаем и раскажу о питон ивентах в Восточной Европе. \nБлижайшие большие конференции - 12 октября - https://t.co/LcijFyHu1V",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LcijFyHu1V",
+            "expanded_url": "https://conf.python.ru",
+            "display_url": "conf.python.ru",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 778087531325825000,
+      "in_reply_to_status_id_str": "778087531325825024",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "41bcb736f84a799e",
+        "url": "https://api.twitter.com/1.1/geo/id/41bcb736f84a799e.json",
+        "place_type": "neighborhood",
+        "name": "Mission Bay",
+        "full_name": "Mission Bay, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.40668412,
+                37.76405301
+              ],
+              [
+                -122.38151184,
+                37.76405301
+              ],
+              [
+                -122.38151184,
+                37.78199199
+              ],
+              [
+                -122.40668412,
+                37.78199199
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:25:42 +0000 2016",
+      "id": 778087717351612400,
+      "id_str": "778087717351612417",
+      "text": "13-16 октября - https://t.co/sOr74tgeih  и 28-30 октября - https://t.co/tE5qdhQY48",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sOr74tgeih",
+            "expanded_url": "https://pl.pycon.org/2016/index_en.html",
+            "display_url": "pl.pycon.org/2016/index_en.…",
+            "indices": [
+              16,
+              39
+            ]
+          },
+          {
+            "url": "https://t.co/tE5qdhQY48",
+            "expanded_url": "https://cz.pycon.org/2016/",
+            "display_url": "cz.pycon.org/2016/",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 778087648229490700,
+      "in_reply_to_status_id_str": "778087648229490689",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "41bcb736f84a799e",
+        "url": "https://api.twitter.com/1.1/geo/id/41bcb736f84a799e.json",
+        "place_type": "neighborhood",
+        "name": "Mission Bay",
+        "full_name": "Mission Bay, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.40668412,
+                37.76405301
+              ],
+              [
+                -122.38151184,
+                37.76405301
+              ],
+              [
+                -122.38151184,
+                37.78199199
+              ],
+              [
+                -122.40668412,
+                37.78199199
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:25:59 +0000 2016",
+      "id": 778087790080823300,
+      "id_str": "778087790080823297",
+      "text": "Зимой (обычно конец января - начало октября) проходит https://t.co/ehHQS1svgF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ehHQS1svgF",
+            "expanded_url": "http://by.pycon.org/",
+            "display_url": "by.pycon.org",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 778087717351612400,
+      "in_reply_to_status_id_str": "778087717351612417",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          37.7761448,
+          -122.394115
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -122.394115,
+          37.7761448
+        ]
+      },
+      "place": {
+        "id": "5a110d312052166f",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+        "place_type": "city",
+        "name": "San Francisco",
+        "full_name": "San Francisco, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.514926,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.833238
+              ],
+              [
+                -122.514926,
+                37.833238
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:26:13 +0000 2016",
+      "id": 778087844724211700,
+      "id_str": "778087844724211713",
+      "text": "Весной - в апреле - @piterpy и @uapycon. Летом - https://t.co/oAjyEhc8Rv",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PiterPy",
+            "name": "Piter Py",
+            "id": 2285061187,
+            "id_str": "2285061187",
+            "indices": [
+              20,
+              28
+            ]
+          },
+          {
+            "screen_name": "uapycon",
+            "name": "PyCon Ukraine",
+            "id": 138331812,
+            "id_str": "138331812",
+            "indices": [
+              31,
+              39
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/oAjyEhc8Rv",
+            "expanded_url": "http://pycon.ru/2016/",
+            "display_url": "pycon.ru/2016/",
+            "indices": [
+              49,
+              72
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 778087790080823300,
+      "in_reply_to_status_id_str": "778087790080823297",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "41bcb736f84a799e",
+        "url": "https://api.twitter.com/1.1/geo/id/41bcb736f84a799e.json",
+        "place_type": "neighborhood",
+        "name": "Mission Bay",
+        "full_name": "Mission Bay, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.40668412,
+                37.76405301
+              ],
+              [
+                -122.38151184,
+                37.76405301
+              ],
+              [
+                -122.38151184,
+                37.78199199
+              ],
+              [
+                -122.40668412,
+                37.78199199
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:26:34 +0000 2016",
+      "id": 778087933140168700,
+      "id_str": "778087933140168705",
+      "text": "Главная python конференция - PyCon US - пройдет в 2017 в Портленде,  17-25 мая - https://t.co/8KWWMFppDF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8KWWMFppDF",
+            "expanded_url": "https://us.pycon.org/2017",
+            "display_url": "us.pycon.org/2017",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 778087844724211700,
+      "in_reply_to_status_id_str": "778087844724211713",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "41bcb736f84a799e",
+        "url": "https://api.twitter.com/1.1/geo/id/41bcb736f84a799e.json",
+        "place_type": "neighborhood",
+        "name": "Mission Bay",
+        "full_name": "Mission Bay, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.40668412,
+                37.76405301
+              ],
+              [
+                -122.38151184,
+                37.76405301
+              ],
+              [
+                -122.38151184,
+                37.78199199
+              ],
+              [
+                -122.40668412,
+                37.78199199
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "bg"
+    },
+    {
+      "created_at": "Tue Sep 20 04:26:54 +0000 2016",
+      "id": 778088019626717200,
+      "id_str": "778088019626717184",
+      "text": "Это большие конференции. Проходит также куча митапов. Ближайший в Киеве - в эту субботу - https://t.co/uogwb5Xf2w",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uogwb5Xf2w",
+            "expanded_url": "https://www.meetup.com/uapycon/events/233086201/",
+            "display_url": "meetup.com/uapycon/events…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 778087933140168700,
+      "in_reply_to_status_id_str": "778087933140168705",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "41bcb736f84a799e",
+        "url": "https://api.twitter.com/1.1/geo/id/41bcb736f84a799e.json",
+        "place_type": "neighborhood",
+        "name": "Mission Bay",
+        "full_name": "Mission Bay, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.40668412,
+                37.76405301
+              ],
+              [
+                -122.38151184,
+                37.76405301
+              ],
+              [
+                -122.38151184,
+                37.78199199
+              ],
+              [
+                -122.40668412,
+                37.78199199
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:27:07 +0000 2016",
+      "id": 778088074760843300,
+      "id_str": "778088074760843264",
+      "text": "Ближайший в Москве - https://t.co/qbZsd4Bs0Y - в этот четверг.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qbZsd4Bs0Y",
+            "expanded_url": "http://www.moscowpython.ru/",
+            "display_url": "moscowpython.ru",
+            "indices": [
+              21,
+              44
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 778088019626717200,
+      "in_reply_to_status_id_str": "778088019626717184",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "41bcb736f84a799e",
+        "url": "https://api.twitter.com/1.1/geo/id/41bcb736f84a799e.json",
+        "place_type": "neighborhood",
+        "name": "Mission Bay",
+        "full_name": "Mission Bay, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.40668412,
+                37.76405301
+              ],
+              [
+                -122.38151184,
+                37.76405301
+              ],
+              [
+                -122.38151184,
+                37.78199199
+              ],
+              [
+                -122.40668412,
+                37.78199199
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:27:19 +0000 2016",
+      "id": 778088124715003900,
+      "id_str": "778088124715003905",
+      "text": "В Минске также регулярно проходит питон митап - https://t.co/6g4mpiENSj - но не вижу, когда следуюший.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6g4mpiENSj",
+            "expanded_url": "https://www.facebook.com/MinskPythonMeetup/",
+            "display_url": "facebook.com/MinskPythonMee…",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 778088074760843300,
+      "in_reply_to_status_id_str": "778088074760843264",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          37.77613631,
+          -122.39394619
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -122.39394619,
+          37.77613631
+        ]
+      },
+      "place": {
+        "id": "5a110d312052166f",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+        "place_type": "city",
+        "name": "San Francisco",
+        "full_name": "San Francisco, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.514926,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.833238
+              ],
+              [
+                -122.514926,
+                37.833238
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:27:32 +0000 2016",
+      "id": 778088177311576000,
+      "id_str": "778088177311576064",
+      "text": "В питон комьюнити, большинство митапов и конференций организовывается сообществом. А как у вас?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 778088124715003900,
+      "in_reply_to_status_id_str": "778088124715003905",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "41bcb736f84a799e",
+        "url": "https://api.twitter.com/1.1/geo/id/41bcb736f84a799e.json",
+        "place_type": "neighborhood",
+        "name": "Mission Bay",
+        "full_name": "Mission Bay, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.40668412,
+                37.76405301
+              ],
+              [
+                -122.38151184,
+                37.76405301
+              ],
+              [
+                -122.38151184,
+                37.78199199
+              ],
+              [
+                -122.40668412,
+                37.78199199
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:33:46 +0000 2016",
+      "id": 778089746170011600,
+      "id_str": "778089746170011648",
+      "text": "Справедливости ради - Гвидо вообще был против лямбд и оставить их его уломало комьюнити - так легенда говорит. https://t.co/Agwo2TTTDf",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Agwo2TTTDf",
+            "expanded_url": "https://twitter.com/SiliconBangalor/status/778037101862514688",
+            "display_url": "twitter.com/SiliconBangalo…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 778037101862514700,
+      "quoted_status_id_str": "778037101862514688",
+      "quoted_status": {
+        "created_at": "Tue Sep 20 01:04:34 +0000 2016",
+        "id": 778037101862514700,
+        "id_str": "778037101862514688",
+        "text": "@backendsecret @Shiroginne потому что «логичная» стандартная библиотека:\n\n\", \".join(map(str, [1,2,3]))\n\nи однострочные лямбды, например",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "Shiroginne",
+              "name": "Mac Shifford",
+              "id": 25733176,
+              "id_str": "25733176",
+              "indices": [
+                15,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 777899336994816000,
+        "in_reply_to_status_id_str": "777899336994816001",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 310745798,
+          "id_str": "310745798"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:34:42 +0000 2016",
+      "id": 778089982795903000,
+      "id_str": "778089982795902976",
+      "text": "RT @strizhechenko: @SiliconBangalor @backendsecret @Shiroginne \n\" \".join(str(x) for x in [1, 2, 3]) задом наперед читающиеся тоже ничего (н…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "strizhechenko",
+            "name": "*code && *acid",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "SiliconBangalor",
+            "name": "Kremnievîi△Bangalor☭",
+            "id": 310745798,
+            "id_str": "310745798",
+            "indices": [
+              19,
+              35
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              36,
+              50
+            ]
+          },
+          {
+            "screen_name": "Shiroginne",
+            "name": "Mac Shifford",
+            "id": 25733176,
+            "id_str": "25733176",
+            "indices": [
+              51,
+              62
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Sep 20 01:22:58 +0000 2016",
+        "id": 778041728733438000,
+        "id_str": "778041728733437952",
+        "text": "@SiliconBangalor @backendsecret @Shiroginne \n\" \".join(str(x) for x in [1, 2, 3]) задом наперед читающиеся тоже ничего (но лучше ничего нет)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "SiliconBangalor",
+              "name": "Kremnievîi△Bangalor☭",
+              "id": 310745798,
+              "id_str": "310745798",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                17,
+                31
+              ]
+            },
+            {
+              "screen_name": "Shiroginne",
+              "name": "Mac Shifford",
+              "id": 25733176,
+              "id_str": "25733176",
+              "indices": [
+                32,
+                43
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 778037101862514700,
+        "in_reply_to_status_id_str": "778037101862514688",
+        "in_reply_to_user_id": 310745798,
+        "in_reply_to_user_id_str": "310745798",
+        "in_reply_to_screen_name": "SiliconBangalor",
+        "user": {
+          "id": 1033011720,
+          "id_str": "1033011720"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:36:30 +0000 2016",
+      "id": 778090433587060700,
+      "id_str": "778090433587060736",
+      "text": "У кого-то пол десятого вечера :) https://t.co/sbKA3pGjKZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sbKA3pGjKZ",
+            "expanded_url": "https://twitter.com/mr_mig_by/status/778090062038917120",
+            "display_url": "twitter.com/mr_mig_by/stat…",
+            "indices": [
+              33,
+              56
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 778090062038917100,
+      "quoted_status_id_str": "778090062038917120",
+      "quoted_status": {
+        "created_at": "Tue Sep 20 04:35:01 +0000 2016",
+        "id": 778090062038917100,
+        "id_str": "778090062038917120",
+        "text": "@backendsecret ничоси кому-то не спится!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 778087133668147200,
+        "in_reply_to_status_id_str": "778087133668147201",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 170772902,
+          "id_str": "170772902"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Tue Sep 20 04:39:27 +0000 2016",
+      "id": 778091175995662300,
+      "id_str": "778091175995662336",
+      "text": "А видео с конференций и презентации? Мне обычно трудно выделить время смотреть видео, а вот на аудио - легче. https://t.co/t6MuuNWdP1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/t6MuuNWdP1",
+            "expanded_url": "https://twitter.com/mr_mig_by/status/778090480236126208",
+            "display_url": "twitter.com/mr_mig_by/stat…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 778090480236126200,
+      "quoted_status_id_str": "778090480236126208",
+      "quoted_status": {
+        "created_at": "Tue Sep 20 04:36:41 +0000 2016",
+        "id": 778090480236126200,
+        "id_str": "778090480236126208",
+        "text": "@backendsecret и на работе, и дома, и других людей учить надо. Подкасты - трата времени, имхо. Я визуал, мне нужны тексты и схемы",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 778087171848831000,
+        "in_reply_to_status_id_str": "778087171848830976",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 170772902,
+          "id_str": "170772902"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:40:47 +0000 2016",
+      "id": 778091513519759400,
+      "id_str": "778091513519759364",
+      "text": "RT @mr_mig_by: @backendsecret в ускоренном режиме и только отборные. \nЕсли времени нету - то велика вероятность, что ты это делаешь не осоз…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mr_mig_by",
+            "name": "Alexey Migutsky",
+            "id": 170772902,
+            "id_str": "170772902",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Sep 20 04:40:07 +0000 2016",
+        "id": 778091344854130700,
+        "id_str": "778091344854130688",
+        "text": "@backendsecret в ускоренном режиме и только отборные. \nЕсли времени нету - то велика вероятность, что ты это делаешь не осознанно",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 778091175995662300,
+        "in_reply_to_status_id_str": "778091175995662336",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 170772902,
+          "id_str": "170772902"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:42:52 +0000 2016",
+      "id": 778092037262409700,
+      "id_str": "778092037262409732",
+      "text": "Да! Есть, кстати, некоторые замечательные подкасты, которые публикуют транскрипты. Например https://t.co/GLkcr1dF6D https://t.co/PWpHycixz3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GLkcr1dF6D",
+            "expanded_url": "https://podcastinit.com",
+            "display_url": "podcastinit.com",
+            "indices": [
+              92,
+              115
+            ]
+          },
+          {
+            "url": "https://t.co/PWpHycixz3",
+            "expanded_url": "https://twitter.com/strizhechenko/status/778091368321323008",
+            "display_url": "twitter.com/strizhechenko/…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 778091368321323000,
+      "quoted_status_id_str": "778091368321323008",
+      "quoted_status": {
+        "created_at": "Tue Sep 20 04:40:13 +0000 2016",
+        "id": 778091368321323000,
+        "id_str": "778091368321323008",
+        "text": "@backendsecret тексты! Тексты можно быстро проматывать, выискивая нужные моменты.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 778091175995662300,
+        "in_reply_to_status_id_str": "778091175995662336",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 1033011720,
+          "id_str": "1033011720"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:43:36 +0000 2016",
+      "id": 778092221711220700,
+      "id_str": "778092221711220737",
+      "text": "Абсолютно согласен. Можно ещё спать под подкаст :) https://t.co/ioTAHxzk4t",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ioTAHxzk4t",
+            "expanded_url": "https://twitter.com/mr_mig_by/status/778091517709778945",
+            "display_url": "twitter.com/mr_mig_by/stat…",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 778091517709779000,
+      "quoted_status_id_str": "778091517709778945",
+      "quoted_status": {
+        "created_at": "Tue Sep 20 04:40:48 +0000 2016",
+        "id": 778091517709779000,
+        "id_str": "778091517709778945",
+        "text": "@backendsecret а если учиться не осознанно, вне контекста и не применяя идеи на практике - то это большая инвестиция в будущее :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 778091175995662300,
+        "in_reply_to_status_id_str": "778091175995662336",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 170772902,
+          "id_str": "170772902"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:48:21 +0000 2016",
+      "id": 778093415984685000,
+      "id_str": "778093415984685056",
+      "text": "Если про аудио - то для меня хорошо работает в комьюте и в машине в долгих путешествиях. https://t.co/rqck8LUNen",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rqck8LUNen",
+            "expanded_url": "https://twitter.com/mr_mig_by/status/778092456529240066",
+            "display_url": "twitter.com/mr_mig_by/stat…",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 778092456529240000,
+      "quoted_status_id_str": "778092456529240066",
+      "quoted_status": {
+        "created_at": "Tue Sep 20 04:44:32 +0000 2016",
+        "id": 778092456529240000,
+        "id_str": "778092456529240066",
+        "text": "@backendsecret вот только зачем - абсолютно не понятно :)\nПроще вложить это время во что-то более \"прибыльное\". В хорошую книгу, например",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 778092221711220700,
+        "in_reply_to_status_id_str": "778092221711220737",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 170772902,
+          "id_str": "170772902"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:49:08 +0000 2016",
+      "id": 778093613381214200,
+      "id_str": "778093613381214209",
+      "text": "Когда нет возможности сразу практиковать, в тоже время можно использовать время полезно.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 778093415984685000,
+      "in_reply_to_status_id_str": "778093415984685056",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:50:02 +0000 2016",
+      "id": 778093840079130600,
+      "id_str": "778093840079130624",
+      "text": "Обычно это больше новостийные подкасты и интервью - не что то, что нужно вот прямо сразу практиковать.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 778093613381214200,
+      "in_reply_to_status_id_str": "778093613381214209",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:52:15 +0000 2016",
+      "id": 778094397451825200,
+      "id_str": "778094397451825152",
+      "text": "У меня с собой Киндл тоже :) но вот в машине, или на велосипеде не почитаешь :) в поезде - можно https://t.co/fDqgYyPiht",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fDqgYyPiht",
+            "expanded_url": "https://twitter.com/mr_mig_by/status/778093745564741632",
+            "display_url": "twitter.com/mr_mig_by/stat…",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 778093745564741600,
+      "quoted_status_id_str": "778093745564741632",
+      "quoted_status": {
+        "created_at": "Tue Sep 20 04:49:39 +0000 2016",
+        "id": 778093745564741600,
+        "id_str": "778093745564741632",
+        "text": "@backendsecret я диву в Берлине, у меня время в транспорте не пропадает :) книга всегда под рукой",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 778093613381214200,
+        "in_reply_to_status_id_str": "778093613381214209",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 170772902,
+          "id_str": "170772902"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 04:58:35 +0000 2016",
+      "id": 778095991442509800,
+      "id_str": "778095991442509824",
+      "text": "Кстати, как вы считаете, достаточен ли ваш уровень английского? Читаете новости и статьи в оригинале, или переводе? https://t.co/tmoBaEYWhQ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tmoBaEYWhQ",
+            "expanded_url": "https://twitter.com/mktoid/status/778094820543848449",
+            "display_url": "twitter.com/mktoid/status/…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 778094820543848400,
+      "quoted_status_id_str": "778094820543848449",
+      "quoted_status": {
+        "created_at": "Tue Sep 20 04:53:56 +0000 2016",
+        "id": 778094820543848400,
+        "id_str": "778094820543848449",
+        "text": "@mr_mig_by @backendsecret можно слушать подкаст на английском или ещё каком языке и верить что может хоть язык так учишь ))",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mr_mig_by",
+              "name": "Alexey Migutsky",
+              "id": 170772902,
+              "id_str": "170772902",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                11,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 778091517709779000,
+        "in_reply_to_status_id_str": "778091517709778945",
+        "in_reply_to_user_id": 170772902,
+        "in_reply_to_user_id_str": "170772902",
+        "in_reply_to_screen_name": "mr_mig_by",
+        "user": {
+          "id": 281644224,
+          "id_str": "281644224"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 05:00:37 +0000 2016",
+      "id": 778096502862471200,
+      "id_str": "778096502862471168",
+      "text": "По правде говоря, можно жить без машины. В крупных городах. Я, в принципе комьючу без машины - поезд плюс велосипед. https://t.co/CfDZaiySpM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CfDZaiySpM",
+            "expanded_url": "https://twitter.com/mr_mig_by/status/778094632265781250",
+            "display_url": "twitter.com/mr_mig_by/stat…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 778094632265781200,
+      "quoted_status_id_str": "778094632265781250",
+      "quoted_status": {
+        "created_at": "Tue Sep 20 04:53:11 +0000 2016",
+        "id": 778094632265781200,
+        "id_str": "778094632265781250",
+        "text": "@backendsecret в том и дело, что в стране, где сейчас 21:52, без машины никак.\nЯ оптимизировал своё время своей географией :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 778094397451825200,
+        "in_reply_to_status_id_str": "778094397451825152",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 170772902,
+          "id_str": "170772902"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 05:01:32 +0000 2016",
+      "id": 778096733876260900,
+      "id_str": "778096733876260864",
+      "text": "Но вот куда то выехать за пределы города - очень сложно без машины, да. Зато появляется время на подкасты!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 778096502862471200,
+      "in_reply_to_status_id_str": "778096502862471168",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 20 05:03:13 +0000 2016",
+      "id": 778097157412913200,
+      "id_str": "778097157412913157",
+      "text": "Без хорошей практики - очень сложно. Я для дополнительной практики хожу в колледж на ESL. https://t.co/OevtTjCvEY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OevtTjCvEY",
+            "expanded_url": "https://twitter.com/mr_mig_by/status/778096635368865792",
+            "display_url": "twitter.com/mr_mig_by/stat…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 778096635368865800,
+      "quoted_status_id_str": "778096635368865792",
+      "quoted_status": {
+        "created_at": "Tue Sep 20 05:01:08 +0000 2016",
+        "id": 778096635368865800,
+        "id_str": "778096635368865792",
+        "text": "@mktoid @backendsecret опять же проще читать книги.\nНо пока говорить не начнёшь - не учишь :/",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mktoid",
+              "name": "Oleg Cheremisin",
+              "id": 281644224,
+              "id_str": "281644224",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                8,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 778094820543848400,
+        "in_reply_to_status_id_str": "778094820543848449",
+        "in_reply_to_user_id": 281644224,
+        "in_reply_to_user_id_str": "281644224",
+        "in_reply_to_screen_name": "mktoid",
+        "user": {
+          "id": 170772902,
+          "id_str": "170772902"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
