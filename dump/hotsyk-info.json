@@ -47,51 +47,40 @@
     }
   },
   "protected": false,
-  "followers_count": 2644,
+  "followers_count": 2645,
   "friends_count": 0,
-  "listed_count": 183,
+  "listed_count": 182,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 2006,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15709,
+  "statuses_count": 15711,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Sep 23 06:16:52 +0000 2016",
-    "id": 779202857719377900,
-    "id_str": "779202857719377920",
-    "text": "RT @borovikov: @backendsecret докер же и так даёт атомарность, так что наверное этот nix уже не актуален.",
+    "created_at": "Fri Sep 23 15:54:16 +0000 2016",
+    "id": 779348164524384300,
+    "id_str": "779348164524384257",
+    "text": "Джанга одна, с 1.6 кажется, работает и на 2.7 и на 3+ https://t.co/H3oTYTDPWX",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "borovikov",
-          "name": "Děnis Borovikov",
-          "id": 14354160,
-          "id_str": "14354160",
+          "url": "https://t.co/H3oTYTDPWX",
+          "expanded_url": "https://twitter.com/way2bariton/status/779346227955634176",
+          "display_url": "twitter.com/way2bariton/st…",
           "indices": [
-            3,
-            13
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            15,
-            29
+            54,
+            77
           ]
         }
-      ],
-      "urls": []
+      ]
     },
-    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -101,51 +90,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Fri Sep 23 06:08:01 +0000 2016",
-      "id": 779200630774726700,
-      "id_str": "779200630774726656",
-      "text": "@backendsecret докер же и так даёт атомарность, так что наверное этот nix уже не актуален.",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              0,
-              14
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "in_reply_to_status_id": 779186860018970600,
-      "in_reply_to_status_id_str": "779186860018970624",
-      "in_reply_to_user_id": 3302551618,
-      "in_reply_to_user_id_str": "3302551618",
-      "in_reply_to_screen_name": "backendsecret",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
-    "retweet_count": 1,
+    "is_quote_status": true,
+    "quoted_status_id": 779346227955634200,
+    "quoted_status_id_str": "779346227955634176",
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
