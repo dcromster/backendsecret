@@ -56,26 +56,36 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15733,
+  "statuses_count": 15750,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Sep 24 06:25:13 +0000 2016",
-    "id": 779567346356674600,
-    "id_str": "779567346356674560",
-    "text": "RT @nimnull: @backendsecret @way2bariton есть ещё крутая штука как uwsgi vassal mode для этой цели (:",
+    "created_at": "Sun Sep 25 05:56:36 +0000 2016",
+    "id": 779922533634027500,
+    "id_str": "779922533634027520",
+    "text": "RT @ruxeg: @strizhechenko @backendsecret «психбольница в руках пациентов» очень ок для любого дева, особенно часть 2, главное выводы правил…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "nimnull",
-          "name": "Selec Tfrom",
-          "id": 14828217,
-          "id_str": "14828217",
+          "screen_name": "ruxeg",
+          "name": "ruX",
+          "id": 113131428,
+          "id_str": "113131428",
           "indices": [
             3,
-            11
+            9
+          ]
+        },
+        {
+          "screen_name": "strizhechenko",
+          "name": "*code && *acid",
+          "id": 1033011720,
+          "id_str": "1033011720",
+          "indices": [
+            11,
+            25
           ]
         },
         {
@@ -84,24 +94,14 @@
           "id": 3302551618,
           "id_str": "3302551618",
           "indices": [
-            13,
-            27
-          ]
-        },
-        {
-          "screen_name": "way2bariton",
-          "name": "Кирилл Озерецковский",
-          "id": 2749103136,
-          "id_str": "2749103136",
-          "indices": [
-            28,
+            26,
             40
           ]
         }
       ],
       "urls": []
     },
-    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -112,86 +112,74 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Sat Sep 24 06:12:47 +0000 2016",
-      "id": 779564215673708500,
-      "id_str": "779564215673708544",
-      "text": "@backendsecret @way2bariton есть ещё крутая штука как uwsgi vassal mode для этой цели (:",
+      "created_at": "Sun Sep 25 05:47:26 +0000 2016",
+      "id": 779920226725093400,
+      "id_str": "779920226725093377",
+      "text": "@strizhechenko @backendsecret «психбольница в руках пациентов» очень ок для любого дева, особенно часть 2, главное выводы правильные вынести",
       "truncated": false,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
+            "screen_name": "strizhechenko",
+            "name": "*code && *acid",
+            "id": 1033011720,
+            "id_str": "1033011720",
             "indices": [
               0,
               14
             ]
           },
           {
-            "screen_name": "way2bariton",
-            "name": "Кирилл Озерецковский",
-            "id": 2749103136,
-            "id_str": "2749103136",
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
             "indices": [
               15,
-              27
+              29
             ]
           }
         ],
         "urls": []
       },
-      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-      "in_reply_to_status_id": 779350048614260700,
-      "in_reply_to_status_id_str": "779350048614260737",
-      "in_reply_to_user_id": 3302551618,
-      "in_reply_to_user_id_str": "3302551618",
-      "in_reply_to_screen_name": "backendsecret",
-      "geo": {
-        "type": "Point",
-        "coordinates": [
-          50.40033226,
-          30.5186155
-        ]
-      },
-      "coordinates": {
-        "type": "Point",
-        "coordinates": [
-          30.5186155,
-          50.40033226
-        ]
-      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 779906563272216600,
+      "in_reply_to_status_id_str": "779906563272216576",
+      "in_reply_to_user_id": 1033011720,
+      "in_reply_to_user_id_str": "1033011720",
+      "in_reply_to_screen_name": "strizhechenko",
+      "geo": null,
+      "coordinates": null,
       "place": {
-        "id": "084d0d0155787e9d",
-        "url": "https://api.twitter.com/1.1/geo/id/084d0d0155787e9d.json",
-        "place_type": "country",
-        "name": "Украина",
-        "full_name": "Украина",
-        "country_code": "UA",
-        "country": "Украина",
+        "id": "06b9691f34c91d1c",
+        "url": "https://api.twitter.com/1.1/geo/id/06b9691f34c91d1c.json",
+        "place_type": "city",
+        "name": "Tottenham",
+        "full_name": "Tottenham, London",
+        "country_code": "GB",
+        "country": "United Kingdom",
         "contained_within": [],
         "bounding_box": {
           "type": "Polygon",
           "coordinates": [
             [
               [
-                22.1357201,
-                44.386383
+                -0.170246,
+                51.564585
               ],
               [
-                40.227172,
-                44.386383
+                -0.034078,
+                51.564585
               ],
               [
-                40.227172,
-                52.379475
+                -0.034078,
+                51.6112184
               ],
               [
-                22.1357201,
-                52.379475
+                -0.170246,
+                51.6112184
               ]
             ]
           ]
