@@ -56,45 +56,56 @@
     }
   },
   "protected": false,
-  "followers_count": 2657,
+  "followers_count": 2658,
   "friends_count": 0,
-  "listed_count": 183,
+  "listed_count": 184,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 2009,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15773,
+  "statuses_count": 15793,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Sep 26 08:33:29 +0000 2016",
-    "id": 780324400700817400,
-    "id_str": "780324400700817408",
-    "text": "https://t.co/EZfaK4ts44 – это мобильная рекламная сеть, в основном мы позиционируемся на native advertising и видео (скоро!)",
+    "created_at": "Mon Sep 26 10:13:47 +0000 2016",
+    "id": 780349642806558700,
+    "id_str": "780349642806558720",
+    "text": "@xo8bit @eXtractor это позволило очень быстро начать использовать хорошие jvm библиотеки: netty-based http сервер, cqengine etc",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/EZfaK4ts44",
-          "expanded_url": "http://hyperadx.com",
-          "display_url": "hyperadx.com",
+          "screen_name": "xo8bit",
+          "name": "Nazar Sheremet",
+          "id": 4052890395,
+          "id_str": "4052890395",
           "indices": [
             0,
-            23
+            7
+          ]
+        },
+        {
+          "screen_name": "eXtractor",
+          "name": "Не прислоняться",
+          "id": 7450122,
+          "id_str": "7450122",
+          "indices": [
+            8,
+            18
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 780347816837275600,
+    "in_reply_to_status_id_str": "780347816837275648",
+    "in_reply_to_user_id": 4052890395,
+    "in_reply_to_user_id_str": "4052890395",
+    "in_reply_to_screen_name": "xo8bit",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -104,7 +115,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
