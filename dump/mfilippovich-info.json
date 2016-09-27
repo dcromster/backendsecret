@@ -65,13 +65,13 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15828,
+  "statuses_count": 15837,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Sep 27 07:32:30 +0000 2016",
-    "id": 780671439523512300,
-    "id_str": "780671439523512320",
-    "text": "У нас только immutable данные – мы статистику не изменяем, только добавляем новые данные https://t.co/iChBitKLuI",
+    "created_at": "Tue Sep 27 09:10:33 +0000 2016",
+    "id": 780696116295852000,
+    "id_str": "780696116295852032",
+    "text": "Вы не наталкивались на залипания докера – https://t.co/Z0bi3H72y2 https://t.co/FEur6e5INZ",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -79,12 +79,21 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/iChBitKLuI",
-          "expanded_url": "https://twitter.com/artsabirov/status/780496145109909510",
-          "display_url": "twitter.com/artsabirov/sta…",
+          "url": "https://t.co/Z0bi3H72y2",
+          "expanded_url": "https://github.com/docker/docker/issues/24446",
+          "display_url": "github.com/docker/docker/…",
           "indices": [
-            89,
-            112
+            42,
+            65
+          ]
+        },
+        {
+          "url": "https://t.co/FEur6e5INZ",
+          "expanded_url": "https://twitter.com/ctrlok/status/780695086908727297",
+          "display_url": "twitter.com/ctrlok/status/…",
+          "indices": [
+            66,
+            89
           ]
         }
       ]
@@ -100,8 +109,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 780496145109909500,
-    "quoted_status_id_str": "780496145109909510",
+    "quoted_status_id": 780695086908727300,
+    "quoted_status_id_str": "780695086908727297",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
