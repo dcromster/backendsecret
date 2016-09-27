@@ -3867,6 +3867,278 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 27 10:07:13 +0000 2016",
+      "id": 780710377294327800,
+      "id_str": "780710377294327808",
+      "text": "@dmitry_kalachov @backendsecret 1/2 Нет нормальной дистриьюции между AZ -- она работает только когда деплоишь, но не при изменении стэка.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dmitry_kalachov",
+            "name": "Dmitry K",
+            "id": 90144086,
+            "id_str": "90144086",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 780708124948893700,
+      "in_reply_to_status_id_str": "780708124948893696",
+      "in_reply_to_user_id": 90144086,
+      "in_reply_to_user_id_str": "90144086",
+      "in_reply_to_screen_name": "dmitry_kalachov",
+      "user": {
+        "id": 128670260,
+        "id_str": "128670260"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 27 10:09:34 +0000 2016",
+      "id": 780710968682741800,
+      "id_str": "780710968682741760",
+      "text": "@dmitry_kalachov @backendsecret Когда выключаешь агент, ecs это видит, но не делает ребалансинг. Нет API для проверки exit-codов контейнеров",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dmitry_kalachov",
+            "name": "Dmitry K",
+            "id": 90144086,
+            "id_str": "90144086",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 780710377294327800,
+      "in_reply_to_status_id_str": "780710377294327808",
+      "in_reply_to_user_id": 128670260,
+      "in_reply_to_user_id_str": "128670260",
+      "in_reply_to_screen_name": "Dgtl_philosophy",
+      "user": {
+        "id": 128670260,
+        "id_str": "128670260"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 27 10:58:59 +0000 2016",
+      "id": 780723403078639600,
+      "id_str": "780723403078639616",
+      "text": "@alexanius Добрый день, Алексей! Приглашаю Вас стать ведущим @backendsecret",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alexanius",
+            "name": "Алексей Маркин",
+            "id": 71539732,
+            "id_str": "71539732",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              61,
+              75
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 71539732,
+      "in_reply_to_user_id_str": "71539732",
+      "in_reply_to_screen_name": "alexanius",
+      "user": {
+        "id": 81103006,
+        "id_str": "81103006"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 27 12:43:59 +0000 2016",
+      "id": 780749829693640700,
+      "id_str": "780749829693640704",
+      "text": "@backendsecret он поддерживает несколько провайдеров. С ECS о опыта почти не было, так что тяжело сравнить. Но в DC… https://t.co/14hpQjf29Z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/14hpQjf29Z",
+            "expanded_url": "https://twitter.com/i/web/status/780749829693640704",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 780748718618411000,
+      "in_reply_to_status_id_str": "780748718618411008",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 80677365,
+        "id_str": "80677365"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 27 12:54:16 +0000 2016",
+      "id": 780752417906430000,
+      "id_str": "780752417906429952",
+      "text": "@backendsecret у нас свое решение https://t.co/2pvIWJcuUm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2pvIWJcuUm",
+            "expanded_url": "https://stups.io",
+            "display_url": "stups.io",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 780670398086189000,
+      "in_reply_to_status_id_str": "780670398086189056",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 92554921,
+        "id_str": "92554921"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
