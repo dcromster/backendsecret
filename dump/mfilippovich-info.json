@@ -65,45 +65,54 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15858,
+  "statuses_count": 15862,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Sep 30 14:15:42 +0000 2016",
-    "id": 781860071890423800,
-    "id_str": "781860071890423808",
-    "text": "Вот и порешили :) https://t.co/ykUZcx9vPH",
+    "created_at": "Sat Oct 01 10:09:37 +0000 2016",
+    "id": 782160531595616300,
+    "id_str": "782160531595616256",
+    "text": "@backendsecret И лидер у clojure очень интересный https://t.co/qO9GLU6TVU",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/ykUZcx9vPH",
-          "expanded_url": "https://twitter.com/Shiroginne/status/781781157713149953",
-          "display_url": "twitter.com/Shiroginne/sta…",
+          "url": "https://t.co/qO9GLU6TVU",
+          "expanded_url": "https://www.youtube.com/results?search_query=rich+hickey",
+          "display_url": "youtube.com/results?search…",
           "indices": [
-            18,
-            41
+            50,
+            73
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 782159364689911800,
+    "in_reply_to_status_id_str": "782159364689911809",
+    "in_reply_to_user_id": 3302551618,
+    "in_reply_to_user_id_str": "3302551618",
+    "in_reply_to_screen_name": "backendsecret",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 781781157713150000,
-    "quoted_status_id_str": "781781157713149953",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
