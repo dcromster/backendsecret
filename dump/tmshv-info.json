@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2655,
+  "followers_count": 2657,
   "friends_count": 0,
   "listed_count": 182,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,26 +46,57 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15895,
+  "statuses_count": 15900,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Oct 05 07:18:52 +0000 2016",
-    "id": 783567112002568200,
-    "id_str": "783567112002568192",
-    "text": "Пляжный опрос: вы удаленно работаете?",
+    "created_at": "Wed Oct 05 18:07:22 +0000 2016",
+    "id": 783730313587482600,
+    "id_str": "783730313587482624",
+    "text": "@ipronix @mkuleshov @dcromster, только заметил, что пропало слово тестирование. Наверное, не умещалось в 140 символов, и я его удалил.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "ipronix",
+          "name": "pronix",
+          "id": 113404896,
+          "id_str": "113404896",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "mkuleshov",
+          "name": "Mikhail Kuleshov",
+          "id": 80677365,
+          "id_str": "80677365",
+          "indices": [
+            9,
+            19
+          ]
+        },
+        {
+          "screen_name": "dcromster",
+          "name": "Roman Milovskiy",
+          "id": 81103006,
+          "id_str": "81103006",
+          "indices": [
+            20,
+            30
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 782931296825770000,
+    "in_reply_to_status_id_str": "782931296825769984",
+    "in_reply_to_user_id": 3302551618,
+    "in_reply_to_user_id_str": "3302551618",
+    "in_reply_to_screen_name": "backendsecret",
     "geo": null,
     "coordinates": null,
     "place": null,
