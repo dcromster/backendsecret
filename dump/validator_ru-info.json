@@ -30,24 +30,34 @@
   "friends_count": 0,
   "listed_count": 183,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2030,
+  "favourites_count": 2031,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16000,
+  "statuses_count": 16030,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 11 06:28:52 +0000 2016",
-    "id": 785728857034850300,
-    "id_str": "785728857034850304",
-    "text": "В общем тот факт, что на своём «облачном» сервисе они перешли на node.js, многое говорит о том как тяжко им было со своим же кодом.",
+    "created_at": "Tue Oct 11 10:49:49 +0000 2016",
+    "id": 785794529051959300,
+    "id_str": "785794529051959296",
+    "text": "Спасибо! https://t.co/otvpff1uCE",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/otvpff1uCE",
+          "expanded_url": "https://twitter.com/kalabro/status/785793437878456320",
+          "display_url": "twitter.com/kalabro/status…",
+          "indices": [
+            9,
+            32
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
@@ -59,11 +69,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 785793437878456300,
+    "quoted_status_id_str": "785793437878456320",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
