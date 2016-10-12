@@ -26,35 +26,56 @@
     }
   },
   "protected": false,
-  "followers_count": 2641,
+  "followers_count": 2637,
   "friends_count": 0,
   "listed_count": 183,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2031,
+  "favourites_count": 2038,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16030,
+  "statuses_count": 16058,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 11 10:49:49 +0000 2016",
-    "id": 785794529051959300,
-    "id_str": "785794529051959296",
-    "text": "Спасибо! https://t.co/otvpff1uCE",
+    "created_at": "Tue Oct 11 20:15:45 +0000 2016",
+    "id": 785936949534228500,
+    "id_str": "785936949534228480",
+    "text": "RT @sfilatov: @backendsecret https://t.co/JQb2Invfzb core, play, rails",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "sfilatov",
+          "name": "sfilatov",
+          "id": 18359020,
+          "id_str": "18359020",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            14,
+            28
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/otvpff1uCE",
-          "expanded_url": "https://twitter.com/kalabro/status/785793437878456320",
-          "display_url": "twitter.com/kalabro/status…",
+          "url": "https://t.co/JQb2Invfzb",
+          "expanded_url": "http://asp.net",
+          "display_url": "asp.net",
           "indices": [
-            9,
-            32
+            29,
+            52
           ]
         }
       ]
@@ -69,15 +90,64 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 785793437878456300,
-    "quoted_status_id_str": "785793437878456320",
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue Oct 11 18:42:33 +0000 2016",
+      "id": 785913496437420000,
+      "id_str": "785913496437420032",
+      "text": "@backendsecret https://t.co/JQb2Invfzb core, play, rails",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JQb2Invfzb",
+            "expanded_url": "http://asp.net",
+            "display_url": "asp.net",
+            "indices": [
+              15,
+              38
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 785886354760691700,
+      "in_reply_to_status_id_str": "785886354760691712",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
