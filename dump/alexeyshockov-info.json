@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2626,
+  "followers_count": 2628,
   "friends_count": 0,
   "listed_count": 188,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,33 +46,44 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16366,
+  "statuses_count": 16375,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 18 05:38:40 +0000 2016",
-    "id": 788252941559955500,
-    "id_str": "788252941559955457",
-    "text": "Привет! Эту неделю с вами разработчик из Берлина, и мы поговорим о PHP, devops, базах данных и других смежных вещах :)",
+    "created_at": "Thu Oct 20 19:55:24 +0000 2016",
+    "id": 789193318693384200,
+    "id_str": "789193318693384193",
+    "text": "@quit_ka, в нём хотя бы звонки бесплатные и работают :) Даром, что чат сам по себе убогий и интеграций нет. Хотя API для ботов сделали.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "quit_ka",
+          "name": "Tetiana Kh",
+          "id": 392751093,
+          "id_str": "392751093",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 789171582174322700,
+    "in_reply_to_status_id_str": "789171582174322689",
+    "in_reply_to_user_id": 392751093,
+    "in_reply_to_user_id_str": "392751093",
+    "in_reply_to_screen_name": "quit_ka",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 6,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
