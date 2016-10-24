@@ -46,19 +46,29 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16476,
+  "statuses_count": 16500,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 24 12:20:43 +0000 2016",
-    "id": 790528444459257900,
-    "id_str": "790528444459257856",
-    "text": "Зарплаты у нас вполне конкурентные (сопоставимы с моими одногрупниками из других фирм). Достаточные чтобы не сбежать сразу.",
+    "created_at": "Mon Oct 24 14:01:41 +0000 2016",
+    "id": 790553854744072200,
+    "id_str": "790553854744072196",
+    "text": "Несколько нужно чтобы подгружать сразу несколько ветвлений. Именно 3 - просто аппаратное решение\nhttps://t.co/sJlmAGJqKk",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/sJlmAGJqKk",
+          "expanded_url": "https://twitter.com/Onotoly/status/790545132655353858",
+          "display_url": "twitter.com/Onotoly/status…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 790545132655353900,
+    "quoted_status_id_str": "790545132655353858",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
