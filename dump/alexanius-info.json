@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2630,
+  "followers_count": 2632,
   "friends_count": 0,
   "listed_count": 188,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,21 +46,42 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16563,
+  "statuses_count": 16657,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 25 09:28:29 +0000 2016",
-    "id": 790847488626462700,
-    "id_str": "790847488626462720",
-    "text": "В начале своей работы я как-то хотел взять одну оптимизацию из gcc, но быстро понял что это просто технически не получится",
+    "created_at": "Tue Oct 25 14:10:35 +0000 2016",
+    "id": 790918483953549300,
+    "id_str": "790918483953549312",
+    "text": "RT @poebist: @backendsecret всё правильно",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "poebist",
+          "name": "₮ЯĢΞṦ₮Ь ɃЫ₮¥Я",
+          "id": 225615222,
+          "id_str": "225615222",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            13,
+            27
+          ]
+        }
+      ],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -70,11 +91,51 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Oct 25 14:06:40 +0000 2016",
+      "id": 790917496119365600,
+      "id_str": "790917496119365632",
+      "text": "@backendsecret всё правильно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 790914001727262700,
+      "in_reply_to_status_id_str": "790914001727262721",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
