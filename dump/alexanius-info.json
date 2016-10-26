@@ -46,21 +46,31 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16731,
+  "statuses_count": 16741,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Oct 26 09:30:51 +0000 2016",
-    "id": 791210472611672000,
-    "id_str": "791210472611672064",
-    "text": "Чятик, а вы используете оптимизации компилятора? Проверяете что после оптимизации программа работает корректно?",
+    "created_at": "Wed Oct 26 11:52:05 +0000 2016",
+    "id": 791246018042007600,
+    "id_str": "791246018042007552",
+    "text": "Удалённый рабочий стол через vpn и etoken.Но в целом такое не особо приветствуется. Часто приходится устно обсуждать\nhttps://t.co/loXYQnjuZZ",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/loXYQnjuZZ",
+          "expanded_url": "https://twitter.com/Alvcohen/status/791245171027505152",
+          "display_url": "twitter.com/Alvcohen/statu…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 791245171027505200,
+    "quoted_status_id_str": "791245171027505152",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
