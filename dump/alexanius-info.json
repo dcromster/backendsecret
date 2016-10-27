@@ -37,28 +37,38 @@
     }
   },
   "protected": false,
-  "followers_count": 2625,
+  "followers_count": 2624,
   "friends_count": 0,
-  "listed_count": 188,
+  "listed_count": 187,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 2105,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16773,
+  "statuses_count": 16778,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Oct 26 13:54:41 +0000 2016",
-    "id": 791276868796293100,
-    "id_str": "791276868796293124",
-    "text": "Эти тесты одни из наиболее репрезентативных, хотя, я бы сказал, немного устарели. К ним вообще много претензий, но лучше ничего нет",
+    "created_at": "Wed Oct 26 21:31:06 +0000 2016",
+    "id": 791391731866624000,
+    "id_str": "791391731866624000",
+    "text": "Неее, у нас все белые и пушистые )) Регламент - не знаю. Он также стар как и компилятор :) Больше 20 лет минимум\nhttps://t.co/QdbqoIoLTG",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/QdbqoIoLTG",
+          "expanded_url": "https://twitter.com/ilnurkhalilov/status/791390989118300160",
+          "display_url": "twitter.com/ilnurkhalilov/…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 791390989118300200,
+    "quoted_status_id_str": "791390989118300160",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
