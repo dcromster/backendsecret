@@ -41,24 +41,34 @@
   "friends_count": 0,
   "listed_count": 186,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2102,
+  "favourites_count": 2106,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16958,
+  "statuses_count": 16973,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 03 07:33:54 +0000 2016",
-    "id": 794080144226979800,
-    "id_str": "794080144226979840",
-    "text": "Кто-то спросит \"Зачем все это?Почему не использовать чистую Symfony?\" Drupal - это CMF, где главное в данном вопросе - Content Managengement",
+    "created_at": "Thu Nov 03 11:31:13 +0000 2016",
+    "id": 794139867483611100,
+    "id_str": "794139867483611136",
+    "text": "Вот это годно. Спасибо! https://t.co/DMldGY3jmO",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/DMldGY3jmO",
+          "expanded_url": "https://twitter.com/arseny_vasilev/status/794138262394830848",
+          "display_url": "twitter.com/arseny_vasilev…",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 794138262394830800,
+    "quoted_status_id_str": "794138262394830848",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
