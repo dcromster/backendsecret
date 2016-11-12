@@ -4,18 +4,7 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Санкт-Петербург, Россия",
-  "profile_location": {
-    "id": "a76c0cd7d56c4836",
-    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-    "place_type": "unknown",
-    "name": "Санкт-Петербург, Россия",
-    "full_name": "Санкт-Петербург, Россия",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "На этой неделе с вами @EugeneGrachev Python Developer",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -37,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2663,
+  "followers_count": 2673,
   "friends_count": 0,
   "listed_count": 191,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,29 +35,40 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17117,
+  "statuses_count": 17128,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 10 19:05:41 +0000 2016",
-    "id": 796790951616331800,
-    "id_str": "796790951616331776",
-    "text": "Он норм, но вроде у себя не поставить его https://t.co/VYHDTkLa1d",
+    "created_at": "Sat Nov 12 00:17:12 +0000 2016",
+    "id": 797231738070114300,
+    "id_str": "797231738070114304",
+    "text": "RT @komzpa: @backendsecret да ладно, rm -rf /* работает :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/VYHDTkLa1d",
-          "expanded_url": "https://twitter.com/foozzi/status/796742592264339456",
-          "display_url": "twitter.com/foozzi/status/…",
+          "screen_name": "komzpa",
+          "name": "Komяpa",
+          "id": 20379464,
+          "id_str": "20379464",
           "indices": [
-            42,
-            65
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            12,
+            26
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +80,51 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 796742592264339500,
-    "quoted_status_id_str": "796742592264339456",
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Fri Nov 11 23:58:55 +0000 2016",
+      "id": 797227134892867600,
+      "id_str": "797227134892867584",
+      "text": "@backendsecret да ладно, rm -rf /* работает :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 797106870989291500,
+      "in_reply_to_status_id_str": "797106870989291520",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
