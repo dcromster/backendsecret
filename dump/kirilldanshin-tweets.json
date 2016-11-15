@@ -16469,6 +16469,571 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 15 08:36:49 +0000 2016",
+      "id": 798444632380153900,
+      "id_str": "798444632380153856",
+      "text": "https://t.co/mrqatxCEqU https://t.co/vgy018fJDV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mrqatxCEqU",
+            "expanded_url": "https://github.com/devTransition/job-go-fcgi-proxy/pull/1",
+            "display_url": "github.com/devTransition/…",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "url": "https://t.co/vgy018fJDV",
+            "expanded_url": "https://twitter.com/akmeful/status/798440917896167424",
+            "display_url": "twitter.com/akmeful/status…",
+            "indices": [
+              24,
+              47
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 798440917896167400,
+      "quoted_status_id_str": "798440917896167424",
+      "quoted_status": {
+        "created_at": "Tue Nov 15 08:22:03 +0000 2016",
+        "id": 798440917896167400,
+        "id_str": "798440917896167424",
+        "text": "@backendsecret  ты написал про отступы (нужно 2), у меня все пропущено через gofmt, что я делаю не так?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 798435370690023400,
+        "in_reply_to_status_id_str": "798435370690023424",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 228462050,
+          "id_str": "228462050"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Nov 15 08:53:09 +0000 2016",
+      "id": 798448741699256300,
+      "id_str": "798448741699256320",
+      "text": "в объявлении функции указываешь названия переменных, которые будут возвращены. они вернутся по пустому return… https://t.co/HcXZ3ZIuHN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HcXZ3ZIuHN",
+            "expanded_url": "https://twitter.com/i/web/status/798448741699256320",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 798447301303947300,
+      "quoted_status_id_str": "798447301303947264",
+      "quoted_status": {
+        "created_at": "Tue Nov 15 08:47:25 +0000 2016",
+        "id": 798447301303947300,
+        "id_str": "798447301303947264",
+        "text": "@backendsecret @akmeful @github что такое naked return?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "akmeful",
+              "name": "Valiantsin Luchko",
+              "id": 228462050,
+              "id_str": "228462050",
+              "indices": [
+                15,
+                23
+              ]
+            },
+            {
+              "screen_name": "github",
+              "name": "GitHub",
+              "id": 13334762,
+              "id_str": "13334762",
+              "indices": [
+                24,
+                31
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 798431214713663500,
+        "in_reply_to_status_id_str": "798431214713663488",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 105991888,
+          "id_str": "105991888"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 15 08:53:43 +0000 2016",
+      "id": 798448883852578800,
+      "id_str": "798448883852578816",
+      "text": "чтобы запросы никогда не потерять https://t.co/Pf8msBbWZ4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Pf8msBbWZ4",
+            "expanded_url": "https://twitter.com/ruxeg/status/798447764602556416",
+            "display_url": "twitter.com/ruxeg/status/7…",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 798447764602556400,
+      "quoted_status_id_str": "798447764602556416",
+      "quoted_status": {
+        "created_at": "Tue Nov 15 08:49:16 +0000 2016",
+        "id": 798447764602556400,
+        "id_str": "798447764602556416",
+        "text": "@backendsecret @Shoonoise почему так все сложно?...",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "Shoonoise",
+              "name": "свинцовый сахар",
+              "id": 20670772,
+              "id_str": "20670772",
+              "indices": [
+                15,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 798412449665974300,
+        "in_reply_to_status_id_str": "798412449665974272",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 113131428,
+          "id_str": "113131428"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "5de8cffc145c486b",
+          "url": "https://api.twitter.com/1.1/geo/id/5de8cffc145c486b.json",
+          "place_type": "city",
+          "name": "Camden Town",
+          "full_name": "Camden Town, London",
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -0.213503,
+                  51.512805
+                ],
+                [
+                  -0.105303,
+                  51.512805
+                ],
+                [
+                  -0.105303,
+                  51.572068
+                ],
+                [
+                  -0.213503,
+                  51.572068
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 15 09:06:26 +0000 2016",
+      "id": 798452085285068800,
+      "id_str": "798452085285068800",
+      "text": "да где ж он ручной? руками нужно только бинарь новый запустить, дальше - магия ;-) https://t.co/65PWw1adH7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/65PWw1adH7",
+            "expanded_url": "https://twitter.com/ruxeg/status/798449955824435200",
+            "display_url": "twitter.com/ruxeg/status/7…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 798449955824435200,
+      "quoted_status_id_str": "798449955824435200",
+      "quoted_status": {
+        "created_at": "Tue Nov 15 08:57:58 +0000 2016",
+        "id": 798449955824435200,
+        "id_str": "798449955824435200",
+        "text": "@backendsecret @Shoonoise я не про балансировщик а про ручной рестарт",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "Shoonoise",
+              "name": "свинцовый сахар",
+              "id": 20670772,
+              "id_str": "20670772",
+              "indices": [
+                15,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 798448883852578800,
+        "in_reply_to_status_id_str": "798448883852578816",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 113131428,
+          "id_str": "113131428"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "5de8cffc145c486b",
+          "url": "https://api.twitter.com/1.1/geo/id/5de8cffc145c486b.json",
+          "place_type": "city",
+          "name": "Camden Town",
+          "full_name": "Camden Town, London",
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -0.213503,
+                  51.512805
+                ],
+                [
+                  -0.105303,
+                  51.512805
+                ],
+                [
+                  -0.105303,
+                  51.572068
+                ],
+                [
+                  -0.213503,
+                  51.572068
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 15 09:07:07 +0000 2016",
+      "id": 798452259243823100,
+      "id_str": "798452259243823104",
+      "text": "только пока функция на экран помещается https://t.co/4501aS8JNt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4501aS8JNt",
+            "expanded_url": "https://twitter.com/achkasov/status/798451730635702272",
+            "display_url": "twitter.com/achkasov/statu…",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 798451730635702300,
+      "quoted_status_id_str": "798451730635702272",
+      "quoted_status": {
+        "created_at": "Tue Nov 15 09:05:01 +0000 2016",
+        "id": 798451730635702300,
+        "id_str": "798451730635702272",
+        "text": "@backendsecret ух ты какой интересный синтаксический сахар",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 798448741699256300,
+        "in_reply_to_status_id_str": "798448741699256320",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 105991888,
+          "id_str": "105991888"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
