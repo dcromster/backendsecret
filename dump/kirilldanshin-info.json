@@ -4,7 +4,18 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Беларусь",
-  "profile_location": null,
+  "profile_location": {
+    "id": "333a5811d6b0c1cb",
+    "url": "https://api.twitter.com/1.1/geo/id/333a5811d6b0c1cb.json",
+    "place_type": "unknown",
+    "name": "Беларусь",
+    "full_name": "Беларусь",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "На этой неделе с вами @kirilldanshin CTO/Go Developer",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -35,13 +46,13 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17301,
+  "statuses_count": 17318,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Nov 15 09:07:07 +0000 2016",
-    "id": 798452259243823100,
-    "id_str": "798452259243823104",
-    "text": "только пока функция на экран помещается https://t.co/4501aS8JNt",
+    "created_at": "Tue Nov 15 10:19:08 +0000 2016",
+    "id": 798470382462337000,
+    "id_str": "798470382462337024",
+    "text": "или техдиром https://t.co/09Wc1r0UCk",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -49,12 +60,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/4501aS8JNt",
-          "expanded_url": "https://twitter.com/achkasov/status/798451730635702272",
-          "display_url": "twitter.com/achkasov/statu…",
+          "url": "https://t.co/09Wc1r0UCk",
+          "expanded_url": "https://twitter.com/akmeful/status/798468224279052288",
+          "display_url": "twitter.com/akmeful/status…",
           "indices": [
-            40,
-            63
+            13,
+            36
           ]
         }
       ]
@@ -70,8 +81,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 798451730635702300,
-    "quoted_status_id_str": "798451730635702272",
+    "quoted_status_id": 798468224279052300,
+    "quoted_status_id_str": "798468224279052288",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
