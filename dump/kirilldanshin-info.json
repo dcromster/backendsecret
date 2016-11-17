@@ -4,7 +4,18 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Беларусь",
-  "profile_location": null,
+  "profile_location": {
+    "id": "333a5811d6b0c1cb",
+    "url": "https://api.twitter.com/1.1/geo/id/333a5811d6b0c1cb.json",
+    "place_type": "unknown",
+    "name": "Беларусь",
+    "full_name": "Беларусь",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "На этой неделе с вами @kirilldanshin CTO/Go Developer",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -35,13 +46,13 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17342,
+  "statuses_count": 17343,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Nov 16 17:34:28 +0000 2016",
-    "id": 798942322675294200,
-    "id_str": "798942322675294209",
-    "text": "сработает, но стоит тебе вынести часть проекта в другой пакет... https://t.co/iqy1Ia6d3D",
+    "created_at": "Wed Nov 16 20:58:09 +0000 2016",
+    "id": 798993582967226400,
+    "id_str": "798993582967226368",
+    "text": "оно не тонет https://t.co/ZW4CgLr7zj",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -49,12 +60,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/iqy1Ia6d3D",
-          "expanded_url": "https://twitter.com/chubik/status/798936516118642689",
-          "display_url": "twitter.com/chubik/status/…",
+          "url": "https://t.co/ZW4CgLr7zj",
+          "expanded_url": "https://twitter.com/yellow_madops/status/798965924787322890",
+          "display_url": "twitter.com/yellow_madops/…",
           "indices": [
-            65,
-            88
+            13,
+            36
           ]
         }
       ]
@@ -70,10 +81,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 798936516118642700,
-    "quoted_status_id_str": "798936516118642689",
+    "quoted_status_id": 798965924787322900,
+    "quoted_status_id_str": "798965924787322890",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
