@@ -4,18 +4,7 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Беларусь",
-  "profile_location": {
-    "id": "333a5811d6b0c1cb",
-    "url": "https://api.twitter.com/1.1/geo/id/333a5811d6b0c1cb.json",
-    "place_type": "unknown",
-    "name": "Беларусь",
-    "full_name": "Беларусь",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "На этой неделе с вами @kirilldanshin CTO/Go Developer",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -46,29 +35,30 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17404,
+  "statuses_count": 17411,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Nov 20 15:47:31 +0000 2016",
-    "id": 800364961251946500,
-    "id_str": "800364961251946496",
-    "text": "много всего. для go список плагинов я выше писал. еще стоят для jsx, eslint, море сниппетов, подсветки для elixir,… https://t.co/8v3Bvgp1O4",
-    "truncated": true,
+    "created_at": "Sun Nov 20 21:01:06 +0000 2016",
+    "id": 800443877748445200,
+    "id_str": "800443877748445185",
+    "text": "неделя закончилась, было очень приятно с вами пообщаться :) пишите в твиттере или телеграме: @kirilldanshin. до свидания, друзья!",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/8v3Bvgp1O4",
-          "expanded_url": "https://twitter.com/i/web/status/800364961251946496",
-          "display_url": "twitter.com/i/web/status/8…",
+          "screen_name": "kirilldanshin",
+          "name": "Kirill Danshin",
+          "id": 798075009080107000,
+          "id_str": "798075009080107008",
           "indices": [
-            116,
-            139
+            93,
+            107
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +70,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 800331089982070800,
-    "quoted_status_id_str": "800331089982070784",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
