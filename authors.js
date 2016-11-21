@@ -1,6 +1,7 @@
 export default [
-  // { username: 'twitter_name', start: '15 feb 2016', first: '640816652293144576', post: false},
-  { username: 'kirilldanshin', start: '15 nov 2016', first: '798077586261811200'},
+  // { username: 'twitter_name', start: '15 nov 2016', first: '640816652293144576', post: false},
+  { username: 'PIlIGRIM', start: '21 nov 2016', first: '800616468945612800', post: false},
+  { username: 'kirilldanshin', start: '14 nov 2016', first: '798077586261811200'},
   { username: 'EugeneGrachev', start: '07 nov 2016', first: '795560372711329794'},
   { username: 'validoll', start: '31 oct 2016', first: '793023733288034304'},
   { username: 'alexanius', start: '24 oct 16', first: '790446024468926464'},
