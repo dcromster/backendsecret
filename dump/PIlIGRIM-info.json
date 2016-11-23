@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2822,
+  "followers_count": 2819,
   "friends_count": 0,
   "listed_count": 194,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,18 +35,49 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17466,
+  "statuses_count": 17497,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Nov 22 09:52:36 +0000 2016",
-    "id": 801000418339881000,
-    "id_str": "801000418339880960",
-    "text": "А что у вас с цветовыми схемами в ide/редакторе? Какие? Почему?",
+    "created_at": "Wed Nov 23 12:29:53 +0000 2016",
+    "id": 801402390071169000,
+    "id_str": "801402390071169025",
+    "text": "RT @BeiZero: @backendsecret на @coursera есть очень годная специализация по алгоритмам от ВШЭ, есть шикарная специализация по Scala",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "BeiZero",
+          "name": "Игорь Фёдоров",
+          "id": 1658183185,
+          "id_str": "1658183185",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            13,
+            27
+          ]
+        },
+        {
+          "screen_name": "coursera",
+          "name": "Coursera",
+          "id": 352053266,
+          "id_str": "352053266",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
@@ -59,11 +90,61 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 23 12:26:06 +0000 2016",
+      "id": 801401435292311600,
+      "id_str": "801401435292311553",
+      "text": "@backendsecret на @coursera есть очень годная специализация по алгоритмам от ВШЭ, есть шикарная специализация по Scala",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "coursera",
+            "name": "Coursera",
+            "id": 352053266,
+            "id_str": "352053266",
+            "indices": [
+              18,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 801400705789624300,
+      "in_reply_to_status_id_str": "801400705789624320",
+      "in_reply_to_user_id": 1658183185,
+      "in_reply_to_user_id_str": "1658183185",
+      "in_reply_to_screen_name": "BeiZero",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
