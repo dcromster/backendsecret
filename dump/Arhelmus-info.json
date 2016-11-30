@@ -30,40 +30,101 @@
   "friends_count": 0,
   "listed_count": 194,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2140,
+  "favourites_count": 2141,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17707,
+  "statuses_count": 17728,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Nov 30 13:28:04 +0000 2016",
-    "id": 803953744417263600,
-    "id_str": "803953744417263616",
-    "text": "У нас одно время был кластер монги, но это время было недолгим, ибо мастер нода отваливалась стабильно раз в неделю.",
+    "created_at": "Wed Nov 30 17:34:10 +0000 2016",
+    "id": 804015678776700900,
+    "id_str": "804015678776700928",
+    "text": "RT @den4ikbyte: @backendsecret есть ли те, кто хотя бы пробовал tarantool?)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "den4ikbyte",
+          "name": "Denis",
+          "id": 760028430247264300,
+          "id_str": "760028430247264256",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            16,
+            30
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 803953535905894400,
-    "in_reply_to_status_id_str": "803953535905894402",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 30 17:31:27 +0000 2016",
+      "id": 804014994371313700,
+      "id_str": "804014994371313666",
+      "text": "@backendsecret есть ли те, кто хотя бы пробовал tarantool?)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 803953535905894400,
+      "in_reply_to_status_id_str": "803953535905894402",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
     "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,

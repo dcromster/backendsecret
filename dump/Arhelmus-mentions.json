@@ -9208,6 +9208,852 @@
       "favorited": false,
       "retweeted": false,
       "lang": "bg"
+    },
+    {
+      "created_at": "Wed Nov 30 13:35:33 +0000 2016",
+      "id": 803955630792917000,
+      "id_str": "803955630792916992",
+      "text": "@backendsecret у нас монга, в проекте не из-за хайпа. Не очень то и счастливы, но без неё нам сложнее будет.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 803953535905894400,
+      "in_reply_to_status_id_str": "803953535905894402",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 327806301,
+        "id_str": "327806301"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 13:36:32 +0000 2016",
+      "id": 803955877816520700,
+      "id_str": "803955877816520705",
+      "text": "@backendsecret да-да, та самая в которой уберовские инженеры расписались в том, что использовали старую версию и не знают про HOT.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 803954896101933000,
+      "in_reply_to_status_id_str": "803954896101933057",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 563522162,
+        "id_str": "563522162"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "d07a55237d420b53",
+        "url": "https://api.twitter.com/1.1/geo/id/d07a55237d420b53.json",
+        "place_type": "city",
+        "name": "Калининград",
+        "full_name": "Калининград, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                20.2947513,
+                54.627806
+              ],
+              [
+                20.6492806,
+                54.627806
+              ],
+              [
+                20.6492806,
+                54.7804963
+              ],
+              [
+                20.2947513,
+                54.7804963
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 13:37:18 +0000 2016",
+      "id": 803956068397224000,
+      "id_str": "803956068397223936",
+      "text": "@backendsecret у нас очень много json данных с огромной вложенностью, django-rest-framework не умеет валидировать вложенные json's",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 803955751760855000,
+      "in_reply_to_status_id_str": "803955751760855040",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 327806301,
+        "id_str": "327806301"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 13:37:33 +0000 2016",
+      "id": 803956132410695700,
+      "id_str": "803956132410695680",
+      "text": "@backendsecret а django-rest-framework-mongoengine может и помогает нам в этом",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 803956068397224000,
+      "in_reply_to_status_id_str": "803956068397223936",
+      "in_reply_to_user_id": 327806301,
+      "in_reply_to_user_id_str": "327806301",
+      "in_reply_to_screen_name": "FlyDieFly",
+      "user": {
+        "id": 327806301,
+        "id_str": "327806301"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Nov 30 13:40:30 +0000 2016",
+      "id": 803956874487984100,
+      "id_str": "803956874487984130",
+      "text": "@backendsecret не знают про логическую репликацию, которая появилась начиная с 9.4. Единственное, с чем можно согласиться - это про индексы",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 803954896101933000,
+      "in_reply_to_status_id_str": "803954896101933057",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 563522162,
+        "id_str": "563522162"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "d07a55237d420b53",
+        "url": "https://api.twitter.com/1.1/geo/id/d07a55237d420b53.json",
+        "place_type": "city",
+        "name": "Калининград",
+        "full_name": "Калининград, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                20.2947513,
+                54.627806
+              ],
+              [
+                20.6492806,
+                54.627806
+              ],
+              [
+                20.6492806,
+                54.7804963
+              ],
+              [
+                20.2947513,
+                54.7804963
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 13:41:50 +0000 2016",
+      "id": 803957210250350600,
+      "id_str": "803957210250350593",
+      "text": "@backendsecret https://t.co/AM9OMEmF5P Вот здесь уже все рассказали товарищи поумнее меня.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AM9OMEmF5P",
+            "expanded_url": "http://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/",
+            "display_url": "blog.2ndquadrant.com/thoughts-on-ub…",
+            "indices": [
+              15,
+              38
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 803957016330989600,
+      "in_reply_to_status_id_str": "803957016330989569",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 563522162,
+        "id_str": "563522162"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "d07a55237d420b53",
+        "url": "https://api.twitter.com/1.1/geo/id/d07a55237d420b53.json",
+        "place_type": "city",
+        "name": "Калининград",
+        "full_name": "Калининград, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                20.2947513,
+                54.627806
+              ],
+              [
+                20.6492806,
+                54.627806
+              ],
+              [
+                20.6492806,
+                54.7804963
+              ],
+              [
+                20.2947513,
+                54.7804963
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 13:43:35 +0000 2016",
+      "id": 803957651126288400,
+      "id_str": "803957651126288384",
+      "text": "@backendsecret о, а уже появились БД с хорошо реализованным механизмом репликации?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 803954896101933000,
+      "in_reply_to_status_id_str": "803954896101933057",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 2774887892,
+        "id_str": "2774887892"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 13:51:37 +0000 2016",
+      "id": 803959672059416600,
+      "id_str": "803959672059416577",
+      "text": "@backendsecret кастую в тред @ptico, я помню был у тебя на докладе где ты очень хвалил redis, поделись опытом",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "ptico",
+            "name": "Andriy Savchenko",
+            "id": 16743832,
+            "id_str": "16743832",
+            "indices": [
+              29,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 803959020532957200,
+      "in_reply_to_status_id_str": "803959020532957184",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 13:52:44 +0000 2016",
+      "id": 803959955468513300,
+      "id_str": "803959955468513280",
+      "text": "@backendsecret сталкивался с попытками использовать репликацию данных OLTP-системы на MSSQL/Oracle для финучреждений и это было ужасно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 803958159001997300,
+      "in_reply_to_status_id_str": "803958159001997312",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 2774887892,
+        "id_str": "2774887892"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 13:55:37 +0000 2016",
+      "id": 803960680135217200,
+      "id_str": "803960680135217152",
+      "text": "@backendsecret ну Online Transaction Processing же, любой операционный день банка например )) https://t.co/rlK5xXjo4K",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rlK5xXjo4K",
+            "expanded_url": "https://ru.wikipedia.org/wiki/OLTP",
+            "display_url": "ru.wikipedia.org/wiki/OLTP",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 803960179956052000,
+      "in_reply_to_status_id_str": "803960179956051968",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 2774887892,
+        "id_str": "2774887892"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Nov 30 14:06:42 +0000 2016",
+      "id": 803963470664396800,
+      "id_str": "803963470664396801",
+      "text": "@backendsecret собственно всё есть в презенташке https://t.co/6pmjzqHOss (юзкейсы с 22го слайда)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6pmjzqHOss",
+            "expanded_url": "https://speakerdeck.com/ptico/the-big-the-small-and-the-redis",
+            "display_url": "speakerdeck.com/ptico/the-big-…",
+            "indices": [
+              49,
+              72
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 803959672059416600,
+      "in_reply_to_status_id_str": "803959672059416577",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 16743832,
+        "id_str": "16743832"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 14:07:59 +0000 2016",
+      "id": 803963792384266200,
+      "id_str": "803963792384266240",
+      "text": "@backendsecret а так особо делится нечем, оно работает, никаких хитростей особо нет, главное не воспринимать его как замену основной БД",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 803959672059416600,
+      "in_reply_to_status_id_str": "803959672059416577",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 16743832,
+        "id_str": "16743832"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 16:50:57 +0000 2016",
+      "id": 804004802808217600,
+      "id_str": "804004802808217601",
+      "text": "@backendsecret на проекте монга, полет нормальный",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 803953535905894400,
+      "in_reply_to_status_id_str": "803953535905894402",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 726460717,
+        "id_str": "726460717"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 17:08:06 +0000 2016",
+      "id": 804009118776311800,
+      "id_str": "804009118776311809",
+      "text": "@backendsecret На деле uber’у не нужна база аля postgres - им нужно примитивное хранилище с sql-интерфейсом которым mysql и является",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 803955464648192000,
+      "in_reply_to_status_id_str": "803955464648192000",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 9328232,
+        "id_str": "9328232"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 17:08:49 +0000 2016",
+      "id": 804009299597000700,
+      "id_str": "804009299597000706",
+      "text": "@backendsecret Храню в influx статистику. Брат жив.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 803959020532957200,
+      "in_reply_to_status_id_str": "803959020532957184",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 9328232,
+        "id_str": "9328232"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Wed Nov 30 17:31:27 +0000 2016",
+      "id": 804014994371313700,
+      "id_str": "804014994371313666",
+      "text": "@backendsecret есть ли те, кто хотя бы пробовал tarantool?)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 803953535905894400,
+      "in_reply_to_status_id_str": "803953535905894402",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 760028430247264300,
+        "id_str": "760028430247264256"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
     }
   ]
 }
