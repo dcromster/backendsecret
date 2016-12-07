@@ -35,35 +35,37 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17890,
+  "statuses_count": 17898,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Dec 07 04:48:05 +0000 2016",
-    "id": 806359604670189600,
-    "id_str": "806359604670189569",
-    "text": "Все правильно! В скале денег нет, деньги в Java  https://t.co/xhSdBwmJrq https://t.co/jxhBWf8RLN",
+    "created_at": "Wed Dec 07 13:22:21 +0000 2016",
+    "id": 806489022755389400,
+    "id_str": "806489022755389440",
+    "text": "А вот у котлина комьюнити норм, за исключение человека, ведущего @DailyKotlin. Тоже язва, чувствуются корни скалы https://t.co/1Z3YgsesVS",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "DailyKotlin",
+          "name": "The Daily Kotlin",
+          "id": 725095113572110300,
+          "id_str": "725095113572110337",
+          "indices": [
+            65,
+            77
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/xhSdBwmJrq",
-          "expanded_url": "http://razbor-poletov.com/2016/02/episode-104.html",
-          "display_url": "razbor-poletov.com/2016/02/episod…",
+          "url": "https://t.co/1Z3YgsesVS",
+          "expanded_url": "https://twitter.com/ruxeg/status/806488045298008064",
+          "display_url": "twitter.com/ruxeg/status/8…",
           "indices": [
-            49,
-            72
-          ]
-        },
-        {
-          "url": "https://t.co/jxhBWf8RLN",
-          "expanded_url": "https://twitter.com/daunnc/status/806359062904442881",
-          "display_url": "twitter.com/daunnc/status/…",
-          "indices": [
-            73,
-            96
+            114,
+            137
           ]
         }
       ]
@@ -79,10 +81,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 806359062904442900,
-    "quoted_status_id_str": "806359062904442881",
-    "retweet_count": 1,
-    "favorite_count": 2,
+    "quoted_status_id": 806488045298008000,
+    "quoted_status_id_str": "806488045298008064",
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
