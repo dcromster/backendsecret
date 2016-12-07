@@ -35,81 +35,46 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17925,
+  "statuses_count": 17926,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Dec 07 18:33:22 +0000 2016",
-    "id": 806567293065035800,
-    "id_str": "806567293065035777",
-    "text": "На сколько я знаю, thrift делает специальный json если для JavaScript-а генерируется https://t.co/6Vs4G793iN",
+    "created_at": "Wed Dec 07 19:37:14 +0000 2016",
+    "id": 806583366359322600,
+    "id_str": "806583366359322624",
+    "text": "POF, наш клиент :) отдельно отcoherence или с ним?  @Muhango",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/6Vs4G793iN",
-          "expanded_url": "https://twitter.com/den4ikbyte/status/806566931188908037",
-          "display_url": "twitter.com/den4ikbyte/sta…",
+          "screen_name": "Muhango",
+          "name": "Evgeni Latuhin",
+          "id": 62850722,
+          "id_str": "62850722",
           "indices": [
-            85,
-            108
+            52,
+            60
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 806576100382015500,
+    "in_reply_to_status_id_str": "806576100382015489",
+    "in_reply_to_user_id": 62850722,
+    "in_reply_to_user_id_str": "62850722",
+    "in_reply_to_screen_name": "Muhango",
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "b74cebcb62a1a686",
-      "url": "https://api.twitter.com/1.1/geo/id/b74cebcb62a1a686.json",
-      "place_type": "city",
-      "name": "Elizabeth",
-      "full_name": "Elizabeth, NJ",
-      "country_code": "US",
-      "country": "United States",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -74.254211,
-              40.634285
-            ],
-            [
-              -74.138838,
-              40.634285
-            ],
-            [
-              -74.138838,
-              40.690673
-            ],
-            [
-              -74.254211,
-              40.690673
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 806566931188908000,
-    "quoted_status_id_str": "806566931188908037",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
