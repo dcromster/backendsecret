@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2998,
+  "followers_count": 3011,
   "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,46 +35,81 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17926,
+  "statuses_count": 17942,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Dec 07 19:37:14 +0000 2016",
-    "id": 806583366359322600,
-    "id_str": "806583366359322624",
-    "text": "POF, наш клиент :) отдельно отcoherence или с ним?  @Muhango",
+    "created_at": "Thu Dec 08 01:04:51 +0000 2016",
+    "id": 806665811335270400,
+    "id_str": "806665811335270400",
+    "text": "Вот это называется schema evolution. Неужели никто не пробовал Apache avro для этого? https://t.co/yu3WvvZ8oJ",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "Muhango",
-          "name": "Evgeni Latuhin",
-          "id": 62850722,
-          "id_str": "62850722",
+          "url": "https://t.co/yu3WvvZ8oJ",
+          "expanded_url": "https://twitter.com/karbonio/status/806665523211681795",
+          "display_url": "twitter.com/karbonio/statu…",
           "indices": [
-            52,
-            60
+            86,
+            109
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-    "in_reply_to_status_id": 806576100382015500,
-    "in_reply_to_status_id_str": "806576100382015489",
-    "in_reply_to_user_id": 62850722,
-    "in_reply_to_user_id_str": "62850722",
-    "in_reply_to_screen_name": "Muhango",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": null,
+    "place": {
+      "id": "4fe40522fa2e032e",
+      "url": "https://api.twitter.com/1.1/geo/id/4fe40522fa2e032e.json",
+      "place_type": "neighborhood",
+      "name": "IAH Airport Area",
+      "full_name": "IAH Airport Area, Houston",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.380158,
+              29.9243099
+            ],
+            [
+              -95.2682934,
+              29.9243099
+            ],
+            [
+              -95.2682934,
+              30.0203277
+            ],
+            [
+              -95.380158,
+              30.0203277
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 806665523211681800,
+    "quoted_status_id_str": "806665523211681795",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
