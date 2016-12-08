@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3013,
+  "followers_count": 3015,
   "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,29 +35,40 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17942,
+  "statuses_count": 17947,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Dec 08 01:04:51 +0000 2016",
-    "id": 806665811335270400,
-    "id_str": "806665811335270400",
-    "text": "Вот это называется schema evolution. Неужели никто не пробовал Apache avro для этого? https://t.co/yu3WvvZ8oJ",
+    "created_at": "Thu Dec 08 15:29:05 +0000 2016",
+    "id": 806883302284099600,
+    "id_str": "806883302284099584",
+    "text": "RT @NaMi____NaMi: @backendsecret  pickle это в Python",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/yu3WvvZ8oJ",
-          "expanded_url": "https://twitter.com/karbonio/status/806665523211681795",
-          "display_url": "twitter.com/karbonio/statu…",
+          "screen_name": "NaMi____NaMi",
+          "name": "NME",
+          "id": 301046120,
+          "id_str": "301046120",
           "indices": [
-            86,
-            109
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            18,
+            32
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "in_reply_to_status_id": null,
@@ -67,50 +78,54 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "4fe40522fa2e032e",
-      "url": "https://api.twitter.com/1.1/geo/id/4fe40522fa2e032e.json",
-      "place_type": "neighborhood",
-      "name": "IAH Airport Area",
-      "full_name": "IAH Airport Area, Houston",
-      "country_code": "US",
-      "country": "United States",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -95.380158,
-              29.9243099
-            ],
-            [
-              -95.2682934,
-              29.9243099
-            ],
-            [
-              -95.2682934,
-              30.0203277
-            ],
-            [
-              -95.380158,
-              30.0203277
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 806665523211681800,
-    "quoted_status_id_str": "806665523211681795",
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweeted_status": {
+      "created_at": "Thu Dec 08 14:47:34 +0000 2016",
+      "id": 806872854881038300,
+      "id_str": "806872854881038337",
+      "text": "@backendsecret  pickle это в Python",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 806850669030363100,
+      "in_reply_to_status_id_str": "806850669030363137",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "cs"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ru"
+    "retweeted": true,
+    "lang": "cs"
   },
   "contributors_enabled": false,
   "is_translator": false,
