@@ -35,41 +35,37 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18096,
+  "statuses_count": 18099,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Dec 14 14:36:58 +0000 2016",
-    "id": 809044516959359000,
-    "id_str": "809044516959358976",
-    "text": "Для тех кто не осилил оригинал, есть отличный перевод! #htop #top https://t.co/6FH5ZPh3jJ",
+    "created_at": "Thu Dec 15 03:21:36 +0000 2016",
+    "id": 809236942021939200,
+    "id_str": "809236942021939204",
+    "text": "снова о гридах. на этот раз о @ApacheGeode. интересная статья как они обеспечивают consistency в replicate кэшах https://t.co/seUNrLrJF1",
     "truncated": false,
     "entities": {
-      "hashtags": [
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
         {
-          "text": "htop",
+          "screen_name": "ApacheGeode",
+          "name": "ApacheGeode",
+          "id": 3150547812,
+          "id_str": "3150547812",
           "indices": [
-            55,
-            60
-          ]
-        },
-        {
-          "text": "top",
-          "indices": [
-            61,
-            65
+            30,
+            42
           ]
         }
       ],
-      "symbols": [],
-      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/6FH5ZPh3jJ",
-          "expanded_url": "https://twitter.com/den4ikbyte/status/809044172275597312",
-          "display_url": "twitter.com/den4ikbyte/sta…",
+          "url": "https://t.co/seUNrLrJF1",
+          "expanded_url": "http://geode.apache.org/docs/guide/developing/distributed_regions/how_region_versioning_works.html#topic_C5B74CCDD909403C815639339AA03758",
+          "display_url": "geode.apache.org/docs/guide/dev…",
           "indices": [
-            66,
-            89
+            113,
+            136
           ]
         }
       ]
@@ -84,11 +80,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 809044172275597300,
-    "quoted_status_id_str": "809044172275597312",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 8,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
