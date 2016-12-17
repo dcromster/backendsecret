@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3037,
+  "followers_count": 3041,
   "friends_count": 0,
   "listed_count": 199,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,46 +35,116 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18103,
+  "statuses_count": 18137,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Dec 15 23:44:00 +0000 2016",
-    "id": 809544568513380400,
-    "id_str": "809544568513380353",
-    "text": "а ведь это еще и интервью давать. Читаем про DevRel https://t.co/4p9mYvZ9Zp",
+    "created_at": "Sat Dec 17 02:51:15 +0000 2016",
+    "id": 809954081691287600,
+    "id_str": "809954081691287552",
+    "text": "RT @ZhekaKozlov: @backendsecret @yelbota Хаскеллисты угорают с этого твита",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/4p9mYvZ9Zp",
-          "expanded_url": "http://thenewstack.io/developer-relations-traveling-world-buying-people-beer/",
-          "display_url": "thenewstack.io/developer-rela…",
+          "screen_name": "ZhekaKozlov",
+          "name": "Zheka Kozlov",
+          "id": 131470252,
+          "id_str": "131470252",
           "indices": [
-            52,
-            75
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            17,
+            31
+          ]
+        },
+        {
+          "screen_name": "yelbota",
+          "name": "Aleksey Fomkin",
+          "id": 10634822,
+          "id_str": "10634822",
+          "indices": [
+            32,
+            40
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-    "in_reply_to_status_id": 809543538304229400,
-    "in_reply_to_status_id_str": "809543538304229377",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Dec 17 02:50:17 +0000 2016",
+      "id": 809953837188530200,
+      "id_str": "809953837188530177",
+      "text": "@backendsecret @yelbota Хаскеллисты угорают с этого твита",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "yelbota",
+            "name": "Aleksey Fomkin",
+            "id": 10634822,
+            "id_str": "10634822",
+            "indices": [
+              15,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 809883935094308900,
+      "in_reply_to_status_id_str": "809883935094308864",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
