@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3059,
+  "followers_count": 3060,
   "friends_count": 0,
   "listed_count": 199,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,31 +46,42 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18175,
+  "statuses_count": 18179,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Dec 19 15:25:41 +0000 2016",
-    "id": 810868714094600200,
-    "id_str": "810868714094600193",
-    "text": "Общие зависимости есть, проблем не было. Если будут, то либо тестами поймаем, либо в крайнем случае сломаем staging… https://t.co/dJEfjSvFDN",
-    "truncated": true,
+    "created_at": "Mon Dec 19 17:14:30 +0000 2016",
+    "id": 810896099284291600,
+    "id_str": "810896099284291584",
+    "text": "RT @raxpost: @backendsecret да, это ок, у нас везде разные репы и билдить под разные релизы - супер боль",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/dJEfjSvFDN",
-          "expanded_url": "https://twitter.com/i/web/status/810868714094600193",
-          "display_url": "twitter.com/i/web/status/8…",
+          "screen_name": "raxpost",
+          "name": "Roman Roman",
+          "id": 32959868,
+          "id_str": "32959868",
           "indices": [
-            117,
-            140
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            13,
+            27
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -80,14 +91,51 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 810843454829973500,
-    "quoted_status_id_str": "810843454829973504",
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Mon Dec 19 16:57:59 +0000 2016",
+      "id": 810891942150230000,
+      "id_str": "810891942150230016",
+      "text": "@backendsecret да, это ок, у нас везде разные репы и билдить под разные релизы - супер боль",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 810883159327985700,
+      "in_reply_to_status_id_str": "810883159327985664",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
