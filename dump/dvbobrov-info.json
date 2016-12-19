@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3060,
+  "followers_count": 3059,
   "friends_count": 0,
   "listed_count": 199,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,99 +46,31 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18174,
+  "statuses_count": 18175,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Dec 19 13:07:18 +0000 2016",
-    "id": 810833888331370500,
-    "id_str": "810833888331370496",
-    "text": "Ладно, пора бы что-нибудь полезное  и по работе сделать, вернусь через пару часов. Вот вам пока пальмы со снегом :) https://t.co/zni1nbL8DG",
-    "truncated": false,
+    "created_at": "Mon Dec 19 15:25:41 +0000 2016",
+    "id": 810868714094600200,
+    "id_str": "810868714094600193",
+    "text": "Общие зависимости есть, проблем не было. Если будут, то либо тестами поймаем, либо в крайнем случае сломаем staging… https://t.co/dJEfjSvFDN",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 810833846937747500,
-          "id_str": "810833846937747456",
+          "url": "https://t.co/dJEfjSvFDN",
+          "expanded_url": "https://twitter.com/i/web/status/810868714094600193",
+          "display_url": "twitter.com/i/web/status/8…",
           "indices": [
-            116,
-            139
-          ],
-          "media_url": "http://pbs.twimg.com/media/C0CpFnqWgAAJ39B.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/C0CpFnqWgAAJ39B.jpg",
-          "url": "https://t.co/zni1nbL8DG",
-          "display_url": "pic.twitter.com/zni1nbL8DG",
-          "expanded_url": "https://twitter.com/backendsecret/status/810833888331370496/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 810833846937747500,
-          "id_str": "810833846937747456",
-          "indices": [
-            116,
-            139
-          ],
-          "media_url": "http://pbs.twimg.com/media/C0CpFnqWgAAJ39B.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/C0CpFnqWgAAJ39B.jpg",
-          "url": "https://t.co/zni1nbL8DG",
-          "display_url": "pic.twitter.com/zni1nbL8DG",
-          "expanded_url": "https://twitter.com/backendsecret/status/810833888331370496/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -148,7 +80,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 810843454829973500,
+    "quoted_status_id_str": "810843454829973504",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
