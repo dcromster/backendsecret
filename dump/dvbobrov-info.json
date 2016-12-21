@@ -46,26 +46,45 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18209,
+  "statuses_count": 18210,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Dec 20 19:24:58 +0000 2016",
-    "id": 811291320409059300,
-    "id_str": "811291320409059329",
-    "text": "И очень хорошо! https://t.co/qRtJaDVEYV",
+    "created_at": "Wed Dec 21 07:52:06 +0000 2016",
+    "id": 811479341498564600,
+    "id_str": "811479341498564608",
+    "text": "RT @f1yegor: Например этот Actuator создаёт очень неудобные метрики для #prometheus, на которые я сразу плюнул https://t.co/JLoGxAHJWx",
     "truncated": false,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "prometheus",
+          "indices": [
+            72,
+            83
+          ]
+        }
+      ],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "f1yegor",
+          "name": "Yegor Andreenko",
+          "id": 2159344531,
+          "id_str": "2159344531",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/qRtJaDVEYV",
-          "expanded_url": "https://twitter.com/komzpa/status/811290065552936960",
-          "display_url": "twitter.com/komzpa/status/…",
+          "url": "https://t.co/JLoGxAHJWx",
+          "expanded_url": "https://twitter.com/backendsecret/status/811232176968761344",
+          "display_url": "twitter.com/backendsecret/…",
           "indices": [
-            16,
-            39
+            111,
+            134
           ]
         }
       ]
@@ -80,13 +99,63 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 20 21:06:21 +0000 2016",
+      "id": 811316835861856300,
+      "id_str": "811316835861856256",
+      "text": "Например этот Actuator создаёт очень неудобные метрики для #prometheus, на которые я сразу плюнул https://t.co/JLoGxAHJWx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "prometheus",
+            "indices": [
+              59,
+              70
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JLoGxAHJWx",
+            "expanded_url": "https://twitter.com/backendsecret/status/811232176968761344",
+            "display_url": "twitter.com/backendsecret/…",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 811232176968761300,
+      "quoted_status_id_str": "811232176968761344",
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": true,
-    "quoted_status_id": 811290065552937000,
-    "quoted_status_id_str": "811290065552936960",
-    "retweet_count": 0,
-    "favorite_count": 3,
+    "quoted_status_id": 811232176968761300,
+    "quoted_status_id_str": "811232176968761344",
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "possibly_sensitive": false,
     "lang": "ru"
   },
