@@ -4655,6 +4655,800 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 23 10:04:14 +0000 2016",
+      "id": 812237372297539600,
+      "id_str": "812237372297539584",
+      "text": "Тихо и незаметно пришла пятница. Давайте о будущем. Java-разработчики, девятку уже пробуете? Планируете переход на Jigsaw?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 23 10:25:55 +0000 2016",
+      "id": 812242828671811600,
+      "id_str": "812242828671811584",
+      "text": "Больше всего им, конечно. В первую очередь самому JDK. У фреймворков еще и в первую очередь начнет все ломаться https://t.co/dc4g7UXFXS",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dc4g7UXFXS",
+            "expanded_url": "https://twitter.com/ruxeg/status/812237845305888769",
+            "display_url": "twitter.com/ruxeg/status/8…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 812237845305888800,
+      "quoted_status_id_str": "812237845305888769",
+      "quoted_status": {
+        "created_at": "Fri Dec 23 10:06:07 +0000 2016",
+        "id": 812237845305888800,
+        "id_str": "812237845305888769",
+        "text": "@backendsecret вот в восьмой прям жирненькая мотивация была, а ща так себе. Это же важно библиотекам и фреймворкам, не?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 812237372297539600,
+        "in_reply_to_status_id_str": "812237372297539584",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 113131428,
+          "id_str": "113131428"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "5de8cffc145c486b",
+          "url": "https://api.twitter.com/1.1/geo/id/5de8cffc145c486b.json",
+          "place_type": "city",
+          "name": "Camden Town",
+          "full_name": "Camden Town, London",
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -0.213503,
+                  51.512805
+                ],
+                [
+                  -0.105303,
+                  51.512805
+                ],
+                [
+                  -0.105303,
+                  51.572068
+                ],
+                [
+                  -0.213503,
+                  51.572068
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 23 10:35:39 +0000 2016",
+      "id": 812245276715089900,
+      "id_str": "812245276715089920",
+      "text": "Есть подозрение, что еще долго многие будут забивать на модули, насколько это возможно @ruxeg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruxeg",
+            "name": "ruX",
+            "id": 113131428,
+            "id_str": "113131428",
+            "indices": [
+              87,
+              93
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 812242828671811600,
+      "in_reply_to_status_id_str": "812242828671811584",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 23 11:39:20 +0000 2016",
+      "id": 812261301930049500,
+      "id_str": "812261301930049536",
+      "text": "RT @ruxeg: @backendsecret ну да, это же не плохо) не то что выдуманная необходимость, просто фича не для всех",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruxeg",
+            "name": "ruX",
+            "id": 113131428,
+            "id_str": "113131428",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Dec 23 10:54:56 +0000 2016",
+        "id": 812250131772899300,
+        "id_str": "812250131772899328",
+        "text": "@backendsecret ну да, это же не плохо) не то что выдуманная необходимость, просто фича не для всех",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 812245276715089900,
+        "in_reply_to_status_id_str": "812245276715089920",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 113131428,
+          "id_str": "113131428"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "5de8cffc145c486b",
+          "url": "https://api.twitter.com/1.1/geo/id/5de8cffc145c486b.json",
+          "place_type": "city",
+          "name": "Camden Town",
+          "full_name": "Camden Town, London",
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -0.213503,
+                  51.512805
+                ],
+                [
+                  -0.105303,
+                  51.512805
+                ],
+                [
+                  -0.105303,
+                  51.572068
+                ],
+                [
+                  -0.213503,
+                  51.572068
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 23 11:48:22 +0000 2016",
+      "id": 812263577063223300,
+      "id_str": "812263577063223296",
+      "text": "Почему? Для каких-нибудь self-contained packages может и станет. https://t.co/jjZjbQnmqE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jjZjbQnmqE",
+            "expanded_url": "https://twitter.com/visualwatermark/status/812248531696283648",
+            "display_url": "twitter.com/visualwatermar…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 812248531696283600,
+      "quoted_status_id_str": "812248531696283648",
+      "quoted_status": {
+        "created_at": "Fri Dec 23 10:48:35 +0000 2016",
+        "id": 812248531696283600,
+        "id_str": "812248531696283648",
+        "text": "@backendsecret для северных приложений не важен размер рантайма, а пакетная система всегда была. Обидно что для десктопа лучше не станет",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 812242828671811600,
+        "in_reply_to_status_id_str": "812242828671811584",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 284122822,
+          "id_str": "284122822"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Fri Dec 23 12:14:06 +0000 2016",
+      "id": 812270051667624000,
+      "id_str": "812270051667623936",
+      "text": "А еще, кроме размера рантайма, говорят, модули открывают возможности для некоторых оптимизаций в JIT @visualwatermark",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "visualwatermark",
+            "name": "Ivan Nikitin",
+            "id": 284122822,
+            "id_str": "284122822",
+            "indices": [
+              101,
+              117
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 812263577063223300,
+      "in_reply_to_status_id_str": "812263577063223296",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 23 13:14:23 +0000 2016",
+      "id": 812285224675577900,
+      "id_str": "812285224675577858",
+      "text": "Отвлечемся немного от Java. AWS тут недавно запустили FPGA-инстансы.  https://t.co/nYWWiZTNIL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nYWWiZTNIL",
+            "expanded_url": "https://aws.amazon.com/ru/blogs/aws/developer-preview-ec2-instances-f1-with-programmable-hardware/",
+            "display_url": "aws.amazon.com/ru/blogs/aws/d…",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 23 13:22:58 +0000 2016",
+      "id": 812287385056739300,
+      "id_str": "812287385056739328",
+      "text": "То есть спрос на них есть и в ближайшие годы будет только расти. Пока, правда, применений не очень много",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 812285224675577900,
+      "in_reply_to_status_id_str": "812285224675577858",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 23 13:29:11 +0000 2016",
+      "id": 812288947455922200,
+      "id_str": "812288947455922176",
+      "text": "Возможно, какие-то специализированные числодробилки. Есть несколько публикаций про использование для нейросетей",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 812287385056739300,
+      "in_reply_to_status_id_str": "812287385056739328",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 23 13:53:29 +0000 2016",
+      "id": 812295062382137300,
+      "id_str": "812295062382137344",
+      "text": "RT @ruxeg: @backendsecret жду не дождусь когда в паблик запустят",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruxeg",
+            "name": "ruX",
+            "id": 113131428,
+            "id_str": "113131428",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Dec 23 13:52:45 +0000 2016",
+        "id": 812294879162335200,
+        "id_str": "812294879162335233",
+        "text": "@backendsecret жду не дождусь когда в паблик запустят",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 812285224675577900,
+        "in_reply_to_status_id_str": "812285224675577858",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 113131428,
+          "id_str": "113131428"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "3eb2c704fe8a50cb",
+          "url": "https://api.twitter.com/1.1/geo/id/3eb2c704fe8a50cb.json",
+          "place_type": "city",
+          "name": "City of London",
+          "full_name": "City of London, London",
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -0.112442,
+                  51.5068
+                ],
+                [
+                  -0.0733794,
+                  51.5068
+                ],
+                [
+                  -0.0733794,
+                  51.522161
+                ],
+                [
+                  -0.112442,
+                  51.522161
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 23 13:53:47 +0000 2016",
+      "id": 812295138890383400,
+      "id_str": "812295138890383360",
+      "text": "А что вы с ними делать будете? @ruxeg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruxeg",
+            "name": "ruX",
+            "id": 113131428,
+            "id_str": "113131428",
+            "indices": [
+              31,
+              37
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 812294879162335200,
+      "in_reply_to_status_id_str": "812294879162335233",
+      "in_reply_to_user_id": 113131428,
+      "in_reply_to_user_id_str": "113131428",
+      "in_reply_to_screen_name": "ruxeg",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 23 13:55:13 +0000 2016",
+      "id": 812295498996531200,
+      "id_str": "812295498996531200",
+      "text": "Если просто потрогать хочется, можно и в developer preview записаться ;) @ruxeg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruxeg",
+            "name": "ruX",
+            "id": 113131428,
+            "id_str": "113131428",
+            "indices": [
+              73,
+              79
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 812295138890383400,
+      "in_reply_to_status_id_str": "812295138890383360",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
