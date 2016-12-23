@@ -2496,6 +2496,83 @@
       "favorited": false,
       "retweeted": true,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 23 16:42:35 +0000 2016",
+      "id": 812337617475870700,
+      "id_str": "812337617475870720",
+      "text": "@backendsecret там прямых использований не очень много ;) оставлю на твою фантазию",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 812295138890383400,
+      "in_reply_to_status_id_str": "812295138890383360",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 113131428,
+        "id_str": "113131428"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "544762ebf7fda780",
+        "url": "https://api.twitter.com/1.1/geo/id/544762ebf7fda780.json",
+        "place_type": "city",
+        "name": "Islington",
+        "full_name": "Islington, London",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -0.1420579,
+                51.5185518
+              ],
+              [
+                -0.076305,
+                51.5185518
+              ],
+              [
+                -0.076305,
+                51.575301
+              ],
+              [
+                -0.1420579,
+                51.575301
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
