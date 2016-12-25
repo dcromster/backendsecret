@@ -3138,6 +3138,322 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sat Dec 24 18:38:10 +0000 2016",
+      "id": 812729094261669900,
+      "id_str": "812729094261669888",
+      "text": "@backendsecret я тоже недавно к этому пришёл. У меня там \"интеграция\" с энсиблом для деплоя и некоторые тулы для проверки билда",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 812717773239578600,
+      "in_reply_to_status_id_str": "812717773239578624",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 113131428,
+        "id_str": "113131428"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5de8cffc145c486b",
+        "url": "https://api.twitter.com/1.1/geo/id/5de8cffc145c486b.json",
+        "place_type": "city",
+        "name": "Camden Town",
+        "full_name": "Camden Town, London",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -0.213503,
+                51.512805
+              ],
+              [
+                -0.105303,
+                51.512805
+              ],
+              [
+                -0.105303,
+                51.572068
+              ],
+              [
+                -0.213503,
+                51.572068
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Dec 24 18:41:37 +0000 2016",
+      "id": 812729963329814500,
+      "id_str": "812729963329814528",
+      "text": "@backendsecret а как вы боритесь с подсветкой синтаксиса и автокомплитом в иде? Идея сносно понимает груви, но с грейдл не складывается",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 812720863220994000,
+      "in_reply_to_status_id_str": "812720863220994050",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 113595061,
+        "id_str": "113595061"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Dec 24 19:14:03 +0000 2016",
+      "id": 812738125063602200,
+      "id_str": "812738125063602177",
+      "text": "@backendsecret нашли способы прибить гвоздями зависимости второго (и т.д.) уровней? Чтобы билдаут не качал обновления и не падал на CI.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 812727648094855200,
+      "in_reply_to_status_id_str": "812727648094855173",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 493818222,
+        "id_str": "493818222"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Dec 24 20:28:16 +0000 2016",
+      "id": 812756802328739800,
+      "id_str": "812756802328739844",
+      "text": "@itiswasted @muttnikus @backendsecret @BeiZero у нас в ИБ 8-ка практически с самого её появления",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "itiswasted",
+            "name": "ohhh myyy",
+            "id": 2424155094,
+            "id_str": "2424155094",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "muttnikus",
+            "name": "Valentin Banshchikov",
+            "id": 98874675,
+            "id_str": "98874675",
+            "indices": [
+              12,
+              22
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              23,
+              37
+            ]
+          },
+          {
+            "screen_name": "BeiZero",
+            "name": "Игорь Фёдоров",
+            "id": 1658183185,
+            "id_str": "1658183185",
+            "indices": [
+              38,
+              46
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 812670567954477000,
+      "in_reply_to_status_id_str": "812670567954477056",
+      "in_reply_to_user_id": 2424155094,
+      "in_reply_to_user_id_str": "2424155094",
+      "in_reply_to_screen_name": "itiswasted",
+      "user": {
+        "id": 344177021,
+        "id_str": "344177021"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Dec 24 21:22:54 +0000 2016",
+      "id": 812770551244542000,
+      "id_str": "812770551244541952",
+      "text": "@backendsecret ну понятно, что кого-то придется, но вот прям так чтобы бежать с энтузиазмом и попробовать — увольте.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 812596666880720900,
+      "in_reply_to_status_id_str": "812596666880720896",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 16887172,
+        "id_str": "16887172"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "36237ab3643ff2be",
+        "url": "https://api.twitter.com/1.1/geo/id/36237ab3643ff2be.json",
+        "place_type": "city",
+        "name": "Cupertino",
+        "full_name": "Cupertino, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.091151,
+                37.285786
+              ],
+              [
+                -121.995595,
+                37.285786
+              ],
+              [
+                -121.995595,
+                37.3403795
+              ],
+              [
+                -122.091151,
+                37.3403795
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
     }
   ]
 }
