@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3105,
+  "followers_count": 3097,
   "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,46 +46,63 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18423,
+  "statuses_count": 18454,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jan 17 11:53:07 +0000 2017",
-    "id": 821324469188718600,
-    "id_str": "821324469188718593",
-    "text": "@backendsecret ST1. Заинтересованность: понравились заказчику (конферен.), референс (или редирект) от вендора, продолж. сотрудничества",
+    "created_at": "Wed Jan 18 05:45:31 +0000 2017",
+    "id": 821594347674210300,
+    "id_str": "821594347674210304",
+    "text": "Хорошие C++ FAQ лежат тут: https://t.co/xYfWD3Ej11 https://t.co/PDY0ECen9B #cpp",
     "truncated": false,
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
+      "hashtags": [
         {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
+          "text": "cpp",
           "indices": [
-            0,
-            14
+            75,
+            79
           ]
         }
       ],
-      "urls": []
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xYfWD3Ej11",
+          "expanded_url": "https://isocpp.org/faq",
+          "display_url": "isocpp.org/faq",
+          "indices": [
+            27,
+            50
+          ]
+        },
+        {
+          "url": "https://t.co/PDY0ECen9B",
+          "expanded_url": "https://github.com/isocpp/CppCoreGuidelines",
+          "display_url": "github.com/isocpp/CppCore…",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 821323992128581600,
-    "in_reply_to_status_id_str": "821323992128581632",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
