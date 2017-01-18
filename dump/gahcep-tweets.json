@@ -7079,6 +7079,758 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 06:54:12 +0000 2017",
+      "id": 821611630928728000,
+      "id_str": "821611630928728064",
+      "text": "Частые баги/косяки на ревью - инвалидация итераторов, велосипеды когда можно заюзать &lt;algorithm&gt;. Неверная испол. erase/remove идиомы",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 07:09:47 +0000 2017",
+      "id": 821615552363974700,
+      "id_str": "821615552363974656",
+      "text": "Сам недав. сглупил - const map в хедере прописал. Хедер включается далеко не один раз ;) Как следствие, копирование и аллокации в разные TU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 08:36:27 +0000 2017",
+      "id": 821637365907288000,
+      "id_str": "821637365907288064",
+      "text": "Так это вполне обоснованное поведение. Ну то есть, все оки, просто при отгрузке иногда \"лишний\" код надо убрать в о… https://t.co/OqS2DREms5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OqS2DREms5",
+            "expanded_url": "https://twitter.com/i/web/status/821637365907288064",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 821631889589080000,
+      "quoted_status_id_str": "821631889589080064",
+      "quoted_status": {
+        "created_at": "Wed Jan 18 08:14:42 +0000 2017",
+        "id": 821631889589080000,
+        "id_str": "821631889589080064",
+        "text": "@backendsecret ну это было с появления шаблонов. Неужели ничего не поменялось за это время?Лет 10 не интересовался C++, а там все по-старому",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 821594005804818400,
+        "in_reply_to_status_id_str": "821594005804818432",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 760028430247264300,
+          "id_str": "760028430247264256"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 11:18:33 +0000 2017",
+      "id": 821678155886891000,
+      "id_str": "821678155886891008",
+      "text": "Все так, напр. для пользователя А код раздут всего двумя типами (int, bool), для пользователя B всеми (напр. + stri… https://t.co/Jix9UIwECe",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Jix9UIwECe",
+            "expanded_url": "https://twitter.com/i/web/status/821678155886891008",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 821659492232400900,
+      "quoted_status_id_str": "821659492232400897",
+      "quoted_status": {
+        "created_at": "Wed Jan 18 10:04:23 +0000 2017",
+        "id": 821659492232400900,
+        "id_str": "821659492232400897",
+        "text": "@den4ikbyte @backendsecret это позволяет сгенерировать наиболее эффективный код для данного типа",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "den4ikbyte",
+              "name": "Denis",
+              "id": 760028430247264300,
+              "id_str": "760028430247264256",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                12,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 821659362456404000,
+        "in_reply_to_status_id_str": "821659362456403970",
+        "in_reply_to_user_id": 755738268562550800,
+        "in_reply_to_user_id_str": "755738268562550785",
+        "in_reply_to_screen_name": "nikitamalyavin",
+        "user": {
+          "id": 755738268562550800,
+          "id_str": "755738268562550785"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 11:20:34 +0000 2017",
+      "id": 821678666203693000,
+      "id_str": "821678666203693056",
+      "text": "На некоторых проектах юзаем #PlantUML - для генерации схем и диаграмм. Кстати, весьма удобно для #Doxygen документации.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PlantUML",
+            "indices": [
+              28,
+              37
+            ]
+          },
+          {
+            "text": "Doxygen",
+            "indices": [
+              97,
+              105
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 11:24:37 +0000 2017",
+      "id": 821679683506995200,
+      "id_str": "821679683506995202",
+      "text": "Плюс #PlantUML в том что он текст. - можно дифы генерить и наблюдать развитие проекта. В vim плагин https://t.co/NGWOYpoxfP например",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PlantUML",
+            "indices": [
+              5,
+              14
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NGWOYpoxfP",
+            "expanded_url": "https://github.com/aklt/plantuml-syntax",
+            "display_url": "github.com/aklt/plantuml-…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 11:29:05 +0000 2017",
+      "id": 821680807232290800,
+      "id_str": "821680807232290820",
+      "text": "Хорошая тема: #const #correctness Ставим везде где reasonable. Дает защиту от изменений + документирование. Bitwise vs. Logical constness",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "const",
+            "indices": [
+              14,
+              20
+            ]
+          },
+          {
+            "text": "correctness",
+            "indices": [
+              21,
+              33
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 11:31:33 +0000 2017",
+      "id": 821681430753398800,
+      "id_str": "821681430753398786",
+      "text": "На тему логической vs битовой константности #cpp можно почитать тут https://t.co/PJq4iLHVCM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "cpp",
+            "indices": [
+              44,
+              48
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PJq4iLHVCM",
+            "expanded_url": "https://isocpp.org/wiki/faq/const-correctness",
+            "display_url": "isocpp.org/wiki/faq/const…",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 11:35:03 +0000 2017",
+      "id": 821682312022626300,
+      "id_str": "821682312022626304",
+      "text": "У комп. есть свои extensions. https://t.co/Hy3Rk144bI Чтобы строить ANSI C, напр., можно заюзать '-pedantic' флаг. То есть C99 vs GNU99 #GCC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GCC",
+            "indices": [
+              136,
+              140
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Hy3Rk144bI",
+            "expanded_url": "https://gcc.gnu.org/onlinedocs/gcc/C-Extensions.html",
+            "display_url": "gcc.gnu.org/onlinedocs/gcc…",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 11:44:02 +0000 2017",
+      "id": 821684572710539300,
+      "id_str": "821684572710539264",
+      "text": "Да, важный момент! C и C++ - два разных языка. Факт. На эту тему отличнейшая! презен. от Dan Saks https://t.co/6WyZtIKnBh",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6WyZtIKnBh",
+            "expanded_url": "https://www.youtube.com/watch?v=D7Sd8A6_fYU",
+            "display_url": "youtube.com/watch?v=D7Sd8A…",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 12:38:11 +0000 2017",
+      "id": 821698199425466400,
+      "id_str": "821698199425466372",
+      "text": "То что допиливать Open Source приходится, наверное и так понятно. Например: https://t.co/eud1yLHCia #OpenOCD #baremetal",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "OpenOCD",
+            "indices": [
+              100,
+              108
+            ]
+          },
+          {
+            "text": "baremetal",
+            "indices": [
+              109,
+              119
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eud1yLHCia",
+            "expanded_url": "https://habrahabr.ru/post/249991/",
+            "display_url": "habrahabr.ru/post/249991/",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 12:40:37 +0000 2017",
+      "id": 821698810590019600,
+      "id_str": "821698810590019588",
+      "text": "online compilers: мне нравится https://t.co/mWn1G6QTuG, коллега пощупал разные: https://t.co/0bUVg5E7UX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mWn1G6QTuG",
+            "expanded_url": "https://godbolt.org",
+            "display_url": "godbolt.org",
+            "indices": [
+              31,
+              54
+            ]
+          },
+          {
+            "url": "https://t.co/0bUVg5E7UX",
+            "expanded_url": "https://htrd.su/wiki/zhurnal/2013/09/19/onlajn_kompiljatory_c/c_i_ne_tolko",
+            "display_url": "htrd.su/wiki/zhurnal/2…",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 12:42:51 +0000 2017",
+      "id": 821699373792755700,
+      "id_str": "821699373792755714",
+      "text": "Подвожу под более хардкорные вещи. Для начала моя статья (базовое) о memory layout https://t.co/RCqYs3NADD как строить, что на выходе.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RCqYs3NADD",
+            "expanded_url": "http://www.codingfail.com/cpp-internals-memory-layout/",
+            "display_url": "codingfail.com/cpp-internals-…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 13:01:53 +0000 2017",
+      "id": 821704163784527900,
+      "id_str": "821704163784527873",
+      "text": "Оффтоп: сейчас с вот этим чудом разбираюсь: ATSAMB11 - Cortex-M0. Если есть коллега по \"счастью\", отзовись ;) Погов… https://t.co/HWrwlcYwfF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HWrwlcYwfF",
+            "expanded_url": "https://twitter.com/i/web/status/821704163784527873",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
