@@ -7831,6 +7831,590 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 15:14:36 +0000 2017",
+      "id": 821737563555655700,
+      "id_str": "821737563555655680",
+      "text": "Важно! Есть фичи языка, есть compiler-specific поведение, есть особенности платформы, а есть #ABI (Application Binary Interface)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ABI",
+            "indices": [
+              93,
+              97
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Jan 18 15:15:12 +0000 2017",
+      "id": 821737714382872600,
+      "id_str": "821737714382872576",
+      "text": "Если кратко, ABI - low-level интерфейс взаимодействия app и OS: objects aligment/size, functions calling conventions, object files layout",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "cs"
+    },
+    {
+      "created_at": "Wed Jan 18 15:30:17 +0000 2017",
+      "id": 821741508697071600,
+      "id_str": "821741508697071616",
+      "text": "#ABI делится на две \"части\": общая (generic/common) и Processor Supplement (ps, учитывающая конкретную арх.) - Intel 386 / AMD64",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ABI",
+            "indices": [
+              0,
+              4
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Jan 18 15:41:02 +0000 2017",
+      "id": 821744213268140000,
+      "id_str": "821744213268140032",
+      "text": "Продолжу по #ABI. System V ABI - является как бы базой которую юзают Linux/BSD и от которой отрастают ps. Не относится к Win.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ABI",
+            "indices": [
+              12,
+              16
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 15:42:57 +0000 2017",
+      "id": 821744696720375800,
+      "id_str": "821744696720375809",
+      "text": "#ABI. Было довольно гиморно в свое время разобрать что актуальное, что нет и с чего начать и читать так чтобы было последовательно. Ловите:",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ABI",
+            "indices": [
+              0,
+              4
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 15:43:15 +0000 2017",
+      "id": 821744772687622100,
+      "id_str": "821744772687622144",
+      "text": "@backendsecret 1. Generic Old System V ABI :: Generic Part (gABI) --- https://t.co/5Vj6f63diK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5Vj6f63diK",
+            "expanded_url": "http://www.sco.com/developers/devspecs/gabi41.pdf",
+            "display_url": "sco.com/developers/dev…",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 821744696720375800,
+      "in_reply_to_status_id_str": "821744696720375809",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ro"
+    },
+    {
+      "created_at": "Wed Jan 18 15:43:38 +0000 2017",
+      "id": 821744869580279800,
+      "id_str": "821744869580279812",
+      "text": "@backendsecret 2. Latest updates --- https://t.co/nsYClXG26l",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nsYClXG26l",
+            "expanded_url": "http://sco.com/developers/gabi/latest/contents.html",
+            "display_url": "sco.com/developers/gab…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 821744772687622100,
+      "in_reply_to_status_id_str": "821744772687622144",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jan 18 15:44:17 +0000 2017",
+      "id": 821745031551721500,
+      "id_str": "821745031551721472",
+      "text": "@backendsecret 3.1. Intel 386 psABI --- https://t.co/U0YLwLv0vC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/U0YLwLv0vC",
+            "expanded_url": "http://www.sco.com/developers/devspecs/abi386-4.pdf",
+            "display_url": "sco.com/developers/dev…",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 821744869580279800,
+      "in_reply_to_status_id_str": "821744869580279812",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Wed Jan 18 15:44:42 +0000 2017",
+      "id": 821745136304406500,
+      "id_str": "821745136304406529",
+      "text": "@backendsecret 3.2. Intel 386 psABI supplement --- https://t.co/zsGv3iKuH8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zsGv3iKuH8",
+            "expanded_url": "https://github.com/hjl-tools/x86-psABI/wiki/intel386-psABI-1.1.pdf",
+            "display_url": "github.com/hjl-tools/x86-…",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 821745031551721500,
+      "in_reply_to_status_id_str": "821745031551721472",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "it"
+    },
+    {
+      "created_at": "Wed Jan 18 15:45:08 +0000 2017",
+      "id": 821745246190989300,
+      "id_str": "821745246190989312",
+      "text": "@backendsecret 4. AMD64 (x86-64) psABI --- https://t.co/E36rcs1x6r",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/E36rcs1x6r",
+            "expanded_url": "https://github.com/hjl-tools/x86-psABI/wiki/x86-64-psABI-r252.pdf",
+            "display_url": "github.com/hjl-tools/x86-…",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 821745136304406500,
+      "in_reply_to_status_id_str": "821745136304406529",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Wed Jan 18 15:48:02 +0000 2017",
+      "id": 821745976180248600,
+      "id_str": "821745976180248576",
+      "text": "Читайте, комментируйте, задавайте вопросы! А я все. Завтра будет интересно. Не переключайтесь, я спать.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 18 15:51:17 +0000 2017",
+      "id": 821746794803540000,
+      "id_str": "821746794803539968",
+      "text": "Напоследок, акки людей на которые стоит подписаться точно: worth reading: @arne_mertz @meetingcpp @supahvee1234 awesome accounts #dev #cpp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "dev",
+            "indices": [
+              129,
+              133
+            ]
+          },
+          {
+            "text": "cpp",
+            "indices": [
+              134,
+              138
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "arne_mertz",
+            "name": "Arne Mertz",
+            "id": 415384395,
+            "id_str": "415384395",
+            "indices": [
+              74,
+              85
+            ]
+          },
+          {
+            "screen_name": "meetingcpp",
+            "name": "Meeting C++",
+            "id": 607130523,
+            "id_str": "607130523",
+            "indices": [
+              86,
+              97
+            ]
+          },
+          {
+            "screen_name": "supahvee1234",
+            "name": "Vittorio Romeo",
+            "id": 451429713,
+            "id_str": "451429713",
+            "indices": [
+              98,
+              111
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
