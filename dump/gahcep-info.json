@@ -46,64 +46,33 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18480,
+  "statuses_count": 18491,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Jan 18 15:51:17 +0000 2017",
-    "id": 821746794803540000,
-    "id_str": "821746794803539968",
-    "text": "Напоследок, акки людей на которые стоит подписаться точно: worth reading: @arne_mertz @meetingcpp @supahvee1234 awesome accounts #dev #cpp",
+    "created_at": "Thu Jan 19 12:32:13 +0000 2017",
+    "id": 822059084631244800,
+    "id_str": "822059084631244802",
+    "text": "С помощью #ELF Auxiliary Vectors процессы получают инфу от ядра: смотрим #VDSO (дальше станет яснее зачем я это упомянул)",
     "truncated": false,
     "entities": {
       "hashtags": [
         {
-          "text": "dev",
+          "text": "ELF",
           "indices": [
-            129,
-            133
+            10,
+            14
           ]
         },
         {
-          "text": "cpp",
+          "text": "VDSO",
           "indices": [
-            134,
-            138
+            73,
+            78
           ]
         }
       ],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "arne_mertz",
-          "name": "Arne Mertz",
-          "id": 415384395,
-          "id_str": "415384395",
-          "indices": [
-            74,
-            85
-          ]
-        },
-        {
-          "screen_name": "meetingcpp",
-          "name": "Meeting C++",
-          "id": 607130523,
-          "id_str": "607130523",
-          "indices": [
-            86,
-            97
-          ]
-        },
-        {
-          "screen_name": "supahvee1234",
-          "name": "Vittorio Romeo",
-          "id": 451429713,
-          "id_str": "451429713",
-          "indices": [
-            98,
-            111
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
@@ -118,7 +87,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
