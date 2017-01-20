@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3097,
+  "followers_count": 3094,
   "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,34 +46,29 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18491,
+  "statuses_count": 18509,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Jan 19 12:32:13 +0000 2017",
-    "id": 822059084631244800,
-    "id_str": "822059084631244802",
-    "text": "С помощью #ELF Auxiliary Vectors процессы получают инфу от ядра: смотрим #VDSO (дальше станет яснее зачем я это упомянул)",
+    "created_at": "Fri Jan 20 00:47:26 +0000 2017",
+    "id": 822244109171785700,
+    "id_str": "822244109171785729",
+    "text": "Ну как бы не deprecated, просто по другому называют. Типа слишком сложно для понимая https://t.co/0vxLgIMGWW",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "ELF",
-          "indices": [
-            10,
-            14
-          ]
-        },
-        {
-          "text": "VDSO",
-          "indices": [
-            73,
-            78
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/0vxLgIMGWW",
+          "expanded_url": "https://twitter.com/feelthefrog/status/822117068329943041",
+          "display_url": "twitter.com/feelthefrog/st…",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -85,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 822117068329943000,
+    "quoted_status_id_str": "822117068329943041",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
