@@ -12822,6 +12822,794 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 22 12:21:29 +0000 2017",
+      "id": 823143548040028200,
+      "id_str": "823143548040028160",
+      "text": "Микро-гайд как отстроить свой kernel, rootfs, cross-toolchain используя (или нет) #buildroot (легко заменяем на аналоги, но принцип тот же).",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "buildroot",
+            "indices": [
+              82,
+              92
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 22 12:21:41 +0000 2017",
+      "id": 823143599206383600,
+      "id_str": "823143599206383617",
+      "text": "@backendsecret Кратко, кросс-компиляция: строим компил. (BUILD system) который на HOST сис-ме будет строить для TARGET платформы.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 823143548040028200,
+      "in_reply_to_status_id_str": "823143548040028160",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 22 12:22:06 +0000 2017",
+      "id": 823143702717603800,
+      "id_str": "823143702717603840",
+      "text": "@backendsecret Звучит сложно, но чаще всего BUILD равно HOST. Подробнее на отлич. ресурсе - https://t.co/fd0BUc2EAy",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fd0BUc2EAy",
+            "expanded_url": "https://en.wikipedia.org/wiki/Cross_compiler",
+            "display_url": "en.wikipedia.org/wiki/Cross_com…",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 823143599206383600,
+      "in_reply_to_status_id_str": "823143599206383617",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 22 12:22:32 +0000 2017",
+      "id": 823143810800570400,
+      "id_str": "823143810800570370",
+      "text": "@backendsecret При исп. buildroot можно отстроить дефолтный кросс-комп., можно добавить внешний (как из репо, так и вручную отстроенный)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 823143702717603800,
+      "in_reply_to_status_id_str": "823143702717603840",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 22 12:22:57 +0000 2017",
+      "id": 823143916216008700,
+      "id_str": "823143916216008704",
+      "text": "@backendsecret Для #ARM я советую оптимизированный и performance-improved от Linaro. https://t.co/WntbIvX356",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ARM",
+            "indices": [
+              19,
+              23
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WntbIvX356",
+            "expanded_url": "https://www.linaro.org/downloads/",
+            "display_url": "linaro.org/downloads/",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 823143810800570400,
+      "in_reply_to_status_id_str": "823143810800570370",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Jan 22 12:23:20 +0000 2017",
+      "id": 823144013700005900,
+      "id_str": "823144013700005888",
+      "text": "@backendsecret Разницу между arm-linux-gnueabihf и, напр., aarch64-linux-gnu читаем в оф. FAQ https://t.co/WTLon0iUFe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WTLon0iUFe",
+            "expanded_url": "https://wiki.linaro.org/WorkingGroups/ToolChain/FAQ",
+            "display_url": "wiki.linaro.org/WorkingGroups/…",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 823143916216008700,
+      "in_reply_to_status_id_str": "823143916216008704",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Jan 22 12:24:30 +0000 2017",
+      "id": 823144305808158700,
+      "id_str": "823144305808158720",
+      "text": "@backendsecret Строим кросс-компилятор Linaro с помощью https://t.co/viQWCtvF7K https://t.co/QhryAf9vpx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/viQWCtvF7K",
+            "expanded_url": "https://wiki.linaro.org/ABE",
+            "display_url": "wiki.linaro.org/ABE",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 823144295402045400,
+            "id_str": "823144295402045440",
+            "indices": [
+              80,
+              103
+            ],
+            "media_url": "http://pbs.twimg.com/media/C2xlYB5UAAAsmFq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2xlYB5UAAAsmFq.jpg",
+            "url": "https://t.co/QhryAf9vpx",
+            "display_url": "pic.twitter.com/QhryAf9vpx",
+            "expanded_url": "https://twitter.com/backendsecret/status/823144305808158720/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 749,
+                "h": 630,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 572,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 749,
+                "h": 630,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 823144295402045400,
+            "id_str": "823144295402045440",
+            "indices": [
+              80,
+              103
+            ],
+            "media_url": "http://pbs.twimg.com/media/C2xlYB5UAAAsmFq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2xlYB5UAAAsmFq.jpg",
+            "url": "https://t.co/QhryAf9vpx",
+            "display_url": "pic.twitter.com/QhryAf9vpx",
+            "expanded_url": "https://twitter.com/backendsecret/status/823144305808158720/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 749,
+                "h": 630,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 572,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 749,
+                "h": 630,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 823144013700005900,
+      "in_reply_to_status_id_str": "823144013700005888",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 22 12:25:07 +0000 2017",
+      "id": 823144461886591000,
+      "id_str": "823144461886590976",
+      "text": "@backendsecret Качаем buildroot c https://t.co/T13wOvVGVA, распаковываем. Строим для, скажем, versatile ARM (arm926).",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/T13wOvVGVA",
+            "expanded_url": "https://buildroot.org/download.html",
+            "display_url": "buildroot.org/download.html",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 823144305808158700,
+      "in_reply_to_status_id_str": "823144305808158720",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Jan 22 12:25:28 +0000 2017",
+      "id": 823144550965182500,
+      "id_str": "823144550965182464",
+      "text": "@backendsecret Надо дать знать ядру и buildroot конфигурацию борды и misc настроек https://t.co/lXhLomQVYi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 823144528848699400,
+            "id_str": "823144528848699392",
+            "indices": [
+              83,
+              106
+            ],
+            "media_url": "http://pbs.twimg.com/media/C2xllnjVQAAWbNj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2xllnjVQAAWbNj.jpg",
+            "url": "https://t.co/lXhLomQVYi",
+            "display_url": "pic.twitter.com/lXhLomQVYi",
+            "expanded_url": "https://twitter.com/backendsecret/status/823144550965182464/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 837,
+                "h": 530,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 431,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 837,
+                "h": 530,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 823144528848699400,
+            "id_str": "823144528848699392",
+            "indices": [
+              83,
+              106
+            ],
+            "media_url": "http://pbs.twimg.com/media/C2xllnjVQAAWbNj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2xllnjVQAAWbNj.jpg",
+            "url": "https://t.co/lXhLomQVYi",
+            "display_url": "pic.twitter.com/lXhLomQVYi",
+            "expanded_url": "https://twitter.com/backendsecret/status/823144550965182464/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 837,
+                "h": 530,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 431,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 837,
+                "h": 530,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 823144461886591000,
+      "in_reply_to_status_id_str": "823144461886590976",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 22 12:26:00 +0000 2017",
+      "id": 823144683039621100,
+      "id_str": "823144683039621121",
+      "text": "@backendsecret На выходе, zImage (ядро), и rootfs. Может быть слиш. кратко и непонятно, но пути обозначены. Читаем команды, меняем опции",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 823144550965182500,
+      "in_reply_to_status_id_str": "823144550965182464",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 22 13:20:03 +0000 2017",
+      "id": 823158284542570500,
+      "id_str": "823158284542570497",
+      "text": "Подходит к концу моя неделя тут. К сожалению, не успел про многое. Несколько ответов должен. Помню. Отвечу обяз-но. Надеюсь что-то зацепило.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 22 13:20:16 +0000 2017",
+      "id": 823158341555798000,
+      "id_str": "823158341555798016",
+      "text": "Спасибо @dcromster за предоставленную возможность. Спасибо всем кто был заинтересован. Не забываем подписываться на @gahcep",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              8,
+              18
+            ]
+          },
+          {
+            "screen_name": "gahcep",
+            "name": "Sergei Danielian",
+            "id": 185526232,
+            "id_str": "185526232",
+            "indices": [
+              116,
+              123
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 22 13:20:53 +0000 2017",
+      "id": 823158493376958500,
+      "id_str": "823158493376958468",
+      "text": "Напоследок, неоднозначная, но жизненная статья про нас, embedded разрабов. (Автор НЕ я, маты +18) https://t.co/BnC51CwzSK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BnC51CwzSK",
+            "expanded_url": "https://medium.com/russian/%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%BC%D0%BE%D0%B9-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD-%D0%BD%D0%B5-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%81%D1%8F-%D0%B4%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B5%D0%B4%D0%B0-e4cd5fa3fa85#.3ueaaupbx",
+            "display_url": "medium.com/russian/%D0%BF…",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
