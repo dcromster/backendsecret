@@ -37,28 +37,55 @@
     }
   },
   "protected": false,
-  "followers_count": 3093,
+  "followers_count": 3091,
   "friends_count": 0,
-  "listed_count": 0,
+  "listed_count": 199,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2148,
+  "favourites_count": 2147,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18523,
+  "statuses_count": 18548,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Jan 20 11:13:35 +0000 2017",
-    "id": 822401682134863900,
-    "id_str": "822401682134863875",
-    "text": "Тви, а кто подскажет плату на которой периферия классная? GNSS, IMU разные (acceler., gyro)? Или строго модулями к сущест. добивать?",
+    "created_at": "Sun Jan 22 11:32:39 +0000 2017",
+    "id": 823131256070094800,
+    "id_str": "823131256070094848",
+    "text": "Ссылочка на неплохой гайд по #GCC от Brian Gough: https://t.co/j31NEtf5kN также не забываем про https://t.co/NS1jx1u2F5",
     "truncated": false,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "GCC",
+          "indices": [
+            29,
+            33
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/j31NEtf5kN",
+          "expanded_url": "https://tfetimes.com/wp-content/uploads/2015/09/An_Introduction_to_GCC-Brian_Gough.pdf",
+          "display_url": "tfetimes.com/wp-content/upl…",
+          "indices": [
+            50,
+            73
+          ]
+        },
+        {
+          "url": "https://t.co/NS1jx1u2F5",
+          "expanded_url": "https://gcc.gnu.org/onlinedocs/gccint/",
+          "display_url": "gcc.gnu.org/onlinedocs/gcc…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -72,9 +99,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
