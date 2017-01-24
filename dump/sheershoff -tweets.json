@@ -1252,6 +1252,106 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 24 06:47:39 +0000 2017",
+      "id": 823784310834663400,
+      "id_str": "823784310834663425",
+      "text": "Примитивность = в ядре node.js мало функций и всё время приходится подключать либы? Ну, в c++ не лучше, насколько я… https://t.co/NsuIE9pzI5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NsuIE9pzI5",
+            "expanded_url": "https://twitter.com/i/web/status/823784310834663425",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 823517177198288900,
+      "quoted_status_id_str": "823517177198288896",
+      "quoted_status": {
+        "created_at": "Mon Jan 23 13:06:09 +0000 2017",
+        "id": 823517177198288900,
+        "id_str": "823517177198288896",
+        "text": "@backendsecret @EAytpaev нет боли от примитивности JS? Я тут тоже на MEAN переползаю и страдаю, язык сейчас находится на уровне PHP4 :-(",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "EAytpaev",
+              "name": "Erlan Aytpaev",
+              "id": 573799575,
+              "id_str": "573799575",
+              "indices": [
+                15,
+                24
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 823514289675898900,
+        "in_reply_to_status_id_str": "823514289675898882",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 42567069,
+          "id_str": "42567069"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
