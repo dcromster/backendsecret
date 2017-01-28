@@ -3221,6 +3221,96 @@
       "favorited": false,
       "retweeted": true,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jan 28 10:52:16 +0000 2017",
+      "id": 825295421497024500,
+      "id_str": "825295421497024512",
+      "text": "Да, этот тоже есть. Но он не позволяет потом разметить по активностям отрезки времени ручками, как ManicTime. https://t.co/mVbIip8aSo",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mVbIip8aSo",
+            "expanded_url": "https://twitter.com/vanadium23/status/825262849861754881",
+            "display_url": "twitter.com/vanadium23/sta…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 825262849861754900,
+      "quoted_status_id_str": "825262849861754881",
+      "quoted_status": {
+        "created_at": "Sat Jan 28 08:42:50 +0000 2017",
+        "id": 825262849861754900,
+        "id_str": "825262849861754881",
+        "text": "@backendsecret rescuetime собирает по загаловкам на всех осях",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 825255869025751000,
+        "in_reply_to_status_id_str": "825255869025751040",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 223273129,
+          "id_str": "223273129"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
