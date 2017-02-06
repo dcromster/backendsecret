@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3128,
+  "followers_count": 3130,
   "friends_count": 1,
   "listed_count": 201,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,19 +46,29 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18820,
+  "statuses_count": 18823,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Feb 06 13:00:52 +0000 2017",
-    "id": 828589277651017700,
-    "id_str": "828589277651017728",
-    "text": "Напишите, плиз, на какие ещё темы хочеться поговорить вам, а я пока на митинг убежал :)",
+    "created_at": "Mon Feb 06 14:23:35 +0000 2017",
+    "id": 828610092463427600,
+    "id_str": "828610092463427586",
+    "text": "Хорошо, добавил к списку тем, поговорим и про митинги https://t.co/DaJ9Kzz4qb",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/DaJ9Kzz4qb",
+          "expanded_url": "https://twitter.com/strizhechenko/status/828590893783457792",
+          "display_url": "twitter.com/strizhechenko/…",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 828590893783457800,
+    "quoted_status_id_str": "828590893783457792",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
