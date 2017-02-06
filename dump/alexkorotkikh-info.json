@@ -37,40 +37,69 @@
     }
   },
   "protected": false,
-  "followers_count": 3133,
+  "followers_count": 3134,
   "friends_count": 1,
-  "listed_count": 201,
+  "listed_count": 202,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 2194,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18856,
+  "statuses_count": 18874,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Feb 06 16:24:47 +0000 2017",
-    "id": 828640593299505200,
-    "id_str": "828640593299505152",
-    "text": "Мне кажется, лишний слой абстракции только усложняет и разработку, и поддержку https://t.co/7c9sRaZ7bI",
+    "created_at": "Mon Feb 06 18:55:20 +0000 2017",
+    "id": 828678480120442900,
+    "id_str": "828678480120442884",
+    "text": "Кстати, не могу не воспользоваться положением - we’re hiring! #scala/#java, #nodejs, #devops. Релокейт в Германию :) https://t.co/ZTY3zopw8V",
     "truncated": false,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "scala",
+          "indices": [
+            62,
+            68
+          ]
+        },
+        {
+          "text": "java",
+          "indices": [
+            69,
+            74
+          ]
+        },
+        {
+          "text": "nodejs",
+          "indices": [
+            76,
+            83
+          ]
+        },
+        {
+          "text": "devops",
+          "indices": [
+            85,
+            92
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/7c9sRaZ7bI",
-          "expanded_url": "https://twitter.com/drcreazy/status/828640032206548992",
-          "display_url": "twitter.com/drcreazy/statu…",
+          "url": "https://t.co/ZTY3zopw8V",
+          "expanded_url": "http://kreditech.com/careers",
+          "display_url": "kreditech.com/careers",
           "indices": [
-            79,
-            102
+            117,
+            140
           ]
         }
       ]
     },
-    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -80,11 +109,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 828640032206549000,
-    "quoted_status_id_str": "828640032206548992",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
