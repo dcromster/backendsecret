@@ -3,19 +3,8 @@
   "id_str": "3302551618",
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
-  "location": "Hamburg, Germany",
-  "profile_location": {
-    "id": "5bcd72da50f0ee77",
-    "url": "https://api.twitter.com/1.1/geo/id/5bcd72da50f0ee77.json",
-    "place_type": "unknown",
-    "name": "Hamburg, Germany",
-    "full_name": "Hamburg, Germany",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "location": "Hamburg, Deutschland",
+  "profile_location": null,
   "description": "На этой неделе с вами @alexkorotkikh, VP Engineering @Kreditech",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -37,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3138,
+  "followers_count": 3140,
   "friends_count": 1,
   "listed_count": 201,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,42 +35,40 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18876,
+  "statuses_count": 18898,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Feb 06 19:18:06 +0000 2017",
-    "id": 828684208054874100,
-    "id_str": "828684208054874116",
-    "text": "RT @suicidecoding: @backendsecret Яндекс.Метрика решает задачу аналитики по сайтам и приложениям. В твите не опишешь. Наша статья: https://…",
+    "created_at": "Tue Feb 07 17:41:48 +0000 2017",
+    "id": 829022361240404000,
+    "id_str": "829022361240403969",
+    "text": "Нет простого ответа, от 18 до 40+ процентов. В эбродике описывал подробнее https://t.co/i0bYPVuMSZ https://t.co/aEhJfDpU56",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "suicidecoding",
-          "name": "Victor Tarnavsky",
-          "id": 1366660872,
-          "id_str": "1366660872",
+          "url": "https://t.co/i0bYPVuMSZ",
+          "expanded_url": "http://abroadunderhood.ru/alexkorotkikh/#2016-07-13",
+          "display_url": "abroadunderhood.ru/alexkorotkikh/…",
           "indices": [
-            3,
-            17
+            75,
+            98
           ]
         },
         {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
+          "url": "https://t.co/aEhJfDpU56",
+          "expanded_url": "https://twitter.com/alakhverdyants/status/829022022772613129",
+          "display_url": "twitter.com/alakhverdyants…",
           "indices": [
-            19,
-            33
+            99,
+            122
           ]
         }
-      ],
-      "urls": []
+      ]
     },
-    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -91,62 +78,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Feb 06 19:08:23 +0000 2017",
-      "id": 828681764180738000,
-      "id_str": "828681764180738048",
-      "text": "@backendsecret Яндекс.Метрика решает задачу аналитики по сайтам и приложениям. В твите не опишешь. Наша статья: https://t.co/x6sRNgWvVF",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              0,
-              14
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/x6sRNgWvVF",
-            "expanded_url": "https://m.habrahabr.ru/company/yandex/blog/273305/",
-            "display_url": "m.habrahabr.ru/company/yandex…",
-            "indices": [
-              112,
-              135
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "in_reply_to_status_id": 828681119008710700,
-      "in_reply_to_status_id_str": "828681119008710656",
-      "in_reply_to_user_id": 3302551618,
-      "in_reply_to_user_id_str": "3302551618",
-      "in_reply_to_screen_name": "backendsecret",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 8,
-      "favorited": false,
-      "retweeted": true,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
-    "retweet_count": 1,
+    "is_quote_status": true,
+    "quoted_status_id": 829022022772613100,
+    "quoted_status_id_str": "829022022772613129",
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
