@@ -37,67 +37,49 @@
     }
   },
   "protected": false,
-  "followers_count": 3134,
+  "followers_count": 3138,
   "friends_count": 1,
-  "listed_count": 202,
+  "listed_count": 201,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 2194,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18874,
+  "statuses_count": 18876,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Feb 06 18:55:20 +0000 2017",
-    "id": 828678480120442900,
-    "id_str": "828678480120442884",
-    "text": "Кстати, не могу не воспользоваться положением - we’re hiring! #scala/#java, #nodejs, #devops. Релокейт в Германию :) https://t.co/ZTY3zopw8V",
+    "created_at": "Mon Feb 06 19:18:06 +0000 2017",
+    "id": 828684208054874100,
+    "id_str": "828684208054874116",
+    "text": "RT @suicidecoding: @backendsecret Яндекс.Метрика решает задачу аналитики по сайтам и приложениям. В твите не опишешь. Наша статья: https://…",
     "truncated": false,
     "entities": {
-      "hashtags": [
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
         {
-          "text": "scala",
+          "screen_name": "suicidecoding",
+          "name": "Victor Tarnavsky",
+          "id": 1366660872,
+          "id_str": "1366660872",
           "indices": [
-            62,
-            68
+            3,
+            17
           ]
         },
         {
-          "text": "java",
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
           "indices": [
-            69,
-            74
-          ]
-        },
-        {
-          "text": "nodejs",
-          "indices": [
-            76,
-            83
-          ]
-        },
-        {
-          "text": "devops",
-          "indices": [
-            85,
-            92
+            19,
+            33
           ]
         }
       ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/ZTY3zopw8V",
-          "expanded_url": "http://kreditech.com/careers",
-          "display_url": "kreditech.com/careers",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "in_reply_to_status_id": null,
@@ -109,12 +91,62 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Feb 06 19:08:23 +0000 2017",
+      "id": 828681764180738000,
+      "id_str": "828681764180738048",
+      "text": "@backendsecret Яндекс.Метрика решает задачу аналитики по сайтам и приложениям. В твите не опишешь. Наша статья: https://t.co/x6sRNgWvVF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/x6sRNgWvVF",
+            "expanded_url": "https://m.habrahabr.ru/company/yandex/blog/273305/",
+            "display_url": "m.habrahabr.ru/company/yandex…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 828681119008710700,
+      "in_reply_to_status_id_str": "828681119008710656",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
