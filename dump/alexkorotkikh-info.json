@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3143,
+  "followers_count": 3141,
   "friends_count": 1,
   "listed_count": 201,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,40 +46,29 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18908,
+  "statuses_count": 18910,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Feb 07 20:35:24 +0000 2017",
-    "id": 829066051610615800,
-    "id_str": "829066051610615808",
-    "text": "RT @visualwatermark: @backendsecret в Швейцарию: высокие ЗП и низкие налоги. Если детей нет, то денег много оставаться будет.",
-    "truncated": false,
+    "created_at": "Wed Feb 08 12:13:04 +0000 2017",
+    "id": 829302023120101400,
+    "id_str": "829302023120101376",
+    "text": "В принципе, можно и так. Главное не забывать все пускать через миграции, чтобы версионирование было. Хотя я не любл… https://t.co/pEenS2tPOr",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "visualwatermark",
-          "name": "Ivan Nikitin",
-          "id": 284122822,
-          "id_str": "284122822",
+          "url": "https://t.co/pEenS2tPOr",
+          "expanded_url": "https://twitter.com/i/web/status/829302023120101376",
+          "display_url": "twitter.com/i/web/status/8…",
           "indices": [
-            3,
-            19
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            21,
-            35
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "in_reply_to_status_id": null,
@@ -91,51 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Feb 07 20:20:56 +0000 2017",
-      "id": 829062410103300100,
-      "id_str": "829062410103300096",
-      "text": "@backendsecret в Швейцарию: высокие ЗП и низкие налоги. Если детей нет, то денег много оставаться будет.",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              0,
-              14
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 829033020837478400,
-      "in_reply_to_status_id_str": "829033020837478401",
-      "in_reply_to_user_id": 3302551618,
-      "in_reply_to_user_id_str": "3302551618",
-      "in_reply_to_screen_name": "backendsecret",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 4,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
-    "retweet_count": 1,
+    "is_quote_status": true,
+    "quoted_status_id": 829199891327045600,
+    "quoted_status_id_str": "829199891327045634",
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
