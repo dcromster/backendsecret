@@ -164,6 +164,777 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 20 07:32:19 +0000 2017",
+      "id": 833580025840558100,
+      "id_str": "833580025840558081",
+      "text": "Что нужно знать про Go даже тем, кто (пока) не планирует его изучать? Интерфейсный подход, который нельзя не оценить https://t.co/3yYCyudPPt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3yYCyudPPt",
+            "expanded_url": "https://research.swtch.com/interfaces",
+            "display_url": "research.swtch.com/interfaces",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 25,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 20 07:53:43 +0000 2017",
+      "id": 833585410752335900,
+      "id_str": "833585410752335873",
+      "text": "@FlyDieFly спасибо за вопрос! чуть позже сделаю подборку по этой теме, да.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FlyDieFly",
+            "name": "FlyDieFly",
+            "id": 327806301,
+            "id_str": "327806301",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 833574758562279400,
+      "in_reply_to_status_id_str": "833574758562279424",
+      "in_reply_to_user_id": 327806301,
+      "in_reply_to_user_id_str": "327806301",
+      "in_reply_to_screen_name": "FlyDieFly",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 20 08:37:05 +0000 2017",
+      "id": 833596321764405200,
+      "id_str": "833596321764405248",
+      "text": "В тройку самых популярных фич Go также можно включить рефлексию и, конечно, подход к многопоточности. А вы за что любите или не любите Go?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 20 09:57:45 +0000 2017",
+      "id": 833616623865061400,
+      "id_str": "833616623865061376",
+      "text": "Рефлексия была упомянута не в контексте уникальных, но в контексте любимых фич. Распарсить запрос / ответ в статиче… https://t.co/2kfzcKIcMp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2kfzcKIcMp",
+            "expanded_url": "https://twitter.com/i/web/status/833616623865061376",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 833612498758692900,
+      "quoted_status_id_str": "833612498758692866",
+      "quoted_status": {
+        "created_at": "Mon Feb 20 09:41:22 +0000 2017",
+        "id": 833612498758692900,
+        "id_str": "833612498758692866",
+        "text": "@backendsecret а в рефлексии-то что такого? в смысле, она какая-то даже в C++ есть, не говоря уже о JVM/CLR языках.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 833596321764405200,
+        "in_reply_to_status_id_str": "833596321764405248",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 14445002,
+          "id_str": "14445002"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 20 09:58:48 +0000 2017",
+      "id": 833616887367999500,
+      "id_str": "833616887367999488",
+      "text": "Пример от @m0sth8: https://t.co/c387uXKM9F. Для того, чтобы прочитать конфиг из флагов или env, надо только описать теги в структуре. (2/2)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "M0sth8",
+            "name": "M0sth8",
+            "id": 14380975,
+            "id_str": "14380975",
+            "indices": [
+              10,
+              17
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/c387uXKM9F",
+            "expanded_url": "https://github.com/octago/sflags",
+            "display_url": "github.com/octago/sflags",
+            "indices": [
+              19,
+              42
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 20 10:42:40 +0000 2017",
+      "id": 833627927686307800,
+      "id_str": "833627927686307840",
+      "text": "Релиз – не просто момент, когда долгожданные фичи оказываются в относительно стабильной ветке, это еще и повод собр… https://t.co/4f9FTKpqzk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4f9FTKpqzk",
+            "expanded_url": "https://twitter.com/i/web/status/833627927686307840",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 833589980291272700,
+      "quoted_status_id_str": "833589980291272704",
+      "quoted_status": {
+        "created_at": "Mon Feb 20 08:11:53 +0000 2017",
+        "id": 833589980291272700,
+        "id_str": "833589980291272704",
+        "text": "@backendsecret вот это отличная тема, никогда не понимал, почему 99% гоферов \"отмечают\" каждый релиз … серьезно, это же минорные обновления",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 833551102608019500,
+        "in_reply_to_status_id_str": "833551102608019456",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 821875530,
+          "id_str": "821875530"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 20 10:50:50 +0000 2017",
+      "id": 833629980445835300,
+      "id_str": "833629980445835265",
+      "text": "@galnikrom тем не менее, сами релизы считаются мажорными https://t.co/loUJS3QAAu. Фичи бывают важные и интересные, где есть что обсудить.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "galnikrom",
+            "name": "Nikita Galushko",
+            "id": 821875530,
+            "id_str": "821875530",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/loUJS3QAAu",
+            "expanded_url": "https://golang.org/doc/devel/release.html",
+            "display_url": "golang.org/doc/devel/rele…",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 833628239109222400,
+      "in_reply_to_status_id_str": "833628239109222400",
+      "in_reply_to_user_id": 821875530,
+      "in_reply_to_user_id_str": "821875530",
+      "in_reply_to_screen_name": "galnikrom",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 20 10:52:26 +0000 2017",
+      "id": 833630383887487000,
+      "id_str": "833630383887486976",
+      "text": "@galnikrom например, в Go 1.8 добавили контекст в несколько разных пакетов. Отличный повод, чтобы вспомнить о best practices по нему.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "galnikrom",
+            "name": "Nikita Galushko",
+            "id": 821875530,
+            "id_str": "821875530",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 833628239109222400,
+      "in_reply_to_status_id_str": "833628239109222400",
+      "in_reply_to_user_id": 821875530,
+      "in_reply_to_user_id_str": "821875530",
+      "in_reply_to_screen_name": "galnikrom",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 20 11:34:05 +0000 2017",
+      "id": 833640867680378900,
+      "id_str": "833640867680378880",
+      "text": "Сообщество, собранное вокруг Go, – еще одна его сильная сторона: новичку обязательно помогут, а полезный open source проект всегда поддержат",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 20 11:34:14 +0000 2017",
+      "id": 833640903155806200,
+      "id_str": "833640903155806210",
+      "text": "Пообщаться с гоферами можно как в международном https://t.co/x8278VgZwQ, так и в русскоязычном https://t.co/OHkm3GSn9V Slack-чатах.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/x8278VgZwQ",
+            "expanded_url": "https://invite.slack.golangbridge.org",
+            "display_url": "invite.slack.golangbridge.org",
+            "indices": [
+              48,
+              71
+            ]
+          },
+          {
+            "url": "https://t.co/OHkm3GSn9V",
+            "expanded_url": "http://4gophers.ru/slack",
+            "display_url": "4gophers.ru/slack",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 20 13:09:42 +0000 2017",
+      "id": 833664927923576800,
+      "id_str": "833664927923576832",
+      "text": "До Go писала на динамических ЯП (не считая университетского опыта с C/C++). Покорил возможностью быстро и легко пис… https://t.co/h4ZmkyiSTq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/h4ZmkyiSTq",
+            "expanded_url": "https://twitter.com/i/web/status/833664927923576832",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 833587073986728000,
+      "quoted_status_id_str": "833587073986727936",
+      "quoted_status": {
+        "created_at": "Mon Feb 20 08:00:20 +0000 2017",
+        "id": 833587073986728000,
+        "id_str": "833587073986727936",
+        "text": "@backendsecret @webdeva @openprovider @GolangShow почему именно Go? Чем он зацепил? На чем писали до него?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "webdeva",
+              "name": "Elena Grahovac",
+              "id": 2835153172,
+              "id_str": "2835153172",
+              "indices": [
+                15,
+                23
+              ]
+            },
+            {
+              "screen_name": "openprovider",
+              "name": "Openprovider",
+              "id": 214453107,
+              "id_str": "214453107",
+              "indices": [
+                24,
+                37
+              ]
+            },
+            {
+              "screen_name": "GolangShow",
+              "name": "GolangShow",
+              "id": 3382276751,
+              "id_str": "3382276751",
+              "indices": [
+                38,
+                49
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 833539291531866100,
+        "in_reply_to_status_id_str": "833539291531866113",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 760028430247264300,
+          "id_str": "760028430247264256"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 20 13:35:25 +0000 2017",
+      "id": 833671401370480600,
+      "id_str": "833671401370480641",
+      "text": "Пользуясь случаем, хочу порекомендовать ORM от @paaleksey: https://t.co/QAmZ0MBqvr. Проект, в котором может поучаст… https://t.co/M4EOZpTBJc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "paaleksey",
+            "name": "Aleksey Palazhchenko",
+            "id": 95860919,
+            "id_str": "95860919",
+            "indices": [
+              47,
+              57
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QAmZ0MBqvr",
+            "expanded_url": "https://github.com/go-reform/reform",
+            "display_url": "github.com/go-reform/refo…",
+            "indices": [
+              59,
+              82
+            ]
+          },
+          {
+            "url": "https://t.co/M4EOZpTBJc",
+            "expanded_url": "https://twitter.com/i/web/status/833671401370480641",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 833668643229667300,
+      "quoted_status_id_str": "833668643229667331",
+      "quoted_status": {
+        "created_at": "Mon Feb 20 13:24:28 +0000 2017",
+        "id": 833668643229667300,
+        "id_str": "833668643229667331",
+        "text": "@backendsecret Осталось нормальную либу под SQL и можно рельсы заменять :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 833664927923576800,
+        "in_reply_to_status_id_str": "833664927923576832",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 62336528,
+          "id_str": "62336528"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
