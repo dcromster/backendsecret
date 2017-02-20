@@ -1,0 +1,169 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Feb 20 04:50:28 +0000 2017",
+      "id": 833539291531866100,
+      "id_str": "833539291531866113",
+      "text": "Здравствуйте! С вами @webdeva. Пишу микросервисы на Go в @openprovider. А ещё меня регулярно можно слышать в @golangshow.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webdeva",
+            "name": "Elena Grahovac",
+            "id": 2835153172,
+            "id_str": "2835153172",
+            "indices": [
+              21,
+              29
+            ]
+          },
+          {
+            "screen_name": "openprovider",
+            "name": "Openprovider",
+            "id": 214453107,
+            "id_str": "214453107",
+            "indices": [
+              57,
+              70
+            ]
+          },
+          {
+            "screen_name": "GolangShow",
+            "name": "GolangShow",
+            "id": 3382276751,
+            "id_str": "3382276751",
+            "indices": [
+              109,
+              120
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 20 05:20:13 +0000 2017",
+      "id": 833546777995407400,
+      "id_str": "833546777995407362",
+      "text": "Как все уже догадались, основные темы недели – #golang и #microservices. А еще поговорим про самообразование и soft skills для бэкендера.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "golang",
+            "indices": [
+              47,
+              54
+            ]
+          },
+          {
+            "text": "microservices",
+            "indices": [
+              57,
+              71
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 20 05:37:24 +0000 2017",
+      "id": 833551102608019500,
+      "id_str": "833551102608019456",
+      "text": "На прошлой неделе гоферы по всему миру отмечали выход релиза 1.8: https://t.co/tY5DJsYQmm. Фото с новосибирского ре… https://t.co/KFz1mBLpz3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tY5DJsYQmm",
+            "expanded_url": "https://blog.golang.org/go1.8",
+            "display_url": "blog.golang.org/go1.8",
+            "indices": [
+              66,
+              89
+            ]
+          },
+          {
+            "url": "https://t.co/KFz1mBLpz3",
+            "expanded_url": "https://twitter.com/i/web/status/833551102608019456",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
