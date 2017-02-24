@@ -1827,6 +1827,314 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 22 14:24:49 +0000 2017",
+      "id": 834408607131304000,
+      "id_str": "834408607131303936",
+      "text": "В комментах к предыдущем твиту есть фреймворки для веб на любой вкус. А как насчет msoa-тулкитов? Например, micro: https://t.co/uzyjoK3PKA",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uzyjoK3PKA",
+            "expanded_url": "https://github.com/micro/micro",
+            "display_url": "github.com/micro/micro",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 24 03:50:32 +0000 2017",
+      "id": 834973760671342600,
+      "id_str": "834973760671342593",
+      "text": "Я думаю, очень даже реально. По самому Go можно начать с тура: https://t.co/XjOzEnD1DJ.\nЧто на ваш взгляд нужно зна… https://t.co/NX9ozOIEuK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XjOzEnD1DJ",
+            "expanded_url": "https://tour.golang.org",
+            "display_url": "tour.golang.org",
+            "indices": [
+              63,
+              86
+            ]
+          },
+          {
+            "url": "https://t.co/NX9ozOIEuK",
+            "expanded_url": "https://twitter.com/i/web/status/834973760671342593",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 834368630183907300,
+      "quoted_status_id_str": "834368630183907330",
+      "quoted_status": {
+        "created_at": "Wed Feb 22 11:45:57 +0000 2017",
+        "id": 834368630183907300,
+        "id_str": "834368630183907330",
+        "text": "@backendsecret запоздалый вопрос: реально ли фронтендеру без глубокого опыта в беке перейти на Go и что нужно знать, помимо языка?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 833546777995407400,
+        "in_reply_to_status_id_str": "833546777995407362",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 908910205,
+          "id_str": "908910205"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 24 03:50:46 +0000 2017",
+      "id": 834973822260506600,
+      "id_str": "834973822260506625",
+      "text": "@backendsecret И сама же отвечу. Изучать структуры данных и алгоритмы, базы данных. Разобраться со стеком протоколов TCP/IP.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 834973760671342600,
+      "in_reply_to_status_id_str": "834973760671342593",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 24 03:59:26 +0000 2017",
+      "id": 834976002321309700,
+      "id_str": "834976002321309696",
+      "text": "По TCP/IP коллеги недавно порекомендовали Walter Goralski - The Illustrated Network. Подойдет всем, кому книги по с… https://t.co/u6s02MiclU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/u6s02MiclU",
+            "expanded_url": "https://twitter.com/i/web/status/834976002321309696",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 35,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 24 06:28:55 +0000 2017",
+      "id": 835013618714423300,
+      "id_str": "835013618714423296",
+      "text": "@village_geek ответила в ЛС",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "village_geek",
+            "name": "Pavel Pavlenko",
+            "id": 331790230,
+            "id_str": "331790230",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 835003413930864600,
+      "in_reply_to_status_id_str": "835003413930864640",
+      "in_reply_to_user_id": 331790230,
+      "in_reply_to_user_id_str": "331790230",
+      "in_reply_to_screen_name": "village_geek",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 24 06:32:57 +0000 2017",
+      "id": 835014633366958100,
+      "id_str": "835014633366958081",
+      "text": "А с чего начинать вообще? Моим первым осознанным ЯП был Python, и я его рекомендую начинающим. Хотя мечтаю сделать курс по Go для новичков.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
