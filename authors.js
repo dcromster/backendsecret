@@ -1,7 +1,8 @@
 export default [
   // { username: 'twitter_name', start: '15 feb 2017', first: '640816652293144576', post: false},
+  { username: 'shutyourprogram', start: '27 feb 2017', first: '836131434955948032', post: false},
   { username: 'webdeva', start: '20 feb 2017', first: '833539291531866113'},
-  { username: 'alexkorotkikh', start: '15 nov 2017', first: '828588323765678080'},
+  { username: 'alexkorotkikh', start: '06 feb 2017', first: '828588323765678080'},
   { username: 'BesseIFunction', start: '30 jan 2017', first: '825974377296572416'},
   { username: 'sheershoff ', start: '23 jan 2017', first: '823422451203928064'},
   { username: 'gahcep', start: '16 jan 2017', first: '820796438770814981'},
