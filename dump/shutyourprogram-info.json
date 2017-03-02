@@ -30,39 +30,52 @@
   "friends_count": 1,
   "listed_count": 200,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2260,
+  "favourites_count": 2261,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19226,
+  "statuses_count": 19231,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Mar 02 10:02:27 +0000 2017",
-    "id": 837241682898927600,
-    "id_str": "837241682898927617",
-    "text": "Кстати, если у кого-то есть опыт с шардировнием #MongoDb - поделитесь, пожалуйста🙂\nчто и зачем шардировали, такое ли поведение, как ожидали?",
+    "created_at": "Thu Mar 02 11:30:28 +0000 2017",
+    "id": 837263835702693900,
+    "id_str": "837263835702693888",
+    "text": "@salikhov можно, но имеет смысл только для девелопмента\nhttps://t.co/iCj6MJrDYQ",
     "truncated": false,
     "entities": {
-      "hashtags": [
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
         {
-          "text": "MongoDb",
+          "screen_name": "salikhov",
+          "name": "Ilyas Salikhov",
+          "id": 15677160,
+          "id_str": "15677160",
           "indices": [
-            48,
-            56
+            0,
+            9
           ]
         }
       ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/iCj6MJrDYQ",
+          "expanded_url": "http://www.techpaste.com/2016/04/limit-mongodb-memory-usage/",
+          "display_url": "techpaste.com/2016/04/limit-…",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 837259032251478000,
+    "in_reply_to_status_id_str": "837259032251478016",
+    "in_reply_to_user_id": 15677160,
+    "in_reply_to_user_id_str": "15677160",
+    "in_reply_to_screen_name": "salikhov",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -72,6 +85,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
