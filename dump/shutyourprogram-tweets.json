@@ -12484,6 +12484,708 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 02 15:53:07 +0000 2017",
+      "id": 837329934137835500,
+      "id_str": "837329934137835521",
+      "text": "Только что очень обрадовался, но не надолго - autoIndexId опция уже deprecated, и в 3.4 Монге ее уберут вообще https://t.co/9AHVFC91wW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9AHVFC91wW",
+            "expanded_url": "https://twitter.com/qwestua/status/837276868608937985",
+            "display_url": "twitter.com/qwestua/status…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 837276868608938000,
+      "quoted_status_id_str": "837276868608937985",
+      "quoted_status": {
+        "created_at": "Thu Mar 02 12:22:15 +0000 2017",
+        "id": 837276868608938000,
+        "id_str": "837276868608937985",
+        "text": "@backendsecret во-первых, индекс на _id все же можно не создавать (см. https://t.co/CeH1SW2Qb7). Но в целом, Монге нужно много памяти.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/CeH1SW2Qb7",
+              "expanded_url": "https://docs.mongodb.com/manual/reference/method/db.createCollection/#db.createCollection",
+              "display_url": "docs.mongodb.com/manual/referen…",
+              "indices": [
+                71,
+                94
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 837239585620942800,
+        "in_reply_to_status_id_str": "837239585620942848",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 84796945,
+          "id_str": "84796945"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 02 15:54:10 +0000 2017",
+      "id": 837330195644309500,
+      "id_str": "837330195644309506",
+      "text": "@backendsecret https://t.co/ng96BUIDZX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 837330189621297200,
+            "id_str": "837330189621297152",
+            "indices": [
+              15,
+              38
+            ],
+            "media_url": "http://pbs.twimg.com/media/C57LXwAWgAAbVjf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C57LXwAWgAAbVjf.jpg",
+            "url": "https://t.co/ng96BUIDZX",
+            "display_url": "pic.twitter.com/ng96BUIDZX",
+            "expanded_url": "https://twitter.com/backendsecret/status/837330195644309506/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 640,
+                "h": 294,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 294,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 294,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 837330189621297200,
+            "id_str": "837330189621297152",
+            "indices": [
+              15,
+              38
+            ],
+            "media_url": "http://pbs.twimg.com/media/C57LXwAWgAAbVjf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C57LXwAWgAAbVjf.jpg",
+            "url": "https://t.co/ng96BUIDZX",
+            "display_url": "pic.twitter.com/ng96BUIDZX",
+            "expanded_url": "https://twitter.com/backendsecret/status/837330195644309506/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 640,
+                "h": 294,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 294,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 294,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 837329934137835500,
+      "in_reply_to_status_id_str": "837329934137835521",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Mar 02 16:18:59 +0000 2017",
+      "id": 837336442040901600,
+      "id_str": "837336442040901633",
+      "text": "@salikhov так нет проблемы со свопом, есть проблема с тем, что индексы в память могут полностью не помещаться, и из-за этого могут быть",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "salikhov",
+            "name": "Ilyas Salikhov",
+            "id": 15677160,
+            "id_str": "15677160",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 837281189874569200,
+      "in_reply_to_status_id_str": "837281189874569216",
+      "in_reply_to_user_id": 15677160,
+      "in_reply_to_user_id_str": "15677160",
+      "in_reply_to_screen_name": "salikhov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 02 16:20:00 +0000 2017",
+      "id": 837336697591443500,
+      "id_str": "837336697591443456",
+      "text": "@salikhov проблемы как с производительностью, так и с завышенным потреблением RAM\n\nЭто если индексы использовать чрезмерно, на каждый чих 😅",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "salikhov",
+            "name": "Ilyas Salikhov",
+            "id": 15677160,
+            "id_str": "15677160",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 837336442040901600,
+      "in_reply_to_status_id_str": "837336442040901633",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 02 16:34:39 +0000 2017",
+      "id": 837340385542299600,
+      "id_str": "837340385542299658",
+      "text": "а есть смельчаки, кто уже выкатил 7.6.0 #NodeJS в продакшн?)\nкак оно, полёт нормальный?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "NodeJS",
+            "indices": [
+              40,
+              47
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 02 16:40:12 +0000 2017",
+      "id": 837341782484615200,
+      "id_str": "837341782484615168",
+      "text": "@salikhov можно наоборот - запретить лезть в swap, например)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "salikhov",
+            "name": "Ilyas Salikhov",
+            "id": 15677160,
+            "id_str": "15677160",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 837339040965853200,
+      "in_reply_to_status_id_str": "837339040965853184",
+      "in_reply_to_user_id": 15677160,
+      "in_reply_to_user_id_str": "15677160",
+      "in_reply_to_screen_name": "salikhov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 02 18:26:55 +0000 2017",
+      "id": 837368637413593100,
+      "id_str": "837368637413593090",
+      "text": "Многие набрасывали всякое в течение недолгих трёх дней, а теперь соя очередь!\n\nВжух! И везде #microservices \n\n(выдохните, на самом деле нет)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "microservices",
+            "indices": [
+              93,
+              107
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 02 18:27:50 +0000 2017",
+      "id": 837368868410642400,
+      "id_str": "837368868410642432",
+      "text": "@backendsecret не могу сказать,  что являюсь ярым противником оных, но и в сторонники точно не возьмут, а то и палкой выгонят",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 837368637413593100,
+      "in_reply_to_status_id_str": "837368637413593090",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 02 18:28:51 +0000 2017",
+      "id": 837369125529870300,
+      "id_str": "837369125529870336",
+      "text": "@backendsecret в целом, отношусь к ним с большой осторожностью и считаю, что юзать их надо в меру",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 837368868410642400,
+      "in_reply_to_status_id_str": "837368868410642432",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 02 18:30:44 +0000 2017",
+      "id": 837369600073424900,
+      "id_str": "837369600073424897",
+      "text": "@backendsecret вообще, есть три подхода:\n- приложение монолит\n- микросервисы\n- гексагональная архитетура\n\nПоследнее - это как раз серединка",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 837369125529870300,
+      "in_reply_to_status_id_str": "837369125529870336",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 02 18:31:49 +0000 2017",
+      "id": 837369872564768800,
+      "id_str": "837369872564768770",
+      "text": "@backendsecret на половинку, что-то между монолитом и микрос, на мой взгляд - самый здравый подход, где есть основное приложение и несколько",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 837369600073424900,
+      "in_reply_to_status_id_str": "837369600073424897",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 02 18:32:43 +0000 2017",
+      "id": 837370099275337700,
+      "id_str": "837370099275337732",
+      "text": "@backendsecret небольших сервисов под конкретные задачи (можно даже на других языках, ого!)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 837369872564768800,
+      "in_reply_to_status_id_str": "837369872564768770",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 02 18:35:20 +0000 2017",
+      "id": 837370755084140500,
+      "id_str": "837370755084140545",
+      "text": "@backendsecret да и вообще, интересный термин микросервисы - а кто определяет, достаточно ли этот сервис микро?)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 837370099275337700,
+      "in_reply_to_status_id_str": "837370099275337732",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
