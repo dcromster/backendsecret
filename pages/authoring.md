@@ -63,6 +63,10 @@
 
 Если вы заметили нарушение, как можно скорее [напишите письмо][coc-violations].
 
+Выберите свободную удобную неделю:
+
+<iframe src="https://calendar.google.com/calendar/embed?src=v0s5eu4e2p76itndjj93pnnmfo%40group.calendar.google.com&ctz=Europe/Moscow" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 [uh]: https://twitter.com/backendsecret
 [proposal]: mailto:backendsecret@gmail.com?subject=Author’s%20proposal%20for%20@backendsecret
 [coc-violations]: mailto:backendsecret@gmail.com?subject=CoC%20violations%20in%20@backendsecret
