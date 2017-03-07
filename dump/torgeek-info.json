@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3259,
+  "followers_count": 3257,
   "friends_count": 1,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,19 +35,29 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19325,
+  "statuses_count": 19330,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Mar 06 13:03:57 +0000 2017",
-    "id": 838736911539777500,
-    "id_str": "838736911539777536",
-    "text": "А ещё про обучение командной разработке и совсем мало про код. Главное - задавайте вопросы!",
+    "created_at": "Tue Mar 07 02:15:57 +0000 2017",
+    "id": 838936227021733900,
+    "id_str": "838936227021733888",
+    "text": "Сейчас чудовищная нехватка разработчиков, конкуренция за головы, а значит и за опыт тоже. https://t.co/4C7TOHck8m",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/4C7TOHck8m",
+          "expanded_url": "https://twitter.com/grim_juz/status/838923069460791297",
+          "display_url": "twitter.com/grim_juz/statu…",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "in_reply_to_status_id": null,
@@ -59,11 +69,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "is_quote_status": true,
+    "quoted_status_id": 838923069460791300,
+    "quoted_status_id_str": "838923069460791297",
+    "retweet_count": 1,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
