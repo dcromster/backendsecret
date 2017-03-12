@@ -26,38 +26,39 @@
     }
   },
   "protected": false,
-  "followers_count": 3270,
-  "friends_count": 1,
+  "followers_count": 3274,
+  "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2290,
+  "favourites_count": 2298,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19353,
+  "statuses_count": 19357,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Mar 12 01:09:05 +0000 2017",
-    "id": 840731338701459500,
-    "id_str": "840731338701459457",
-    "text": "Котлин интереснее Го, как говорят некоторые :) https://t.co/AE4eqZk2Bh",
+    "created_at": "Sun Mar 12 11:36:38 +0000 2017",
+    "id": 840889266725126100,
+    "id_str": "840889266725126145",
+    "text": "Уже ночь воскресенья ✨ и пора прощаться. Не всё задуманное успел вам рассказать. Ищите продолжение у меня в @torgeek И спасибо за общение ☑️",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/AE4eqZk2Bh",
-          "expanded_url": "https://twitter.com/ObjectStyle/status/837026168381587456",
-          "display_url": "twitter.com/ObjectStyle/st…",
+          "screen_name": "torgeek",
+          "name": "Dmitrii Kuznetsov",
+          "id": 182995583,
+          "id_str": "182995583",
           "indices": [
-            47,
-            70
+            108,
+            116
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -67,16 +68,46 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": null,
+    "place": {
+      "id": "5714382051c06d1e",
+      "url": "https://api.twitter.com/1.1/geo/id/5714382051c06d1e.json",
+      "place_type": "country",
+      "name": "Россия",
+      "full_name": "Россия",
+      "country_code": "RU",
+      "country": "Россия",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              41.1860647
+            ],
+            [
+              180,
+              41.1860647
+            ],
+            [
+              180,
+              81.8568204
+            ],
+            [
+              -180,
+              81.8568204
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 837026168381587500,
-    "quoted_status_id_str": "837026168381587456",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
