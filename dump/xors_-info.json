@@ -4,18 +4,7 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Санкт-Петербург, Россия",
-  "profile_location": {
-    "id": "a76c0cd7d56c4836",
-    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-    "place_type": "unknown",
-    "name": "Санкт-Петербург, Россия",
-    "full_name": "Санкт-Петербург, Россия",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Привет! На этой неделе с вами @xors_ - CTO Lugati Ltd.",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -46,72 +35,45 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19470,
+  "statuses_count": 19477,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Mar 20 12:30:07 +0000 2017",
-    "id": 843801827510550500,
-    "id_str": "843801827510550529",
-    "text": "@backendsecret это реальная история https://t.co/d2TU7LwKSt, https://t.co/4yJvehG3dz, https://t.co/WMLP6XwGTx",
-    "truncated": false,
+    "created_at": "Tue Mar 21 06:55:22 +0000 2017",
+    "id": 844079972755165200,
+    "id_str": "844079972755165184",
+    "text": "Пожалуй :) но суть проекта в стриминге данных с сенсора, без привязки к конкретному производителю, мы так же работа… https://t.co/uPyV0DrmKs",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            0,
-            14
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/d2TU7LwKSt",
-          "expanded_url": "https://vc.ru/p/2016-startups",
-          "display_url": "vc.ru/p/2016-startups",
+          "url": "https://t.co/uPyV0DrmKs",
+          "expanded_url": "https://twitter.com/i/web/status/844079972755165184",
+          "display_url": "twitter.com/i/web/status/8…",
           "indices": [
-            36,
-            59
-          ]
-        },
-        {
-          "url": "https://t.co/4yJvehG3dz",
-          "expanded_url": "https://medium.com/@BetaList/startups-of-2016-4fdf08b1e2fa",
-          "display_url": "medium.com/@BetaList/star…",
-          "indices": [
-            61,
-            84
-          ]
-        },
-        {
-          "url": "https://t.co/WMLP6XwGTx",
-          "expanded_url": "http://newslab.baijia.baidu.com/article/305714",
-          "display_url": "newslab.baijia.baidu.com/article/305714",
-          "indices": [
-            86,
-            109
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 843801096695025700,
-    "in_reply_to_status_id_str": "843801096695025666",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 844079280896331800,
+    "quoted_status_id_str": "844079280896331776",
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
