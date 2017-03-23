@@ -37,28 +37,38 @@
     }
   },
   "protected": false,
-  "followers_count": 3284,
+  "followers_count": 3287,
   "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2305,
+  "favourites_count": 2306,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19486,
+  "statuses_count": 19489,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Mar 21 20:14:33 +0000 2017",
-    "id": 844281093016752100,
-    "id_str": "844281093016752129",
-    "text": "Когда Oculus провозили через русско-финскую границу наши погранцы пытались придраться, мол похоже вы очки ночного видения везете - запрещено",
+    "created_at": "Wed Mar 22 15:15:01 +0000 2017",
+    "id": 844568100406280200,
+    "id_str": "844568100406280192",
+    "text": "Фронтенд humio делается на elm на текущий момент это возможно самый большой продакшен на elm ( &gt; 25k строк elm кода) https://t.co/99IlLV2Tkc",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/99IlLV2Tkc",
+          "expanded_url": "https://twitter.com/backendsecret/status/844565778271756288",
+          "display_url": "twitter.com/backendsecret/…",
+          "indices": [
+            120,
+            143
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "is_quote_status": true,
+    "quoted_status_id": 844565778271756300,
+    "quoted_status_id_str": "844565778271756288",
+    "retweet_count": 1,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
