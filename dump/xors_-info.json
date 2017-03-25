@@ -4,18 +4,7 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Санкт-Петербург, Россия",
-  "profile_location": {
-    "id": "a76c0cd7d56c4836",
-    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-    "place_type": "unknown",
-    "name": "Санкт-Петербург, Россия",
-    "full_name": "Санкт-Петербург, Россия",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Привет! На этой неделе с вами @xors_ - CTO Lugati Ltd.",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -37,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3287,
+  "followers_count": 3288,
   "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,19 +35,29 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19498,
+  "statuses_count": 19500,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Mar 24 08:17:57 +0000 2017",
-    "id": 845187918800928800,
-    "id_str": "845187918800928768",
-    "text": "Внимание провокация! \nФункциональный подход требует больших умственных затрат и доступен не всем",
+    "created_at": "Sat Mar 25 19:13:31 +0000 2017",
+    "id": 845715284853973000,
+    "id_str": "845715284853972992",
+    "text": "Примерно такой диалог как-то у меня был https://t.co/xTIMtRkXPX",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/xTIMtRkXPX",
+          "expanded_url": "https://twitter.com/backendsecret/status/845715182852694016",
+          "display_url": "twitter.com/backendsecret/…",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +69,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 845715182852694000,
+    "quoted_status_id_str": "845715182852694016",
     "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
