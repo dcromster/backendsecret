@@ -41,34 +41,35 @@
   "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2306,
+  "favourites_count": 2307,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19500,
+  "statuses_count": 19503,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Mar 25 19:13:31 +0000 2017",
-    "id": 845715284853973000,
-    "id_str": "845715284853972992",
-    "text": "Примерно такой диалог как-то у меня был https://t.co/xTIMtRkXPX",
+    "created_at": "Sun Mar 26 16:23:53 +0000 2017",
+    "id": 846034984930553900,
+    "id_str": "846034984930553857",
+    "text": "Humio is hiring\nИщем грамотного elm кодера, желательно в Питере, пишите @xors_",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/xTIMtRkXPX",
-          "expanded_url": "https://twitter.com/backendsecret/status/845715182852694016",
-          "display_url": "twitter.com/backendsecret/…",
+          "screen_name": "xors_",
+          "name": "Sergey Grigorev",
+          "id": 324237971,
+          "id_str": "324237971",
           "indices": [
-            40,
-            63
+            72,
+            78
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +81,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 845715182852694000,
-    "quoted_status_id_str": "845715182852694016",
-    "retweet_count": 1,
+    "is_quote_status": false,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
