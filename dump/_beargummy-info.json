@@ -4,18 +4,7 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Санкт-Петербург, Россия",
-  "profile_location": {
-    "id": "a76c0cd7d56c4836",
-    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-    "place_type": "unknown",
-    "name": "Санкт-Петербург, Россия",
-    "full_name": "Санкт-Петербург, Россия",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Привет! На этой неделе с вами @_beargummy - Lead Software Engineer @griddynamics.",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -37,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3292,
+  "followers_count": 3295,
   "friends_count": 0,
   "listed_count": 197,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,67 +35,26 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19526,
+  "statuses_count": 19530,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Mar 28 12:40:34 +0000 2017",
-    "id": 846703559643189200,
-    "id_str": "846703559643189249",
-    "text": "@lifchicker @java @springcloud @NetflixOSS больше года уже в продакшене.",
+    "created_at": "Wed Mar 29 12:52:11 +0000 2017",
+    "id": 847068871362261000,
+    "id_str": "847068871362260992",
+    "text": "В итоге, Docker Swarm оказался не так плох, но мы очень быстро уткнулись в скорость сетки.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "lifchicker",
-          "name": "Alexey Antonov",
-          "id": 18569662,
-          "id_str": "18569662",
-          "indices": [
-            0,
-            11
-          ]
-        },
-        {
-          "screen_name": "java",
-          "name": "Java",
-          "id": 125485258,
-          "id_str": "125485258",
-          "indices": [
-            12,
-            17
-          ]
-        },
-        {
-          "screen_name": "springcloud",
-          "name": "Spring Cloud",
-          "id": 3071668556,
-          "id_str": "3071668556",
-          "indices": [
-            18,
-            30
-          ]
-        },
-        {
-          "screen_name": "NetflixOSS",
-          "name": "NetflixOSS",
-          "id": 386170457,
-          "id_str": "386170457",
-          "indices": [
-            31,
-            42
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-    "in_reply_to_status_id": 846517655196512300,
-    "in_reply_to_status_id_str": "846517655196512256",
-    "in_reply_to_user_id": 18569662,
-    "in_reply_to_user_id_str": "18569662",
-    "in_reply_to_screen_name": "lifchicker",
+    "in_reply_to_status_id": 847068697038606300,
+    "in_reply_to_status_id_str": "847068697038606336",
+    "in_reply_to_user_id": 3302551618,
+    "in_reply_to_user_id_str": "3302551618",
+    "in_reply_to_screen_name": "backendsecret",
     "geo": null,
     "coordinates": null,
     "place": {

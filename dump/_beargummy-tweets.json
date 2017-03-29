@@ -1501,6 +1501,270 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 29 12:50:15 +0000 2017",
+      "id": 847068385359925200,
+      "id_str": "847068385359925250",
+      "text": "Давайте поговорим про деплоймент. Что вы используете для управления и кластеризации?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Санкт-Петербург",
+        "full_name": "Санкт-Петербург, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 29 12:51:04 +0000 2017",
+      "id": 847068590243266600,
+      "id_str": "847068590243266560",
+      "text": "Мы на своём проекте долго выбирали, и остановились на Docker Swarm.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 847068385359925200,
+      "in_reply_to_status_id_str": "847068385359925250",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Санкт-Петербург",
+        "full_name": "Санкт-Петербург, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 29 12:51:29 +0000 2017",
+      "id": 847068697038606300,
+      "id_str": "847068697038606336",
+      "text": "Kubernetes тоже был в фаворитах, но на момент старта он поддерживал только старую версию Docker.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 847068590243266600,
+      "in_reply_to_status_id_str": "847068590243266560",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Санкт-Петербург",
+        "full_name": "Санкт-Петербург, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 29 12:52:11 +0000 2017",
+      "id": 847068871362261000,
+      "id_str": "847068871362260992",
+      "text": "В итоге, Docker Swarm оказался не так плох, но мы очень быстро уткнулись в скорость сетки.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 847068697038606300,
+      "in_reply_to_status_id_str": "847068697038606336",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Санкт-Петербург",
+        "full_name": "Санкт-Петербург, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
