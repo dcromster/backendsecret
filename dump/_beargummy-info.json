@@ -4,7 +4,18 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Санкт-Петербург, Россия",
-  "profile_location": null,
+  "profile_location": {
+    "id": "a76c0cd7d56c4836",
+    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+    "place_type": "unknown",
+    "name": "Санкт-Петербург, Россия",
+    "full_name": "Санкт-Петербург, Россия",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Привет! На этой неделе с вами @_beargummy - Lead Software Engineer @griddynamics.",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -35,34 +46,36 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19577,
+  "statuses_count": 19587,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Apr 01 13:42:39 +0000 2017",
-    "id": 848168735508746200,
-    "id_str": "848168735508746241",
-    "text": "Я вижу большое преимущество таких людей по своему опыту. Особенно в современном мире #DevOps.",
+    "created_at": "Sat Apr 01 18:31:53 +0000 2017",
+    "id": 848241522898239500,
+    "id_str": "848241522898239489",
+    "text": "Полностью поддерживаю. Только learn by practice. https://t.co/TqmAKqCG7c",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "DevOps",
-          "indices": [
-            85,
-            92
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/TqmAKqCG7c",
+          "expanded_url": "https://twitter.com/mr_The/status/848225968267431938",
+          "display_url": "twitter.com/mr_The/status/…",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-    "in_reply_to_status_id": 848168208746119200,
-    "in_reply_to_status_id_str": "848168208746119169",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": {
@@ -100,11 +113,14 @@
       "attributes": {}
     },
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "is_quote_status": true,
+    "quoted_status_id": 848225968267432000,
+    "quoted_status_id_str": "848225968267431938",
+    "retweet_count": 2,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
