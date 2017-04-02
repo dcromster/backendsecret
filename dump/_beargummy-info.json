@@ -37,38 +37,69 @@
     }
   },
   "protected": false,
-  "followers_count": 3293,
+  "followers_count": 3294,
   "friends_count": 0,
   "listed_count": 197,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2311,
+  "favourites_count": 2315,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19587,
+  "statuses_count": 19595,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Apr 01 18:31:53 +0000 2017",
-    "id": 848241522898239500,
-    "id_str": "848241522898239489",
-    "text": "Полностью поддерживаю. Только learn by practice. https://t.co/TqmAKqCG7c",
+    "created_at": "Sun Apr 02 15:28:06 +0000 2017",
+    "id": 848557661612388400,
+    "id_str": "848557661612388352",
+    "text": "RT @ruxeg: @strizhechenko @Bubyakin @backendsecret ну и да, мне кажется это очень наивно пологать что компиляция = скорость, оно по разному…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/TqmAKqCG7c",
-          "expanded_url": "https://twitter.com/mr_The/status/848225968267431938",
-          "display_url": "twitter.com/mr_The/status/…",
+          "screen_name": "ruxeg",
+          "name": "ruX",
+          "id": 113131428,
+          "id_str": "113131428",
           "indices": [
-            49,
-            72
+            3,
+            9
+          ]
+        },
+        {
+          "screen_name": "strizhechenko",
+          "name": "Code & Acid",
+          "id": 1033011720,
+          "id_str": "1033011720",
+          "indices": [
+            11,
+            25
+          ]
+        },
+        {
+          "screen_name": "Bubyakin",
+          "name": "Тыжпрограммист",
+          "id": 115212561,
+          "id_str": "115212561",
+          "indices": [
+            26,
+            35
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            36,
+            50
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "in_reply_to_status_id": null,
@@ -78,49 +109,106 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "a76c0cd7d56c4836",
-      "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-      "place_type": "city",
-      "name": "Санкт-Петербург",
-      "full_name": "Санкт-Петербург, Россия",
-      "country_code": "RU",
-      "country": "Россия",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Apr 02 14:06:43 +0000 2017",
+      "id": 848537181245386800,
+      "id_str": "848537181245386753",
+      "text": "@strizhechenko @Bubyakin @backendsecret ну и да, мне кажется это очень наивно пологать что компиляция = скорость, оно по разному бывает",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "strizhechenko",
+            "name": "Code & Acid",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "Bubyakin",
+            "name": "Тыжпрограммист",
+            "id": 115212561,
+            "id_str": "115212561",
+            "indices": [
+              15,
+              24
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              25,
+              39
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 848534368922378200,
+      "in_reply_to_status_id_str": "848534368922378240",
+      "in_reply_to_user_id": 1033011720,
+      "in_reply_to_user_id_str": "1033011720",
+      "in_reply_to_screen_name": "strizhechenko",
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5de8cffc145c486b",
+        "url": "https://api.twitter.com/1.1/geo/id/5de8cffc145c486b.json",
+        "place_type": "city",
+        "name": "Camden Town",
+        "full_name": "Camden Town, London",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              30.0896894,
-              59.7761714
-            ],
-            [
-              30.5677067,
-              59.7761714
-            ],
-            [
-              30.5677067,
-              60.0921253
-            ],
-            [
-              30.0896894,
-              60.0921253
+              [
+                -0.213503,
+                51.512805
+              ],
+              [
+                -0.105303,
+                51.512805
+              ],
+              [
+                -0.105303,
+                51.572068
+              ],
+              [
+                -0.213503,
+                51.572068
+              ]
             ]
           ]
-        ]
+        },
+        "attributes": {}
       },
-      "attributes": {}
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
     },
-    "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 848225968267432000,
-    "quoted_status_id_str": "848225968267431938",
-    "retweet_count": 2,
-    "favorite_count": 5,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
