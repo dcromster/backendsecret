@@ -3,8 +3,19 @@
   "id_str": "3302551618",
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
-  "location": "Helsinki, Suomi",
-  "profile_location": null,
+  "location": "Helsinki, Finland",
+  "profile_location": {
+    "id": "5ef832bb704339b0",
+    "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+    "place_type": "unknown",
+    "name": "Helsinki, Finland",
+    "full_name": "Helsinki, Finland",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "@freiksenet / @freiksenet_ru",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -26,35 +37,35 @@
     }
   },
   "protected": false,
-  "followers_count": 3339,
+  "followers_count": 3335,
   "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2328,
+  "favourites_count": 2330,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19672,
+  "statuses_count": 19689,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Apr 11 06:20:12 +0000 2017",
-    "id": 851681267401855000,
-    "id_str": "851681267401854977",
-    "text": "Пока критика GraphQL идет только от людей, которые не юзали его на продакшене. https://t.co/y7s9E1KpiJ",
-    "truncated": false,
+    "created_at": "Tue Apr 11 07:42:11 +0000 2017",
+    "id": 851701899200004100,
+    "id_str": "851701899200004096",
+    "text": "Я не знаю причем тут HATEOS. С GraphQL клиенты смогут выбирать те данные которые им нужны с твоих новых ресурсов, б… https://t.co/8gFGMqySWR",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/y7s9E1KpiJ",
-          "expanded_url": "https://twitter.com/lisovskyvlad/status/851680437973942272",
-          "display_url": "twitter.com/lisovskyvlad/s…",
+          "url": "https://t.co/8gFGMqySWR",
+          "expanded_url": "https://twitter.com/i/web/status/851701899200004096",
+          "display_url": "twitter.com/i/web/status/8…",
           "indices": [
-            79,
-            102
+            117,
+            140
           ]
         }
       ]
@@ -72,8 +83,8 @@
       18200589
     ],
     "is_quote_status": true,
-    "quoted_status_id": 851680437973942300,
-    "quoted_status_id_str": "851680437973942272",
+    "quoted_status_id": 851700995700781000,
+    "quoted_status_id_str": "851700995700781057",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
