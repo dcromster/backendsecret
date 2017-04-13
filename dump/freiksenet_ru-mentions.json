@@ -5872,6 +5872,191 @@
       "favorited": false,
       "retweeted": true,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 12 17:24:25 +0000 2017",
+      "id": 852210812336971800,
+      "id_str": "852210812336971781",
+      "text": "@vladimore @backendsecret Я вот намекну, что в компании М с интранетом местами ад и Израиль. До боли в зубах",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vladimore",
+            "name": "ng-bind=\"🤘\"",
+            "id": 2237484679,
+            "id_str": "2237484679",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 852068310141325300,
+      "in_reply_to_status_id_str": "852068310141325314",
+      "in_reply_to_user_id": 2237484679,
+      "in_reply_to_user_id_str": "2237484679",
+      "in_reply_to_screen_name": "vladimore",
+      "user": {
+        "id": 170772902,
+        "id_str": "170772902"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 12 18:45:39 +0000 2017",
+      "id": 852231254019903500,
+      "id_str": "852231254019903489",
+      "text": "@backendsecret юзали с Relay, было много боли. Переделываем, будем хранить данные в redux",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon (Plus)</a>",
+      "in_reply_to_status_id": 852058563291881500,
+      "in_reply_to_status_id_str": "852058563291881472",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 27684455,
+        "id_str": "27684455"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 13 00:53:13 +0000 2017",
+      "id": 852323757381136400,
+      "id_str": "852323757381136384",
+      "text": "@backendsecret Юзаю GraphQL уже год. По мне так это такая же прорывная штука для веба как Ajax лет 14 тому назад.… https://t.co/iVojs5rhXs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iVojs5rhXs",
+            "expanded_url": "https://twitter.com/i/web/status/852323757381136384",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 852058563291881500,
+      "in_reply_to_status_id_str": "852058563291881472",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 15203804,
+        "id_str": "15203804"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "013cf103597ee024",
+        "url": "https://api.twitter.com/1.1/geo/id/013cf103597ee024.json",
+        "place_type": "city",
+        "name": "อ่าวนาง",
+        "full_name": "อ่าวนาง, ประเทศไทย",
+        "country_code": "TH",
+        "country": "ประเทศไทย",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                98.814134,
+                8.0287196
+              ],
+              [
+                98.8446398,
+                8.0287196
+              ],
+              [
+                98.8446398,
+                8.0482159
+              ],
+              [
+                98.814134,
+                8.0482159
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
