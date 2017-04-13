@@ -3,19 +3,8 @@
   "id_str": "3302551618",
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
-  "location": "Helsinki, Finland",
-  "profile_location": {
-    "id": "5ef832bb704339b0",
-    "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
-    "place_type": "unknown",
-    "name": "Helsinki, Finland",
-    "full_name": "Helsinki, Finland",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "location": "Helsinki, Suomi",
+  "profile_location": null,
   "description": "@freiksenet / @freiksenet_ru",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -46,19 +35,29 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19747,
+  "statuses_count": 19775,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Apr 12 10:05:19 +0000 2017",
-    "id": 852100310726307800,
-    "id_str": "852100310726307842",
-    "text": "В отличии от большинства graphql решений, наш делал прямой перевод запроса в RethinkDB ReQL. Сейчас такое решение кажется ошибочным.",
+    "created_at": "Thu Apr 13 11:28:28 +0000 2017",
+    "id": 852483623450275800,
+    "id_str": "852483623450275841",
+    "text": "Я работал в двух стартапах и консультировал еще несколько, везде инвесторы все контролировали, а не основатели. https://t.co/3J7JkyUYfh",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/3J7JkyUYfh",
+          "expanded_url": "https://twitter.com/olegakbarov/status/852483173216813056",
+          "display_url": "twitter.com/olegakbarov/st…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -72,11 +71,14 @@
     "contributors": [
       18200589
     ],
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 852483173216813000,
+    "quoted_status_id_str": "852483173216813056",
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
