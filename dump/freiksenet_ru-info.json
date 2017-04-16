@@ -3,8 +3,19 @@
   "id_str": "3302551618",
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
-  "location": "Helsinki, Suomi",
-  "profile_location": null,
+  "location": "Helsinki, Finland",
+  "profile_location": {
+    "id": "5ef832bb704339b0",
+    "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+    "place_type": "unknown",
+    "name": "Helsinki, Finland",
+    "full_name": "Helsinki, Finland",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "@freiksenet / @freiksenet_ru",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -26,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3337,
+  "followers_count": 3336,
   "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,29 +46,30 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19789,
+  "statuses_count": 19790,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Apr 15 12:38:05 +0000 2017",
-    "id": 853225917665214500,
-    "id_str": "853225917665214465",
-    "text": "Не думаю что кто нибудь кто фоллоуит этот паблик элон маск. Обычные люди так не должны работать. Плюс я уверен боль… https://t.co/yKjApz8kXn",
-    "truncated": true,
+    "created_at": "Sun Apr 16 11:15:12 +0000 2017",
+    "id": 853567448871837700,
+    "id_str": "853567448871837700",
+    "text": "Воскресенье, а значит пора прощаться. Спасибо, было весело. С вами был @freiksenet.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/yKjApz8kXn",
-          "expanded_url": "https://twitter.com/i/web/status/853225917665214465",
-          "display_url": "twitter.com/i/web/status/8…",
+          "screen_name": "freiksenet",
+          "name": "Mikhail Novikov",
+          "id": 18200589,
+          "id_str": "18200589",
           "indices": [
-            117,
-            140
+            71,
+            82
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -69,14 +81,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 853151370249211900,
-    "quoted_status_id_str": "853151370249211905",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 5,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
