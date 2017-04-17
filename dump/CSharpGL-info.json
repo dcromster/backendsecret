@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3337,
+  "followers_count": 3335,
   "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,18 +35,49 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19798,
+  "statuses_count": 19824,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Apr 17 06:53:58 +0000 2017",
-    "id": 853864095036178400,
-    "id_str": "853864095036178432",
-    "text": "А как вы храните свои явки, пароли, секреты и артефакты продакшн систем?",
+    "created_at": "Mon Apr 17 11:04:06 +0000 2017",
+    "id": 853927043133841400,
+    "id_str": "853927043133841408",
+    "text": "RT @maxbeard12: @backendsecret @glorphindale Тоже задавался этим вопросом.Нужно решить проблему:постоянно должны быть отчуждаемые задачи,за…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "maxbeard12",
+          "name": "Maxim Shulga",
+          "id": 44104409,
+          "id_str": "44104409",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            16,
+            30
+          ]
+        },
+        {
+          "screen_name": "glorphindale",
+          "name": "Табличка “Сарказм”",
+          "id": 57327055,
+          "id_str": "57327055",
+          "indices": [
+            31,
+            44
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
@@ -59,11 +90,71 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Apr 17 11:03:30 +0000 2017",
+      "id": 853926891488768000,
+      "id_str": "853926891488768000",
+      "text": "@backendsecret @glorphindale Тоже задавался этим вопросом.Нужно решить проблему:постоянно должны быть отчуждаемые з… https://t.co/CdTZ2osTir",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "glorphindale",
+            "name": "Табличка “Сарказм”",
+            "id": 57327055,
+            "id_str": "57327055",
+            "indices": [
+              15,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CdTZ2osTir",
+            "expanded_url": "https://twitter.com/i/web/status/853926891488768000",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 853887348186243100,
+      "in_reply_to_status_id_str": "853887348186243075",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
