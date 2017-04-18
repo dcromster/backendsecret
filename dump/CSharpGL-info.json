@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3326,
+  "followers_count": 3324,
   "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,29 +35,40 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19939,
+  "statuses_count": 19947,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Apr 18 17:26:18 +0000 2017",
-    "id": 854385611612061700,
-    "id_str": "854385611612061697",
-    "text": "А зачем дропнул то? https://t.co/v8EdSfw73l",
+    "created_at": "Tue Apr 18 17:53:14 +0000 2017",
+    "id": 854392391838707700,
+    "id_str": "854392391838707712",
+    "text": "RT @village_coder: @backendsecret да чё сэд, нашел свое призвание, компайлер крутится-бабки мутятся, охуенно же",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/v8EdSfw73l",
-          "expanded_url": "https://twitter.com/Vlad_P53/status/854369572912332801",
-          "display_url": "twitter.com/Vlad_P53/statu…",
+          "screen_name": "village_coder",
+          "name": "Сельский Программист",
+          "id": 832037489711861800,
+          "id_str": "832037489711861760",
           "indices": [
-            20,
-            43
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            19,
+            33
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -69,14 +80,51 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 854369572912332800,
-    "quoted_status_id_str": "854369572912332801",
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue Apr 18 17:51:41 +0000 2017",
+      "id": 854391999780212700,
+      "id_str": "854391999780212741",
+      "text": "@backendsecret да чё сэд, нашел свое призвание, компайлер крутится-бабки мутятся, охуенно же",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+      "in_reply_to_status_id": 854389091605127200,
+      "in_reply_to_status_id_str": "854389091605127168",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
