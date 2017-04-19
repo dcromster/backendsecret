@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3316,
+  "followers_count": 3315,
   "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,40 +35,29 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19982,
+  "statuses_count": 20013,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Apr 19 10:19:11 +0000 2017",
-    "id": 854640511780606000,
-    "id_str": "854640511780605953",
-    "text": "RT @aktuba: @backendsecret Раньше для сокетов было норм (правда текла скотина), сча сокеты лучше на go",
+    "created_at": "Wed Apr 19 17:21:36 +0000 2017",
+    "id": 854746819393466400,
+    "id_str": "854746819393466368",
+    "text": "Я? Не, мне вообще пофиг :D https://t.co/3feCVjc4eh",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "aktuba",
-          "name": "aktuba",
-          "id": 10294342,
-          "id_str": "10294342",
+          "url": "https://t.co/3feCVjc4eh",
+          "expanded_url": "https://twitter.com/jossser/status/854746343323074560",
+          "display_url": "twitter.com/jossser/status…",
           "indices": [
-            3,
-            10
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            12,
-            26
+            27,
+            50
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,51 +69,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Wed Apr 19 10:16:47 +0000 2017",
-      "id": 854639911349125100,
-      "id_str": "854639911349125120",
-      "text": "@backendsecret Раньше для сокетов было норм (правда текла скотина), сча сокеты лучше на go",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              0,
-              14
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 854639546939605000,
-      "in_reply_to_status_id_str": "854639546939604992",
-      "in_reply_to_user_id": 3302551618,
-      "in_reply_to_user_id_str": "3302551618",
-      "in_reply_to_screen_name": "backendsecret",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
-    "retweet_count": 1,
+    "is_quote_status": true,
+    "quoted_status_id": 854746343323074600,
+    "quoted_status_id_str": "854746343323074560",
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
