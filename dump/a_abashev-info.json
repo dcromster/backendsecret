@@ -26,38 +26,49 @@
     }
   },
   "protected": false,
-  "followers_count": 3334,
+  "followers_count": 3336,
   "friends_count": 0,
-  "listed_count": 198,
+  "listed_count": 197,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 2346,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 20226,
+  "statuses_count": 20256,
   "lang": "ru",
   "status": {
-    "created_at": "Tue May 02 09:21:01 +0000 2017",
-    "id": 859336918995218400,
-    "id_str": "859336918995218433",
-    "text": "Ну а лечить его потом кто будет? https://t.co/WmhpiTddOg",
+    "created_at": "Tue May 02 12:13:26 +0000 2017",
+    "id": 859380305886666800,
+    "id_str": "859380305886666753",
+    "text": "RT @theaspect: @backendsecret Есть же великолепные Kodu и Scratch. Проникнется – можно и Лего взять",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/WmhpiTddOg",
-          "expanded_url": "https://twitter.com/anton_sunrise/status/859329376718139392",
-          "display_url": "twitter.com/anton_sunrise/…",
+          "screen_name": "theaspect",
+          "name": "Constantine Linnick",
+          "id": 18159918,
+          "id_str": "18159918",
           "indices": [
-            33,
-            56
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            15,
+            29
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
@@ -67,49 +78,53 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "22deffea18a2f1d2",
-      "url": "https://api.twitter.com/1.1/geo/id/22deffea18a2f1d2.json",
-      "place_type": "admin",
-      "name": "Москва",
-      "full_name": "Москва, Россия",
-      "country_code": "RU",
-      "country": "Россия",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              37.1316733,
-              55.4908342
-            ],
-            [
-              37.9650116,
-              55.4908342
-            ],
-            [
-              37.9650116,
-              56.0209192
-            ],
-            [
-              37.1316733,
-              56.0209192
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 859329376718139400,
-    "quoted_status_id_str": "859329376718139392",
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue May 02 12:09:47 +0000 2017",
+      "id": 859379387396915200,
+      "id_str": "859379387396915200",
+      "text": "@backendsecret Есть же великолепные Kodu и Scratch. Проникнется – можно и Лего взять",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 859378766791024600,
+      "in_reply_to_status_id_str": "859378766791024640",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
