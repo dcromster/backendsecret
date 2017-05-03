@@ -35,40 +35,29 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 20276,
+  "statuses_count": 20306,
   "lang": "ru",
   "status": {
-    "created_at": "Tue May 02 20:57:02 +0000 2017",
-    "id": 859512076779356200,
-    "id_str": "859512076779356162",
-    "text": "RT @trueneu: @backendsecret Потому что непривычно :) было бы 10 лет за Убунтой, 2 недели за макосью - было бы противоположное впечатление.",
+    "created_at": "Wed May 03 18:53:30 +0000 2017",
+    "id": 859843377302564900,
+    "id_str": "859843377302564864",
+    "text": "Реакт? https://t.co/UhFoE32qcy",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "trueneu",
-          "name": "Pavel Gurkov",
-          "id": 239479384,
-          "id_str": "239479384",
+          "url": "https://t.co/UhFoE32qcy",
+          "expanded_url": "https://twitter.com/Alex_MIPT/status/859837902871818240",
+          "display_url": "twitter.com/Alex_MIPT/stat…",
           "indices": [
-            3,
-            11
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            13,
-            27
+            7,
+            30
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
@@ -78,54 +67,50 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue May 02 20:38:40 +0000 2017",
-      "id": 859507452051681300,
-      "id_str": "859507452051681280",
-      "text": "@backendsecret Потому что непривычно :) было бы 10 лет за Убунтой, 2 недели за макосью - было бы противоположное впечатление.",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              0,
-              14
+    "place": {
+      "id": "22deffea18a2f1d2",
+      "url": "https://api.twitter.com/1.1/geo/id/22deffea18a2f1d2.json",
+      "place_type": "admin",
+      "name": "Москва",
+      "full_name": "Москва, Россия",
+      "country_code": "RU",
+      "country": "Россия",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.1316733,
+              55.4908342
+            ],
+            [
+              37.9650116,
+              55.4908342
+            ],
+            [
+              37.9650116,
+              56.0209192
+            ],
+            [
+              37.1316733,
+              56.0209192
             ]
-          }
-        ],
-        "urls": []
+          ]
+        ]
       },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 859507236057620500,
-      "in_reply_to_status_id_str": "859507236057620480",
-      "in_reply_to_user_id": 239479384,
-      "in_reply_to_user_id_str": "239479384",
-      "in_reply_to_screen_name": "trueneu",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 1,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
+      "attributes": {}
     },
-    "is_quote_status": false,
-    "retweet_count": 1,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 859837902871818200,
+    "quoted_status_id_str": "859837902871818240",
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
-    "lang": "ru"
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "uk"
   },
   "contributors_enabled": false,
   "is_translator": false,
