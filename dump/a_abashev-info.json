@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3346,
+  "followers_count": 3344,
   "friends_count": 0,
   "listed_count": 197,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,40 +35,29 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 20384,
+  "statuses_count": 20407,
   "lang": "ru",
   "status": {
-    "created_at": "Thu May 04 22:09:40 +0000 2017",
-    "id": 860255128737247200,
-    "id_str": "860255128737247232",
-    "text": "RT @sarseniev: @backendsecret Если из такого хоть 10-20% выйдут по специальности это уже “прибыль”. Затраты (для страны) небольшие а спецы…",
-    "truncated": false,
+    "created_at": "Fri May 05 10:59:54 +0000 2017",
+    "id": 860448967892643800,
+    "id_str": "860448967892643841",
+    "text": "Если хотите про Java, то добро пожаловать в подкаст - наоборот многие ругают, что мы такие зацикленные. Вот и решил… https://t.co/mbyz15saGC",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "sarseniev",
-          "name": "Sergey Arseniev",
-          "id": 165893539,
-          "id_str": "165893539",
+          "url": "https://t.co/mbyz15saGC",
+          "expanded_url": "https://twitter.com/i/web/status/860448967892643841",
+          "display_url": "twitter.com/i/web/status/8…",
           "indices": [
-            3,
-            13
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            15,
-            29
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
@@ -78,53 +67,49 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "retweeted_status": {
-      "created_at": "Thu May 04 22:01:16 +0000 2017",
-      "id": 860253014396985300,
-      "id_str": "860253014396985345",
-      "text": "@backendsecret Если из такого хоть 10-20% выйдут по специальности это уже “прибыль”. Затраты (для страны) небольшие а спецы уникальные.",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              0,
-              14
+    "place": {
+      "id": "22deffea18a2f1d2",
+      "url": "https://api.twitter.com/1.1/geo/id/22deffea18a2f1d2.json",
+      "place_type": "admin",
+      "name": "Москва",
+      "full_name": "Москва, Россия",
+      "country_code": "RU",
+      "country": "Россия",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.1316733,
+              55.4908342
+            ],
+            [
+              37.9650116,
+              55.4908342
+            ],
+            [
+              37.9650116,
+              56.0209192
+            ],
+            [
+              37.1316733,
+              56.0209192
             ]
-          }
-        ],
-        "urls": []
+          ]
+        ]
       },
-      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-      "in_reply_to_status_id": 860248339811618800,
-      "in_reply_to_status_id_str": "860248339811618816",
-      "in_reply_to_user_id": 3302551618,
-      "in_reply_to_user_id_str": "3302551618",
-      "in_reply_to_screen_name": "backendsecret",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
+      "attributes": {}
     },
-    "is_quote_status": false,
-    "retweet_count": 1,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 860445775934959600,
+    "quoted_status_id_str": "860445775934959616",
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
