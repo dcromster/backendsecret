@@ -1,6 +1,7 @@
 export default [
   // { username: 'twitter_name', start: '15 mar 2017', first: '640816652293144576', post: false },
-  { username: 'a_abashev',       start: '01 maн 2017', first: '858966452560441344' },
+  { username: 'gronpipmaster',   start: '08 may 2017', first: '861501404883685376', post: false },
+  { username: 'a_abashev',       start: '01 may 2017', first: '858966452560441344' },
   { username: 'CSharpGL',        start: '17 apr 2017', first: '853838354059841536' },
   { username: 'freiksenet_ru',   start: '10 apr 2017', first: '851367755395846144' },
   { username: '_beargummy',      start: '27 mar 2017', first: '846326710727593985' },
