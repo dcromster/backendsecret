@@ -2493,6 +2493,664 @@
       "favorited": true,
       "retweeted": true,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 10 18:47:33 +0000 2017",
+      "id": 862378591157452800,
+      "id_str": "862378591157452802",
+      "text": "А теперь раскажи как в json с комментами? Или что-нить многострочное? https://t.co/ifVMNY434l",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ifVMNY434l",
+            "expanded_url": "https://twitter.com/aktuba/status/862373661407412228",
+            "display_url": "twitter.com/aktuba/status/…",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 862373661407412200,
+      "quoted_status_id_str": "862373661407412228",
+      "quoted_status": {
+        "created_at": "Wed May 10 18:27:57 +0000 2017",
+        "id": 862373661407412200,
+        "id_str": "862373661407412228",
+        "text": "@backendsecret а где json? нафига вот это говно?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 862340329588092900,
+        "in_reply_to_status_id_str": "862340329588092928",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 10294342,
+          "id_str": "10294342"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 10 19:02:30 +0000 2017",
+      "id": 862382354018512900,
+      "id_str": "862382354018512897",
+      "text": "Который валидный, про многострочный, я про это, \n\n{\n \"a\" : \"foo bar\nbaz\"\n} https://t.co/bGGSPScYYE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bGGSPScYYE",
+            "expanded_url": "https://twitter.com/aktuba/status/862379463941738496",
+            "display_url": "twitter.com/aktuba/status/…",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 862379463941738500,
+      "quoted_status_id_str": "862379463941738496",
+      "quoted_status": {
+        "created_at": "Wed May 10 18:51:01 +0000 2017",
+        "id": 862379463941738500,
+        "id_str": "862379463941738496",
+        "text": "@backendsecret С многострочным вроде нет проблем. Что-то не знаю? А с комментами... Несколько вариантов. Тебе какой: проще или правильнее?))",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 862378591157452800,
+        "in_reply_to_status_id_str": "862378591157452802",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 10294342,
+          "id_str": "10294342"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 10 19:06:55 +0000 2017",
+      "id": 862383465798541300,
+      "id_str": "862383465798541313",
+      "text": "Комментарии это своего рода, мини дока для конфига. https://t.co/hziYopjdQ3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hziYopjdQ3",
+            "expanded_url": "https://twitter.com/aktuba/status/862379818519842816",
+            "display_url": "twitter.com/aktuba/status/…",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 862379818519842800,
+      "quoted_status_id_str": "862379818519842816",
+      "quoted_status": {
+        "created_at": "Wed May 10 18:52:25 +0000 2017",
+        "id": 862379818519842800,
+        "id_str": "862379818519842816",
+        "text": "@backendsecret И ещё вопрос - если к конфигу нужны комменты, всё-ли нормально с конфигом? Дай пример ;)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 862378591157452800,
+        "in_reply_to_status_id_str": "862378591157452802",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 10294342,
+          "id_str": "10294342"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 10 19:18:48 +0000 2017",
+      "id": 862386458346303500,
+      "id_str": "862386458346303489",
+      "text": "Слабоват пример, с названием все более менее, а вот со значениями, например веса, срок жизни чегонить, формат, зако… https://t.co/2Qn1SzAgiQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2Qn1SzAgiQ",
+            "expanded_url": "https://twitter.com/i/web/status/862386458346303489",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 862385654101143600,
+      "quoted_status_id_str": "862385654101143557",
+      "quoted_status": {
+        "created_at": "Wed May 10 19:15:36 +0000 2017",
+        "id": 862385654101143600,
+        "id_str": "862385654101143557",
+        "text": "@backendsecret давай на примере конфига для бд (как самого популярного). для чего там комментарии?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 862383465798541300,
+        "in_reply_to_status_id_str": "862383465798541313",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 10294342,
+          "id_str": "10294342"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 10 19:20:27 +0000 2017",
+      "id": 862386873913790500,
+      "id_str": "862386873913790464",
+      "text": "Я слышал, об этом, только обратной совместимости нету, и сломается, на старых парсерах, если ничего не путаю. https://t.co/kufdymp6LX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kufdymp6LX",
+            "expanded_url": "https://twitter.com/Randomazer/status/862385815208513536",
+            "display_url": "twitter.com/Randomazer/sta…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 862385815208513500,
+      "quoted_status_id_str": "862385815208513536",
+      "quoted_status": {
+        "created_at": "Wed May 10 19:16:15 +0000 2017",
+        "id": 862385815208513500,
+        "id_str": "862385815208513536",
+        "text": "@backendsecret JSON5 все впорядке с комментариями",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 862378591157452800,
+        "in_reply_to_status_id_str": "862378591157452802",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 162127566,
+          "id_str": "162127566"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 10 19:34:24 +0000 2017",
+      "id": 862390385187967000,
+      "id_str": "862390385187966976",
+      "text": "Можно и даже нужно, но иногда достаточно посмотреть минидоку по памяти, и выставить нужное значение. https://t.co/WnV1i6GP24",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WnV1i6GP24",
+            "expanded_url": "https://twitter.com/aktuba/status/862389187022073857",
+            "display_url": "twitter.com/aktuba/status/…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 862389187022073900,
+      "quoted_status_id_str": "862389187022073857",
+      "quoted_status": {
+        "created_at": "Wed May 10 19:29:39 +0000 2017",
+        "id": 862389187022073900,
+        "id_str": "862389187022073857",
+        "text": "@backendsecret Нуууу, ок. Почему это нельзя вынести в нормальные доки?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 862386458346303500,
+        "in_reply_to_status_id_str": "862386458346303489",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 10294342,
+          "id_str": "10294342"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 10 19:42:12 +0000 2017",
+      "id": 862392346515734500,
+      "id_str": "862392346515734528",
+      "text": "RT @__pewpew__: @aktuba @backendsecret Старая песня: нам нормально без этого, значит и вам не понадобится",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "__pewpew__",
+            "name": "Bearded man",
+            "id": 493818222,
+            "id_str": "493818222",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "aktuba",
+            "name": "aktuba",
+            "id": 10294342,
+            "id_str": "10294342",
+            "indices": [
+              16,
+              23
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              24,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed May 10 19:32:25 +0000 2017",
+        "id": 862389884295753700,
+        "id_str": "862389884295753728",
+        "text": "@aktuba @backendsecret Старая песня: нам нормально без этого, значит и вам не понадобится",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "aktuba",
+              "name": "aktuba",
+              "id": 10294342,
+              "id_str": "10294342",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                8,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 862379818519842800,
+        "in_reply_to_status_id_str": "862379818519842816",
+        "in_reply_to_user_id": 10294342,
+        "in_reply_to_user_id_str": "10294342",
+        "in_reply_to_screen_name": "aktuba",
+        "user": {
+          "id": 493818222,
+          "id_str": "493818222"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
     }
   ]
 }
