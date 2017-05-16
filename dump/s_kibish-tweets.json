@@ -3340,6 +3340,876 @@
       "favorited": false,
       "retweeted": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Mon May 15 14:22:43 +0000 2017",
+      "id": 864123883049365500,
+      "id_str": "864123883049365505",
+      "text": "Вот так скоро можно будет собирать образы в Docker. Staged build. Сейчас в alpha.\n\n#RigaDevDays https://t.co/wiqiBf7Vtl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "RigaDevDays",
+            "indices": [
+              83,
+              95
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 864123869464080400,
+            "id_str": "864123869464080384",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/C_38FLlXsAAX2Z1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C_38FLlXsAAX2Z1.jpg",
+            "url": "https://t.co/wiqiBf7Vtl",
+            "display_url": "pic.twitter.com/wiqiBf7Vtl",
+            "expanded_url": "https://twitter.com/backendsecret/status/864123883049365505/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1152,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 864123869464080400,
+            "id_str": "864123869464080384",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/C_38FLlXsAAX2Z1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C_38FLlXsAAX2Z1.jpg",
+            "url": "https://t.co/wiqiBf7Vtl",
+            "display_url": "pic.twitter.com/wiqiBf7Vtl",
+            "expanded_url": "https://twitter.com/backendsecret/status/864123883049365505/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1152,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 15 14:51:36 +0000 2017",
+      "id": 864131155095945200,
+      "id_str": "864131155095945216",
+      "text": "«Встроенный Docker  health check снимает дополнительный мониторинг» @spiddy\n\nИ он работает как с Swarm, так и с k8s… https://t.co/Hqu0busfDh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spiddy",
+            "name": "spiddy",
+            "id": 16013441,
+            "id_str": "16013441",
+            "indices": [
+              68,
+              75
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Hqu0busfDh",
+            "expanded_url": "https://twitter.com/i/web/status/864131155095945216",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 15 15:29:28 +0000 2017",
+      "id": 864140681635299300,
+      "id_str": "864140681635299329",
+      "text": "@not_logan @spiddy Тут получается, что Docker-engine берет на себя функцию следить за контейнерами, а не Consul, на… https://t.co/mb25jrYKRL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "not_logan",
+            "name": "Paul Rudnitskiy",
+            "id": 46118269,
+            "id_str": "46118269",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "spiddy",
+            "name": "spiddy",
+            "id": 16013441,
+            "id_str": "16013441",
+            "indices": [
+              11,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mb25jrYKRL",
+            "expanded_url": "https://twitter.com/i/web/status/864140681635299329",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 864133272653180900,
+      "in_reply_to_status_id_str": "864133272653180932",
+      "in_reply_to_user_id": 46118269,
+      "in_reply_to_user_id_str": "46118269",
+      "in_reply_to_screen_name": "not_logan",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 15 15:29:48 +0000 2017",
+      "id": 864140768394584000,
+      "id_str": "864140768394584066",
+      "text": "RT @dvbobrov: О, отлично, давно хочу такое https://t.co/oHoLf2t2Jq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dvbobrov",
+            "name": "Dmitry Bobrov",
+            "id": 27836871,
+            "id_str": "27836871",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/oHoLf2t2Jq",
+            "expanded_url": "https://twitter.com/backendsecret/status/864123883049365505",
+            "display_url": "twitter.com/backendsecret/…",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 15 15:04:11 +0000 2017",
+        "id": 864134318913978400,
+        "id_str": "864134318913978369",
+        "text": "О, отлично, давно хочу такое https://t.co/oHoLf2t2Jq",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/oHoLf2t2Jq",
+              "expanded_url": "https://twitter.com/backendsecret/status/864123883049365505",
+              "display_url": "twitter.com/backendsecret/…",
+              "indices": [
+                29,
+                52
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 27836871,
+          "id_str": "27836871"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 864123883049365500,
+        "quoted_status_id_str": "864123883049365505",
+        "quoted_status": {
+          "created_at": "Mon May 15 14:22:43 +0000 2017",
+          "id": 864123883049365500,
+          "id_str": "864123883049365505",
+          "text": "Вот так скоро можно будет собирать образы в Docker. Staged build. Сейчас в alpha.\n\n#RigaDevDays https://t.co/wiqiBf7Vtl",
+          "truncated": false,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "RigaDevDays",
+                "indices": [
+                  83,
+                  95
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+              {
+                "id": 864123869464080400,
+                "id_str": "864123869464080384",
+                "indices": [
+                  96,
+                  119
+                ],
+                "media_url": "http://pbs.twimg.com/media/C_38FLlXsAAX2Z1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C_38FLlXsAAX2Z1.jpg",
+                "url": "https://t.co/wiqiBf7Vtl",
+                "display_url": "pic.twitter.com/wiqiBf7Vtl",
+                "expanded_url": "https://twitter.com/backendsecret/status/864123883049365505/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 2048,
+                    "h": 1152,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 864123869464080400,
+                "id_str": "864123869464080384",
+                "indices": [
+                  96,
+                  119
+                ],
+                "media_url": "http://pbs.twimg.com/media/C_38FLlXsAAX2Z1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C_38FLlXsAAX2Z1.jpg",
+                "url": "https://t.co/wiqiBf7Vtl",
+                "display_url": "pic.twitter.com/wiqiBf7Vtl",
+                "expanded_url": "https://twitter.com/backendsecret/status/864123883049365505/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 2048,
+                    "h": 1152,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  }
+                }
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 3302551618,
+            "id_str": "3302551618"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 2,
+          "favorite_count": 1,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "ru"
+        },
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": true,
+        "retweeted": true,
+        "possibly_sensitive": true,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 864123883049365500,
+      "quoted_status_id_str": "864123883049365505",
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 15 20:16:10 +0000 2017",
+      "id": 864212835139813400,
+      "id_str": "864212835139813377",
+      "text": "RT @xamgore: AS не подсвечивается, какой ужас! Отправил автору language-docker исправляющий пул-реквест. https://t.co/SPjTP36v5g",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xamgore",
+            "name": "Green Square",
+            "id": 284727157,
+            "id_str": "284727157",
+            "indices": [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SPjTP36v5g",
+            "expanded_url": "https://twitter.com/backendsecret/status/864123883049365505",
+            "display_url": "twitter.com/backendsecret/…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 15 19:02:03 +0000 2017",
+        "id": 864194179571777500,
+        "id_str": "864194179571777537",
+        "text": "AS не подсвечивается, какой ужас! Отправил автору language-docker исправляющий пул-реквест. https://t.co/SPjTP36v5g",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/SPjTP36v5g",
+              "expanded_url": "https://twitter.com/backendsecret/status/864123883049365505",
+              "display_url": "twitter.com/backendsecret/…",
+              "indices": [
+                92,
+                115
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 284727157,
+          "id_str": "284727157"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 864123883049365500,
+        "quoted_status_id_str": "864123883049365505",
+        "quoted_status": {
+          "created_at": "Mon May 15 14:22:43 +0000 2017",
+          "id": 864123883049365500,
+          "id_str": "864123883049365505",
+          "text": "Вот так скоро можно будет собирать образы в Docker. Staged build. Сейчас в alpha.\n\n#RigaDevDays https://t.co/wiqiBf7Vtl",
+          "truncated": false,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "RigaDevDays",
+                "indices": [
+                  83,
+                  95
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+              {
+                "id": 864123869464080400,
+                "id_str": "864123869464080384",
+                "indices": [
+                  96,
+                  119
+                ],
+                "media_url": "http://pbs.twimg.com/media/C_38FLlXsAAX2Z1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C_38FLlXsAAX2Z1.jpg",
+                "url": "https://t.co/wiqiBf7Vtl",
+                "display_url": "pic.twitter.com/wiqiBf7Vtl",
+                "expanded_url": "https://twitter.com/backendsecret/status/864123883049365505/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 2048,
+                    "h": 1152,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 864123869464080400,
+                "id_str": "864123869464080384",
+                "indices": [
+                  96,
+                  119
+                ],
+                "media_url": "http://pbs.twimg.com/media/C_38FLlXsAAX2Z1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C_38FLlXsAAX2Z1.jpg",
+                "url": "https://t.co/wiqiBf7Vtl",
+                "display_url": "pic.twitter.com/wiqiBf7Vtl",
+                "expanded_url": "https://twitter.com/backendsecret/status/864123883049365505/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 2048,
+                    "h": 1152,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  }
+                }
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 3302551618,
+            "id_str": "3302551618"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 2,
+          "favorite_count": 1,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "ru"
+        },
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": true,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 864123883049365500,
+      "quoted_status_id_str": "864123883049365505",
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 15 20:17:12 +0000 2017",
+      "id": 864213095497044000,
+      "id_str": "864213095497043968",
+      "text": "@vanadium23 @POS_troi Да — про воняет; тогда круто :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vanadium23",
+            "name": "vanadium23",
+            "id": 223273129,
+            "id_str": "223273129",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "POS_troi",
+            "name": "POS_troi",
+            "id": 62336528,
+            "id_str": "62336528",
+            "indices": [
+              12,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 864179718354063400,
+      "in_reply_to_status_id_str": "864179718354063361",
+      "in_reply_to_user_id": 223273129,
+      "in_reply_to_user_id_str": "223273129",
+      "in_reply_to_screen_name": "vanadium23",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 16 03:26:04 +0000 2017",
+      "id": 864321023067525100,
+      "id_str": "864321023067525121",
+      "text": "RT @borovikov: @backendsecret Узнал так сказать из первых рук, у Бьёрна, что в Докере есть эксперемнальный экспорт в формате Prometheus.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "borovikov",
+            "name": "Děnis Borovikov",
+            "id": 14354160,
+            "id_str": "14354160",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 15 21:02:20 +0000 2017",
+        "id": 864224451197587500,
+        "id_str": "864224451197587458",
+        "text": "@backendsecret Узнал так сказать из первых рук, у Бьёрна, что в Докере есть эксперемнальный экспорт в формате Prometheus.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 864049426846937100,
+        "in_reply_to_status_id_str": "864049426846937088",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 14354160,
+          "id_str": "14354160"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 16 06:12:35 +0000 2017",
+      "id": 864362926462779400,
+      "id_str": "864362926462779392",
+      "text": "Всем привет! Сегодня нахожусь в трансфере и смене часовых поясов, поэтому начнём экшн позже. Spoiler alert: будет что-то от Intel",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
