@@ -7239,6 +7239,411 @@
       "favorited": false,
       "retweeted": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Sat May 20 15:51:39 +0000 2017",
+      "id": 865958205037228000,
+      "id_str": "865958205037228032",
+      "text": "Поговорим о стеке технологий в компании. Напомню, что речь идет о фин-тех компании Transact Pro.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 20 15:53:37 +0000 2017",
+      "id": 865958699042431000,
+      "id_str": "865958699042430976",
+      "text": "Если ожидали, что будет Java – нет. Основной стек: PHP, NGINX, MySQL.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 865958205037228000,
+      "in_reply_to_status_id_str": "865958205037228032",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 20 15:56:17 +0000 2017",
+      "id": 865959369862598700,
+      "id_str": "865959369862598656",
+      "text": "так же используются такие вещи как Redis (кеши), Beanstalkd (очереди)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 865958699042431000,
+      "in_reply_to_status_id_str": "865958699042430976",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 20 15:57:28 +0000 2017",
+      "id": 865959669453398000,
+      "id_str": "865959669453398018",
+      "text": "что-то вращается на bare metal, но потихоньку все начинает переезжать на Docker",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 865959369862598700,
+      "in_reply_to_status_id_str": "865959369862598656",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 20 15:59:35 +0000 2017",
+      "id": 865960201739878400,
+      "id_str": "865960201739878400",
+      "text": "Так же много сервисов/микросервисов написано на Golang. Но основным языком все равно остается PHP",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 865959669453398000,
+      "in_reply_to_status_id_str": "865959669453398018",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 20 16:04:18 +0000 2017",
+      "id": 865961388144861200,
+      "id_str": "865961388144861186",
+      "text": "@5minphp @backendsecret Основные проекты — это пока монолиты. Написаны на чистом PHP+либах, потому что зачем такой… https://t.co/GolTZI8R39",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "5minphp",
+            "name": "Пятиминутка PHP",
+            "id": 3306912665,
+            "id_str": "3306912665",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              9,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GolTZI8R39",
+            "expanded_url": "https://twitter.com/i/web/status/865961388144861186",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 865960579944546300,
+      "in_reply_to_status_id_str": "865960579944546304",
+      "in_reply_to_user_id": 3306912665,
+      "in_reply_to_user_id_str": "3306912665",
+      "in_reply_to_screen_name": "5minphp",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 20 16:07:40 +0000 2017",
+      "id": 865962235637538800,
+      "id_str": "865962235637538816",
+      "text": "@5minphp ... написанный на Phalcon. Go сейчас идет для новых сервисов, PHP — если новое, то там, где нужно делать что-то с фронтендом...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "5minphp",
+            "name": "Пятиминутка PHP",
+            "id": 3306912665,
+            "id_str": "3306912665",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 865961388144861200,
+      "in_reply_to_status_id_str": "865961388144861186",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 20 16:08:33 +0000 2017",
+      "id": 865962460045377500,
+      "id_str": "865962460045377536",
+      "text": "@5minphp ... PHP удобнее для таких проектов",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "5minphp",
+            "name": "Пятиминутка PHP",
+            "id": 3306912665,
+            "id_str": "3306912665",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 865962235637538800,
+      "in_reply_to_status_id_str": "865962235637538816",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Sat May 20 16:37:15 +0000 2017",
+      "id": 865969682091724800,
+      "id_str": "865969682091724800",
+      "text": "@kostenko Почему? Потому что PHP типо фу-фу-фу? Посмотрите на PHP 7.* PHP уже не тот и он хорошо делает свою работу",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kostenko",
+            "name": "ХЪЪЁЯ",
+            "id": 9310862,
+            "id_str": "9310862",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 865964709694120000,
+      "in_reply_to_status_id_str": "865964709694119937",
+      "in_reply_to_user_id": 9310862,
+      "in_reply_to_user_id_str": "9310862",
+      "in_reply_to_screen_name": "kostenko",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 20 16:46:06 +0000 2017",
+      "id": 865971907497140200,
+      "id_str": "865971907497140224",
+      "text": "@kostenko Java модный язык? Тогда уж на Kotlin надо писать. И на PHP почти весь интернет написан.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kostenko",
+            "name": "ХЪЪЁЯ",
+            "id": 9310862,
+            "id_str": "9310862",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 865970288420376600,
+      "in_reply_to_status_id_str": "865970288420376576",
+      "in_reply_to_user_id": 9310862,
+      "in_reply_to_user_id_str": "9310862",
+      "in_reply_to_screen_name": "kostenko",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
