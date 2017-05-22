@@ -7168,6 +7168,1736 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 17:34:40 +0000 2017",
+      "id": 866708906948653000,
+      "id_str": "866708906948653056",
+      "text": "epoll, не умеет доставлять несколько событий одного типа. Есть еще несколько проблем, но лучше почитать https://t.co/hmieSaGQiC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hmieSaGQiC",
+            "expanded_url": "https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/",
+            "display_url": "idea.popcount.org/2017-02-20-epo…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 17:35:34 +0000 2017",
+      "id": 866709134019833900,
+      "id_str": "866709134019833858",
+      "text": "@Arhelmus Exactly Once Delivery невозможно. То что они делают называется Exactly Once Processing.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Arhelmus",
+            "name": "Arthur Kushka",
+            "id": 272808014,
+            "id_str": "272808014",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866707932033028100,
+      "in_reply_to_status_id_str": "866707932033028097",
+      "in_reply_to_user_id": 272808014,
+      "in_reply_to_user_id_str": "272808014",
+      "in_reply_to_screen_name": "Arhelmus",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 17:36:55 +0000 2017",
+      "id": 866709474135990300,
+      "id_str": "866709474135990272",
+      "text": "@Arhelmus В двух словах: тебе нужно гарантировать, что посылающий ожидает ack на уровне фреймворка, который подтвер… https://t.co/lsKniwTzq3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Arhelmus",
+            "name": "Arthur Kushka",
+            "id": 272808014,
+            "id_str": "272808014",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/lsKniwTzq3",
+            "expanded_url": "https://twitter.com/i/web/status/866709474135990272",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866707932033028100,
+      "in_reply_to_status_id_str": "866707932033028097",
+      "in_reply_to_user_id": 272808014,
+      "in_reply_to_user_id_str": "272808014",
+      "in_reply_to_screen_name": "Arhelmus",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 17:36:59 +0000 2017",
+      "id": 866709488635609100,
+      "id_str": "866709488635609088",
+      "text": "RT @Arhelmus: @backendsecret Kafka планирует реализовать exactly-once. https://t.co/mcJ37Ju6Na\n\nНо я если честно плохо понимаю роль транзак…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Arhelmus",
+            "name": "Arthur Kushka",
+            "id": 272808014,
+            "id_str": "272808014",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mcJ37Ju6Na",
+            "expanded_url": "https://cwiki.apache.org/confluence/display/KAFKA/KIP-98+-+Exactly+Once+Delivery+and+Transactional+Messaging",
+            "display_url": "cwiki.apache.org/confluence/dis…",
+            "indices": [
+              71,
+              94
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 22 17:30:48 +0000 2017",
+        "id": 866707932033028100,
+        "id_str": "866707932033028097",
+        "text": "@backendsecret Kafka планирует реализовать exactly-once. https://t.co/mcJ37Ju6Na\n\nНо я если честно плохо понимаю ро… https://t.co/MAkHb1NjoU",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/mcJ37Ju6Na",
+              "expanded_url": "https://cwiki.apache.org/confluence/display/KAFKA/KIP-98+-+Exactly+Once+Delivery+and+Transactional+Messaging",
+              "display_url": "cwiki.apache.org/confluence/dis…",
+              "indices": [
+                57,
+                80
+              ]
+            },
+            {
+              "url": "https://t.co/MAkHb1NjoU",
+              "expanded_url": "https://twitter.com/i/web/status/866707932033028097",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 866646920449720300,
+        "in_reply_to_status_id_str": "866646920449720320",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 272808014,
+          "id_str": "272808014"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 17:38:18 +0000 2017",
+      "id": 866709819532685300,
+      "id_str": "866709819532685312",
+      "text": "@Arhelmus с помощью транзакций можно этого добиться,как и с помощью idempotency. так как они не контролируют посыла… https://t.co/6Iyk0iZY0H",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Arhelmus",
+            "name": "Arthur Kushka",
+            "id": 272808014,
+            "id_str": "272808014",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6Iyk0iZY0H",
+            "expanded_url": "https://twitter.com/i/web/status/866709819532685312",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866709474135990300,
+      "in_reply_to_status_id_str": "866709474135990272",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 17:39:13 +0000 2017",
+      "id": 866710051238666200,
+      "id_str": "866710051238666245",
+      "text": "@Arhelmus конечно! Просто exactly once delivery стало своего рода маркетинговым приемом) все не умеют а мы молодцы;… https://t.co/YQQ7ER3Xh4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Arhelmus",
+            "name": "Arthur Kushka",
+            "id": 272808014,
+            "id_str": "272808014",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YQQ7ER3Xh4",
+            "expanded_url": "https://twitter.com/i/web/status/866710051238666245",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866709371975327700,
+      "in_reply_to_status_id_str": "866709371975327745",
+      "in_reply_to_user_id": 272808014,
+      "in_reply_to_user_id_str": "272808014",
+      "in_reply_to_screen_name": "Arhelmus",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 17:40:48 +0000 2017",
+      "id": 866710449571733500,
+      "id_str": "866710449571733505",
+      "text": "RT @backendsecret: @Arhelmus Exactly Once Delivery невозможно. То что они делают называется Exactly Once Processing.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "Arhelmus",
+            "name": "Arthur Kushka",
+            "id": 272808014,
+            "id_str": "272808014",
+            "indices": [
+              19,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 22 17:35:34 +0000 2017",
+        "id": 866709134019833900,
+        "id_str": "866709134019833858",
+        "text": "@Arhelmus Exactly Once Delivery невозможно. То что они делают называется Exactly Once Processing.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Arhelmus",
+              "name": "Arthur Kushka",
+              "id": 272808014,
+              "id_str": "272808014",
+              "indices": [
+                0,
+                9
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 866707932033028100,
+        "in_reply_to_status_id_str": "866707932033028097",
+        "in_reply_to_user_id": 272808014,
+        "in_reply_to_user_id_str": "272808014",
+        "in_reply_to_screen_name": "Arhelmus",
+        "user": {
+          "id": 3302551618,
+          "id_str": "3302551618"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 17:40:50 +0000 2017",
+      "id": 866710456722915300,
+      "id_str": "866710456722915328",
+      "text": "RT @Arhelmus: @backendsecret Но в результате же, это всеравно решает проблему того-же банка, где транзакция не должна быть применена дважды…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Arhelmus",
+            "name": "Arthur Kushka",
+            "id": 272808014,
+            "id_str": "272808014",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 22 17:36:31 +0000 2017",
+        "id": 866709371975327700,
+        "id_str": "866709371975327745",
+        "text": "@backendsecret Но в результате же, это всеравно решает проблему того-же банка, где транзакция не должна быть применена дважды, да?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 866709134019833900,
+        "in_reply_to_status_id_str": "866709134019833858",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 272808014,
+          "id_str": "272808014"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 17:40:54 +0000 2017",
+      "id": 866710473282129900,
+      "id_str": "866710473282129921",
+      "text": "RT @backendsecret: @Arhelmus конечно! Просто exactly once delivery стало своего рода маркетинговым приемом) все не умеют а мы молодцы; но э…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "Arhelmus",
+            "name": "Arthur Kushka",
+            "id": 272808014,
+            "id_str": "272808014",
+            "indices": [
+              19,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 22 17:39:13 +0000 2017",
+        "id": 866710051238666200,
+        "id_str": "866710051238666245",
+        "text": "@Arhelmus конечно! Просто exactly once delivery стало своего рода маркетинговым приемом) все не умеют а мы молодцы;… https://t.co/YQQ7ER3Xh4",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Arhelmus",
+              "name": "Arthur Kushka",
+              "id": 272808014,
+              "id_str": "272808014",
+              "indices": [
+                0,
+                9
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/YQQ7ER3Xh4",
+              "expanded_url": "https://twitter.com/i/web/status/866710051238666245",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 866709371975327700,
+        "in_reply_to_status_id_str": "866709371975327745",
+        "in_reply_to_user_id": 272808014,
+        "in_reply_to_user_id_str": "272808014",
+        "in_reply_to_screen_name": "Arhelmus",
+        "user": {
+          "id": 3302551618,
+          "id_str": "3302551618"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 17:46:22 +0000 2017",
+      "id": 866711851656241200,
+      "id_str": "866711851656241152",
+      "text": "@truetobetrue Что то я не то сказал; проверил только что. Все fs по идее поддерживают.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "truetobetrue",
+            "name": "truetobetrue",
+            "id": 169636821,
+            "id_str": "169636821",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866710524683206700,
+      "in_reply_to_status_id_str": "866710524683206656",
+      "in_reply_to_user_id": 169636821,
+      "in_reply_to_user_id_str": "169636821",
+      "in_reply_to_screen_name": "truetobetrue",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 17:47:21 +0000 2017",
+      "id": 866712098142867500,
+      "id_str": "866712098142867456",
+      "text": "@truetobetrue Но тут речь идёт не о \"создании\" треда, а о том будет ли вызывающий тред блокирован при вызове epoll vs select.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "truetobetrue",
+            "name": "truetobetrue",
+            "id": 169636821,
+            "id_str": "169636821",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866710524683206700,
+      "in_reply_to_status_id_str": "866710524683206656",
+      "in_reply_to_user_id": 169636821,
+      "in_reply_to_user_id_str": "169636821",
+      "in_reply_to_screen_name": "truetobetrue",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 17:50:53 +0000 2017",
+      "id": 866712986752254000,
+      "id_str": "866712986752253954",
+      "text": "@truetobetrue async I/O это application level thing; у ОС есть только blocking/non blocking. OS не подписывает callback на события.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "truetobetrue",
+            "name": "truetobetrue",
+            "id": 169636821,
+            "id_str": "169636821",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866712500028530700,
+      "in_reply_to_status_id_str": "866712500028530694",
+      "in_reply_to_user_id": 169636821,
+      "in_reply_to_user_id_str": "169636821",
+      "in_reply_to_screen_name": "truetobetrue",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 17:53:00 +0000 2017",
+      "id": 866713518300680200,
+      "id_str": "866713518300680192",
+      "text": "@truetobetrue Для чего?..",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "truetobetrue",
+            "name": "truetobetrue",
+            "id": 169636821,
+            "id_str": "169636821",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866712958574919700,
+      "in_reply_to_status_id_str": "866712958574919684",
+      "in_reply_to_user_id": 169636821,
+      "in_reply_to_user_id_str": "169636821",
+      "in_reply_to_screen_name": "truetobetrue",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 18:15:14 +0000 2017",
+      "id": 866719112902443000,
+      "id_str": "866719112902443008",
+      "text": "@truetobetrue Я посмотрю поподробнее, не думаю что они правда создают kernel thread...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "truetobetrue",
+            "name": "truetobetrue",
+            "id": 169636821,
+            "id_str": "169636821",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866714840374575100,
+      "in_reply_to_status_id_str": "866714840374575105",
+      "in_reply_to_user_id": 169636821,
+      "in_reply_to_user_id_str": "169636821",
+      "in_reply_to_screen_name": "truetobetrue",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 18:44:42 +0000 2017",
+      "id": 866726528750686200,
+      "id_str": "866726528750686211",
+      "text": "@krems5 @truetobetrue Но банки решают по старинке: retransmission, пересчёт при появлении новых ивентов, event ids для idempotency.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "krems5",
+            "name": "Valeriy",
+            "id": 344177021,
+            "id_str": "344177021",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "truetobetrue",
+            "name": "truetobetrue",
+            "id": 169636821,
+            "id_str": "169636821",
+            "indices": [
+              8,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866725468107624400,
+      "in_reply_to_status_id_str": "866725468107624448",
+      "in_reply_to_user_id": 344177021,
+      "in_reply_to_user_id_str": "344177021",
+      "in_reply_to_screen_name": "krems5",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 18:45:56 +0000 2017",
+      "id": 866726840345526300,
+      "id_str": "866726840345526273",
+      "text": "Напомнило о статье Coda Hale: you can not sacrifice partition tolerance https://t.co/x8fV898Cqv https://t.co/x7RFmenpYG",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/x8fV898Cqv",
+            "expanded_url": "https://codahale.com/you-cant-sacrifice-partition-tolerance/",
+            "display_url": "codahale.com/you-cant-sacri…",
+            "indices": [
+              72,
+              95
+            ]
+          },
+          {
+            "url": "https://t.co/x7RFmenpYG",
+            "expanded_url": "https://twitter.com/krems5/status/866725468107624448",
+            "display_url": "twitter.com/krems5/status/…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 866725468107624400,
+      "quoted_status_id_str": "866725468107624448",
+      "quoted_status": {
+        "created_at": "Mon May 22 18:40:29 +0000 2017",
+        "id": 866725468107624400,
+        "id_str": "866725468107624448",
+        "text": "@truetobetrue @backendsecret Буква P не нужна\nCAP это не проблема, поэтому ее решить нельзя :(\nЕсть распределенный… https://t.co/k7hQpaGEkY",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "truetobetrue",
+              "name": "truetobetrue",
+              "id": 169636821,
+              "id_str": "169636821",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                14,
+                28
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/k7hQpaGEkY",
+              "expanded_url": "https://twitter.com/i/web/status/866725468107624448",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 866723878978113500,
+        "in_reply_to_status_id_str": "866723878978113537",
+        "in_reply_to_user_id": 169636821,
+        "in_reply_to_user_id_str": "169636821",
+        "in_reply_to_screen_name": "truetobetrue",
+        "user": {
+          "id": 344177021,
+          "id_str": "344177021"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 18:47:42 +0000 2017",
+      "id": 866727284492914700,
+      "id_str": "866727284492914688",
+      "text": "@krems5 Paxos работает в партиционированных системах.Я не знаю ни одного partitioned storage который использует str… https://t.co/LS9RJwWn3k",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "krems5",
+            "name": "Valeriy",
+            "id": 344177021,
+            "id_str": "344177021",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LS9RJwWn3k",
+            "expanded_url": "https://twitter.com/i/web/status/866727284492914688",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866726503190605800,
+      "in_reply_to_status_id_str": "866726503190605824",
+      "in_reply_to_user_id": 344177021,
+      "in_reply_to_user_id_str": "344177021",
+      "in_reply_to_screen_name": "krems5",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 18:49:49 +0000 2017",
+      "id": 866727819409281000,
+      "id_str": "866727819409281024",
+      "text": "@krems5 То есть в консенсусе принимает участи часть кластера. Попробуй сделать консенсус на сотне нод (spoiler aler… https://t.co/SLEAOPuq4j",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "krems5",
+            "name": "Valeriy",
+            "id": 344177021,
+            "id_str": "344177021",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SLEAOPuq4j",
+            "expanded_url": "https://twitter.com/i/web/status/866727819409281024",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866727284492914700,
+      "in_reply_to_status_id_str": "866727284492914688",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 18:50:51 +0000 2017",
+      "id": 866728076922806300,
+      "id_str": "866728076922806273",
+      "text": "RT @1101_debian: @backendsecret IIRC kqueue не только для файлов, но и для других ивентов (таймеры, fork/exec events). Что с epoll? Только…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "1101_debian",
+            "name": "AlexDenisov",
+            "id": 285030039,
+            "id_str": "285030039",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              17,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 22 18:49:43 +0000 2017",
+        "id": 866727792901316600,
+        "id_str": "866727792901316609",
+        "text": "@backendsecret IIRC kqueue не только для файлов, но и для других ивентов (таймеры, fork/exec events). Что с epoll? Только I/O?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 866703611287547900,
+        "in_reply_to_status_id_str": "866703611287547910",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 285030039,
+          "id_str": "285030039"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 18:54:13 +0000 2017",
+      "id": 866728927376617500,
+      "id_str": "866728927376617475",
+      "text": "@1101_debian epoll только для I/O EPOLL_EVENTS https://t.co/CRtEkDUEJw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "1101_debian",
+            "name": "AlexDenisov",
+            "id": 285030039,
+            "id_str": "285030039",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 866728914487578600,
+            "id_str": "866728914487578626",
+            "indices": [
+              47,
+              70
+            ],
+            "media_url": "http://pbs.twimg.com/media/DAc9WwiXkAIWYL-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DAc9WwiXkAIWYL-.jpg",
+            "url": "https://t.co/CRtEkDUEJw",
+            "display_url": "pic.twitter.com/CRtEkDUEJw",
+            "expanded_url": "https://twitter.com/backendsecret/status/866728927376617475/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 725,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 481,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 725,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 866728914487578600,
+            "id_str": "866728914487578626",
+            "indices": [
+              47,
+              70
+            ],
+            "media_url": "http://pbs.twimg.com/media/DAc9WwiXkAIWYL-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DAc9WwiXkAIWYL-.jpg",
+            "url": "https://t.co/CRtEkDUEJw",
+            "display_url": "pic.twitter.com/CRtEkDUEJw",
+            "expanded_url": "https://twitter.com/backendsecret/status/866728927376617475/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 725,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 481,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 725,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866727792901316600,
+      "in_reply_to_status_id_str": "866727792901316609",
+      "in_reply_to_user_id": 285030039,
+      "in_reply_to_user_id_str": "285030039",
+      "in_reply_to_screen_name": "1101_debian",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 18:54:33 +0000 2017",
+      "id": 866729009027141600,
+      "id_str": "866729009027141632",
+      "text": "@krems5 Lol теперь заметил? :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "krems5",
+            "name": "Valeriy",
+            "id": 344177021,
+            "id_str": "344177021",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866728423032598500,
+      "in_reply_to_status_id_str": "866728423032598529",
+      "in_reply_to_user_id": 344177021,
+      "in_reply_to_user_id_str": "344177021",
+      "in_reply_to_screen_name": "krems5",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 18:55:41 +0000 2017",
+      "id": 866729292620857300,
+      "id_str": "866729292620857345",
+      "text": "@truetobetrue @krems5 Нет, тут проблема как раз partition tolerance: сервера выключили на maintenance, меняют диски… https://t.co/3JuFgDMi1C",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "truetobetrue",
+            "name": "truetobetrue",
+            "id": 169636821,
+            "id_str": "169636821",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "krems5",
+            "name": "Valeriy",
+            "id": 344177021,
+            "id_str": "344177021",
+            "indices": [
+              14,
+              21
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3JuFgDMi1C",
+            "expanded_url": "https://twitter.com/i/web/status/866729292620857345",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866728733738246100,
+      "in_reply_to_status_id_str": "866728733738246145",
+      "in_reply_to_user_id": 169636821,
+      "in_reply_to_user_id_str": "169636821",
+      "in_reply_to_screen_name": "truetobetrue",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 18:56:28 +0000 2017",
+      "id": 866729492483592200,
+      "id_str": "866729492483592194",
+      "text": "@krems5 Ну я там в частности говорил об FLP impossibility, то есть система без Byzantine failures",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "krems5",
+            "name": "Valeriy",
+            "id": 344177021,
+            "id_str": "344177021",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866729153625804800,
+      "in_reply_to_status_id_str": "866729153625804800",
+      "in_reply_to_user_id": 344177021,
+      "in_reply_to_user_id_str": "344177021",
+      "in_reply_to_screen_name": "krems5",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 19:00:09 +0000 2017",
+      "id": 866730419261231100,
+      "id_str": "866730419261231104",
+      "text": "@krems5 \\o/ 🎉",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "krems5",
+            "name": "Valeriy",
+            "id": 344177021,
+            "id_str": "344177021",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866730286574424000,
+      "in_reply_to_status_id_str": "866730286574424066",
+      "in_reply_to_user_id": 344177021,
+      "in_reply_to_user_id_str": "344177021",
+      "in_reply_to_screen_name": "krems5",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 19:26:01 +0000 2017",
+      "id": 866736927889911800,
+      "id_str": "866736927889911810",
+      "text": "@krems5 @truetobetrue При (network) P(artition) можно выбрать между Consistent и Available: чем более Consistent си… https://t.co/Oo7C5PF7PY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "krems5",
+            "name": "Valeriy",
+            "id": 344177021,
+            "id_str": "344177021",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "truetobetrue",
+            "name": "truetobetrue",
+            "id": 169636821,
+            "id_str": "169636821",
+            "indices": [
+              8,
+              21
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Oo7C5PF7PY",
+            "expanded_url": "https://twitter.com/i/web/status/866736927889911810",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866735910209114100,
+      "in_reply_to_status_id_str": "866735910209114116",
+      "in_reply_to_user_id": 344177021,
+      "in_reply_to_user_id_str": "344177021",
+      "in_reply_to_screen_name": "krems5",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 19:27:11 +0000 2017",
+      "id": 866737222850097200,
+      "id_str": "866737222850097152",
+      "text": "@krems5 @truetobetrue Правда, почитай https://t.co/x8fV898Cqv там именно об этом и идёт речь: о том что CA не бывает.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "krems5",
+            "name": "Valeriy",
+            "id": 344177021,
+            "id_str": "344177021",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "truetobetrue",
+            "name": "truetobetrue",
+            "id": 169636821,
+            "id_str": "169636821",
+            "indices": [
+              8,
+              21
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/x8fV898Cqv",
+            "expanded_url": "https://codahale.com/you-cant-sacrifice-partition-tolerance/",
+            "display_url": "codahale.com/you-cant-sacri…",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866736927889911800,
+      "in_reply_to_status_id_str": "866736927889911810",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }

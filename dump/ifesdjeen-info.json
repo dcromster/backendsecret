@@ -26,65 +26,76 @@
     }
   },
   "protected": false,
-  "followers_count": 3427,
+  "followers_count": 3428,
   "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2391,
+  "favourites_count": 2397,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 20810,
+  "statuses_count": 20836,
   "lang": "ru",
   "status": {
-    "created_at": "Mon May 22 17:30:14 +0000 2017",
-    "id": 866707788902346800,
-    "id_str": "866707788902346752",
-    "text": "@truetobetrue ну вообще API один и тот же для FS и network. С FS сложнее из-за того что не все файловые системы epo… https://t.co/GPMBhoDHbt",
-    "truncated": true,
+    "created_at": "Mon May 22 19:27:11 +0000 2017",
+    "id": 866737222850097200,
+    "id_str": "866737222850097152",
+    "text": "@krems5 @truetobetrue Правда, почитай https://t.co/x8fV898Cqv там именно об этом и идёт речь: о том что CA не бывает.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
+        {
+          "screen_name": "krems5",
+          "name": "Valeriy",
+          "id": 344177021,
+          "id_str": "344177021",
+          "indices": [
+            0,
+            7
+          ]
+        },
         {
           "screen_name": "truetobetrue",
           "name": "truetobetrue",
           "id": 169636821,
           "id_str": "169636821",
           "indices": [
-            0,
-            13
+            8,
+            21
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/GPMBhoDHbt",
-          "expanded_url": "https://twitter.com/i/web/status/866707788902346752",
-          "display_url": "twitter.com/i/web/status/8…",
+          "url": "https://t.co/x8fV898Cqv",
+          "expanded_url": "https://codahale.com/you-cant-sacrifice-partition-tolerance/",
+          "display_url": "codahale.com/you-cant-sacri…",
           "indices": [
-            117,
-            140
+            38,
+            61
           ]
         }
       ]
     },
-    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-    "in_reply_to_status_id": 866704678800818200,
-    "in_reply_to_status_id_str": "866704678800818176",
-    "in_reply_to_user_id": 169636821,
-    "in_reply_to_user_id_str": "169636821",
-    "in_reply_to_screen_name": "truetobetrue",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 866736927889911800,
+    "in_reply_to_status_id_str": "866736927889911810",
+    "in_reply_to_user_id": 3302551618,
+    "in_reply_to_user_id_str": "3302551618",
+    "in_reply_to_screen_name": "backendsecret",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
