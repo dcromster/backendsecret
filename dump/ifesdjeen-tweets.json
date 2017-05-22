@@ -5157,6 +5157,1516 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 13:36:42 +0000 2017",
+      "id": 866649019027775500,
+      "id_str": "866649019027775488",
+      "text": "RT @kgorin: @backendsecret чем не устраивает at-most-once?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kgorin",
+            "name": "Kirill Gorin",
+            "id": 97191679,
+            "id_str": "97191679",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 22 13:32:28 +0000 2017",
+        "id": 866647956375601200,
+        "id_str": "866647956375601154",
+        "text": "@backendsecret чем не устраивает at-most-once?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 866638638809010200,
+        "in_reply_to_status_id_str": "866638638809010177",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 97191679,
+          "id_str": "97191679"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 13:37:53 +0000 2017",
+      "id": 866649315502170100,
+      "id_str": "866649315502170112",
+      "text": "@kgorin Например: в случае с банком мне бы хотелось чтобы снятия денег были гарантировано 1 раз. Записать снятие два раза не допустимо.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kgorin",
+            "name": "Kirill Gorin",
+            "id": 97191679,
+            "id_str": "97191679",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866647956375601200,
+      "in_reply_to_status_id_str": "866647956375601154",
+      "in_reply_to_user_id": 97191679,
+      "in_reply_to_user_id_str": "97191679",
+      "in_reply_to_screen_name": "kgorin",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 13:39:07 +0000 2017",
+      "id": 866649629491941400,
+      "id_str": "866649629491941377",
+      "text": "@kgorin То есть для этого нужно exactly once _processing_ или idempotent processing. Например записывать id всех полученых сообщений.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kgorin",
+            "name": "Kirill Gorin",
+            "id": 97191679,
+            "id_str": "97191679",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866649315502170100,
+      "in_reply_to_status_id_str": "866649315502170112",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 13:39:17 +0000 2017",
+      "id": 866649669899874300,
+      "id_str": "866649669899874305",
+      "text": "RT @backendsecret: @kgorin Например: в случае с банком мне бы хотелось чтобы снятия денег были гарантировано 1 раз. Записать снятие два раз…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "kgorin",
+            "name": "Kirill Gorin",
+            "id": 97191679,
+            "id_str": "97191679",
+            "indices": [
+              19,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 22 13:37:53 +0000 2017",
+        "id": 866649315502170100,
+        "id_str": "866649315502170112",
+        "text": "@kgorin Например: в случае с банком мне бы хотелось чтобы снятия денег были гарантировано 1 раз. Записать снятие два раза не допустимо.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "kgorin",
+              "name": "Kirill Gorin",
+              "id": 97191679,
+              "id_str": "97191679",
+              "indices": [
+                0,
+                7
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 866647956375601200,
+        "in_reply_to_status_id_str": "866647956375601154",
+        "in_reply_to_user_id": 97191679,
+        "in_reply_to_user_id_str": "97191679",
+        "in_reply_to_screen_name": "kgorin",
+        "user": {
+          "id": 3302551618,
+          "id_str": "3302551618"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 13:39:20 +0000 2017",
+      "id": 866649682734460900,
+      "id_str": "866649682734460929",
+      "text": "RT @backendsecret: @kgorin То есть для этого нужно exactly once _processing_ или idempotent processing. Например записывать id всех получен…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "kgorin",
+            "name": "Kirill Gorin",
+            "id": 97191679,
+            "id_str": "97191679",
+            "indices": [
+              19,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 22 13:39:07 +0000 2017",
+        "id": 866649629491941400,
+        "id_str": "866649629491941377",
+        "text": "@kgorin То есть для этого нужно exactly once _processing_ или idempotent processing. Например записывать id всех полученых сообщений.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "kgorin",
+              "name": "Kirill Gorin",
+              "id": 97191679,
+              "id_str": "97191679",
+              "indices": [
+                0,
+                7
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 866649315502170100,
+        "in_reply_to_status_id_str": "866649315502170112",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 3302551618,
+          "id_str": "3302551618"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 13:39:46 +0000 2017",
+      "id": 866649792373510100,
+      "id_str": "866649792373510145",
+      "text": "@_codejitsu 👋",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_codejitsu",
+            "name": "Alex",
+            "id": 3370311915,
+            "id_str": "3370311915",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866648448753381400,
+      "in_reply_to_status_id_str": "866648448753381376",
+      "in_reply_to_user_id": 3370311915,
+      "in_reply_to_user_id_str": "3370311915",
+      "in_reply_to_screen_name": "_codejitsu",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 13:54:10 +0000 2017",
+      "id": 866653415656566800,
+      "id_str": "866653415656566785",
+      "text": "@kgorin об этом и речь: at most once не устраивает из-за того что требуются дополнительные абстракции. Но выбора у нас по правде говоря нет.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kgorin",
+            "name": "Kirill Gorin",
+            "id": 97191679,
+            "id_str": "97191679",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866651829878358000,
+      "in_reply_to_status_id_str": "866651829878358016",
+      "in_reply_to_user_id": 97191679,
+      "in_reply_to_user_id_str": "97191679",
+      "in_reply_to_screen_name": "kgorin",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 14:12:30 +0000 2017",
+      "id": 866658029097320400,
+      "id_str": "866658029097320452",
+      "text": "@badPiglet @pacman_syyu @ifesdjeen Не пробовал и не думаю что это хорошая идея: насколько мне известно компанию которая делала Titan купили.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "badPiglet",
+            "name": "angrytit",
+            "id": 1272943884,
+            "id_str": "1272943884",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "pacman_syyu",
+            "name": "Name",
+            "id": 1708240310,
+            "id_str": "1708240310",
+            "indices": [
+              11,
+              23
+            ]
+          },
+          {
+            "screen_name": "ifesdjeen",
+            "name": "αλεx π",
+            "id": 57027700,
+            "id_str": "57027700",
+            "indices": [
+              24,
+              34
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866654021922283500,
+      "in_reply_to_status_id_str": "866654021922283520",
+      "in_reply_to_user_id": 1272943884,
+      "in_reply_to_user_id_str": "1272943884",
+      "in_reply_to_screen_name": "badPiglet",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 14:37:30 +0000 2017",
+      "id": 866664321178370000,
+      "id_str": "866664321178370048",
+      "text": "@ipronix Никогда не слышал про таких",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866660989500108800,
+      "in_reply_to_status_id_str": "866660989500108800",
+      "in_reply_to_user_id": 113404896,
+      "in_reply_to_user_id_str": "113404896",
+      "in_reply_to_screen_name": "ipronix",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 14:48:19 +0000 2017",
+      "id": 866667043780735000,
+      "id_str": "866667043780734976",
+      "text": "Возвращаясь к теме Dynamo и как строить Базу Данных, остается вопрос: каким образом распространять информацию между нодами?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 14:49:18 +0000 2017",
+      "id": 866667289789247500,
+      "id_str": "866667289789247488",
+      "text": "Если все будут говорить со всеми чтобы удостовериться что информация была распространена - в больших масштабах такое работать не будет.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866667043780735000,
+      "in_reply_to_status_id_str": "866667043780734976",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 14:50:24 +0000 2017",
+      "id": 866667568328790000,
+      "id_str": "866667568328790021",
+      "text": "Чтобы избежать этой проблемы были придуманы Gossip Algorithms. Один из первых пейперов на тему: Epidemic Algorithms https://t.co/6SQCh0tufl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6SQCh0tufl",
+            "expanded_url": "https://pdfs.semanticscholar.org/49ed/15db181c74c7067ec01800fb5392411c868c.pdf",
+            "display_url": "pdfs.semanticscholar.org/49ed/15db181c7…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866667289789247500,
+      "in_reply_to_status_id_str": "866667289789247488",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 14:58:00 +0000 2017",
+      "id": 866669479891284000,
+      "id_str": "866669479891283968",
+      "text": "@badPiglet @pacman_syyu @ifesdjeen https://t.co/3vBa84oc1Q",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "badPiglet",
+            "name": "angrytit",
+            "id": 1272943884,
+            "id_str": "1272943884",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "pacman_syyu",
+            "name": "Name",
+            "id": 1708240310,
+            "id_str": "1708240310",
+            "indices": [
+              11,
+              23
+            ]
+          },
+          {
+            "screen_name": "ifesdjeen",
+            "name": "αλεx π",
+            "id": 57027700,
+            "id_str": "57027700",
+            "indices": [
+              24,
+              34
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3vBa84oc1Q",
+            "expanded_url": "https://github.com/thinkaurelius/titan/commits/titan10",
+            "display_url": "github.com/thinkaurelius/…",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866668753685278700,
+      "in_reply_to_status_id_str": "866668753685278720",
+      "in_reply_to_user_id": 1272943884,
+      "in_reply_to_user_id_str": "1272943884",
+      "in_reply_to_screen_name": "badPiglet",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 14:58:10 +0000 2017",
+      "id": 866669520668250100,
+      "id_str": "866669520668250113",
+      "text": "@badPiglet @pacman_syyu @ifesdjeen last commit dec 2015",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "badPiglet",
+            "name": "angrytit",
+            "id": 1272943884,
+            "id_str": "1272943884",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "pacman_syyu",
+            "name": "Name",
+            "id": 1708240310,
+            "id_str": "1708240310",
+            "indices": [
+              11,
+              23
+            ]
+          },
+          {
+            "screen_name": "ifesdjeen",
+            "name": "αλεx π",
+            "id": 57027700,
+            "id_str": "57027700",
+            "indices": [
+              24,
+              34
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866669479891284000,
+      "in_reply_to_status_id_str": "866669479891283968",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon May 22 15:22:12 +0000 2017",
+      "id": 866675571073441800,
+      "id_str": "866675571073441792",
+      "text": "RT @meln1k: @backendsecret At-least-once + идемпотентность?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "meln1k",
+            "name": "Nikita Melkozerov",
+            "id": 92554921,
+            "id_str": "92554921",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 22 15:10:44 +0000 2017",
+        "id": 866672684951900200,
+        "id_str": "866672684951900162",
+        "text": "@backendsecret At-least-once + идемпотентность?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 866638638809010200,
+        "in_reply_to_status_id_str": "866638638809010177",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 92554921,
+          "id_str": "92554921"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 15:52:20 +0000 2017",
+      "id": 866683154127519700,
+      "id_str": "866683154127519745",
+      "text": "Разминка: чем отличаются Sorted Files (LSM-Trees) от B+Trees (допустим в обоих случаях write-only workload)?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 15:53:43 +0000 2017",
+      "id": 866683502884008000,
+      "id_str": "866683502884007937",
+      "text": "Какие гарантии мы идеем в плане производительности (Big-O) операций: запись и чтение.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866683154127519700,
+      "in_reply_to_status_id_str": "866683154127519745",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 16:03:51 +0000 2017",
+      "id": 866686052651683800,
+      "id_str": "866686052651683841",
+      "text": "Sorted Files быстрее писать. B+Trees дадут лучшее результаты при чтении. Примерно поэтому Sorted Files часто используют для primary storage,",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866683502884008000,
+      "in_reply_to_status_id_str": "866683502884007937",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 16:06:23 +0000 2017",
+      "id": 866686689669992400,
+      "id_str": "866686689669992448",
+      "text": "а B+Trees для secondary index. В этой связи, отличный пейпер на тему Concurrent Cache Oblivious B-Trees https://t.co/n6nawgWAbY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/n6nawgWAbY",
+            "expanded_url": "http://people.cs.georgetown.edu/~jfineman/papers/cobtree.pdf",
+            "display_url": "people.cs.georgetown.edu/~jfineman/pape…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866686052651683800,
+      "in_reply_to_status_id_str": "866686052651683841",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 16:08:16 +0000 2017",
+      "id": 866687164247142400,
+      "id_str": "866687164247142400",
+      "text": "Cache Oblivious  подразумевает что алгоритм будет производительным и дружественным по отношению к CPU Cache даже не зная его размера.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866686689669992400,
+      "in_reply_to_status_id_str": "866686689669992448",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 16:10:22 +0000 2017",
+      "id": 866687691798261800,
+      "id_str": "866687691798261760",
+      "text": "Кстати, прочтя и ориентируясь в хотя бы половине упомянутых на этой неделе тем поможет пройти собеседование в &lt;big cool tech companies&gt;",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 16:16:46 +0000 2017",
+      "id": 866689301031112700,
+      "id_str": "866689301031112709",
+      "text": "Было бы классно если бы я научился согласовывать предложения по-русски. Если видите ошибки-не судите строго, язык не родной, использую редко",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 16:18:41 +0000 2017",
+      "id": 866689783988355100,
+      "id_str": "866689783988355077",
+      "text": "@1101_debian Сам работаю в DataStax. Над базами данных к сожалению мало где можно работать(",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "1101_debian",
+            "name": "AlexDenisov",
+            "id": 285030039,
+            "id_str": "285030039",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866688935057076200,
+      "in_reply_to_status_id_str": "866688935057076226",
+      "in_reply_to_user_id": 285030039,
+      "in_reply_to_user_id_str": "285030039",
+      "in_reply_to_screen_name": "1101_debian",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 16:34:18 +0000 2017",
+      "id": 866693713472479200,
+      "id_str": "866693713472479233",
+      "text": "@theaspect https://t.co/rRJhpbY1Zq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "theaspect",
+            "name": "Constantine Linnick",
+            "id": 18159918,
+            "id_str": "18159918",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rRJhpbY1Zq",
+            "expanded_url": "https://twitter.com/backendsecret/status/866689301031112709",
+            "display_url": "twitter.com/backendsecret/…",
+            "indices": [
+              11,
+              34
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866693077838286800,
+      "in_reply_to_status_id_str": "866693077838286849",
+      "in_reply_to_user_id": 18159918,
+      "in_reply_to_user_id_str": "18159918",
+      "in_reply_to_screen_name": "theaspect",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 866689301031112700,
+      "quoted_status_id_str": "866689301031112709",
+      "quoted_status": {
+        "created_at": "Mon May 22 16:16:46 +0000 2017",
+        "id": 866689301031112700,
+        "id_str": "866689301031112709",
+        "text": "Было бы классно если бы я научился согласовывать предложения по-русски. Если видите ошибки-не судите строго, язык не родной, использую редко",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3302551618,
+          "id_str": "3302551618"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 22 16:36:12 +0000 2017",
+      "id": 866694192269062100,
+      "id_str": "866694192269062144",
+      "text": "@theaspect Конечно! Осень благодарен. Объясняю свою безграмотность)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "theaspect",
+            "name": "Constantine Linnick",
+            "id": 18159918,
+            "id_str": "18159918",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 866694035875954700,
+      "in_reply_to_status_id_str": "866694035875954688",
+      "in_reply_to_user_id": 18159918,
+      "in_reply_to_user_id_str": "18159918",
+      "in_reply_to_screen_name": "theaspect",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 16:50:35 +0000 2017",
+      "id": 866697812284723200,
+      "id_str": "866697812284723200",
+      "text": "Поговорим об I/O? Какие бывают виды I/O с точки зрения операционной системы и/или платформ?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 16:58:11 +0000 2017",
+      "id": 866699724111454200,
+      "id_str": "866699724111454208",
+      "text": "Самый простой вид I/O это open/read/write/close syscalls, где запись и чтения производятся с помощью буфера и дескриптора файла.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 17:00:25 +0000 2017",
+      "id": 866700285690994700,
+      "id_str": "866700285690994693",
+      "text": "Очевидно, что эти вызовы синхронны (блокируют поток до завершения операции) и таким образом невозможно работать с несколькими дескрипторами",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866699724111454200,
+      "in_reply_to_status_id_str": "866699724111454208",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 17:02:48 +0000 2017",
+      "id": 866700888148234200,
+      "id_str": "866700888148234240",
+      "text": "Именно поэтому были передуманы другие способы ввода-вывода, и все (а именно - I/O Multiplexing) началось с select().",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866700285690994700,
+      "in_reply_to_status_id_str": "866700285690994693",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 22 17:05:15 +0000 2017",
+      "id": 866701502064316400,
+      "id_str": "866701502064316416",
+      "text": "select() -  по прежнему синхронная операция, но она позволяет запросить ожидать событий на нескольких дескрипторах.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 866700888148234200,
+      "in_reply_to_status_id_str": "866700888148234240",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
