@@ -15485,6 +15485,893 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 24 12:19:46 +0000 2017",
+      "id": 867354433151266800,
+      "id_str": "867354433151266816",
+      "text": "@meln1k Repair чинит ranges. Поэтому нужно регулярно запускать, мониторить hinted writes / replica failure. А лучше… https://t.co/WLKJteAp6c",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "meln1k",
+            "name": "Nikita Melkozerov",
+            "id": 92554921,
+            "id_str": "92554921",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WLKJteAp6c",
+            "expanded_url": "https://twitter.com/i/web/status/867354433151266816",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 867352754603388900,
+      "in_reply_to_status_id_str": "867352754603388928",
+      "in_reply_to_user_id": 92554921,
+      "in_reply_to_user_id_str": "92554921",
+      "in_reply_to_screen_name": "meln1k",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed May 24 12:23:10 +0000 2017",
+      "id": 867355291758866400,
+      "id_str": "867355291758866432",
+      "text": "@meln1k То есть конкретные rows могут быть consistent, но на уровне partition есть mismatches. Нужно смотреть на repaired blocking метрики.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "meln1k",
+            "name": "Nikita Melkozerov",
+            "id": 92554921,
+            "id_str": "92554921",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 867354433151266800,
+      "in_reply_to_status_id_str": "867354433151266816",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed May 24 12:28:52 +0000 2017",
+      "id": 867356724520505300,
+      "id_str": "867356724520505345",
+      "text": "Ещё можно почитать подробно статью о repair здесь: https://t.co/cTcjunLdRQ https://t.co/wv48to6aKr",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cTcjunLdRQ",
+            "expanded_url": "https://www.datastax.com/dev/blog/repair-in-cassandra",
+            "display_url": "datastax.com/dev/blog/repai…",
+            "indices": [
+              51,
+              74
+            ]
+          },
+          {
+            "url": "https://t.co/wv48to6aKr",
+            "expanded_url": "https://twitter.com/meln1k/status/867352754603388928",
+            "display_url": "twitter.com/meln1k/status/…",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 867352754603388900,
+      "quoted_status_id_str": "867352754603388928",
+      "quoted_status": {
+        "created_at": "Wed May 24 12:13:05 +0000 2017",
+        "id": 867352754603388900,
+        "id_str": "867352754603388928",
+        "text": "@backendsecret насколько часто стоит выполнять nodetool repair, если данные никогда не изменяются/удаляются?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 867331196786704400,
+        "in_reply_to_status_id_str": "867331196786704384",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 92554921,
+          "id_str": "92554921"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 24 13:43:17 +0000 2017",
+      "id": 867375453627142100,
+      "id_str": "867375453627142144",
+      "text": "Отличная статья о понятии времени в распределенных системах: There’s no now https://t.co/jbmptbAbVd",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jbmptbAbVd",
+            "expanded_url": "http://queue.acm.org/detail.cfm?id=2745385",
+            "display_url": "queue.acm.org/detail.cfm?id=…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 24 14:29:22 +0000 2017",
+      "id": 867387050160422900,
+      "id_str": "867387050160422912",
+      "text": "Не совсем по теме недели, но интересная статья: Working at Netflix: 2017 by Brendan Gregg https://t.co/No0YKYzct9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/No0YKYzct9",
+            "expanded_url": "http://www.brendangregg.com/blog/2017-05-16/working-at-netflix-2017.html",
+            "display_url": "brendangregg.com/blog/2017-05-1…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed May 24 14:33:41 +0000 2017",
+      "id": 867388133779935200,
+      "id_str": "867388133779935234",
+      "text": "И ещё одна больше high-level идеи, Infrastructure behind the Twitter: Scale: https://t.co/ak78aZazvY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ak78aZazvY",
+            "expanded_url": "https://blog.twitter.com/2017/the-infrastructure-behind-twitter-scale",
+            "display_url": "blog.twitter.com/2017/the-infra…",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 867387050160422900,
+      "in_reply_to_status_id_str": "867387050160422912",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed May 24 14:35:25 +0000 2017",
+      "id": 867388570415353900,
+      "id_str": "867388570415353857",
+      "text": "По сегодняшней теме: детали реализации Cassandra 3.x Storage Engine https://t.co/mdPzJeWXmo",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mdPzJeWXmo",
+            "expanded_url": "http://thelastpickle.com/blog/2016/03/04/introductiont-to-the-apache-cassandra-3-storage-engine.html",
+            "display_url": "thelastpickle.com/blog/2016/03/0…",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed May 24 17:28:22 +0000 2017",
+      "id": 867432097656557600,
+      "id_str": "867432097656557568",
+      "text": "Более интуитивная статья на тему Log Structures Merge Trees: https://t.co/Z3fZ3zmEoO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Z3fZ3zmEoO",
+            "expanded_url": "http://www.benstopford.com/2015/02/14/log-structured-merge-trees/",
+            "display_url": "benstopford.com/2015/02/14/log…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed May 24 17:32:56 +0000 2017",
+      "id": 867433246853931000,
+      "id_str": "867433246853931009",
+      "text": "О конфузной формулировке CAP и ACID где слово Consitent значит разные вещи: https://t.co/kWbqxXImgQ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kWbqxXImgQ",
+            "expanded_url": "http://thislongrun.blogspot.de/2015/03/the-confusing-cap-and-acid-wording.html?m=1",
+            "display_url": "thislongrun.blogspot.de/2015/03/the-co…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 24 17:38:09 +0000 2017",
+      "id": 867434556684722200,
+      "id_str": "867434556684722177",
+      "text": "@axique Ага, не знал как перевести confusing. Спасибо!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "axique",
+            "name": "Kyrylo Perevozchykov",
+            "id": 174612206,
+            "id_str": "174612206",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 867434404347605000,
+      "in_reply_to_status_id_str": "867434404347604992",
+      "in_reply_to_user_id": 174612206,
+      "in_reply_to_user_id_str": "174612206",
+      "in_reply_to_screen_name": "axique",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 24 17:38:13 +0000 2017",
+      "id": 867434577094213600,
+      "id_str": "867434577094213633",
+      "text": "RT @axique: @backendsecret лучше уже \"сбивающей с толку\"",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "axique",
+            "name": "Kyrylo Perevozchykov",
+            "id": 174612206,
+            "id_str": "174612206",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed May 24 17:37:32 +0000 2017",
+        "id": 867434404347605000,
+        "id_str": "867434404347604992",
+        "text": "@backendsecret лучше уже \"сбивающей с толку\"",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 867433246853931000,
+        "in_reply_to_status_id_str": "867433246853931009",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 174612206,
+          "id_str": "174612206"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 24 17:40:43 +0000 2017",
+      "id": 867435202657865700,
+      "id_str": "867435202657865728",
+      "text": "И напоследок, тоже не совсем в тему, но в за прошлые несколько лет пришлось много работать с оптимизацией производительности.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 24 17:43:07 +0000 2017",
+      "id": 867435807690428400,
+      "id_str": "867435807690428416",
+      "text": "Было интересно разобраться с операционными системами. Нашёлся хороший курс по OS с заготовками для тестовых заданий: https://t.co/eHkK1CEmWR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eHkK1CEmWR",
+            "expanded_url": "https://www.ops-class.org/",
+            "display_url": "ops-class.org",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 867435202657865700,
+      "in_reply_to_status_id_str": "867435202657865728",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 24 17:44:41 +0000 2017",
+      "id": 867436202089119700,
+      "id_str": "867436202089119744",
+      "text": "Очень стоящий курс. После него становится легче ориентироваться в любом ядре, поскольку понимаешь toolchain, структуру и стиль кода ядер.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 867435807690428400,
+      "in_reply_to_status_id_str": "867435807690428416",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 24 17:46:20 +0000 2017",
+      "id": 867436617686024200,
+      "id_str": "867436617686024193",
+      "text": "If you have just two takeaways from this week, let it be https://t.co/eHkK1CEmWR and https://t.co/7OgQVTSdIB пройдите, останетесь довольны!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eHkK1CEmWR",
+            "expanded_url": "https://www.ops-class.org/",
+            "display_url": "ops-class.org",
+            "indices": [
+              57,
+              80
+            ]
+          },
+          {
+            "url": "https://t.co/7OgQVTSdIB",
+            "expanded_url": "http://15721.courses.cs.cmu.edu/spring2017/project1.html",
+            "display_url": "15721.courses.cs.cmu.edu/spring2017/pro…",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 867436202089119700,
+      "in_reply_to_status_id_str": "867436202089119744",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed May 24 17:47:41 +0000 2017",
+      "id": 867436956946493400,
+      "id_str": "867436956946493445",
+      "text": "По техническим причинам я вынужден эту неделю остановить после трёх дней. Перекопал свой архив ссылок, вспомнил много интересного.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 24 17:49:21 +0000 2017",
+      "id": 867437374837583900,
+      "id_str": "867437374837583883",
+      "text": "Надеюсь материал был всем полезен. Напомню что все ссылки будут структурированы и выложены в gist: https://t.co/Dp3mjJT4bv",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Dp3mjJT4bv",
+            "expanded_url": "https://gist.github.com/ifesdjeen/4af4c2302126b11a48cdc8d36787a6c9",
+            "display_url": "gist.github.com/ifesdjeen/4af4…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 867436956946493400,
+      "in_reply_to_status_id_str": "867436956946493445",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 24 17:55:44 +0000 2017",
+      "id": 867438983713873900,
+      "id_str": "867438983713873920",
+      "text": "Напомню, что с Вами был @ifesdjeen. Приятно было со всеми пообщаться и всего хорошего!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ifesdjeen",
+            "name": "αλεx π",
+            "id": 57027700,
+            "id_str": "57027700",
+            "indices": [
+              24,
+              34
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 867437374837583900,
+      "in_reply_to_status_id_str": "867437374837583883",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
