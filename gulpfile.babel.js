@@ -124,7 +124,7 @@ task('rss', done => {
     feed.item({
       title: author.username,
       description: render(firstTweet(author)),
-      url: `https://jsunderhood.ru/${author.username}/`,
+      url: `https://backendsecret.ru/${author.username}/`,
       date: firstTweet(author).created_at,
     });
   });
