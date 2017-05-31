@@ -121,7 +121,7 @@ task('rss', done => {
   const feed = new RSS(underhood.site);
   const authorsToPost = authors.filter(author => author.post !== false);
   authorsToPost.forEach(author => {
-console.log(author)
+//console.log(author)
     feed.item({
       title: author.username,
       description: render(firstTweet(author)),
