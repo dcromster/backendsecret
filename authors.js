@@ -1,6 +1,6 @@
 export default [
   // { username: 'twitter_name', start: '15 mar 2017', first: '640816652293144576', post: false },
-  { username: 'fads93_zombie',   start: '29 may 2017', first: '869095380260016128', post: false },
+  { username: 'fads93_zombie',   start: '29 may 2017', first: '869095380260016128' },
   { username: 'ifesdjeen',       start: '22 may 2017', first: '866568746319609857' },
   { username: 's_kibish',        start: '15 may 2017', first: '864034376639803392' },
   { username: 'gronpipmaster',   start: '08 may 2017', first: '861501404883685376' },
