@@ -37,30 +37,40 @@
     }
   },
   "protected": false,
-  "followers_count": 3466,
+  "followers_count": 3465,
   "friends_count": 0,
-  "listed_count": 199,
+  "listed_count": 200,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 2452,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21307,
+  "statuses_count": 21317,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jun 05 17:34:36 +0000 2017",
-    "id": 871782320201756700,
-    "id_str": "871782320201756672",
-    "text": "Интересно, а все сейчас смотрят, что же нам такого Apple покажет на WWDC? (Я, конечно, буду читать завтра вырезки)",
+    "created_at": "Mon Jun 05 19:21:44 +0000 2017",
+    "id": 871809281259184100,
+    "id_str": "871809281259184128",
+    "text": "Интересные герои, которые сами себе придумывают проблемы... https://t.co/RBVmWGKAFG",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/RBVmWGKAFG",
+          "expanded_url": "https://twitter.com/fads93_zombie/status/871809043773349890",
+          "display_url": "twitter.com/fads93_zombie/…",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -69,12 +79,17 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
-    "is_quote_status": false,
+    "contributors": [
+      223273129
+    ],
+    "is_quote_status": true,
+    "quoted_status_id": 871809043773349900,
+    "quoted_status_id_str": "871809043773349890",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
