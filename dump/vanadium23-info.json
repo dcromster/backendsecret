@@ -4,7 +4,18 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Москва, Россия",
-  "profile_location": null,
+  "profile_location": {
+    "id": "4303d1afc1e98c37",
+    "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+    "place_type": "unknown",
+    "name": "Москва, Россия",
+    "full_name": "Москва, Россия",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "На этой неделе с вами @vanadium23. Fullstack Dev @ Ostrovok.ru",
   "url": "https://t.co/SebwQPTxh5",
   "entities": {
@@ -26,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3469,
+  "followers_count": 3472,
   "friends_count": 0,
   "listed_count": 199,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,26 +46,26 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21359,
+  "statuses_count": 21362,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Jun 07 10:50:08 +0000 2017",
-    "id": 872405309419114500,
-    "id_str": "872405309419114496",
-    "text": "У убера есть достаточно денег, чтобы сжигать их сначала на переезд туда, потом обратно.\nХороший ответ на эту статью… https://t.co/Ih3TwivRaC",
-    "truncated": true,
+    "created_at": "Wed Jun 07 12:42:45 +0000 2017",
+    "id": 872433649102331900,
+    "id_str": "872433649102331905",
+    "text": "Так можно и cockroachdb назвать yet another postgres implementation (: https://t.co/sm1j4xggzd",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/Ih3TwivRaC",
-          "expanded_url": "https://twitter.com/i/web/status/872405309419114496",
-          "display_url": "twitter.com/i/web/status/8…",
+          "url": "https://t.co/sm1j4xggzd",
+          "expanded_url": "https://twitter.com/rukavitsya/status/872433205135147008",
+          "display_url": "twitter.com/rukavitsya/sta…",
           "indices": [
-            117,
-            140
+            71,
+            94
           ]
         }
       ]
@@ -72,14 +83,14 @@
       223273129
     ],
     "is_quote_status": true,
-    "quoted_status_id": 872404887077879800,
-    "quoted_status_id_str": "872404887077879808",
+    "quoted_status_id": 872433205135147000,
+    "quoted_status_id_str": "872433205135147008",
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
