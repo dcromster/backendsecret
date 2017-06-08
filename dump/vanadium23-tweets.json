@@ -4945,6 +4945,109 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Wed Jun 07 15:16:03 +0000 2017",
+      "id": 872472227706527700,
+      "id_str": "872472227706527744",
+      "text": "О, тоже пытался найти эту ссылку, только на mailing lists - спасибо, что подсказали (: https://t.co/qwkYETnlWm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qwkYETnlWm",
+            "expanded_url": "https://twitter.com/barskykd/status/872470525104316416",
+            "display_url": "twitter.com/barskykd/statu…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        223273129
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 872470525104316400,
+      "quoted_status_id_str": "872470525104316416",
+      "quoted_status": {
+        "created_at": "Wed Jun 07 15:09:17 +0000 2017",
+        "id": 872470525104316400,
+        "id_str": "872470525104316416",
+        "text": "@backendsecret Ответ от разработчика постгреса. https://t.co/ua7HfM5K4e\nУберцы просто не умеют пользоваться постгресом  )",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/ua7HfM5K4e",
+              "expanded_url": "http://thebuild.com/blog/2017/04/28/a-postgresql-response-to-uber/",
+              "display_url": "thebuild.com/blog/2017/04/2…",
+              "indices": [
+                48,
+                71
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 872405309419114500,
+        "in_reply_to_status_id_str": "872405309419114496",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 64352529,
+          "id_str": "64352529"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
