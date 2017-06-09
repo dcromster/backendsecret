@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3478,
+  "followers_count": 3474,
   "friends_count": 0,
   "listed_count": 199,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,37 +46,118 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21384,
+  "statuses_count": 21396,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Jun 08 17:42:48 +0000 2017",
-    "id": 872871548499243000,
-    "id_str": "872871548499243009",
-    "text": "Поэтому мы взяли jade (pug) и научили его компилироваться в валидный код incremental dom'a, т.е. переизобрели JSX (:",
+    "created_at": "Fri Jun 09 09:29:02 +0000 2017",
+    "id": 873109675453038600,
+    "id_str": "873109675453038592",
+    "text": "RT @zhulikgleb: @ruxeg @backendsecret защитное программирование, контракты. Пускай там, где можно, ошибки отлавливает машина, а не человек",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "zhulikgleb",
+          "name": "gleb.zhulik",
+          "id": 139645030,
+          "id_str": "139645030",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "ruxeg",
+          "name": "ruX",
+          "id": 113131428,
+          "id_str": "113131428",
+          "indices": [
+            16,
+            22
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            23,
+            37
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 872871314935205900,
-    "in_reply_to_status_id_str": "872871314935205889",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       223273129
     ],
+    "retweeted_status": {
+      "created_at": "Fri Jun 09 09:28:28 +0000 2017",
+      "id": 873109531273773000,
+      "id_str": "873109531273773057",
+      "text": "@ruxeg @backendsecret защитное программирование, контракты. Пускай там, где можно, ошибки отлавливает машина, а не человек",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruxeg",
+            "name": "ruX",
+            "id": 113131428,
+            "id_str": "113131428",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              7,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 873106362439417900,
+      "in_reply_to_status_id_str": "873106362439417856",
+      "in_reply_to_user_id": 113131428,
+      "in_reply_to_user_id_str": "113131428",
+      "in_reply_to_screen_name": "ruxeg",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
