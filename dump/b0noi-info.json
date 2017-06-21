@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3483,
+  "followers_count": 3482,
   "friends_count": 0,
   "listed_count": 199,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,18 +35,39 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21544,
+  "statuses_count": 21551,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Jun 21 06:32:04 +0000 2017",
-    "id": 877413793390710800,
-    "id_str": "877413793390710784",
-    "text": "Я спать:) завтра как и говорил: WhitePapers/Книги",
+    "created_at": "Wed Jun 21 18:57:44 +0000 2017",
+    "id": 877601444257382400,
+    "id_str": "877601444257382400",
+    "text": "RT @gobozov: @backendsecret Добавлю Ctrl + Spaсe, Ctrl + Shift + Space - autocomplete. Ctrl + K - chagnes made after last commit, Double Sh…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "gobozov",
+          "name": "Georgy Gobozov",
+          "id": 130825656,
+          "id_str": "130825656",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            13,
+            27
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
@@ -57,47 +78,54 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "02866a6a15b5fc5f",
-      "url": "https://api.twitter.com/1.1/geo/id/02866a6a15b5fc5f.json",
-      "place_type": "neighborhood",
-      "name": "Lowlanders",
-      "full_name": "Lowlanders, Sunnyvale",
-      "country_code": "US",
-      "country": "United States",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.0299564,
-              37.3803129
-            ],
-            [
-              -122.017152,
-              37.3803129
-            ],
-            [
-              -122.017152,
-              37.3890393
-            ],
-            [
-              -122.0299564,
-              37.3890393
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jun 21 18:56:41 +0000 2017",
+      "id": 877601183791071200,
+      "id_str": "877601183791071232",
+      "text": "@backendsecret Добавлю Ctrl + Spaсe, Ctrl + Shift + Space - autocomplete. Ctrl + K - chagnes made after last commit, Double Shift  - search",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 877375861581688800,
+      "in_reply_to_status_id_str": "877375861581688832",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "cs"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "lang": "ru"
+    "retweeted": true,
+    "lang": "cs"
   },
   "contributors_enabled": false,
   "is_translator": false,
