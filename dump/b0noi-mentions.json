@@ -6183,6 +6183,137 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 21 19:31:39 +0000 2017",
+      "id": 877609982115631100,
+      "id_str": "877609982115631104",
+      "text": "@gobozov @backendsecret Cmd+y удаление строки, cmd+g - выделение одинаковых строк",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gobozov",
+            "name": "Georgy Gobozov",
+            "id": 130825656,
+            "id_str": "130825656",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              9,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 877601183791071200,
+      "in_reply_to_status_id_str": "877601183791071232",
+      "in_reply_to_user_id": 130825656,
+      "in_reply_to_user_id_str": "130825656",
+      "in_reply_to_screen_name": "gobozov",
+      "user": {
+        "id": 17671839,
+        "id_str": "17671839"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "6ad9ce0b00a20917",
+        "url": "https://api.twitter.com/1.1/geo/id/6ad9ce0b00a20917.json",
+        "place_type": "neighborhood",
+        "name": "Staatsliedenbuurt",
+        "full_name": "Staatsliedenbuurt, Amsterdam",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.86792417702133,
+                52.3759498273481
+              ],
+              [
+                4.88275588405321,
+                52.3759498273481
+              ],
+              [
+                4.88275588405321,
+                52.3858223544161
+              ],
+              [
+                4.86792417702133,
+                52.3858223544161
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 21 20:42:13 +0000 2017",
+      "id": 877627741784293400,
+      "id_str": "877627741784293376",
+      "text": "@backendsecret Те кто пишет на Scala, окда",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 877627187989327900,
+      "in_reply_to_status_id_str": "877627187989327872",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 272808014,
+        "id_str": "272808014"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
