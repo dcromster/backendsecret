@@ -43,6 +43,7 @@ describe('about page', () => {
     assert($('article').text().length > 0);
   });
 });
+/*
 
 describe('archive pages', () => {
   it('tweets list', () => {
@@ -53,4 +54,6 @@ describe('archive pages', () => {
       assert($('article h2 small').length > 1);
     });
   });
+
 });
+*/
