@@ -35,31 +35,21 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21735,
+  "statuses_count": 21772,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Jun 24 18:40:00 +0000 2017",
-    "id": 878684147576840200,
-    "id_str": "878684147576840193",
-    "text": "А между тем. \nPS: а я сегодня доберусь к твиттеру ближе к вечеру и начну сианс ответов;) https://t.co/YnN6u5lh4j",
+    "created_at": "Sun Jun 25 03:41:33 +0000 2017",
+    "id": 878820431968391200,
+    "id_str": "878820431968391171",
+    "text": "Может кто расскажет свой опыт - в что и как нынче инвестируете?",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/YnN6u5lh4j",
-          "expanded_url": "https://twitter.com/AndrewYNg/status/878328923087556610",
-          "display_url": "twitter.com/AndrewYNg/stat…",
-          "indices": [
-            89,
-            112
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -67,16 +57,46 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": null,
+    "place": {
+      "id": "02866a6a15b5fc5f",
+      "url": "https://api.twitter.com/1.1/geo/id/02866a6a15b5fc5f.json",
+      "place_type": "neighborhood",
+      "name": "Lowlanders",
+      "full_name": "Lowlanders, Sunnyvale",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.0299564,
+              37.3803129
+            ],
+            [
+              -122.017152,
+              37.3803129
+            ],
+            [
+              -122.017152,
+              37.3890393
+            ],
+            [
+              -122.0299564,
+              37.3890393
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 878328923087556600,
-    "quoted_status_id_str": "878328923087556610",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
