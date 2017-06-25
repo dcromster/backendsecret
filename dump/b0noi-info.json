@@ -26,28 +26,56 @@
     }
   },
   "protected": false,
-  "followers_count": 3495,
+  "followers_count": 3494,
   "friends_count": 0,
-  "listed_count": 199,
+  "listed_count": 200,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 2450,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21772,
+  "statuses_count": 21804,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Jun 25 03:41:33 +0000 2017",
-    "id": 878820431968391200,
-    "id_str": "878820431968391171",
-    "text": "Может кто расскажет свой опыт - в что и как нынче инвестируете?",
+    "created_at": "Sun Jun 25 20:25:54 +0000 2017",
+    "id": 879073184296837100,
+    "id_str": "879073184296837120",
+    "text": "Не-не, Evernote не о том, попробуйте https://t.co/USxlJx7gbI или https://t.co/Qt2MqUMYYw аналогов много https://t.co/IEpMPqB0tO",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/USxlJx7gbI",
+          "expanded_url": "https://www.2doapp.com",
+          "display_url": "2doapp.com",
+          "indices": [
+            37,
+            60
+          ]
+        },
+        {
+          "url": "https://t.co/Qt2MqUMYYw",
+          "expanded_url": "http://doit.im",
+          "display_url": "doit.im",
+          "indices": [
+            65,
+            88
+          ]
+        },
+        {
+          "url": "https://t.co/IEpMPqB0tO",
+          "expanded_url": "https://twitter.com/e_borodenkov/status/879068851639656448",
+          "display_url": "twitter.com/e_borodenkov/s…",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
@@ -92,11 +120,14 @@
       "attributes": {}
     },
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 879068851639656400,
+    "quoted_status_id_str": "879068851639656448",
     "retweet_count": 0,
     "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
