@@ -1,0 +1,292 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jul 17 04:33:53 +0000 2017",
+      "id": 886806137278017500,
+      "id_str": "886806137278017538",
+      "text": "Всем привет из Новосибирска! С вами @VitalyLiber. Работаю с #rubyonrails и #docker. Присматриваюсь к #golang 😀",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "rubyonrails",
+            "indices": [
+              60,
+              72
+            ]
+          },
+          {
+            "text": "docker",
+            "indices": [
+              75,
+              82
+            ]
+          },
+          {
+            "text": "golang",
+            "indices": [
+              101,
+              108
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "VitalyLiber",
+            "name": "Vitaly Liber",
+            "id": 22141677,
+            "id_str": "22141677",
+            "indices": [
+              36,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 17 04:46:41 +0000 2017",
+      "id": 886809356062388200,
+      "id_str": "886809356062388224",
+      "text": "@POS_troi @VitalyLiber Golang быстрый и проворный, снисходителен к ресурсам и билдится в один файл, который удобно упаковывать в Docker.)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "POS_troi",
+            "name": "ТыжСисАдмин",
+            "id": 62336528,
+            "id_str": "62336528",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "VitalyLiber",
+            "name": "Vitaly Liber",
+            "id": 22141677,
+            "id_str": "22141677",
+            "indices": [
+              10,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 886808356106772500,
+      "in_reply_to_status_id_str": "886808356106772480",
+      "in_reply_to_user_id": 62336528,
+      "in_reply_to_user_id_str": "62336528",
+      "in_reply_to_screen_name": "POS_troi",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 17 06:28:16 +0000 2017",
+      "id": 886834919963598800,
+      "id_str": "886834919963598848",
+      "text": "На прошлой неделе понадобилось быстро поднять свой приватный Docker Registry с панелью управления. Решение: https://t.co/gwG3srb5XK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gwG3srb5XK",
+            "expanded_url": "https://goo.gl/TdLbrZ",
+            "display_url": "goo.gl/TdLbrZ",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 17 06:48:43 +0000 2017",
+      "id": 886840066949222400,
+      "id_str": "886840066949222400",
+      "text": "@den4ikbyte @VitalyLiber В Новосибирске очень активное и дружелюбное #golang сообщество. Затащили в свою секту - Go… https://t.co/uaIoF1iWoG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "golang",
+            "indices": [
+              69,
+              76
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "den4ikbyte",
+            "name": "Denis",
+            "id": 760028430247264300,
+            "id_str": "760028430247264256",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "VitalyLiber",
+            "name": "Vitaly Liber",
+            "id": 22141677,
+            "id_str": "22141677",
+            "indices": [
+              12,
+              24
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uaIoF1iWoG",
+            "expanded_url": "https://twitter.com/i/web/status/886840066949222400",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 886836985339539500,
+      "in_reply_to_status_id_str": "886836985339539456",
+      "in_reply_to_user_id": 760028430247264300,
+      "in_reply_to_user_id_str": "760028430247264256",
+      "in_reply_to_screen_name": "den4ikbyte",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 17 09:28:11 +0000 2017",
+      "id": 886880196925808600,
+      "id_str": "886880196925808640",
+      "text": "В #RubyMine 2017.2 RC имеется интеграция с docker-compose - можно вести разработку и запускать тесты в контейнере.) https://t.co/MnhyirkHZH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "RubyMine",
+            "indices": [
+              2,
+              11
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MnhyirkHZH",
+            "expanded_url": "https://goo.gl/DTtpcK",
+            "display_url": "goo.gl/DTtpcK",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
