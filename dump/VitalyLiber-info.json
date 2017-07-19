@@ -26,65 +26,74 @@
     }
   },
   "protected": false,
-  "followers_count": 3509,
+  "followers_count": 3512,
   "friends_count": 0,
   "listed_count": 198,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2453,
+  "favourites_count": 2454,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21811,
+  "statuses_count": 21814,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jul 18 06:44:51 +0000 2017",
-    "id": 887201483510480900,
-    "id_str": "887201483510480896",
-    "text": "@zobninatn Тут исключительный случай. Есть инструкция для разворачивания/обновления. Обычно мы имеем доступ к серве… https://t.co/RoGkhh1HgP",
+    "created_at": "Wed Jul 19 11:20:49 +0000 2017",
+    "id": 887633321110450200,
+    "id_str": "887633321110450177",
+    "text": "@last_khajiit Еще не пустил #golang в prod. Однако, для мобильных разработчиков прикрутил утилиту для чтения логов… https://t.co/fgtjuZJlmK",
     "truncated": true,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "golang",
+          "indices": [
+            28,
+            35
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "zobninatn",
-          "name": "H00MAN.txt",
-          "id": 2960495824,
-          "id_str": "2960495824",
+          "screen_name": "last_khajiit",
+          "name": "Hleb",
+          "id": 4002334589,
+          "id_str": "4002334589",
           "indices": [
             0,
-            10
+            13
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/RoGkhh1HgP",
-          "expanded_url": "https://twitter.com/i/web/status/887201483510480896",
+          "url": "https://t.co/fgtjuZJlmK",
+          "expanded_url": "https://twitter.com/i/web/status/887633321110450177",
           "display_url": "twitter.com/i/web/status/8…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 887180889393967100,
-    "in_reply_to_status_id_str": "887180889393967104",
-    "in_reply_to_user_id": 2960495824,
-    "in_reply_to_user_id_str": "2960495824",
-    "in_reply_to_screen_name": "zobninatn",
+    "in_reply_to_status_id": 887579997392826400,
+    "in_reply_to_status_id_str": "887579997392826368",
+    "in_reply_to_user_id": 4002334589,
+    "in_reply_to_user_id_str": "4002334589",
+    "in_reply_to_screen_name": "last_khajiit",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
