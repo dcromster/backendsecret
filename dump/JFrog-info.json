@@ -4,18 +4,7 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Cupertino, CA",
-  "profile_location": {
-    "id": "36237ab3643ff2be",
-    "url": "https://api.twitter.com/1.1/geo/id/36237ab3643ff2be.json",
-    "place_type": "unknown",
-    "name": "Cupertino, CA",
-    "full_name": "Cupertino, CA",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "@jbaruch, Developer Advocate @JFrog",
   "url": "https://t.co/SebwQPTxh5",
   "entities": {
@@ -37,40 +26,40 @@
     }
   },
   "protected": false,
-  "followers_count": 3549,
+  "followers_count": 3555,
   "friends_count": 0,
-  "listed_count": 198,
+  "listed_count": 199,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2469,
+  "favourites_count": 2470,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21885,
+  "statuses_count": 21940,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jul 25 08:00:51 +0000 2017",
-    "id": 889757322586738700,
-    "id_str": "889757322586738688",
-    "text": "Ты упомянул опросы, ты бы такие заполнял? https://t.co/LwRhXhqohJ",
-    "truncated": false,
+    "created_at": "Tue Jul 25 19:36:57 +0000 2017",
+    "id": 889932504190271500,
+    "id_str": "889932504190271488",
+    "text": "Очень много очень больших клиентов пишут на плюсах. И спрашивали у нас, какое есть решение для управления зависимос… https://t.co/pibxbnqfK4",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/LwRhXhqohJ",
-          "expanded_url": "https://twitter.com/tru_pablo/status/889756921657384960",
-          "display_url": "twitter.com/tru_pablo/stat…",
+          "url": "https://t.co/pibxbnqfK4",
+          "expanded_url": "https://twitter.com/i/web/status/889932504190271488",
+          "display_url": "twitter.com/i/web/status/8…",
           "indices": [
-            42,
-            65
+            117,
+            140
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -79,12 +68,14 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      16887172
+    ],
     "is_quote_status": true,
-    "quoted_status_id": 889756921657385000,
-    "quoted_status_id_str": "889756921657384960",
+    "quoted_status_id": 889923696579792900,
+    "quoted_status_id_str": "889923696579792896",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
