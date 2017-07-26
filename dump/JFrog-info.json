@@ -4,7 +4,18 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Cupertino, CA",
-  "profile_location": null,
+  "profile_location": {
+    "id": "36237ab3643ff2be",
+    "url": "https://api.twitter.com/1.1/geo/id/36237ab3643ff2be.json",
+    "place_type": "unknown",
+    "name": "Cupertino, CA",
+    "full_name": "Cupertino, CA",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "@jbaruch, Developer Advocate @JFrog",
   "url": "https://t.co/SebwQPTxh5",
   "entities": {
@@ -26,59 +37,67 @@
     }
   },
   "protected": false,
-  "followers_count": 3555,
+  "followers_count": 3558,
   "friends_count": 0,
   "listed_count": 199,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2470,
+  "favourites_count": 2478,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21940,
+  "statuses_count": 21970,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jul 25 19:36:57 +0000 2017",
-    "id": 889932504190271500,
-    "id_str": "889932504190271488",
-    "text": "Очень много очень больших клиентов пишут на плюсах. И спрашивали у нас, какое есть решение для управления зависимос… https://t.co/pibxbnqfK4",
-    "truncated": true,
+    "created_at": "Tue Jul 25 22:30:26 +0000 2017",
+    "id": 889976162717286400,
+    "id_str": "889976162717286400",
+    "text": "@gAmUssA @SoundCloud Неплохо выкуртился, да.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/pibxbnqfK4",
-          "expanded_url": "https://twitter.com/i/web/status/889932504190271488",
-          "display_url": "twitter.com/i/web/status/8…",
+          "screen_name": "gAmUssA",
+          "name": "Viktor Gamov",
+          "id": 24692013,
+          "id_str": "24692013",
           "indices": [
-            117,
-            140
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "SoundCloud",
+          "name": "SoundCloud",
+          "id": 5943942,
+          "id_str": "5943942",
+          "indices": [
+            9,
+            20
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 889975951710466000,
+    "in_reply_to_status_id_str": "889975951710466048",
+    "in_reply_to_user_id": 24692013,
+    "in_reply_to_user_id_str": "24692013",
+    "in_reply_to_screen_name": "gAmUssA",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       16887172
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 889923696579792900,
-    "quoted_status_id_str": "889923696579792896",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
