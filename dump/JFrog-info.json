@@ -37,40 +37,51 @@
     }
   },
   "protected": false,
-  "followers_count": 3566,
+  "followers_count": 3696,
   "friends_count": 0,
-  "listed_count": 199,
+  "listed_count": 200,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2492,
+  "favourites_count": 2491,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22074,
+  "statuses_count": 22087,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Jul 27 18:31:18 +0000 2017",
-    "id": 890640756326584300,
-    "id_str": "890640756326584321",
-    "text": "Всё так, кэп! https://t.co/iG9W6Cif8Y",
+    "created_at": "Sat Jul 29 19:07:13 +0000 2017",
+    "id": 891374570019500000,
+    "id_str": "891374570019500033",
+    "text": "Спасибо всем в этом чатике, было очень клёво! За продолжением банкета вам к @jbaruch и @razbor_poletov. Увидимся там!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/iG9W6Cif8Y",
-          "expanded_url": "https://twitter.com/_jeck/status/890630611244679168",
-          "display_url": "twitter.com/_jeck/status/8…",
+          "screen_name": "jbaruch",
+          "name": "Baruch Sadogursky",
+          "id": 16887172,
+          "id_str": "16887172",
           "indices": [
-            14,
-            37
+            76,
+            84
+          ]
+        },
+        {
+          "screen_name": "razbor_poletov",
+          "name": "Razbor Poletov",
+          "id": 773186243278495700,
+          "id_str": "773186243278495744",
+          "indices": [
+            87,
+            102
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -78,16 +89,46 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": null,
+    "place": {
+      "id": "7d62cffe6f98f349",
+      "url": "https://api.twitter.com/1.1/geo/id/7d62cffe6f98f349.json",
+      "place_type": "city",
+      "name": "San Jose",
+      "full_name": "San Jose, CA",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.035311,
+              37.193164
+            ],
+            [
+              -121.71215,
+              37.193164
+            ],
+            [
+              -121.71215,
+              37.469154
+            ],
+            [
+              -122.035311,
+              37.469154
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 890630611244679200,
-    "quoted_status_id_str": "890630611244679168",
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
