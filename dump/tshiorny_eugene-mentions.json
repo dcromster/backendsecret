@@ -3044,6 +3044,661 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Mon Sep 04 16:33:58 +0000 2017",
+      "id": 904744355071746000,
+      "id_str": "904744355071746048",
+      "text": "@backendsecret Используете распределённые транзакции в таком окружении? Какой координатор?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 904603482019299300,
+      "in_reply_to_status_id_str": "904603482019299329",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 159437182,
+        "id_str": "159437182"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 04 17:49:14 +0000 2017",
+      "id": 904763299480395800,
+      "id_str": "904763299480395778",
+      "text": "@phprus Добрый день, Владислав! Приглашаю Вас стать ведущим в переходящем твиттере разработчиков @backendsecret",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "phprus",
+            "name": "Vladislav SHCHapov",
+            "id": 61167113,
+            "id_str": "61167113",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              97,
+              111
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 61167113,
+      "in_reply_to_user_id_str": "61167113",
+      "in_reply_to_screen_name": "phprus",
+      "user": {
+        "id": 81103006,
+        "id_str": "81103006"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 04 18:00:24 +0000 2017",
+      "id": 904766106489028600,
+      "id_str": "904766106489028612",
+      "text": "@backendsecret Особых проблем не видел, но моральный переход на  systemd давался тяжело",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 904764330616512500,
+      "in_reply_to_status_id_str": "904764330616512512",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 155494564,
+        "id_str": "155494564"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 04 18:03:51 +0000 2017",
+      "id": 904766977536819200,
+      "id_str": "904766977536819200",
+      "text": "@backendsecret С докером сложности. Aufs для ядра нет (в дебианах есть), а дефолтный девайсмаппер надо дружить с lvm https://t.co/DlcCjKb41U",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DlcCjKb41U",
+            "expanded_url": "https://docs.docker.com/engine/userguide/storagedriver/device-mapper-driver/#configure-direct-lvm-mode-for-production",
+            "display_url": "docs.docker.com/engine/usergui…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 904764330616512500,
+      "in_reply_to_status_id_str": "904764330616512512",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 927569468,
+        "id_str": "927569468"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 04 18:10:10 +0000 2017",
+      "id": 904768566892916700,
+      "id_str": "904768566892916737",
+      "text": "@backendsecret Постоянный трындежь про нее - вот самая важная возможность данного типа архитектуры",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 904765426395164700,
+      "in_reply_to_status_id_str": "904765426395164675",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3254862154,
+        "id_str": "3254862154"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 04 18:18:30 +0000 2017",
+      "id": 904770664900513800,
+      "id_str": "904770664900513792",
+      "text": "@qtankle @backendsecret Всего два твита, а у меня уже буллшитометр взорвался",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "qtankle",
+            "name": "dos65",
+            "id": 3254862154,
+            "id_str": "3254862154",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              9,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 904768566892916700,
+      "in_reply_to_status_id_str": "904768566892916737",
+      "in_reply_to_user_id": 3254862154,
+      "in_reply_to_user_id_str": "3254862154",
+      "in_reply_to_screen_name": "qtankle",
+      "user": {
+        "id": 347588162,
+        "id_str": "347588162"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 04 18:18:42 +0000 2017",
+      "id": 904770714749816800,
+      "id_str": "904770714749816832",
+      "text": "@backendsecret По сравнению с вендой все глючит и приходиться настраивать в консоли. То ли дело венда -  up and running",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 904764330616512500,
+      "in_reply_to_status_id_str": "904764330616512512",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 113131428,
+        "id_str": "113131428"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "0d1edbd6745ee7b2",
+        "url": "https://api.twitter.com/1.1/geo/id/0d1edbd6745ee7b2.json",
+        "place_type": "city",
+        "name": "Гатчина",
+        "full_name": "Гатчина, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0318809,
+                59.5275498
+              ],
+              [
+                30.1859928,
+                59.5275498
+              ],
+              [
+                30.1859928,
+                59.6040656
+              ],
+              [
+                30.0318809,
+                59.6040656
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 04 18:28:11 +0000 2017",
+      "id": 904773098481823700,
+      "id_str": "904773098481823744",
+      "text": "@ruxeg @backendsecret Боже, руКС...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruxeg",
+            "name": "ruX",
+            "id": 113131428,
+            "id_str": "113131428",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              7,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 904770714749816800,
+      "in_reply_to_status_id_str": "904770714749816832",
+      "in_reply_to_user_id": 113131428,
+      "in_reply_to_user_id_str": "113131428",
+      "in_reply_to_screen_name": "ruxeg",
+      "user": {
+        "id": 115212561,
+        "id_str": "115212561"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 04 18:29:56 +0000 2017",
+      "id": 904773542029426700,
+      "id_str": "904773542029426689",
+      "text": "@Bubyakin @backendsecret Ты этого твита ждал всю жизнь?:)))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Bubyakin",
+            "name": "Тыжпрограммист",
+            "id": 115212561,
+            "id_str": "115212561",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              10,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 904773098481823700,
+      "in_reply_to_status_id_str": "904773098481823744",
+      "in_reply_to_user_id": 115212561,
+      "in_reply_to_user_id_str": "115212561",
+      "in_reply_to_screen_name": "Bubyakin",
+      "user": {
+        "id": 113131428,
+        "id_str": "113131428"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "0d1edbd6745ee7b2",
+        "url": "https://api.twitter.com/1.1/geo/id/0d1edbd6745ee7b2.json",
+        "place_type": "city",
+        "name": "Гатчина",
+        "full_name": "Гатчина, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0318809,
+                59.5275498
+              ],
+              [
+                30.1859928,
+                59.5275498
+              ],
+              [
+                30.1859928,
+                59.6040656
+              ],
+              [
+                30.0318809,
+                59.6040656
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 04 18:34:22 +0000 2017",
+      "id": 904774657596944400,
+      "id_str": "904774657596944386",
+      "text": "@ruxeg @backendsecret Почти...\nТочно: всю жизнь не ждал",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruxeg",
+            "name": "ruX",
+            "id": 113131428,
+            "id_str": "113131428",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              7,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 904773542029426700,
+      "in_reply_to_status_id_str": "904773542029426689",
+      "in_reply_to_user_id": 113131428,
+      "in_reply_to_user_id_str": "113131428",
+      "in_reply_to_screen_name": "ruxeg",
+      "user": {
+        "id": 115212561,
+        "id_str": "115212561"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 04 18:51:57 +0000 2017",
+      "id": 904779079295144000,
+      "id_str": "904779079295143936",
+      "text": "@backendsecret Падает реже моего кода, и то хорошо!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 904764330616512500,
+      "in_reply_to_status_id_str": "904764330616512512",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 903670866793386000,
+        "id_str": "903670866793385985"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 04 19:57:50 +0000 2017",
+      "id": 904795661689917400,
+      "id_str": "904795661689917440",
+      "text": "@backendsecret Про то, что нужно хоть немного сечь в архитектуре при использовании микросервисов, все обычно забывают.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 904765426395164700,
+      "in_reply_to_status_id_str": "904765426395164675",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 225555201,
+        "id_str": "225555201"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
