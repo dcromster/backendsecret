@@ -9106,6 +9106,2643 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:33:00 +0000 2017",
+      "id": 905695381715128300,
+      "id_str": "905695381715128320",
+      "text": "Одна из самых больших ошибок в TDD - это забивание на шаг #3: прошёл тест - РЕФАКТОРЬ, пока код не станет понятен первокласснику и аналитику",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:35:54 +0000 2017",
+      "id": 905696109095419900,
+      "id_str": "905696109095419904",
+      "text": "Вот это одна из основных проблем TDD: как покрыть тестами легаси код? https://t.co/fVYOdanKOs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fVYOdanKOs",
+            "expanded_url": "https://twitter.com/00babe9/status/905692743854419968",
+            "display_url": "twitter.com/00babe9/status…",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 905692743854420000,
+      "quoted_status_id_str": "905692743854419968",
+      "quoted_status": {
+        "created_at": "Thu Sep 07 07:22:31 +0000 2017",
+        "id": 905692743854420000,
+        "id_str": "905692743854419968",
+        "text": "@backendsecret Новые сервисы в проекте покрыты тестами, основная кодовая база захламлена.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 905678190487711700,
+        "in_reply_to_status_id_str": "905678190487711744",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 2628020415,
+          "id_str": "2628020415"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:42:14 +0000 2017",
+      "id": 905697703727857700,
+      "id_str": "905697703727857665",
+      "text": "@aelaau Ха! Когда ты видел последний раз, что поведение легаси кода хоть как то задокументировано? Это раз",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelaau",
+            "name": "Ilya Shakirov",
+            "id": 251553185,
+            "id_str": "251553185",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905697256883486700,
+      "in_reply_to_status_id_str": "905697256883486720",
+      "in_reply_to_user_id": 251553185,
+      "in_reply_to_user_id_str": "251553185",
+      "in_reply_to_screen_name": "aelaau",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:44:01 +0000 2017",
+      "id": 905698152757567500,
+      "id_str": "905698152757567489",
+      "text": "@aelaau Два: легасии код нужно поддерживать, добавлять фичи и рефакторить. Как это уверенно делать без тестов не кроша систему?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelaau",
+            "name": "Ilya Shakirov",
+            "id": 251553185,
+            "id_str": "251553185",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905697256883486700,
+      "in_reply_to_status_id_str": "905697256883486720",
+      "in_reply_to_user_id": 251553185,
+      "in_reply_to_user_id_str": "251553185",
+      "in_reply_to_screen_name": "aelaau",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:46:19 +0000 2017",
+      "id": 905698733974794200,
+      "id_str": "905698733974794240",
+      "text": "@aelaau Три: написать тесты на код, который не писался ТДД, не разбит на тестируемые компоненты и не использует IoC это каторга",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelaau",
+            "name": "Ilya Shakirov",
+            "id": 251553185,
+            "id_str": "251553185",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905697256883486700,
+      "in_reply_to_status_id_str": "905697256883486720",
+      "in_reply_to_user_id": 251553185,
+      "in_reply_to_user_id_str": "251553185",
+      "in_reply_to_screen_name": "aelaau",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:49:14 +0000 2017",
+      "id": 905699465365000200,
+      "id_str": "905699465365000192",
+      "text": "@aelaau Все верно. Но когда я последний раз оценивал затраты на описание юнитестами ленами системы - это годы работ… https://t.co/lVxOeAhUAw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelaau",
+            "name": "Ilya Shakirov",
+            "id": 251553185,
+            "id_str": "251553185",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/lVxOeAhUAw",
+            "expanded_url": "https://twitter.com/i/web/status/905699465365000192",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905698420026998800,
+      "in_reply_to_status_id_str": "905698420026998784",
+      "in_reply_to_user_id": 251553185,
+      "in_reply_to_user_id_str": "251553185",
+      "in_reply_to_screen_name": "aelaau",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:51:48 +0000 2017",
+      "id": 905700113108136000,
+      "id_str": "905700113108135937",
+      "text": "@aelaau В не тестированном коде зависимости обычно не инверсированы - ты не можешь тестировать сверху, потому что это затрагивает 50% кода",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelaau",
+            "name": "Ilya Shakirov",
+            "id": 251553185,
+            "id_str": "251553185",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905698152757567500,
+      "in_reply_to_status_id_str": "905698152757567489",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:54:26 +0000 2017",
+      "id": 905700776323973100,
+      "id_str": "905700776323973120",
+      "text": "@aelaau Проблема легаси кода не только в том, что он НЕ ТЕСТИРОВАННЫЙ, но и в том что он НЕ ТЕСТИРУЕМЫЙ. Он требует рефакторинга.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelaau",
+            "name": "Ilya Shakirov",
+            "id": 251553185,
+            "id_str": "251553185",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905698152757567500,
+      "in_reply_to_status_id_str": "905698152757567489",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:55:39 +0000 2017",
+      "id": 905701079152820200,
+      "id_str": "905701079152820224",
+      "text": "@aelaau А как делать рефакторинг не имея тестов без того чтобы ввести 1000 багов? Проблема курицы и яйца.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelaau",
+            "name": "Ilya Shakirov",
+            "id": 251553185,
+            "id_str": "251553185",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905698152757567500,
+      "in_reply_to_status_id_str": "905698152757567489",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:56:20 +0000 2017",
+      "id": 905701254906732500,
+      "id_str": "905701254906732544",
+      "text": "@aelaau В одном случае на сто",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelaau",
+            "name": "Ilya Shakirov",
+            "id": 251553185,
+            "id_str": "251553185",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905700608300249100,
+      "in_reply_to_status_id_str": "905700608300249089",
+      "in_reply_to_user_id": 251553185,
+      "in_reply_to_user_id_str": "251553185",
+      "in_reply_to_screen_name": "aelaau",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:58:20 +0000 2017",
+      "id": 905701756167999500,
+      "id_str": "905701756167999488",
+      "text": "@aelaau Я делал достаточно массивный ресерч, как поступать с легаси кодом. Есть некоторые рациональные подходы, но… https://t.co/kgd09Batk3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelaau",
+            "name": "Ilya Shakirov",
+            "id": 251553185,
+            "id_str": "251553185",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kgd09Batk3",
+            "expanded_url": "https://twitter.com/i/web/status/905701756167999488",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905700752848453600,
+      "in_reply_to_status_id_str": "905700752848453632",
+      "in_reply_to_user_id": 251553185,
+      "in_reply_to_user_id_str": "251553185",
+      "in_reply_to_screen_name": "aelaau",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:59:56 +0000 2017",
+      "id": 905702158875623400,
+      "id_str": "905702158875623425",
+      "text": "@aelaau Легаси код как правило не тестируем. Исключения есть, но чрезвычайно редки.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelaau",
+            "name": "Ilya Shakirov",
+            "id": 251553185,
+            "id_str": "251553185",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905700752848453600,
+      "in_reply_to_status_id_str": "905700752848453632",
+      "in_reply_to_user_id": 251553185,
+      "in_reply_to_user_id_str": "251553185",
+      "in_reply_to_screen_name": "aelaau",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 08:01:35 +0000 2017",
+      "id": 905702576179568600,
+      "id_str": "905702576179568640",
+      "text": "@aelaau Один из подходов: начинать с функциональных и интеграционных тестов. Это даёт некоторый фундамент для начала рефакторинга.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelaau",
+            "name": "Ilya Shakirov",
+            "id": 251553185,
+            "id_str": "251553185",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905700752848453600,
+      "in_reply_to_status_id_str": "905700752848453632",
+      "in_reply_to_user_id": 251553185,
+      "in_reply_to_user_id_str": "251553185",
+      "in_reply_to_screen_name": "aelaau",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 08:02:54 +0000 2017",
+      "id": 905702904882978800,
+      "id_str": "905702904882978817",
+      "text": "@aelaau По мере рефакторинга - начинаешь выделять и изолировать тестируемые компоненты и описываешь их заранее тестами.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelaau",
+            "name": "Ilya Shakirov",
+            "id": 251553185,
+            "id_str": "251553185",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905700752848453600,
+      "in_reply_to_status_id_str": "905700752848453632",
+      "in_reply_to_user_id": 251553185,
+      "in_reply_to_user_id_str": "251553185",
+      "in_reply_to_screen_name": "aelaau",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 08:03:23 +0000 2017",
+      "id": 905703026131861500,
+      "id_str": "905703026131861504",
+      "text": "@aelaau Но процесс все равно очень трудоемкий.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelaau",
+            "name": "Ilya Shakirov",
+            "id": 251553185,
+            "id_str": "251553185",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905700752848453600,
+      "in_reply_to_status_id_str": "905700752848453632",
+      "in_reply_to_user_id": 251553185,
+      "in_reply_to_user_id_str": "251553185",
+      "in_reply_to_screen_name": "aelaau",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 08:06:22 +0000 2017",
+      "id": 905703778636181500,
+      "id_str": "905703778636181504",
+      "text": "https://t.co/65a6yKvvSz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 905703771623133200,
+            "id_str": "905703771623133184",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJG0yBtUEAAxh4q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJG0yBtUEAAxh4q.jpg",
+            "url": "https://t.co/65a6yKvvSz",
+            "display_url": "pic.twitter.com/65a6yKvvSz",
+            "expanded_url": "https://twitter.com/backendsecret/status/905703778636181504/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1177,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1200,
+                "h": 1223,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 667,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 905703771623133200,
+            "id_str": "905703771623133184",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJG0yBtUEAAxh4q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJG0yBtUEAAxh4q.jpg",
+            "url": "https://t.co/65a6yKvvSz",
+            "display_url": "pic.twitter.com/65a6yKvvSz",
+            "expanded_url": "https://twitter.com/backendsecret/status/905703778636181504/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1177,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1200,
+                "h": 1223,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 667,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Sep 07 08:07:26 +0000 2017",
+      "id": 905704044441870300,
+      "id_str": "905704044441870336",
+      "text": "https://t.co/doAkZRuiVX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 905704040083800000,
+            "id_str": "905704040083800065",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJG1BpzUwAEPr5S.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJG1BpzUwAEPr5S.jpg",
+            "url": "https://t.co/doAkZRuiVX",
+            "display_url": "pic.twitter.com/doAkZRuiVX",
+            "expanded_url": "https://twitter.com/backendsecret/status/905704044441870336/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 485,
+                "h": 484,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 485,
+                "h": 484,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 485,
+                "h": 484,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 905704040083800000,
+            "id_str": "905704040083800065",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJG1BpzUwAEPr5S.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJG1BpzUwAEPr5S.jpg",
+            "url": "https://t.co/doAkZRuiVX",
+            "display_url": "pic.twitter.com/doAkZRuiVX",
+            "expanded_url": "https://twitter.com/backendsecret/status/905704044441870336/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 485,
+                "h": 484,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 485,
+                "h": 484,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 485,
+                "h": 484,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Sep 07 08:08:20 +0000 2017",
+      "id": 905704272154779600,
+      "id_str": "905704272154779649",
+      "text": "https://t.co/EfopkzGW5I",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 905704266974634000,
+            "id_str": "905704266974633986",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJG1O3CUIAIxroR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJG1O3CUIAIxroR.jpg",
+            "url": "https://t.co/EfopkzGW5I",
+            "display_url": "pic.twitter.com/EfopkzGW5I",
+            "expanded_url": "https://twitter.com/backendsecret/status/905704272154779649/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 750,
+                "h": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 544,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 600,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 905704266974634000,
+            "id_str": "905704266974633986",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJG1O3CUIAIxroR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJG1O3CUIAIxroR.jpg",
+            "url": "https://t.co/EfopkzGW5I",
+            "display_url": "pic.twitter.com/EfopkzGW5I",
+            "expanded_url": "https://twitter.com/backendsecret/status/905704272154779649/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 750,
+                "h": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 544,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 600,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Sep 07 08:09:57 +0000 2017",
+      "id": 905704681309179900,
+      "id_str": "905704681309179904",
+      "text": "https://t.co/jEywfpltrf",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 905704677190205400,
+            "id_str": "905704677190205440",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJG1mvNVAAAH4rP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJG1mvNVAAAH4rP.jpg",
+            "url": "https://t.co/jEywfpltrf",
+            "display_url": "pic.twitter.com/jEywfpltrf",
+            "expanded_url": "https://twitter.com/backendsecret/status/905704681309179904/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 251,
+                "h": 201,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 251,
+                "h": 201,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 251,
+                "h": 201,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 905704677190205400,
+            "id_str": "905704677190205440",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJG1mvNVAAAH4rP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJG1mvNVAAAH4rP.jpg",
+            "url": "https://t.co/jEywfpltrf",
+            "display_url": "pic.twitter.com/jEywfpltrf",
+            "expanded_url": "https://twitter.com/backendsecret/status/905704681309179904/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 251,
+                "h": 201,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 251,
+                "h": 201,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 251,
+                "h": 201,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Sep 07 17:30:08 +0000 2017",
+      "id": 905845655465336800,
+      "id_str": "905845655465336832",
+      "text": "Итоги полла о TDD. Юнитесты практикует большинство, но только 1/8 из них делает test-first.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 17:32:33 +0000 2017",
+      "id": 905846264243392500,
+      "id_str": "905846264243392512",
+      "text": "Присутствие юнитестов в бол-ве проектов вдохновляет, однако сообщество очень далеко от адаптации TDD.. очень",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 17:34:02 +0000 2017",
+      "id": 905846637800681500,
+      "id_str": "905846637800681473",
+      "text": "Поэтому обращусь к аудитории, практикующей код-тест без TDD (читайте в реплаях)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 17:35:23 +0000 2017",
+      "id": 905846977363144700,
+      "id_str": "905846977363144704",
+      "text": "1. Писать тест после кода на 50%-200% более трудоемко",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905846637800681500,
+      "in_reply_to_status_id_str": "905846637800681473",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 17:36:14 +0000 2017",
+      "id": 905847190521872400,
+      "id_str": "905847190521872384",
+      "text": "2. Код написанный после теста имеет сильную тенденцию быть короче",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905846637800681500,
+      "in_reply_to_status_id_str": "905846637800681473",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 17:37:02 +0000 2017",
+      "id": 905847390342664200,
+      "id_str": "905847390342664192",
+      "text": "3. Тесты написанные после кода имеют значительную тенденцию к низкому покрытию",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905846637800681500,
+      "in_reply_to_status_id_str": "905846637800681473",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 17:38:05 +0000 2017",
+      "id": 905847656915894300,
+      "id_str": "905847656915894278",
+      "text": "4. Код написанные после теста имеет тенденцию к меньшему кол-ву дефектов",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905846637800681500,
+      "in_reply_to_status_id_str": "905846637800681473",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 17:40:37 +0000 2017",
+      "id": 905848292692693000,
+      "id_str": "905848292692692993",
+      "text": "5. Отладка кода через запуск юнитеста (вместо поднятия всей системы для каждой итерации) занимает на порядок меньше времени",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905846637800681500,
+      "in_reply_to_status_id_str": "905846637800681473",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 17:43:35 +0000 2017",
+      "id": 905849037445791700,
+      "id_str": "905849037445791744",
+      "text": "6. Перейти на TDD психологически трудно (и это основной фактор нашей плохой статистики). Пробуйте, не сдавайтесь, плз!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905846637800681500,
+      "in_reply_to_status_id_str": "905846637800681473",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 17:45:41 +0000 2017",
+      "id": 905849566196576300,
+      "id_str": "905849566196576256",
+      "text": "7. Перейдя на TDD вы почувствуете уверенность в своём коде, более высокую производительность, меньше дефектов и чувство профессионализма.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905846637800681500,
+      "in_reply_to_status_id_str": "905846637800681473",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 17:49:41 +0000 2017",
+      "id": 905850573060268000,
+      "id_str": "905850573060268034",
+      "text": "@paaleksey https://t.co/XYkcbI4fHT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "paaleksey",
+            "name": "Aleksey Palazhchenko",
+            "id": 95860919,
+            "id_str": "95860919",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XYkcbI4fHT",
+            "expanded_url": "http://evidencebasedse.com/?q=node/78",
+            "display_url": "evidencebasedse.com/?q=node/78",
+            "indices": [
+              11,
+              34
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905848794096554000,
+      "in_reply_to_status_id_str": "905848794096553988",
+      "in_reply_to_user_id": 95860919,
+      "in_reply_to_user_id_str": "95860919",
+      "in_reply_to_screen_name": "paaleksey",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Sep 07 17:50:49 +0000 2017",
+      "id": 905850861708075000,
+      "id_str": "905850861708075009",
+      "text": "@paaleksey Это по поводу код-вообще дефектов",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "paaleksey",
+            "name": "Aleksey Palazhchenko",
+            "id": 95860919,
+            "id_str": "95860919",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905848794096554000,
+      "in_reply_to_status_id_str": "905848794096553988",
+      "in_reply_to_user_id": 95860919,
+      "in_reply_to_user_id_str": "95860919",
+      "in_reply_to_screen_name": "paaleksey",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 17:55:44 +0000 2017",
+      "id": 905852095093407700,
+      "id_str": "905852095093407744",
+      "text": "@paaleksey Ресерч сравнивающий TDD vs \"no test at all\": https://t.co/mBGjrzlhpK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "paaleksey",
+            "name": "Aleksey Palazhchenko",
+            "id": 95860919,
+            "id_str": "95860919",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mBGjrzlhpK",
+            "expanded_url": "http://www.sserg.org/publications/uploads/04b700e040d0cac8681ba3d039be87a56020dd41.pdf",
+            "display_url": "sserg.org/publications/u…",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905848794096554000,
+      "in_reply_to_status_id_str": "905848794096553988",
+      "in_reply_to_user_id": 95860919,
+      "in_reply_to_user_id_str": "95860919",
+      "in_reply_to_screen_name": "paaleksey",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Sep 07 17:57:22 +0000 2017",
+      "id": 905852509901738000,
+      "id_str": "905852509901737985",
+      "text": "@paaleksey Продуктивность \"вообще без тестов\" выше продуктивности с TDD. К сожалению не натыкался на ресерч, сравни… https://t.co/dquhTp3VD4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "paaleksey",
+            "name": "Aleksey Palazhchenko",
+            "id": 95860919,
+            "id_str": "95860919",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dquhTp3VD4",
+            "expanded_url": "https://twitter.com/i/web/status/905852509901737985",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905848794096554000,
+      "in_reply_to_status_id_str": "905848794096553988",
+      "in_reply_to_user_id": 95860919,
+      "in_reply_to_user_id_str": "95860919",
+      "in_reply_to_screen_name": "paaleksey",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 17:58:05 +0000 2017",
+      "id": 905852686687494100,
+      "id_str": "905852686687494144",
+      "text": "@paaleksey Поэтому эти субъективные сравнения основаны на личном эксперементе.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "paaleksey",
+            "name": "Aleksey Palazhchenko",
+            "id": 95860919,
+            "id_str": "95860919",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905848794096554000,
+      "in_reply_to_status_id_str": "905848794096553988",
+      "in_reply_to_user_id": 95860919,
+      "in_reply_to_user_id_str": "95860919",
+      "in_reply_to_screen_name": "paaleksey",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:01:10 +0000 2017",
+      "id": 905853464080781300,
+      "id_str": "905853464080781313",
+      "text": "@paaleksey Продуктивность \"test-first\" vs \"no-test\" падает на 10-30%.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "paaleksey",
+            "name": "Aleksey Palazhchenko",
+            "id": 95860919,
+            "id_str": "95860919",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905848794096554000,
+      "in_reply_to_status_id_str": "905848794096553988",
+      "in_reply_to_user_id": 95860919,
+      "in_reply_to_user_id_str": "95860919",
+      "in_reply_to_screen_name": "paaleksey",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Sep 07 18:02:39 +0000 2017",
+      "id": 905853836195229700,
+      "id_str": "905853836195229697",
+      "text": "@paaleksey Мои субъективные измерения показали, что \"test-but-code-first\" vs \"no-test\" достигает уменьшения продуктивности до 50%.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "paaleksey",
+            "name": "Aleksey Palazhchenko",
+            "id": 95860919,
+            "id_str": "95860919",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905848794096554000,
+      "in_reply_to_status_id_str": "905848794096553988",
+      "in_reply_to_user_id": 95860919,
+      "in_reply_to_user_id_str": "95860919",
+      "in_reply_to_screen_name": "paaleksey",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:03:34 +0000 2017",
+      "id": 905854068219924500,
+      "id_str": "905854068219924480",
+      "text": "@paaleksey В некоторых экстремальных случаях снижения продуктивности до 20%",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "paaleksey",
+            "name": "Aleksey Palazhchenko",
+            "id": 95860919,
+            "id_str": "95860919",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905848794096554000,
+      "in_reply_to_status_id_str": "905848794096553988",
+      "in_reply_to_user_id": 95860919,
+      "in_reply_to_user_id_str": "95860919",
+      "in_reply_to_screen_name": "paaleksey",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:05:04 +0000 2017",
+      "id": 905854444641943600,
+      "id_str": "905854444641943553",
+      "text": "@paaleksey Теперь если совместить данные, получишь \"test-first\" vs \"code-first\" разницу до 200%",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "paaleksey",
+            "name": "Aleksey Palazhchenko",
+            "id": 95860919,
+            "id_str": "95860919",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905848794096554000,
+      "in_reply_to_status_id_str": "905848794096553988",
+      "in_reply_to_user_id": 95860919,
+      "in_reply_to_user_id_str": "95860919",
+      "in_reply_to_screen_name": "paaleksey",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:07:35 +0000 2017",
+      "id": 905855079231696900,
+      "id_str": "905855079231696896",
+      "text": "@paaleksey В бол-ве случаев тяжело измерить влияние экстра дефектов в long term на кол-во человеко часов, но интуит… https://t.co/9HzNULum4m",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "paaleksey",
+            "name": "Aleksey Palazhchenko",
+            "id": 95860919,
+            "id_str": "95860919",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9HzNULum4m",
+            "expanded_url": "https://twitter.com/i/web/status/905855079231696896",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905848794096554000,
+      "in_reply_to_status_id_str": "905848794096553988",
+      "in_reply_to_user_id": 95860919,
+      "in_reply_to_user_id_str": "95860919",
+      "in_reply_to_screen_name": "paaleksey",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:09:54 +0000 2017",
+      "id": 905855663020154900,
+      "id_str": "905855663020154881",
+      "text": "@pinguinson Никому ничего не продаю, только делюсь опытом и советую. Я не считаю дева не практикующего TDD худшим д… https://t.co/mtBna6j988",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pinguinson",
+            "name": "Nikita Gousak",
+            "id": 225858592,
+            "id_str": "225858592",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mtBna6j988",
+            "expanded_url": "https://twitter.com/i/web/status/905855663020154881",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905850734494838800,
+      "in_reply_to_status_id_str": "905850734494838786",
+      "in_reply_to_user_id": 225858592,
+      "in_reply_to_user_id_str": "225858592",
+      "in_reply_to_screen_name": "pinguinson",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:14:40 +0000 2017",
+      "id": 905856860225404900,
+      "id_str": "905856860225404930",
+      "text": "Человек со сломанной ногой приходит к врачу, но очень торопится и просит просто залепить перелом пластырем. https://t.co/XNYQTKBoq2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XNYQTKBoq2",
+            "expanded_url": "https://twitter.com/aharonsh/status/905854795566772224",
+            "display_url": "twitter.com/aharonsh/statu…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 905854795566772200,
+      "quoted_status_id_str": "905854795566772224",
+      "quoted_status": {
+        "created_at": "Thu Sep 07 18:06:27 +0000 2017",
+        "id": 905854795566772200,
+        "id_str": "905854795566772224",
+        "text": "вот у вас нету 11 дней спринта, а есть только 6 часов на то что бы написать несколько процессов для бизнеса. что де… https://t.co/Vv4cpET3aq",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/Vv4cpET3aq",
+              "expanded_url": "https://twitter.com/i/web/status/905854795566772224",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 157762931,
+          "id_str": "157762931"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "2edb6e240797c549",
+          "url": "https://api.twitter.com/1.1/geo/id/2edb6e240797c549.json",
+          "place_type": "country",
+          "name": "ישראל",
+          "full_name": "ישראל",
+          "country_code": "IL",
+          "country": "ישראל",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  34.266924,
+                  29.393973
+                ],
+                [
+                  35.669933,
+                  29.393973
+                ],
+                [
+                  35.669933,
+                  33.290533
+                ],
+                [
+                  34.266924,
+                  33.290533
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 905849037445791700,
+        "quoted_status_id_str": "905849037445791744",
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:15:53 +0000 2017",
+      "id": 905857165927350300,
+      "id_str": "905857165927350272",
+      "text": "Что ты скажешь о враче, который на такое согласится? Ага, безответственная скотина.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905856860225404900,
+      "in_reply_to_status_id_str": "905856860225404930",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:17:46 +0000 2017",
+      "id": 905857640122679300,
+      "id_str": "905857640122679296",
+      "text": "Инженер тот же врач: он должен гарантировать качественные результаты, а не показывать, что он быстро наклеил пластырь",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905856860225404900,
+      "in_reply_to_status_id_str": "905856860225404930",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:18:34 +0000 2017",
+      "id": 905857843806560300,
+      "id_str": "905857843806560257",
+      "text": "Потом больной умирает от гангрены, но зато мы быстро наклеили пластырь.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905856860225404900,
+      "in_reply_to_status_id_str": "905856860225404930",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:21:24 +0000 2017",
+      "id": 905858555022061600,
+      "id_str": "905858555022061568",
+      "text": "Короче, я бы сказал, что у меня возьмёт 11 дней \"вылечить\" бизнес требование. Пластырь клеить не согласен.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905856860225404900,
+      "in_reply_to_status_id_str": "905856860225404930",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:22:59 +0000 2017",
+      "id": 905858956513484800,
+      "id_str": "905858956513484802",
+      "text": "Инженер не должен быть yes-меном на побегушках у sales. Инженер принимает ответственные решения. Неправильные решения могут стоить миллионов",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905856860225404900,
+      "in_reply_to_status_id_str": "905856860225404930",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:25:39 +0000 2017",
+      "id": 905859625936937000,
+      "id_str": "905859625936936962",
+      "text": "@igor_maslik Нет, тесты это не панацея. Это прививка от оспы, ветрянки и менингита. От рака и даже перелома конечно не спасёт",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "igor_maslik",
+            "name": "Игорь Маслов =)",
+            "id": 574420152,
+            "id_str": "574420152",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905858462772596700,
+      "in_reply_to_status_id_str": "905858462772596737",
+      "in_reply_to_user_id": 574420152,
+      "in_reply_to_user_id_str": "574420152",
+      "in_reply_to_screen_name": "igor_maslik",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:26:58 +0000 2017",
+      "id": 905859957500858400,
+      "id_str": "905859957500858368",
+      "text": "RT @backendsecret: @igor_maslik Нет, тесты это не панацея. Это прививка от оспы, ветрянки и менингита. От рака и даже перелома конечно не с…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "igor_maslik",
+            "name": "Игорь Маслов =)",
+            "id": 574420152,
+            "id_str": "574420152",
+            "indices": [
+              19,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Sep 07 18:25:39 +0000 2017",
+        "id": 905859625936937000,
+        "id_str": "905859625936936962",
+        "text": "@igor_maslik Нет, тесты это не панацея. Это прививка от оспы, ветрянки и менингита. От рака и даже перелома конечно не спасёт",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "igor_maslik",
+              "name": "Игорь Маслов =)",
+              "id": 574420152,
+              "id_str": "574420152",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 905858462772596700,
+        "in_reply_to_status_id_str": "905858462772596737",
+        "in_reply_to_user_id": 574420152,
+        "in_reply_to_user_id_str": "574420152",
+        "in_reply_to_screen_name": "igor_maslik",
+        "user": {
+          "id": 3302551618,
+          "id_str": "3302551618"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:30:52 +0000 2017",
+      "id": 905860937822949400,
+      "id_str": "905860937822949376",
+      "text": "@igor_maslik Прививки делают с младенчества. Тесты пишут с первых строчек кода продукта. Так что тесты это точно прививка :-)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "igor_maslik",
+            "name": "Игорь Маслов =)",
+            "id": 574420152,
+            "id_str": "574420152",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905859625936937000,
+      "in_reply_to_status_id_str": "905859625936936962",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:32:05 +0000 2017",
+      "id": 905861246506979300,
+      "id_str": "905861246506979329",
+      "text": "@igor_maslik Пластырь - это например регулярно рестартовать сервер, чтобы превентировать out-of-memory :-)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "igor_maslik",
+            "name": "Игорь Маслов =)",
+            "id": 574420152,
+            "id_str": "574420152",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905859625936937000,
+      "in_reply_to_status_id_str": "905859625936936962",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:32:58 +0000 2017",
+      "id": 905861465323778000,
+      "id_str": "905861465323778048",
+      "text": "@igor_maslik Хотя это наверно больше как аспирин для профилактики сердечно сосудистых )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "igor_maslik",
+            "name": "Игорь Маслов =)",
+            "id": 574420152,
+            "id_str": "574420152",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905859625936937000,
+      "in_reply_to_status_id_str": "905859625936936962",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 18:36:00 +0000 2017",
+      "id": 905862229375017000,
+      "id_str": "905862229375016960",
+      "text": "@LordOfBoredom Речь вроде не о баге, а о фиче",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LordOfBoredom",
+            "name": "Атомарный эсминец",
+            "id": 2390570748,
+            "id_str": "2390570748",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905860599564959700,
+      "in_reply_to_status_id_str": "905860599564959745",
+      "in_reply_to_user_id": 2390570748,
+      "in_reply_to_user_id_str": "2390570748",
+      "in_reply_to_screen_name": "LordOfBoredom",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
