@@ -7937,6 +7937,1175 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 06:43:35 +0000 2017",
+      "id": 905682942843916300,
+      "id_str": "905682942843916288",
+      "text": "@russianlagman @strizhechenko К сожалению эпический Bowling Game Kata практически единственный подобный пример. Есл… https://t.co/8BqpAIkmit",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "russianlagman",
+            "name": "Алексей Самойлов",
+            "id": 42567069,
+            "id_str": "42567069",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "strizhechenko",
+            "name": "Толстенький котик",
+            "id": 1033011720,
+            "id_str": "1033011720",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8BqpAIkmit",
+            "expanded_url": "https://twitter.com/i/web/status/905682942843916288",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905681641825341400,
+      "in_reply_to_status_id_str": "905681641825341440",
+      "in_reply_to_user_id": 42567069,
+      "in_reply_to_user_id_str": "42567069",
+      "in_reply_to_screen_name": "russianlagman",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 06:45:22 +0000 2017",
+      "id": 905683395157655600,
+      "id_str": "905683395157655552",
+      "text": "@soulmusic @russianlagman Ок, теплее :-) А где это уместно и где нет по твоему мнению?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "soulmusic",
+            "name": "Gregory N!",
+            "id": 14338647,
+            "id_str": "14338647",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "russianlagman",
+            "name": "Алексей Самойлов",
+            "id": 42567069,
+            "id_str": "42567069",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905682583723364400,
+      "in_reply_to_status_id_str": "905682583723364352",
+      "in_reply_to_user_id": 14338647,
+      "in_reply_to_user_id_str": "14338647",
+      "in_reply_to_screen_name": "soulmusic",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 06:47:45 +0000 2017",
+      "id": 905683993907126300,
+      "id_str": "905683993907126272",
+      "text": "Да, прототипирование это норм практика. Но важно понимать, где кончается прототип, а где начинается продакшн код. https://t.co/DLzAuOkUBM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DLzAuOkUBM",
+            "expanded_url": "https://twitter.com/soulmusic/status/905683110062383104",
+            "display_url": "twitter.com/soulmusic/stat…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 905683110062383100,
+      "quoted_status_id_str": "905683110062383104",
+      "quoted_status": {
+        "created_at": "Thu Sep 07 06:44:14 +0000 2017",
+        "id": 905683110062383100,
+        "id_str": "905683110062383104",
+        "text": "@backendsecret @russianlagman если нужно баг исправить, то сперва тесты. А если начал с прототипа UI и архитектуры —  тесты уже после кода",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "russianlagman",
+              "name": "Алексей Самойлов",
+              "id": 42567069,
+              "id_str": "42567069",
+              "indices": [
+                15,
+                29
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 905681220897562600,
+        "in_reply_to_status_id_str": "905681220897562626",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 14338647,
+          "id_str": "14338647"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 06:50:42 +0000 2017",
+      "id": 905684736756129800,
+      "id_str": "905684736756129792",
+      "text": "На самом деле отличный ответ. TDD это самодисциплина, и это дико тяжело даётся. Путь от \"код-тест\" к \"тест-код\" взя… https://t.co/fdvG3z97gA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fdvG3z97gA",
+            "expanded_url": "https://twitter.com/i/web/status/905684736756129792",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 905683766403895300,
+      "quoted_status_id_str": "905683766403895296",
+      "quoted_status": {
+        "created_at": "Thu Sep 07 06:46:51 +0000 2017",
+        "id": 905683766403895300,
+        "id_str": "905683766403895296",
+        "text": "@backendsecret Нет варианта \"хотелось бы, да никак не заставим себя\"",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 905676401805713400,
+        "in_reply_to_status_id_str": "905676401805713408",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 1015407828,
+          "id_str": "1015407828"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 06:52:19 +0000 2017",
+      "id": 905685141942652900,
+      "id_str": "905685141942652928",
+      "text": "@truetobetrue Класс! А мне много чего ещё не понятно...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "truetobetrue",
+            "name": "truetobetrue",
+            "id": 169636821,
+            "id_str": "169636821",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905683814839713800,
+      "in_reply_to_status_id_str": "905683814839713792",
+      "in_reply_to_user_id": 169636821,
+      "in_reply_to_user_id_str": "169636821",
+      "in_reply_to_screen_name": "truetobetrue",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 06:57:05 +0000 2017",
+      "id": 905686343203909600,
+      "id_str": "905686343203909633",
+      "text": "Архитектура не первична. Бизнес требование первично - его нужно тестировать. Архитектура должна быть \"emerging\" из… https://t.co/CqL70lz9gM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CqL70lz9gM",
+            "expanded_url": "https://twitter.com/i/web/status/905686343203909633",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 905684377933402100,
+      "quoted_status_id_str": "905684377933402112",
+      "quoted_status": {
+        "created_at": "Thu Sep 07 06:49:17 +0000 2017",
+        "id": 905684377933402100,
+        "id_str": "905684377933402112",
+        "text": "@soulmusic @backendsecret Как бы архитектура изначально должна строиться из абстракций вида интерфейса или сваггер… https://t.co/5f0buKE3j3",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "soulmusic",
+              "name": "Gregory N!",
+              "id": 14338647,
+              "id_str": "14338647",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                11,
+                25
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/5f0buKE3j3",
+              "expanded_url": "https://twitter.com/i/web/status/905684377933402112",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 905683110062383100,
+        "in_reply_to_status_id_str": "905683110062383104",
+        "in_reply_to_user_id": 14338647,
+        "in_reply_to_user_id_str": "14338647",
+        "in_reply_to_screen_name": "soulmusic",
+        "user": {
+          "id": 42567069,
+          "id_str": "42567069"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 06:58:11 +0000 2017",
+      "id": 905686621076549600,
+      "id_str": "905686621076549632",
+      "text": "@DonnaInsolita Хотел смягчит - места не хватило :-)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DonnaInsolita",
+            "name": "Insolita",
+            "id": 336212356,
+            "id_str": "336212356",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905686225033601000,
+      "in_reply_to_status_id_str": "905686225033601024",
+      "in_reply_to_user_id": 336212356,
+      "in_reply_to_user_id_str": "336212356",
+      "in_reply_to_screen_name": "DonnaInsolita",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:00:45 +0000 2017",
+      "id": 905687264977674200,
+      "id_str": "905687264977674242",
+      "text": "Надо копать требование, пока не поймёшь как его проверять. Пока не поймёшь - не бери в спринт. Если возьмёшь- получ… https://t.co/4PG8rsIriC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4PG8rsIriC",
+            "expanded_url": "https://twitter.com/i/web/status/905687264977674242",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 905685933638504400,
+      "quoted_status_id_str": "905685933638504448",
+      "quoted_status": {
+        "created_at": "Thu Sep 07 06:55:28 +0000 2017",
+        "id": 905685933638504400,
+        "id_str": "905685933638504448",
+        "text": "@backendsecret Очень сложно TDD когда ты не знаешь чего хочешь, или спецификация очень расплывчатая, а делать надо.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 905676401805713400,
+        "in_reply_to_status_id_str": "905676401805713408",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 174612206,
+          "id_str": "174612206"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:04:39 +0000 2017",
+      "id": 905688245413052400,
+      "id_str": "905688245413052416",
+      "text": "Если бизнес требование не тестируемо (и аналитик не может описать теста) - то это не бизнес требование. https://t.co/V5cZKQ2SKv",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/V5cZKQ2SKv",
+            "expanded_url": "https://twitter.com/gukobrist/status/905687273332715520",
+            "display_url": "twitter.com/gukobrist/stat…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 905687273332715500,
+      "quoted_status_id_str": "905687273332715520",
+      "quoted_status": {
+        "created_at": "Thu Sep 07 07:00:47 +0000 2017",
+        "id": 905687273332715500,
+        "id_str": "905687273332715520",
+        "text": "@russianlagman @soulmusic @backendsecret Он про BDD - это утопия, где на момент написания спека, аналитик еще и тесты пишет)))",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "russianlagman",
+              "name": "Алексей Самойлов",
+              "id": 42567069,
+              "id_str": "42567069",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "soulmusic",
+              "name": "Gregory N!",
+              "id": 14338647,
+              "id_str": "14338647",
+              "indices": [
+                15,
+                25
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                26,
+                40
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 905684377933402100,
+        "in_reply_to_status_id_str": "905684377933402112",
+        "in_reply_to_user_id": 42567069,
+        "in_reply_to_user_id_str": "42567069",
+        "in_reply_to_screen_name": "russianlagman",
+        "user": {
+          "id": 736089414263132200,
+          "id_str": "736089414263132160"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:06:38 +0000 2017",
+      "id": 905688746275823600,
+      "id_str": "905688746275823617",
+      "text": "Тип определяет структуру (что отлично), но к сожалению не определяет поведение. https://t.co/PZqa4Dluwx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PZqa4Dluwx",
+            "expanded_url": "https://twitter.com/yelbota/status/905687491079962625",
+            "display_url": "twitter.com/yelbota/status…",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 905687491079962600,
+      "quoted_status_id_str": "905687491079962625",
+      "quoted_status": {
+        "created_at": "Thu Sep 07 07:01:39 +0000 2017",
+        "id": 905687491079962600,
+        "id_str": "905687491079962625",
+        "text": "@backendsecret Предпочитаю типы тестам.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 905676401805713400,
+        "in_reply_to_status_id_str": "905676401805713408",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 10634822,
+          "id_str": "10634822"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:09:41 +0000 2017",
+      "id": 905689512109641700,
+      "id_str": "905689512109641730",
+      "text": "Люблю BDD, хотя конечно тесты написаные анналистом это утопия. Но я ожидаю от него вменяемое DoD - тесты сам напишу :-)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905688245413052400,
+      "in_reply_to_status_id_str": "905688245413052416",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:12:43 +0000 2017",
+      "id": 905690276286668800,
+      "id_str": "905690276286668800",
+      "text": "The later you test, the more it costs to write tests.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Sep 07 07:13:07 +0000 2017",
+      "id": 905690375335104500,
+      "id_str": "905690375335104512",
+      "text": "The longer a bug lives, the more expensive it is to fix.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Sep 07 07:14:40 +0000 2017",
+      "id": 905690769121562600,
+      "id_str": "905690769121562624",
+      "text": "Every line of code without tests will be significantly more difficult to debug or rewrite.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Sep 07 07:18:11 +0000 2017",
+      "id": 905691653498953700,
+      "id_str": "905691653498953728",
+      "text": "@mr_mig_by Прототип в данном контексте: 1. Бойлерплейт код 2. Базовый код, демонстрирующий решаемость задачи некоторым способом",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mr_mig_by",
+            "name": "𝓜𝓻_𝓜𝓲𝓰",
+            "id": 170772902,
+            "id_str": "170772902",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905690547888820200,
+      "in_reply_to_status_id_str": "905690547888820224",
+      "in_reply_to_user_id": 170772902,
+      "in_reply_to_user_id_str": "170772902",
+      "in_reply_to_screen_name": "mr_mig_by",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:21:24 +0000 2017",
+      "id": 905692463574245400,
+      "id_str": "905692463574245376",
+      "text": "TDD done half way, half hearted, and half assed is a big reason some don't respect it.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Sep 07 07:25:33 +0000 2017",
+      "id": 905693506911555600,
+      "id_str": "905693506911555584",
+      "text": "Программистов нельзя заставить писать юнитесты (если заставишь - получишь \"код-тест\", а не TDD). Их нужно вдохновля… https://t.co/JqsOV1jJla",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JqsOV1jJla",
+            "expanded_url": "https://twitter.com/i/web/status/905693506911555584",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 905692129405612000,
+      "quoted_status_id_str": "905692129405612032",
+      "quoted_status": {
+        "created_at": "Thu Sep 07 07:20:05 +0000 2017",
+        "id": 905692129405612000,
+        "id_str": "905692129405612032",
+        "text": "@backendsecret Если программисты отказываются писать юниттесты, оправдывая это тем, что за тестирование платят тестировщикам, то еще дороже.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 905690375335104500,
+        "in_reply_to_status_id_str": "905690375335104512",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 736089414263132200,
+          "id_str": "736089414263132160"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 07 07:27:48 +0000 2017",
+      "id": 905694070584078300,
+      "id_str": "905694070584078336",
+      "text": "@borovikov @russianlagman @soulmusic Иногда, когда домен досконально ясен, можно и начать с API тестов, но я бы рек… https://t.co/1tHCoK79jA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "borovikov",
+            "name": "Děnis Borovikov",
+            "id": 14354160,
+            "id_str": "14354160",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "russianlagman",
+            "name": "Алексей Самойлов",
+            "id": 42567069,
+            "id_str": "42567069",
+            "indices": [
+              11,
+              25
+            ]
+          },
+          {
+            "screen_name": "soulmusic",
+            "name": "Gregory N!",
+            "id": 14338647,
+            "id_str": "14338647",
+            "indices": [
+              26,
+              36
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1tHCoK79jA",
+            "expanded_url": "https://twitter.com/i/web/status/905694070584078336",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 905693217924030500,
+      "in_reply_to_status_id_str": "905693217924030464",
+      "in_reply_to_user_id": 14354160,
+      "in_reply_to_user_id_str": "14354160",
+      "in_reply_to_screen_name": "borovikov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
