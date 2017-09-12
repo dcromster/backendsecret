@@ -4,7 +4,18 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Ульяновск, Россия",
-  "profile_location": null,
+  "profile_location": {
+    "id": "702478813c134c46",
+    "url": "https://api.twitter.com/1.1/geo/id/702478813c134c46.json",
+    "place_type": "unknown",
+    "name": "Ульяновск, Россия",
+    "full_name": "Ульяновск, Россия",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "@kalashnikovisme, Ведущий разработчик, SimbirSoft",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -26,78 +37,54 @@
     }
   },
   "protected": false,
-  "followers_count": 3678,
+  "followers_count": 3677,
   "friends_count": 0,
-  "listed_count": 202,
+  "listed_count": 203,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2550,
+  "favourites_count": 2555,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22693,
+  "statuses_count": 22701,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Sep 12 10:31:36 +0000 2017",
-    "id": 907552267129249800,
-    "id_str": "907552267129249792",
-    "text": "Вместо этого огромный набор инструментов:\n#vim, #emacs, #sublime (текстовые редакторы), #foreman, #ansible, #docker… https://t.co/YK6Y8QOrY3",
-    "truncated": true,
+    "created_at": "Tue Sep 12 13:51:11 +0000 2017",
+    "id": 907602494725017600,
+    "id_str": "907602494725017601",
+    "text": "@aelaau напомнил, что мы с ним ещё в 2012 году лицензию на #RubyMine получили за опенсорс :) https://t.co/ZWrsgQo47w",
+    "truncated": false,
     "entities": {
       "hashtags": [
         {
-          "text": "vim",
+          "text": "RubyMine",
           "indices": [
-            42,
-            46
-          ]
-        },
-        {
-          "text": "emacs",
-          "indices": [
-            48,
-            54
-          ]
-        },
-        {
-          "text": "sublime",
-          "indices": [
-            56,
-            64
-          ]
-        },
-        {
-          "text": "foreman",
-          "indices": [
-            88,
-            96
-          ]
-        },
-        {
-          "text": "ansible",
-          "indices": [
-            98,
-            106
-          ]
-        },
-        {
-          "text": "docker",
-          "indices": [
-            108,
-            115
+            59,
+            68
           ]
         }
       ],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "aelaau",
+          "name": "Ilya Shakirov",
+          "id": 251553185,
+          "id_str": "251553185",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/YK6Y8QOrY3",
-          "expanded_url": "https://twitter.com/i/web/status/907552267129249792",
-          "display_url": "twitter.com/i/web/status/9…",
+          "url": "https://t.co/ZWrsgQo47w",
+          "expanded_url": "https://twitter.com/backendsecret/status/907595036782624768",
+          "display_url": "twitter.com/backendsecret/…",
           "indices": [
-            117,
-            140
+            93,
+            116
           ]
         }
       ]
@@ -105,18 +92,18 @@
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": 251553185,
+    "in_reply_to_user_id_str": "251553185",
+    "in_reply_to_screen_name": "aelaau",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 907551835980025900,
-    "quoted_status_id_str": "907551835980025856",
+    "quoted_status_id": 907595036782624800,
+    "quoted_status_id_str": "907595036782624768",
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
