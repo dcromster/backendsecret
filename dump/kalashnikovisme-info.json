@@ -41,34 +41,45 @@
   "friends_count": 0,
   "listed_count": 202,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2558,
+  "favourites_count": 2559,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22709,
+  "statuses_count": 22718,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Sep 13 09:01:18 +0000 2017",
-    "id": 907891929433755600,
-    "id_str": "907891929433755648",
-    "text": "какой по счёту?) Сам работаю на трёх мониторах - очень удобно :) https://t.co/pKKTIOIGc3",
+    "created_at": "Wed Sep 13 11:48:38 +0000 2017",
+    "id": 907934041881673700,
+    "id_str": "907934041881673728",
+    "text": "RT @strizhechenko: @backendsecret Когда приходится, пью и верстаю, кладу весь CSS/JS в гит, не юзаю никаких сборщиков, херак херак (поныл в…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/pKKTIOIGc3",
-          "expanded_url": "https://twitter.com/ponitozhekoni/status/907888730484170752",
-          "display_url": "twitter.com/ponitozhekoni/…",
+          "screen_name": "strizhechenko",
+          "name": "Толстенький котик",
+          "id": 1033011720,
+          "id_str": "1033011720",
           "indices": [
-            65,
-            88
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            19,
+            33
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +91,61 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 907888730484170800,
-    "quoted_status_id_str": "907888730484170752",
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted_status": {
+      "created_at": "Wed Sep 13 11:47:26 +0000 2017",
+      "id": 907933737433927700,
+      "id_str": "907933737433927680",
+      "text": "@backendsecret Когда приходится, пью и верстаю, кладу весь CSS/JS в гит, не юзаю никаких сборщиков, херак херак (по… https://t.co/KLwHRecthm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KLwHRecthm",
+            "expanded_url": "https://twitter.com/i/web/status/907933737433927680",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 907930763483652100,
+      "in_reply_to_status_id_str": "907930763483652098",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
