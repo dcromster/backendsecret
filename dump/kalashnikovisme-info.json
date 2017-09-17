@@ -37,30 +37,48 @@
     }
   },
   "protected": false,
-  "followers_count": 3679,
+  "followers_count": 3682,
   "friends_count": 0,
   "listed_count": 202,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2595,
+  "favourites_count": 2599,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22781,
+  "statuses_count": 22784,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Sep 16 17:44:12 +0000 2017",
-    "id": 909110684205666300,
-    "id_str": "909110684205666305",
-    "text": "Как считаете, насколько для современного разработчика важен нетворкинг (общение в среде)? И можно ли без этого быть суперсцецом сегодня?",
-    "truncated": false,
+    "created_at": "Sun Sep 17 09:14:20 +0000 2017",
+    "id": 909344760971825200,
+    "id_str": "909344760971825153",
+    "text": "#Python как первый язык программирования хорош своей дисциплиной. Согласен: динамическая типизация мешает, но это н… https://t.co/wJdzvEgUEM",
+    "truncated": true,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "Python",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/wJdzvEgUEM",
+          "expanded_url": "https://twitter.com/i/web/status/909344760971825153",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -70,11 +88,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 909299119646224400,
+    "quoted_status_id_str": "909299119646224384",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
