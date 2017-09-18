@@ -1,6 +1,6 @@
 export default [
   // { username: 'twitter_name', start: '15 mar 2017', first: '640816652293144576', post: false },
-  { username: 'kalashnikovisme', start: '11 sep 2017', first: '907117544112353281', post: false },
+  { username: 'kalashnikovisme', start: '11 sep 2017', first: '907117544112353281' },
   { username: 'tshiorny_eugene', start: '04 sep 2017', first: '904450341260988416' },
   { username: 'JFrog',           start: '25 jul 2017', first: '889513510224384000' },
   { username: 'VitalyLiber',     start: '17 jul 2017', first: '886806137278017538' },
