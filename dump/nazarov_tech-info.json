@@ -3,8 +3,19 @@
   "id_str": "3302551618",
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
-  "location": "Saint Petersburg, Russia",
-  "profile_location": null,
+  "location": "Санкт-Петербург, Россия",
+  "profile_location": {
+    "id": "a76c0cd7d56c4836",
+    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+    "place_type": "unknown",
+    "name": "Санкт-Петербург, Россия",
+    "full_name": "Санкт-Петербург, Россия",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Коллективный твиттер-аккаунт для бэкенд-разработчиков с новым автором каждую неделю. Сейчас с вами @nazarov_tech!",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -26,49 +37,28 @@
     }
   },
   "protected": false,
-  "followers_count": 3712,
+  "followers_count": 3711,
   "friends_count": 0,
-  "listed_count": 205,
+  "listed_count": 204,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2687,
+  "favourites_count": 2718,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23011,
+  "statuses_count": 23061,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Sep 26 12:53:45 +0000 2017",
-    "id": 912661471456317400,
-    "id_str": "912661471456317451",
-    "text": "Такова инженерная культура. Мало заявить, это ещё надо и обосновать.\n\n(Если, конечно, ты не ведёшь @backendsecret)\n\nhttps://t.co/janqwwtUee",
+    "created_at": "Tue Sep 26 14:06:20 +0000 2017",
+    "id": 912679734324207600,
+    "id_str": "912679734324207616",
+    "text": "Старайтесь выбирать инструмент под задачу, знайте его, будьте счастливы :)\n\nЯ вернусь завтра, а пока снова объявляется трёп без адженды.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            99,
-            113
-          ]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/janqwwtUee",
-          "expanded_url": "https://twitter.com/MurcielagoCat/status/912660748043681792",
-          "display_url": "twitter.com/MurcielagoCat/…",
-          "indices": [
-            116,
-            139
-          ]
-        }
-      ]
+      "user_mentions": [],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +70,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 912660748043681800,
-    "quoted_status_id_str": "912660748043681792",
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
