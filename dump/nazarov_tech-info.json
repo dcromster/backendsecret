@@ -3,19 +3,8 @@
   "id_str": "3302551618",
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
-  "location": "Санкт-Петербург, Россия",
-  "profile_location": {
-    "id": "a76c0cd7d56c4836",
-    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-    "place_type": "unknown",
-    "name": "Санкт-Петербург, Россия",
-    "full_name": "Санкт-Петербург, Россия",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "location": "Saint Petersburg, Russia",
+  "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для бэкенд-разработчиков с новым автором каждую неделю. Сейчас с вами @nazarov_tech!",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -37,49 +26,49 @@
     }
   },
   "protected": false,
-  "followers_count": 3711,
+  "followers_count": 3712,
   "friends_count": 0,
-  "listed_count": 204,
+  "listed_count": 205,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2672,
+  "favourites_count": 2687,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22980,
+  "statuses_count": 23011,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Sep 26 11:44:11 +0000 2017",
-    "id": 912643963303157800,
-    "id_str": "912643963303157760",
-    "text": "RT @zzashpaupat: @backendsecret Бэкенд, который мы заслужили",
+    "created_at": "Tue Sep 26 12:53:45 +0000 2017",
+    "id": 912661471456317400,
+    "id_str": "912661471456317451",
+    "text": "Такова инженерная культура. Мало заявить, это ещё надо и обосновать.\n\n(Если, конечно, ты не ведёшь @backendsecret)\n\nhttps://t.co/janqwwtUee",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "zzashpaupat",
-          "name": "Император грязи",
-          "id": 24900648,
-          "id_str": "24900648",
-          "indices": [
-            3,
-            15
-          ]
-        },
-        {
           "screen_name": "backendsecret",
           "name": "Разработчик бэкенда",
           "id": 3302551618,
           "id_str": "3302551618",
           "indices": [
-            17,
-            31
+            99,
+            113
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/janqwwtUee",
+          "expanded_url": "https://twitter.com/MurcielagoCat/status/912660748043681792",
+          "display_url": "twitter.com/MurcielagoCat/…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -91,51 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Sep 26 11:43:23 +0000 2017",
-      "id": 912643763452997600,
-      "id_str": "912643763452997633",
-      "text": "@backendsecret Бэкенд, который мы заслужили",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              0,
-              14
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 912641359697367000,
-      "in_reply_to_status_id_str": "912641359697367040",
-      "in_reply_to_user_id": 3302551618,
-      "in_reply_to_user_id_str": "3302551618",
-      "in_reply_to_screen_name": "backendsecret",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 2,
-      "favorite_count": 4,
-      "favorited": true,
-      "retweeted": true,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
-    "retweet_count": 2,
+    "is_quote_status": true,
+    "quoted_status_id": 912660748043681800,
+    "quoted_status_id_str": "912660748043681792",
+    "retweet_count": 0,
     "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
