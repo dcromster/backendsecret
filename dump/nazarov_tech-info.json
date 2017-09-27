@@ -37,28 +37,38 @@
     }
   },
   "protected": false,
-  "followers_count": 3715,
+  "followers_count": 3716,
   "friends_count": 0,
   "listed_count": 204,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2730,
+  "favourites_count": 2773,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23073,
+  "statuses_count": 23160,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Sep 27 10:19:57 +0000 2017",
-    "id": 912985153181536300,
-    "id_str": "912985153181536256",
-    "text": "продолжаем. Ещё один опрос: ваша текущая позиция",
+    "created_at": "Wed Sep 27 17:34:23 +0000 2017",
+    "id": 913094481787985900,
+    "id_str": "913094481787985920",
+    "text": "хм, а чуть пояснений?\n\nhttps://t.co/pbNXnni1ZR",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/pbNXnni1ZR",
+          "expanded_url": "https://twitter.com/mr_felixoid/status/913094120113152008",
+          "display_url": "twitter.com/mr_felixoid/st…",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 913094120113152000,
+    "quoted_status_id_str": "913094120113152008",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
