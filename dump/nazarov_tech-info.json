@@ -37,35 +37,45 @@
     }
   },
   "protected": false,
-  "followers_count": 3719,
+  "followers_count": 3722,
   "friends_count": 0,
   "listed_count": 204,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2788,
+  "favourites_count": 2807,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23170,
+  "statuses_count": 23196,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Sep 27 19:17:48 +0000 2017",
-    "id": 913120506894790700,
-    "id_str": "913120506894790657",
-    "text": "RT @not_logan: @backendsecret я один раз случайно отключил антиспам на сутки. Гендир получил 20к писем. Не уволили, но просили больше так н…",
+    "created_at": "Thu Sep 28 07:12:39 +0000 2017",
+    "id": 913300405202903000,
+    "id_str": "913300405202903040",
+    "text": "RT @subzey: @vassilevsky @backendsecret Кстати, хорошая тема для обсуждения, content delivery, он вроде как на стыке бэка и фронта",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "not_logan",
-          "name": "Paul Rudnitskiy",
-          "id": 46118269,
-          "id_str": "46118269",
+          "screen_name": "subzey",
+          "name": "subzey",
+          "id": 161396680,
+          "id_str": "161396680",
           "indices": [
             3,
-            13
+            10
+          ]
+        },
+        {
+          "screen_name": "vassilevsky",
+          "name": "Илья Василевский",
+          "id": 53391978,
+          "id_str": "53391978",
+          "indices": [
+            12,
+            24
           ]
         },
         {
@@ -74,14 +84,14 @@
           "id": 3302551618,
           "id_str": "3302551618",
           "indices": [
-            15,
-            29
+            25,
+            39
           ]
         }
       ],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -92,41 +102,51 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Wed Sep 27 18:26:03 +0000 2017",
-      "id": 913107483543134200,
-      "id_str": "913107483543134208",
-      "text": "@backendsecret я один раз случайно отключил антиспам на сутки. Гендир получил 20к писем. Не уволили, но просили больше так не поступать.",
+      "created_at": "Thu Sep 28 07:10:21 +0000 2017",
+      "id": 913299827886379000,
+      "id_str": "913299827886379011",
+      "text": "@vassilevsky @backendsecret Кстати, хорошая тема для обсуждения, content delivery, он вроде как на стыке бэка и фронта",
       "truncated": false,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
+            "screen_name": "vassilevsky",
+            "name": "Илья Василевский",
+            "id": 53391978,
+            "id_str": "53391978",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
             "screen_name": "backendsecret",
             "name": "Разработчик бэкенда",
             "id": 3302551618,
             "id_str": "3302551618",
             "indices": [
-              0,
-              14
+              13,
+              27
             ]
           }
         ],
         "urls": []
       },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 913089916665335800,
-      "in_reply_to_status_id_str": "913089916665335808",
-      "in_reply_to_user_id": 3302551618,
-      "in_reply_to_user_id_str": "3302551618",
-      "in_reply_to_screen_name": "backendsecret",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 913289032871923700,
+      "in_reply_to_status_id_str": "913289032871923712",
+      "in_reply_to_user_id": 53391978,
+      "in_reply_to_user_id_str": "53391978",
+      "in_reply_to_screen_name": "vassilevsky",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "favorited": true,
       "retweeted": true,
       "lang": "ru"
