@@ -37,57 +37,65 @@
     }
   },
   "protected": false,
-  "followers_count": 3726,
+  "followers_count": 3728,
   "friends_count": 0,
   "listed_count": 204,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2844,
+  "favourites_count": 2846,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23278,
+  "statuses_count": 23281,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Sep 28 17:30:04 +0000 2017",
-    "id": 913455781290414100,
-    "id_str": "913455781290414081",
-    "text": "внезапно: половина людей использует докер в проде. Не ожидал такого проникновения https://t.co/Fgqgk3ihsN",
+    "created_at": "Thu Sep 28 18:23:28 +0000 2017",
+    "id": 913469222180786200,
+    "id_str": "913469222180786176",
+    "text": "@igorshevchenko_ @antgubarev это если вы мёрджите с - -ff, видимо?",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/Fgqgk3ihsN",
-          "expanded_url": "https://twitter.com/backendsecret/status/913091968334467073",
-          "display_url": "twitter.com/backendsecret/…",
+          "screen_name": "igorshevchenko_",
+          "name": "Игорь Шевченко",
+          "id": 772525099404685300,
+          "id_str": "772525099404685312",
           "indices": [
-            82,
-            105
+            0,
+            16
+          ]
+        },
+        {
+          "screen_name": "antgubarev",
+          "name": "Anton Gubarev",
+          "id": 462697093,
+          "id_str": "462697093",
+          "indices": [
+            17,
+            28
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 913468777601302500,
+    "in_reply_to_status_id_str": "913468777601302528",
+    "in_reply_to_user_id": 772525099404685300,
+    "in_reply_to_user_id_str": "772525099404685312",
+    "in_reply_to_screen_name": "igorshevchenko_",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 913091968334467100,
-    "quoted_status_id_str": "913091968334467073",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
