@@ -37,28 +37,38 @@
     }
   },
   "protected": false,
-  "followers_count": 3727,
+  "followers_count": 3726,
   "friends_count": 0,
   "listed_count": 204,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 2842,
+  "favourites_count": 2844,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23276,
+  "statuses_count": 23278,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Sep 28 16:48:51 +0000 2017",
-    "id": 913445410722721800,
-    "id_str": "913445410722721792",
-    "text": "попросили меньше ретвитов. Попробую более вдумчиво.",
+    "created_at": "Thu Sep 28 17:30:04 +0000 2017",
+    "id": 913455781290414100,
+    "id_str": "913455781290414081",
+    "text": "внезапно: половина людей использует докер в проде. Не ожидал такого проникновения https://t.co/Fgqgk3ihsN",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/Fgqgk3ihsN",
+          "expanded_url": "https://twitter.com/backendsecret/status/913091968334467073",
+          "display_url": "twitter.com/backendsecret/…",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 913091968334467100,
+    "quoted_status_id_str": "913091968334467073",
     "retweet_count": 0,
     "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
