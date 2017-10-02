@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3771,
+  "followers_count": 3773,
   "friends_count": 0,
   "listed_count": 204,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,33 +35,54 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23577,
+  "statuses_count": 23582,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 02 15:04:24 +0000 2017",
-    "id": 914868674120622100,
-    "id_str": "914868674120622081",
-    "text": "Индустрию можно охарактеризовать примерно так: быстрая автоматизация, падение бизнес-маржи, увеличение трафика, появление новых протоколов",
-    "truncated": false,
+    "created_at": "Mon Oct 02 15:12:26 +0000 2017",
+    "id": 914870697075363800,
+    "id_str": "914870697075363840",
+    "text": "@dcromster Как-то пришел к этому. Начинал с торговли канцтоварами и компьютерами, затем бухгалтерским учетом, прогр… https://t.co/fa7PQsNku0",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "dcromster",
+          "name": "Roman Milovskiy",
+          "id": 81103006,
+          "id_str": "81103006",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fa7PQsNku0",
+          "expanded_url": "https://twitter.com/i/web/status/914870697075363840",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-    "in_reply_to_status_id": 914867233641386000,
-    "in_reply_to_status_id_str": "914867233641385984",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": 914867917900087300,
+    "in_reply_to_status_id_str": "914867917900087296",
+    "in_reply_to_user_id": 81103006,
+    "in_reply_to_user_id_str": "81103006",
+    "in_reply_to_screen_name": "dcromster",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
