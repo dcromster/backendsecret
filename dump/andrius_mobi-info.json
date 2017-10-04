@@ -28,30 +28,40 @@
   "protected": false,
   "followers_count": 3782,
   "friends_count": 0,
-  "listed_count": 204,
+  "listed_count": 203,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 2949,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23601,
+  "statuses_count": 23602,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 03 18:47:41 +0000 2017",
-    "id": 915287253588602900,
-    "id_str": "915287253588602880",
-    "text": "в вашем любимом языке программирования. На чем делают CTI решения - да практически на любом языке начиная с bash",
-    "truncated": false,
+    "created_at": "Tue Oct 03 21:11:39 +0000 2017",
+    "id": 915323485341315100,
+    "id_str": "915323485341315072",
+    "text": "Он очень хорош до определенного уровня, как POC продукт, для автоматизаций, тестирования. На операторское решение я… https://t.co/KRvYjWwpDE",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/KRvYjWwpDE",
+          "expanded_url": "https://twitter.com/i/web/status/915323485341315072",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-    "in_reply_to_status_id": 915287023942033400,
-    "in_reply_to_status_id_str": "915287023942033411",
+    "in_reply_to_status_id": 915287253588602900,
+    "in_reply_to_status_id_str": "915287253588602880",
     "in_reply_to_user_id": 3302551618,
     "in_reply_to_user_id_str": "3302551618",
     "in_reply_to_screen_name": "backendsecret",
@@ -59,11 +69,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 915322608421412900,
+    "quoted_status_id_str": "915322608421412867",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
