@@ -1342,6 +1342,182 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 05 05:40:02 +0000 2017",
+      "id": 915813814259654700,
+      "id_str": "915813814259654658",
+      "text": "@habrahabr @GeekTimes_ru @backendsecret заретвитим? Интересно ж! https://t.co/NmzOsmuVB2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "habrahabr",
+            "name": "Хабрахабр",
+            "id": 18191307,
+            "id_str": "18191307",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "GeekTimes_ru",
+            "name": "Гиктаймс",
+            "id": 2785659556,
+            "id_str": "2785659556",
+            "indices": [
+              11,
+              24
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              25,
+              39
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NmzOsmuVB2",
+            "expanded_url": "https://twitter.com/62mkv/status/915812126790422528",
+            "display_url": "twitter.com/62mkv/status/9…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 18191307,
+      "in_reply_to_user_id_str": "18191307",
+      "in_reply_to_screen_name": "habrahabr",
+      "user": {
+        "id": 1015407828,
+        "id_str": "1015407828"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a8264fc094a7a0ba",
+        "url": "https://api.twitter.com/1.1/geo/id/a8264fc094a7a0ba.json",
+        "place_type": "city",
+        "name": "Барнаул",
+        "full_name": "Барнаул, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                83.4660957,
+                53.2371816
+              ],
+              [
+                83.826044,
+                53.2371816
+              ],
+              [
+                83.826044,
+                53.4407047
+              ],
+              [
+                83.4660957,
+                53.4407047
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 915812126790422500,
+      "quoted_status_id_str": "915812126790422528",
+      "quoted_status": {
+        "created_at": "Thu Oct 05 05:33:20 +0000 2017",
+        "id": 915812126790422500,
+        "id_str": "915812126790422528",
+        "text": "Опрос: какой способ переключения языков ввода должен предлагаться по умолчанию в  MS Windows?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1015407828,
+          "id_str": "1015407828"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "a8264fc094a7a0ba",
+          "url": "https://api.twitter.com/1.1/geo/id/a8264fc094a7a0ba.json",
+          "place_type": "city",
+          "name": "Барнаул",
+          "full_name": "Барнаул, Россия",
+          "country_code": "RU",
+          "country": "Россия",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  83.4660957,
+                  53.2371816
+                ],
+                [
+                  83.826044,
+                  53.2371816
+                ],
+                [
+                  83.826044,
+                  53.4407047
+                ],
+                [
+                  83.4660957,
+                  53.4407047
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
