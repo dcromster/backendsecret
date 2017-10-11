@@ -3178,6 +3178,579 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 11 11:27:46 +0000 2017",
+      "id": 918075650900217900,
+      "id_str": "918075650900217856",
+      "text": "Вместо type annotation comments рельсоводами, похоже, предлагается перечитывать https://t.co/ObPgVqOKT4 или простыни https://t.co/dsPikRS6ix",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ObPgVqOKT4",
+            "expanded_url": "http://guides.rubyonrails.org",
+            "display_url": "guides.rubyonrails.org",
+            "indices": [
+              80,
+              103
+            ]
+          },
+          {
+            "url": "https://t.co/dsPikRS6ix",
+            "expanded_url": "https://github.com/rails/rails/blob/9b53f74d897d346f44caae7b0cffcd900f986259/activerecord/lib/active_record/associations.rb#L1542-L1680",
+            "display_url": "github.com/rails/rails/bl…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 918060521835913200,
+      "in_reply_to_status_id_str": "918060521835913216",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 11 11:29:45 +0000 2017",
+      "id": 918076150211055600,
+      "id_str": "918076150211055616",
+      "text": "@AlexWayfer А вот ActiveRecord (например https://t.co/dsPikRS6ix) важно. Но не очень – неправильные ключи оно игнорирует (вроде так, да?)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AlexWayfer",
+            "name": "Alexander Popov",
+            "id": 312906249,
+            "id_str": "312906249",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dsPikRS6ix",
+            "expanded_url": "https://github.com/rails/rails/blob/9b53f74d897d346f44caae7b0cffcd900f986259/activerecord/lib/active_record/associations.rb#L1542-L1680",
+            "display_url": "github.com/rails/rails/bl…",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 918062255421390800,
+      "in_reply_to_status_id_str": "918062255421390849",
+      "in_reply_to_user_id": 312906249,
+      "in_reply_to_user_id_str": "312906249",
+      "in_reply_to_screen_name": "AlexWayfer",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 11 11:37:59 +0000 2017",
+      "id": 918078219533934600,
+      "id_str": "918078219533934592",
+      "text": "@russianlagman есть, им просто редко пользуются по назначению",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "russianlagman",
+            "name": "Алексей Самойлов",
+            "id": 42567069,
+            "id_str": "42567069",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 918077128029044700,
+      "in_reply_to_status_id_str": "918077128029044737",
+      "in_reply_to_user_id": 42567069,
+      "in_reply_to_user_id_str": "42567069",
+      "in_reply_to_screen_name": "russianlagman",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 11 11:50:38 +0000 2017",
+      "id": 918081405179060200,
+      "id_str": "918081405179060224",
+      "text": "@kelin2025 В том плане, что я поддерживаю PureScript – хорошее и правильное начинание.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kelin2025",
+            "name": "𝓟𝓞𝓖𝓡𝓞𝓜𝓘𝓢𝓣",
+            "id": 716720453881098200,
+            "id_str": "716720453881098246",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 918078797521588200,
+      "in_reply_to_status_id_str": "918078797521588224",
+      "in_reply_to_user_id": 716720453881098200,
+      "in_reply_to_user_id_str": "716720453881098246",
+      "in_reply_to_screen_name": "kelin2025",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 11 13:08:30 +0000 2017",
+      "id": 918100998849204200,
+      "id_str": "918100998849204225",
+      "text": "Не, надоело о плохом",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 11 13:11:16 +0000 2017",
+      "id": 918101697205030900,
+      "id_str": "918101697205030912",
+      "text": "https://t.co/WHH53ff9d3 сборщики мусора избавили нас от управления памятью вручную; Саймон Марлоу избавил от распараллеливания задач вручную",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WHH53ff9d3",
+            "expanded_url": "https://www.youtube.com/watch?v=sT6VJkkhy0o",
+            "display_url": "youtube.com/watch?v=sT6VJk…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 11 14:53:33 +0000 2017",
+      "id": 918127434880430100,
+      "id_str": "918127434880430080",
+      "text": "https://t.co/K8I48Tzuzp формально верифицированной крипты всем",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/K8I48Tzuzp",
+            "expanded_url": "https://blog.mozilla.org/security/2017/09/13/verified-cryptography-firefox-57/",
+            "display_url": "blog.mozilla.org/security/2017/…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 11 17:07:47 +0000 2017",
+      "id": 918161216383737900,
+      "id_str": "918161216383737857",
+      "text": "https://t.co/KGEljqFksB а вот правильный способ манкипатчить всё и вся в Ruby. Им, конечно, никто не пользуется уже 5 лет, но надежда тлеет",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KGEljqFksB",
+            "expanded_url": "https://ruby-doc.org/core-2.1.1/doc/syntax/refinements_rdoc.html",
+            "display_url": "ruby-doc.org/core-2.1.1/doc…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "333a5811d6b0c1cb",
+        "url": "https://api.twitter.com/1.1/geo/id/333a5811d6b0c1cb.json",
+        "place_type": "country",
+        "name": "Беларусь",
+        "full_name": "Беларусь",
+        "country_code": "BY",
+        "country": "Беларусь",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                23.179217,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                56.1717339
+              ],
+              [
+                23.179217,
+                56.1717339
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 11 17:54:41 +0000 2017",
+      "id": 918173020358938600,
+      "id_str": "918173020358938624",
+      "text": "@eugene_shved Я с другой стороны заходил - сторонний гем перекрыл кусок Net::HTTP, а я обратил на это внимание толь… https://t.co/Ay9EZYkDFj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "eugene_shved",
+            "name": "Eugene Shved",
+            "id": 469340102,
+            "id_str": "469340102",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Ay9EZYkDFj",
+            "expanded_url": "https://twitter.com/i/web/status/918173020358938624",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 918164194377326600,
+      "in_reply_to_status_id_str": "918164194377326597",
+      "in_reply_to_user_id": 469340102,
+      "in_reply_to_user_id_str": "469340102",
+      "in_reply_to_screen_name": "eugene_shved",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 11 18:44:12 +0000 2017",
+      "id": 918185483540353000,
+      "id_str": "918185483540353027",
+      "text": "Хорошее повтори и ещё раз повтори. https://t.co/mzfk6gNq4b",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mzfk6gNq4b",
+            "expanded_url": "https://twitter.com/tedneward/status/901135785969074177",
+            "display_url": "twitter.com/tedneward/stat…",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 901135785969074200,
+      "quoted_status_id_str": "901135785969074177",
+      "quoted_status": {
+        "created_at": "Fri Aug 25 17:34:48 +0000 2017",
+        "id": 901135785969074200,
+        "id_str": "901135785969074177",
+        "text": "Every. Single. Software developer. Must. Take. Note.\n\nYOU can go to jail for the code YOUR BOSS tells you to write. https://t.co/3MZGHqI4dy",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/3MZGHqI4dy",
+              "expanded_url": "https://twitter.com/reuters/status/901134610662387718",
+              "display_url": "twitter.com/reuters/status…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 15224269,
+          "id_str": "15224269"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 901134610662387700,
+        "quoted_status_id_str": "901134610662387718",
+        "retweet_count": 22710,
+        "favorite_count": 18451,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 11 18:53:29 +0000 2017",
+      "id": 918187818148655100,
+      "id_str": "918187818148655109",
+      "text": "С другой стороны, точно так же можно присесть и за ошибку, допущенную ненамеренно. Ну разве только на менее длинный срок, и то не факт.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 918185483540353000,
+      "in_reply_to_status_id_str": "918185483540353027",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
