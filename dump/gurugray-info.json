@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3840,
+  "followers_count": 3842,
   "friends_count": 0,
   "listed_count": 203,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,26 +46,37 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23818,
+  "statuses_count": 23823,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Oct 18 08:52:42 +0000 2017",
-    "id": 920573338912743400,
-    "id_str": "920573338912743424",
-    "text": "git-lfs добавляет  «точку отказа» и сложность в освоении инструмента, но даёт выигрыш по скорости и месту для хранения",
+    "created_at": "Wed Oct 18 17:38:46 +0000 2017",
+    "id": 920705729471926300,
+    "id_str": "920705729471926272",
+    "text": "@jbaruch Бэкенд может быть любой, который соответствует спецификации, в том и соль :) Но у GH — проприетарный самописный.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "jbaruch",
+          "name": "Baruch Sadogursky",
+          "id": 16887172,
+          "id_str": "16887172",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 920705307617218600,
+    "in_reply_to_status_id_str": "920705307617218560",
+    "in_reply_to_user_id": 16887172,
+    "in_reply_to_user_id_str": "16887172",
+    "in_reply_to_screen_name": "jbaruch",
     "geo": null,
     "coordinates": null,
     "place": null,
