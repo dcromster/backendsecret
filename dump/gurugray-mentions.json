@@ -9180,6 +9180,225 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 18 22:07:09 +0000 2017",
+      "id": 920773270059782100,
+      "id_str": "920773270059782145",
+      "text": "@EDoronin @backendsecret Ну, gitlfs как раз гитхаб придумал.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EDoronin",
+            "name": "Egor Doronin",
+            "id": 90360052,
+            "id_str": "90360052",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              10,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 920706788080717800,
+      "in_reply_to_status_id_str": "920706788080717825",
+      "in_reply_to_user_id": 90360052,
+      "in_reply_to_user_id_str": "90360052",
+      "in_reply_to_screen_name": "EDoronin",
+      "user": {
+        "id": 16887172,
+        "id_str": "16887172"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "3078869807f9dd36",
+        "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+        "place_type": "city",
+        "name": "Berlin",
+        "full_name": "Berlin, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                13.088304,
+                52.338079
+              ],
+              [
+                13.760909,
+                52.338079
+              ],
+              [
+                13.760909,
+                52.675323
+              ],
+              [
+                13.088304,
+                52.675323
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 18 22:07:43 +0000 2017",
+      "id": 920773414448717800,
+      "id_str": "920773414448717826",
+      "text": "@backendsecret А, ну ок. Бедненько, но чистенько. Норм.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 920736597401915400,
+      "in_reply_to_status_id_str": "920736597401915393",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 16887172,
+        "id_str": "16887172"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 19 05:53:10 +0000 2017",
+      "id": 920890548835188700,
+      "id_str": "920890548835188736",
+      "text": "@backendsecret Какой объем? Общий и средний одного файла? Неужто правда git-lfs был так необходим?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 920572902235308000,
+      "in_reply_to_status_id_str": "920572902235308032",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 125115421,
+        "id_str": "125115421"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 19 06:38:03 +0000 2017",
+      "id": 920901843160625200,
+      "id_str": "920901843160625153",
+      "text": "@backendsecret И как он себя показывает, когда мелких файлов? Он же создан именно для больших.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 920899539137019900,
+      "in_reply_to_status_id_str": "920899539137019904",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 125115421,
+        "id_str": "125115421"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
