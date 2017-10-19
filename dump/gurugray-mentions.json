@@ -9399,6 +9399,112 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 19 08:03:39 +0000 2017",
+      "id": 920923382866210800,
+      "id_str": "920923382866210816",
+      "text": "@backendsecret https://t.co/j08ElVkgph\nhttps://t.co/hBB9niIFry\nhttps://t.co/to7TcfS6ga",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/j08ElVkgph",
+            "expanded_url": "https://www.jfrog.com/blog/use-the-right-tool-for-the-job-git-lfs-with-artifactory/",
+            "display_url": "jfrog.com/blog/use-the-r…",
+            "indices": [
+              15,
+              38
+            ]
+          },
+          {
+            "url": "https://t.co/hBB9niIFry",
+            "expanded_url": "https://www.jfrog.com/knowledge-base/how-to-make-git-lfs-work-and-configure-it-with-artifactory-in-5-min/",
+            "display_url": "jfrog.com/knowledge-base…",
+            "indices": [
+              39,
+              62
+            ]
+          },
+          {
+            "url": "https://t.co/to7TcfS6ga",
+            "expanded_url": "https://youtu.be/006RUPVIP-c",
+            "display_url": "youtu.be/006RUPVIP-c",
+            "indices": [
+              63,
+              86
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 920899812349939700,
+      "in_reply_to_status_id_str": "920899812349939712",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 16887172,
+        "id_str": "16887172"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "3078869807f9dd36",
+        "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+        "place_type": "city",
+        "name": "Berlin",
+        "full_name": "Berlin, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                13.088304,
+                52.338079
+              ],
+              [
+                13.760909,
+                52.338079
+              ],
+              [
+                13.760909,
+                52.675323
+              ],
+              [
+                13.088304,
+                52.675323
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
     }
   ]
 }
