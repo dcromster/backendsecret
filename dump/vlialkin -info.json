@@ -28,36 +28,47 @@
   "protected": false,
   "followers_count": 3845,
   "friends_count": 0,
-  "listed_count": 205,
+  "listed_count": 206,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 2961,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23893,
+  "statuses_count": 23903,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 23 10:16:13 +0000 2017",
-    "id": 922406297034723300,
-    "id_str": "922406297034723328",
-    "text": "нужно максимально стремиться к тому, чтобы TL полноценно играл роль Technical Lead'а и мог полностью отвечать и за… https://t.co/HASlpZjtp0",
-    "truncated": true,
+    "created_at": "Mon Oct 23 13:49:46 +0000 2017",
+    "id": 922460037947281400,
+    "id_str": "922460037947281411",
+    "text": "RT @BeiZero: @backendsecret Роль Scrum Master'а не подразумевает ничего кроме надзора за соблюдением принципов Scrum'а. И у нас эта роль ра…",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/HASlpZjtp0",
-          "expanded_url": "https://twitter.com/i/web/status/922406297034723328",
-          "display_url": "twitter.com/i/web/status/9…",
+          "screen_name": "BeiZero",
+          "name": "BeiZero",
+          "id": 1658183185,
+          "id_str": "1658183185",
           "indices": [
-            116,
-            139
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            13,
+            27
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -69,14 +80,61 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 922376001446989800,
-    "quoted_status_id_str": "922376001446989825",
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Mon Oct 23 08:32:15 +0000 2017",
+      "id": 922380135269060600,
+      "id_str": "922380135269060608",
+      "text": "@backendsecret Роль Scrum Master'а не подразумевает ничего кроме надзора за соблюдением принципов Scrum'а. И у нас… https://t.co/AxfhxFyKlR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AxfhxFyKlR",
+            "expanded_url": "https://twitter.com/i/web/status/922380135269060608",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 922377805299703800,
+      "in_reply_to_status_id_str": "922377805299703808",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
