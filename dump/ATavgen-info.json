@@ -39,29 +39,40 @@
   "protected": false,
   "followers_count": 3863,
   "friends_count": 0,
-  "listed_count": 206,
+  "listed_count": 207,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 2980,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24163,
+  "statuses_count": 24186,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 30 10:49:53 +0000 2017",
-    "id": 924951483958906900,
-    "id_str": "924951483958906882",
-    "text": "Сегментная регрессия. Разбиваем ряд на кусочки, интерполируем. Плюсы - малое число параметров у модели. Бритва Окка… https://t.co/cPc9JQwQIT",
+    "created_at": "Mon Oct 30 13:32:18 +0000 2017",
+    "id": 924992359724671000,
+    "id_str": "924992359724670976",
+    "text": "@igor_maslik Java изначально ориентирована на ООП, это её козырь. Статики обернутые в классы, это не Java way. Выст… https://t.co/453PJGkidH",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "igor_maslik",
+          "name": "Игорь Маслов =)",
+          "id": 574420152,
+          "id_str": "574420152",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/cPc9JQwQIT",
-          "expanded_url": "https://twitter.com/i/web/status/924951483958906882",
+          "url": "https://t.co/453PJGkidH",
+          "expanded_url": "https://twitter.com/i/web/status/924992359724670976",
           "display_url": "twitter.com/i/web/status/9…",
           "indices": [
             117,
@@ -71,11 +82,11 @@
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 924990348031610900,
+    "in_reply_to_status_id_str": "924990348031610881",
+    "in_reply_to_user_id": 574420152,
+    "in_reply_to_user_id_str": "574420152",
+    "in_reply_to_screen_name": "igor_maslik",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -85,7 +96,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
