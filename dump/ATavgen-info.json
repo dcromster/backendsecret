@@ -37,28 +37,38 @@
     }
   },
   "protected": false,
-  "followers_count": 3885,
+  "followers_count": 3886,
   "friends_count": 0,
   "listed_count": 206,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 3017,
+  "favourites_count": 3018,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24262,
+  "statuses_count": 24265,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Nov 04 17:34:52 +0000 2017",
-    "id": 926865343590617100,
-    "id_str": "926865343590617088",
-    "text": "Очень полезная штука, подписка Safari на O’Reilly. Это как Spotify в мире книг. Плюс доступ к обучающим видео. Требуйте в своих компаниях.",
-    "truncated": false,
+    "created_at": "Sat Nov 04 19:05:46 +0000 2017",
+    "id": 926888216636149800,
+    "id_str": "926888216636149760",
+    "text": "Spring от Manning, в любом случае хорош, не помню автора. Там объясняется достаточно хорошо весь magic behing Sprin… https://t.co/tnxU4eiHyz",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/tnxU4eiHyz",
+          "expanded_url": "https://twitter.com/i/web/status/926888216636149760",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 926870423018594300,
+    "quoted_status_id_str": "926870423018594307",
     "retweet_count": 0,
-    "favorite_count": 9,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
