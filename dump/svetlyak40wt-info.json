@@ -37,58 +37,56 @@
     }
   },
   "protected": false,
-  "followers_count": 3938,
+  "followers_count": 3939,
   "friends_count": 0,
   "listed_count": 207,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 3047,
+  "favourites_count": 3050,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24380,
+  "statuses_count": 24408,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Nov 07 14:54:00 +0000 2017",
-    "id": 927912021764567000,
-    "id_str": "927912021764567040",
-    "text": "А как же SLIME? https://t.co/zHgPZuidfq",
+    "created_at": "Wed Nov 08 10:32:35 +0000 2017",
+    "id": 928208621682483200,
+    "id_str": "928208621682483200",
+    "text": "@bitomaxsp Дело не только в этом. Для большинства задач которые я решаю Python OK. Я не пишу низкоуровневый сетевой код, зачем мне на Go?",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/zHgPZuidfq",
-          "expanded_url": "https://twitter.com/sarman/status/927906688908349440",
-          "display_url": "twitter.com/sarman/status/…",
+          "screen_name": "bitomaxsp",
+          "name": "Owl",
+          "id": 237366647,
+          "id_str": "237366647",
           "indices": [
-            16,
-            39
+            0,
+            10
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 928207516479172600,
+    "in_reply_to_status_id_str": "928207516479172608",
+    "in_reply_to_user_id": 237366647,
+    "in_reply_to_user_id_str": "237366647",
+    "in_reply_to_screen_name": "bitomaxsp",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 927906688908349400,
-    "quoted_status_id_str": "927906688908349440",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
