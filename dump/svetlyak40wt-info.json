@@ -37,35 +37,66 @@
     }
   },
   "protected": false,
-  "followers_count": 3939,
+  "followers_count": 3941,
   "friends_count": 0,
-  "listed_count": 207,
+  "listed_count": 208,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 3050,
+  "favourites_count": 3054,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24412,
+  "statuses_count": 24426,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Nov 08 11:21:40 +0000 2017",
-    "id": 928220976592183300,
-    "id_str": "928220976592183296",
-    "text": "А как определяете, что необходимость возникла? https://t.co/7avpP1Zg6c",
+    "created_at": "Wed Nov 08 13:48:33 +0000 2017",
+    "id": 928257940615843800,
+    "id_str": "928257940615843840",
+    "text": "RT @StepanKuzmin: @galnikrom @backendsecret На Coursera есть отличный курс на котором используется Standard ML https://t.co/xFLGVUleiq",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "StepanKuzmin",
+          "name": "Stepan Kuzmin",
+          "id": 38129790,
+          "id_str": "38129790",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "galnikrom",
+          "name": "Nikita Galushko",
+          "id": 821875530,
+          "id_str": "821875530",
+          "indices": [
+            18,
+            28
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            29,
+            43
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/7avpP1Zg6c",
-          "expanded_url": "https://twitter.com/imdefined/status/928218725936922625",
-          "display_url": "twitter.com/imdefined/stat…",
+          "url": "https://t.co/xFLGVUleiq",
+          "expanded_url": "https://www.coursera.org/learn/programming-languages",
+          "display_url": "coursera.org/learn/programm…",
           "indices": [
-            47,
-            70
+            111,
+            134
           ]
         }
       ]
@@ -80,13 +111,105 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 928218725936922600,
-    "quoted_status_id_str": "928218725936922625",
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Wed Nov 08 13:30:53 +0000 2017",
+      "id": 928253491587543000,
+      "id_str": "928253491587543040",
+      "text": "@galnikrom @backendsecret На Coursera есть отличный курс на котором используется Standard ML https://t.co/xFLGVUleiq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "galnikrom",
+            "name": "Nikita Galushko",
+            "id": 821875530,
+            "id_str": "821875530",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xFLGVUleiq",
+            "expanded_url": "https://www.coursera.org/learn/programming-languages",
+            "display_url": "coursera.org/learn/programm…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 928235262974595100,
+      "in_reply_to_status_id_str": "928235262974595073",
+      "in_reply_to_user_id": 821875530,
+      "in_reply_to_user_id_str": "821875530",
+      "in_reply_to_screen_name": "galnikrom",
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1f8e77e48f1b63d2",
+        "url": "https://api.twitter.com/1.1/geo/id/1f8e77e48f1b63d2.json",
+        "place_type": "city",
+        "name": "Мытищи",
+        "full_name": "Мытищи, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                37.5242697,
+                55.8568568
+              ],
+              [
+                37.8573964,
+                55.8568568
+              ],
+              [
+                37.8573964,
+                55.9930205
+              ],
+              [
+                37.5242697,
+                55.9930205
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
+    "favorited": true,
+    "retweeted": true,
     "possibly_sensitive": false,
     "lang": "ru"
   },
