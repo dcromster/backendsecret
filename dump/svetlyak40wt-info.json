@@ -46,46 +46,48 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24408,
+  "statuses_count": 24412,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Nov 08 10:32:35 +0000 2017",
-    "id": 928208621682483200,
-    "id_str": "928208621682483200",
-    "text": "@bitomaxsp Дело не только в этом. Для большинства задач которые я решаю Python OK. Я не пишу низкоуровневый сетевой код, зачем мне на Go?",
+    "created_at": "Wed Nov 08 11:21:40 +0000 2017",
+    "id": 928220976592183300,
+    "id_str": "928220976592183296",
+    "text": "А как определяете, что необходимость возникла? https://t.co/7avpP1Zg6c",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "bitomaxsp",
-          "name": "Owl",
-          "id": 237366647,
-          "id_str": "237366647",
+          "url": "https://t.co/7avpP1Zg6c",
+          "expanded_url": "https://twitter.com/imdefined/status/928218725936922625",
+          "display_url": "twitter.com/imdefined/stat…",
           "indices": [
-            0,
-            10
+            47,
+            70
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-    "in_reply_to_status_id": 928207516479172600,
-    "in_reply_to_status_id_str": "928207516479172608",
-    "in_reply_to_user_id": 237366647,
-    "in_reply_to_user_id_str": "237366647",
-    "in_reply_to_screen_name": "bitomaxsp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 928218725936922600,
+    "quoted_status_id_str": "928218725936922625",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
