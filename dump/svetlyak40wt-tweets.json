@@ -14695,6 +14695,204 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 09 10:27:26 +0000 2017",
+      "id": 928569714909081600,
+      "id_str": "928569714909081600",
+      "text": "Вчера мы вяло обсудили необходимость фиксации версий зависимостей и подходы к их обновлению, а сегодня давайте я расскажу про фишки Lisp.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 09 10:27:37 +0000 2017",
+      "id": 928569758357884900,
+      "id_str": "928569758357884928",
+      "text": "В первую очередь, отмечу, что Lisp особенно хорош там, где задача слабо специфицирована и всё меняется на ходу. В стартапах например.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 09 10:27:45 +0000 2017",
+      "id": 928569794411896800,
+      "id_str": "928569794411896832",
+      "text": "Процесс разработки устроен так, что ты постоянно подключен к работающей программе и меняешь её на ходу видя результат в realtime.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 928569758357884900,
+      "in_reply_to_status_id_str": "928569758357884928",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 09 10:27:51 +0000 2017",
+      "id": 928569818743279600,
+      "id_str": "928569818743279616",
+      "text": "Достигается это за счёт того, что в процесс встраивается серверная часть которая слушает команды SWANK. И к ней подключается Emacs.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 928569794411896800,
+      "in_reply_to_status_id_str": "928569794411896832",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 09 10:27:58 +0000 2017",
+      "id": 928569848065658900,
+      "id_str": "928569848065658881",
+      "text": "Со SWANK может работать не только Emacs, но и любой другой редактор, например Vim, Atom или что-то ещё. Если есть плагин конечно.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 928569818743279600,
+      "in_reply_to_status_id_str": "928569818743279616",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 09 10:28:05 +0000 2017",
+      "id": 928569876012298200,
+      "id_str": "928569876012298240",
+      "text": "Но одного SWANK мало, в самом языке почти всё сделано с прицелом на быструю итеративную разработку. Но об этом чуть позже.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 928569848065658900,
+      "in_reply_to_status_id_str": "928569848065658881",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

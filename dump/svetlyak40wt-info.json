@@ -4,7 +4,18 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Москва, Россия",
-  "profile_location": null,
+  "profile_location": {
+    "id": "4303d1afc1e98c37",
+    "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+    "place_type": "unknown",
+    "name": "Москва, Россия",
+    "full_name": "Москва, Россия",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Коллективный твиттер-аккаунт для бэкенд-разработчиков с новым автором каждую неделю. Сейчас с вами @svetlyak40wt!",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -26,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3943,
+  "followers_count": 3942,
   "friends_count": 0,
   "listed_count": 207,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,48 +46,35 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24431,
+  "statuses_count": 24437,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 09 07:04:32 +0000 2017",
-    "id": 928518652671995900,
-    "id_str": "928518652671995905",
-    "text": "Вот кстати, Allmychanges, про который вчера рассказывал, умеет коммиты группировать по версиям, если ты делаешь sem… https://t.co/2iWWjekqHN",
-    "truncated": true,
+    "created_at": "Thu Nov 09 10:28:05 +0000 2017",
+    "id": 928569876012298200,
+    "id_str": "928569876012298240",
+    "text": "Но одного SWANK мало, в самом языке почти всё сделано с прицелом на быструю итеративную разработку. Но об этом чуть позже.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/2iWWjekqHN",
-          "expanded_url": "https://twitter.com/i/web/status/928518652671995905",
-          "display_url": "twitter.com/i/web/status/9…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 928569848065658900,
+    "in_reply_to_status_id_str": "928569848065658881",
+    "in_reply_to_user_id": 3302551618,
+    "in_reply_to_user_id_str": "3302551618",
+    "in_reply_to_screen_name": "backendsecret",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 928515632844468200,
-    "quoted_status_id_str": "928515632844468224",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
