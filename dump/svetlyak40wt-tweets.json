@@ -17192,6 +17192,318 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 09 16:00:41 +0000 2017",
+      "id": 928653577723228200,
+      "id_str": "928653577723228160",
+      "text": "Я как раз Parenscript использую, потому что его проще генерить на бэкенде, использующем другую реализацию CL. https://t.co/bkIlza1Xzo",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bkIlza1Xzo",
+            "expanded_url": "https://twitter.com/last_khajiit/status/928638339632295937",
+            "display_url": "twitter.com/last_khajiit/s…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 928638339632296000,
+      "quoted_status_id_str": "928638339632295937",
+      "quoted_status": {
+        "created_at": "Thu Nov 09 15:00:08 +0000 2017",
+        "id": 928638339632296000,
+        "id_str": "928638339632295937",
+        "text": "@backendsecret а почему был выбран CLJS, а не Parenscript? Есть какие-то преимущества или это вопрос личных предпочтений?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 928634629007007700,
+        "in_reply_to_status_id_str": "928634629007007744",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 4002334589,
+          "id_str": "4002334589"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 09 16:05:20 +0000 2017",
+      "id": 928654747632103400,
+      "id_str": "928654747632103424",
+      "text": "Вот примеры из реального проекта, который сейчас пилю:\n\nГенерация JS\nhttps://t.co/5Si0s7PfpB\n\nГенерация CSS:… https://t.co/MIsy6mvtXD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5Si0s7PfpB",
+            "expanded_url": "https://gist.github.com/svetlyak40wt/9a5bf11f0c645c6afd4e562736124426",
+            "display_url": "gist.github.com/svetlyak40wt/9…",
+            "indices": [
+              69,
+              92
+            ]
+          },
+          {
+            "url": "https://t.co/MIsy6mvtXD",
+            "expanded_url": "https://twitter.com/i/web/status/928654747632103424",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 928638339632296000,
+      "quoted_status_id_str": "928638339632295937",
+      "quoted_status": {
+        "created_at": "Thu Nov 09 15:00:08 +0000 2017",
+        "id": 928638339632296000,
+        "id_str": "928638339632295937",
+        "text": "@backendsecret а почему был выбран CLJS, а не Parenscript? Есть какие-то преимущества или это вопрос личных предпочтений?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 928634629007007700,
+        "in_reply_to_status_id_str": "928634629007007744",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 4002334589,
+          "id_str": "4002334589"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 09 16:06:17 +0000 2017",
+      "id": 928654986636128300,
+      "id_str": "928654986636128261",
+      "text": "Но там на JavaScript минимум кода, и вся логика реализована на бэкенде. Приложение statefull, использует Weblocks.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 928654747632103400,
+      "in_reply_to_status_id_str": "928654747632103424",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 09 16:08:03 +0000 2017",
+      "id": 928655431932825600,
+      "id_str": "928655431932825600",
+      "text": "Хорошо.\n\nДумаю, я позже на Medium сделаю серию постов про такие штуки. Твиттер всё-таки не подходящее место для дли… https://t.co/cFMdwRpzPo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cFMdwRpzPo",
+            "expanded_url": "https://twitter.com/i/web/status/928655431932825600",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 928641009197645800,
+      "quoted_status_id_str": "928641009197645824",
+      "quoted_status": {
+        "created_at": "Thu Nov 09 15:10:44 +0000 2017",
+        "id": 928641009197645800,
+        "id_str": "928641009197645824",
+        "text": "@backendsecret Интересная фича CL, не знал. P.S. пишите пожалуйста лесенкой отвечая себе, а не ретвитя",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 928635022952804400,
+        "in_reply_to_status_id_str": "928635022952804354",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 14354160,
+          "id_str": "14354160"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
