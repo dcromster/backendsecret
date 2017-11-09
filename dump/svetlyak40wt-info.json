@@ -46,35 +46,48 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24437,
+  "statuses_count": 24463,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 09 10:28:05 +0000 2017",
-    "id": 928569876012298200,
-    "id_str": "928569876012298240",
-    "text": "Но одного SWANK мало, в самом языке почти всё сделано с прицелом на быструю итеративную разработку. Но об этом чуть позже.",
-    "truncated": false,
+    "created_at": "Thu Nov 09 14:46:57 +0000 2017",
+    "id": 928635022952804400,
+    "id_str": "928635022952804354",
+    "text": "Это удобно в при интерактивной разработке. И в тестировании - когда надо функцию замокать делаешь это в одном месте… https://t.co/sZuWnSJ9E7",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/sZuWnSJ9E7",
+          "expanded_url": "https://twitter.com/i/web/status/928635022952804354",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-    "in_reply_to_status_id": 928569848065658900,
-    "in_reply_to_status_id_str": "928569848065658881",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 928634978291810300,
+    "quoted_status_id_str": "928634978291810304",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
