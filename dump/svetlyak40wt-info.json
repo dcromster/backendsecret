@@ -37,59 +37,47 @@
     }
   },
   "protected": false,
-  "followers_count": 3954,
+  "followers_count": 3955,
   "friends_count": 0,
   "listed_count": 206,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 3067,
+  "favourites_count": 3068,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24544,
+  "statuses_count": 24545,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Nov 10 11:02:09 +0000 2017",
-    "id": 928940839065309200,
-    "id_str": "928940839065309185",
-    "text": "RT @mordbergak: @Tantir @backendsecret Год назад перебрался с idea на Vim. До сих пор понемногу дописываю vimrc. Исходники плагинов не трог…",
-    "truncated": false,
+    "created_at": "Fri Nov 10 12:41:14 +0000 2017",
+    "id": 928965772612898800,
+    "id_str": "928965772612898816",
+    "text": "Возможно он имел в виду вот это (весьма интересное) интервью:\n\nhttps://t.co/q3qStezbr6\n\nРаздел “How Stupid Is It, V… https://t.co/IzkDGPrWkx",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "mordbergak",
-          "name": "antonpp",
-          "id": 4382698409,
-          "id_str": "4382698409",
+          "url": "https://t.co/q3qStezbr6",
+          "expanded_url": "https://www.fastcompany.com/40435064/what-alan-kay-thinks-about-the-iphone-and-technology-now",
+          "display_url": "fastcompany.com/40435064/what-…",
           "indices": [
-            3,
-            14
+            63,
+            86
           ]
         },
         {
-          "screen_name": "Tantir",
-          "name": "Nikita Kartashov",
-          "id": 115023328,
-          "id_str": "115023328",
+          "url": "https://t.co/IzkDGPrWkx",
+          "expanded_url": "https://twitter.com/i/web/status/928965772612898816",
+          "display_url": "twitter.com/i/web/status/9…",
           "indices": [
-            16,
-            23
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            24,
-            38
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "in_reply_to_status_id": null,
@@ -101,71 +89,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Fri Nov 10 10:58:22 +0000 2017",
-      "id": 928939886530433000,
-      "id_str": "928939886530433024",
-      "text": "@Tantir @backendsecret Год назад перебрался с idea на Vim. До сих пор понемногу дописываю vimrc. Исходники плагинов… https://t.co/ywkGdN9eoj",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "Tantir",
-            "name": "Nikita Kartashov",
-            "id": 115023328,
-            "id_str": "115023328",
-            "indices": [
-              0,
-              7
-            ]
-          },
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              8,
-              22
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/ywkGdN9eoj",
-            "expanded_url": "https://twitter.com/i/web/status/928939886530433024",
-            "display_url": "twitter.com/i/web/status/9…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 928753670400946200,
-      "in_reply_to_status_id_str": "928753670400946179",
-      "in_reply_to_user_id": 115023328,
-      "in_reply_to_user_id_str": "115023328",
-      "in_reply_to_screen_name": "Tantir",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 2,
-      "favorited": true,
-      "retweeted": true,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
+    "is_quote_status": true,
+    "quoted_status_id": 928936859245383700,
+    "quoted_status_id_str": "928936859245383680",
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
