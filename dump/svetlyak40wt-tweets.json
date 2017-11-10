@@ -24195,6 +24195,1683 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 16:30:01 +0000 2017",
+      "id": 929023347282927600,
+      "id_str": "929023347282927616",
+      "text": "Вчера я рассказал про то, почему в Common Lisp удобна устроена отладка кода, а сегодня давайте ещё немного поговорим про клёвые фишки Лиспа.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 16:30:13 +0000 2017",
+      "id": 929023397996253200,
+      "id_str": "929023397996253184",
+      "text": "В большинстве классических языков, исключения \"разматывают стек\" до того фрейма, в котором исключение перехвачено.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 929023347282927600,
+      "in_reply_to_status_id_str": "929023347282927616",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 16:30:21 +0000 2017",
+      "id": 929023432750190600,
+      "id_str": "929023432750190595",
+      "text": "В лучшем случае, можно получить стек-трейс с состоянием локальных переменных в каждом фрейме.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 929023397996253200,
+      "in_reply_to_status_id_str": "929023397996253184",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 16:30:29 +0000 2017",
+      "id": 929023466245951500,
+      "id_str": "929023466245951488",
+      "text": "Common Lisp предоставляет куда более продвинутые инструменты помимо традиционных try/catch.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 929023432750190600,
+      "in_reply_to_status_id_str": "929023432750190595",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 16:30:36 +0000 2017",
+      "id": 929023497095008300,
+      "id_str": "929023497095008258",
+      "text": "Аналог исключений в CL называется signal. Сигналы можно сигналить и перехватывать по аналогии с try/catch.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 929023466245951500,
+      "in_reply_to_status_id_str": "929023466245951488",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 16:30:48 +0000 2017",
+      "id": 929023544616464400,
+      "id_str": "929023544616464390",
+      "text": "Но помимо этого, можно определить обработчик сигнала, который будет вызван без разматывания стека, прямо в том фрейме, где сигнал возник.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 929023497095008300,
+      "in_reply_to_status_id_str": "929023497095008258",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 16:30:53 +0000 2017",
+      "id": 929023568134004700,
+      "id_str": "929023568134004737",
+      "text": "При этом на разных уровнях стека вызовов могут быть определены \"рестарты\" - варианты поведения в том или ином случае.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 929023544616464400,
+      "in_reply_to_status_id_str": "929023544616464390",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 16:31:00 +0000 2017",
+      "id": 929023594801324000,
+      "id_str": "929023594801324032",
+      "text": "IDE Emacs знает про рестарты, и если исключение не обработано явно, показывает меню с разными вариантами действий.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 929023568134004700,
+      "in_reply_to_status_id_str": "929023568134004737",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 16:31:08 +0000 2017",
+      "id": 929023628548730900,
+      "id_str": "929023628548730880",
+      "text": "К примеру так устроен механизм компиляции Lisp исходников.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 929023594801324000,
+      "in_reply_to_status_id_str": "929023594801324032",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 16:31:15 +0000 2017",
+      "id": 929023660991664100,
+      "id_str": "929023660991664128",
+      "text": "Если что-то пошло не так, он спрашивает: Попробовать снова? Проигнорировать? Прервать всё операцию?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 929023628548730900,
+      "in_reply_to_status_id_str": "929023628548730880",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 16:31:23 +0000 2017",
+      "id": 929023694231437300,
+      "id_str": "929023694231437312",
+      "text": "А если Lisp встречает вызов функции (foo:blah), а её нет, но есть (bar:blah), он такой: \"Может попробуем вызвать (bar:blah)?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 929023660991664100,
+      "in_reply_to_status_id_str": "929023660991664128",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 16:31:32 +0000 2017",
+      "id": 929023730570973200,
+      "id_str": "929023730570973184",
+      "text": "Это как интерактивное кино, где герою предлагают выбор - спасать любимую или автобус с детишками, падающий в пропасть, и шоу продолжается.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 929023694231437300,
+      "in_reply_to_status_id_str": "929023694231437312",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 16:31:44 +0000 2017",
+      "id": 929023780067921900,
+      "id_str": "929023780067921920",
+      "text": "Я так вдохновился этой идеей, что даже попробовал воспроизвести её для Python:\n\nhttps://t.co/mFWaoMzLJm\n\nНо получилось не так красиво.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mFWaoMzLJm",
+            "expanded_url": "https://python-cl-conditions.readthedocs.io/en/latest/",
+            "display_url": "python-cl-conditions.readthedocs.io/en/latest/",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 929023730570973200,
+      "in_reply_to_status_id_str": "929023730570973184",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 16:32:25 +0000 2017",
+      "id": 929023952680255500,
+      "id_str": "929023952680255489",
+      "text": "Десятком твитов не описать всю красоту такого подхода, рекомендую почитать эту главу книги Practical Common Lisp:\nhttps://t.co/CeLSVD8cEj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CeLSVD8cEj",
+            "expanded_url": "http://www.gigamonkeys.com/book/beyond-exception-handling-conditions-and-restarts.html",
+            "display_url": "gigamonkeys.com/book/beyond-ex…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 929023780067921900,
+      "in_reply_to_status_id_str": "929023780067921920",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 17:04:35 +0000 2017",
+      "id": 929032047099895800,
+      "id_str": "929032047099895809",
+      "text": "RT @iLemming: @russianlagman @ivan4th @backendsecret А вот разработчики IDE зачастую забывают что в первую очередь нужно обеспечить полноце…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iLemming",
+            "name": "Ag ibragimov",
+            "id": 43655089,
+            "id_str": "43655089",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "russianlagman",
+            "name": "Алексей Самойлов",
+            "id": 42567069,
+            "id_str": "42567069",
+            "indices": [
+              14,
+              28
+            ]
+          },
+          {
+            "screen_name": "ivan4th",
+            "name": "Ivan Shvedunov",
+            "id": 258303619,
+            "id_str": "258303619",
+            "indices": [
+              29,
+              37
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              38,
+              52
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 10 15:58:11 +0000 2017",
+        "id": 929015340016611300,
+        "id_str": "929015340016611328",
+        "text": "@russianlagman @ivan4th @backendsecret А вот разработчики IDE зачастую забывают что в первую очередь нужно обеспечи… https://t.co/YGVVFEK66R",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "russianlagman",
+              "name": "Алексей Самойлов",
+              "id": 42567069,
+              "id_str": "42567069",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "ivan4th",
+              "name": "Ivan Shvedunov",
+              "id": 258303619,
+              "id_str": "258303619",
+              "indices": [
+                15,
+                23
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                24,
+                38
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/YGVVFEK66R",
+              "expanded_url": "https://twitter.com/i/web/status/929015340016611328",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 928999307260432400,
+        "in_reply_to_status_id_str": "928999307260432384",
+        "in_reply_to_user_id": 42567069,
+        "in_reply_to_user_id_str": "42567069",
+        "in_reply_to_screen_name": "russianlagman",
+        "user": {
+          "id": 43655089,
+          "id_str": "43655089"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 17:06:29 +0000 2017",
+      "id": 929032524466180100,
+      "id_str": "929032524466180096",
+      "text": "RT @iLemming: @skyryl @backendsecret потому как также как кары формулы 1 и суперкары не нужны большинству водителей. Их устраивает то что е…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iLemming",
+            "name": "Ag ibragimov",
+            "id": 43655089,
+            "id_str": "43655089",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "skyryl",
+            "name": "Serhiy Kyrylyuk",
+            "id": 103594654,
+            "id_str": "103594654",
+            "indices": [
+              14,
+              21
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              22,
+              36
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 10 16:23:34 +0000 2017",
+        "id": 929021727618641900,
+        "id_str": "929021727618641920",
+        "text": "@skyryl @backendsecret потому как также как кары формулы 1 и суперкары не нужны большинству водителей. Их устраивае… https://t.co/3fGTYCPs1b",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "skyryl",
+              "name": "Serhiy Kyrylyuk",
+              "id": 103594654,
+              "id_str": "103594654",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                8,
+                22
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/3fGTYCPs1b",
+              "expanded_url": "https://twitter.com/i/web/status/929021727618641920",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 928728952776085500,
+        "in_reply_to_status_id_str": "928728952776085510",
+        "in_reply_to_user_id": 103594654,
+        "in_reply_to_user_id_str": "103594654",
+        "in_reply_to_screen_name": "skyryl",
+        "user": {
+          "id": 43655089,
+          "id_str": "43655089"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 17:09:00 +0000 2017",
+      "id": 929033158401691600,
+      "id_str": "929033158401691649",
+      "text": "Спасибо. Попробую. А где у тебя dist? https://t.co/QkrsOj4VwR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QkrsOj4VwR",
+            "expanded_url": "https://twitter.com/borodust/status/929025321457930241",
+            "display_url": "twitter.com/borodust/statu…",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 929025321457930200,
+      "quoted_status_id_str": "929025321457930241",
+      "quoted_status": {
+        "created_at": "Fri Nov 10 16:37:51 +0000 2017",
+        "id": 929025321457930200,
+        "id_str": "929025321457930241",
+        "text": "@backendsecret Достаточно просто делается с помощью https://t.co/uJaG0hX5Qd есть в @quicklisp \nЯ правда форкнул, чт… https://t.co/apnkA3e836",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "quicklisp",
+              "name": "Quicklisp",
+              "id": 163849749,
+              "id_str": "163849749",
+              "indices": [
+                83,
+                93
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/uJaG0hX5Qd",
+              "expanded_url": "https://github.com/orivej/quickdist",
+              "display_url": "github.com/orivej/quickdi…",
+              "indices": [
+                52,
+                75
+              ]
+            },
+            {
+              "url": "https://t.co/apnkA3e836",
+              "expanded_url": "https://twitter.com/i/web/status/929025321457930241",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 928891101297168400,
+        "in_reply_to_status_id_str": "928891101297168384",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 483716436,
+          "id_str": "483716436"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 17:12:24 +0000 2017",
+      "id": 929034014484201500,
+      "id_str": "929034014484201472",
+      "text": "RT @iLemming: @almalexey @backendsecret @russianlagman @ivan4th Скорее соглашусь, сам сидел лет пять на InteliJ. Но впоследствии осознал чт…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iLemming",
+            "name": "Ag ibragimov",
+            "id": 43655089,
+            "id_str": "43655089",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "almalexey",
+            "name": "Мох Hат",
+            "id": 248166324,
+            "id_str": "248166324",
+            "indices": [
+              14,
+              24
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              25,
+              39
+            ]
+          },
+          {
+            "screen_name": "russianlagman",
+            "name": "Алексей Самойлов",
+            "id": 42567069,
+            "id_str": "42567069",
+            "indices": [
+              40,
+              54
+            ]
+          },
+          {
+            "screen_name": "ivan4th",
+            "name": "Ivan Shvedunov",
+            "id": 258303619,
+            "id_str": "258303619",
+            "indices": [
+              55,
+              63
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 10 17:09:46 +0000 2017",
+        "id": 929033351083704300,
+        "id_str": "929033351083704320",
+        "text": "@almalexey @backendsecret @russianlagman @ivan4th Скорее соглашусь, сам сидел лет пять на InteliJ. Но впоследствии… https://t.co/ZooQugmXRe",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "almalexey",
+              "name": "Мох Hат",
+              "id": 248166324,
+              "id_str": "248166324",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                11,
+                25
+              ]
+            },
+            {
+              "screen_name": "russianlagman",
+              "name": "Алексей Самойлов",
+              "id": 42567069,
+              "id_str": "42567069",
+              "indices": [
+                26,
+                40
+              ]
+            },
+            {
+              "screen_name": "ivan4th",
+              "name": "Ivan Shvedunov",
+              "id": 258303619,
+              "id_str": "258303619",
+              "indices": [
+                41,
+                49
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/ZooQugmXRe",
+              "expanded_url": "https://twitter.com/i/web/status/929033351083704320",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 929032555759915000,
+        "in_reply_to_status_id_str": "929032555759915009",
+        "in_reply_to_user_id": 248166324,
+        "in_reply_to_user_id_str": "248166324",
+        "in_reply_to_screen_name": "almalexey",
+        "user": {
+          "id": 43655089,
+          "id_str": "43655089"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 17:35:11 +0000 2017",
+      "id": 929039749674885100,
+      "id_str": "929039749674885120",
+      "text": "Нет. Например вот это:\n\nhttps://t.co/HXkNoTCUgQ https://t.co/4cwT1oydod",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HXkNoTCUgQ",
+            "expanded_url": "https://www.youtube.com/watch?v=EQAd41VAXWo",
+            "display_url": "youtube.com/watch?v=EQAd41…",
+            "indices": [
+              24,
+              47
+            ]
+          },
+          {
+            "url": "https://t.co/4cwT1oydod",
+            "expanded_url": "https://twitter.com/winnukem/status/929036596476809217",
+            "display_url": "twitter.com/winnukem/statu…",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 929036596476809200,
+      "quoted_status_id_str": "929036596476809217",
+      "quoted_status": {
+        "created_at": "Fri Nov 10 17:22:39 +0000 2017",
+        "id": 929036596476809200,
+        "id_str": "929036596476809217",
+        "text": "@iLemming @backendsecret @russianlagman @ivan4th \"Нормальная работа с текстом\" - это \"выучи эти 40 нелогичных сочет… https://t.co/akXuSK3px4",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "iLemming",
+              "name": "Ag ibragimov",
+              "id": 43655089,
+              "id_str": "43655089",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                10,
+                24
+              ]
+            },
+            {
+              "screen_name": "russianlagman",
+              "name": "Алексей Самойлов",
+              "id": 42567069,
+              "id_str": "42567069",
+              "indices": [
+                25,
+                39
+              ]
+            },
+            {
+              "screen_name": "ivan4th",
+              "name": "Ivan Shvedunov",
+              "id": 258303619,
+              "id_str": "258303619",
+              "indices": [
+                40,
+                48
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/akXuSK3px4",
+              "expanded_url": "https://twitter.com/i/web/status/929036596476809217",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 929015340016611300,
+        "in_reply_to_status_id_str": "929015340016611328",
+        "in_reply_to_user_id": 43655089,
+        "in_reply_to_user_id_str": "43655089",
+        "in_reply_to_screen_name": "iLemming",
+        "user": {
+          "id": 5924332,
+          "id_str": "5924332"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 17:37:19 +0000 2017",
+      "id": 929040287225274400,
+      "id_str": "929040287225274369",
+      "text": "Не надо spacemacs. Лучше пусть люди смотрят https://t.co/5dI2Mv3qQN и учатся использовать тот редактор, который хот… https://t.co/Sn5E3nbOSQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5dI2Mv3qQN",
+            "expanded_url": "https://www.youtube.com/watch?v=p6K4iIMlouI",
+            "display_url": "youtube.com/watch?v=p6K4iI…",
+            "indices": [
+              44,
+              67
+            ]
+          },
+          {
+            "url": "https://t.co/Sn5E3nbOSQ",
+            "expanded_url": "https://twitter.com/i/web/status/929040287225274369",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 929038885350465500,
+      "quoted_status_id_str": "929038885350465536",
+      "quoted_status": {
+        "created_at": "Fri Nov 10 17:31:45 +0000 2017",
+        "id": 929038885350465500,
+        "id_str": "929038885350465536",
+        "text": "@winnukem @iLemming @backendsecret @russianlagman @ivan4th Посмотри на https://t.co/dt12twU8gH Там логичнее сочетан… https://t.co/LgHtHzeDtI",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "winnukem",
+              "name": "Nikita Komarov",
+              "id": 5924332,
+              "id_str": "5924332",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "iLemming",
+              "name": "Ag ibragimov",
+              "id": 43655089,
+              "id_str": "43655089",
+              "indices": [
+                10,
+                19
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                20,
+                34
+              ]
+            },
+            {
+              "screen_name": "russianlagman",
+              "name": "Алексей Самойлов",
+              "id": 42567069,
+              "id_str": "42567069",
+              "indices": [
+                35,
+                49
+              ]
+            },
+            {
+              "screen_name": "ivan4th",
+              "name": "Ivan Shvedunov",
+              "id": 258303619,
+              "id_str": "258303619",
+              "indices": [
+                50,
+                58
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/dt12twU8gH",
+              "expanded_url": "http://spacemacs.org",
+              "display_url": "spacemacs.org",
+              "indices": [
+                71,
+                94
+              ]
+            },
+            {
+              "url": "https://t.co/LgHtHzeDtI",
+              "expanded_url": "https://twitter.com/i/web/status/929038885350465536",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 929036596476809200,
+        "in_reply_to_status_id_str": "929036596476809217",
+        "in_reply_to_user_id": 5924332,
+        "in_reply_to_user_id_str": "5924332",
+        "in_reply_to_screen_name": "winnukem",
+        "user": {
+          "id": 825350214311616500,
+          "id_str": "825350214311616515"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 17:45:53 +0000 2017",
+      "id": 929042443122733000,
+      "id_str": "929042443122733060",
+      "text": "RT @iLemming: @develop7 @backendsecret @russianlagman @ivan4th да любых. я прошёл через VisualStudio, Ecllipse, Netbeans, IntelliJ, Sublime…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iLemming",
+            "name": "Ag ibragimov",
+            "id": 43655089,
+            "id_str": "43655089",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "develop7",
+            "name": "Schrödinger's Troll",
+            "id": 11597502,
+            "id_str": "11597502",
+            "indices": [
+              14,
+              23
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              24,
+              38
+            ]
+          },
+          {
+            "screen_name": "russianlagman",
+            "name": "Алексей Самойлов",
+            "id": 42567069,
+            "id_str": "42567069",
+            "indices": [
+              39,
+              53
+            ]
+          },
+          {
+            "screen_name": "ivan4th",
+            "name": "Ivan Shvedunov",
+            "id": 258303619,
+            "id_str": "258303619",
+            "indices": [
+              54,
+              62
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 10 17:42:50 +0000 2017",
+        "id": 929041672603709400,
+        "id_str": "929041672603709440",
+        "text": "@develop7 @backendsecret @russianlagman @ivan4th да любых. я прошёл через VisualStudio, Ecllipse, Netbeans, Intelli… https://t.co/mYHQlFDpdU",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "develop7",
+              "name": "Schrödinger's Troll",
+              "id": 11597502,
+              "id_str": "11597502",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                10,
+                24
+              ]
+            },
+            {
+              "screen_name": "russianlagman",
+              "name": "Алексей Самойлов",
+              "id": 42567069,
+              "id_str": "42567069",
+              "indices": [
+                25,
+                39
+              ]
+            },
+            {
+              "screen_name": "ivan4th",
+              "name": "Ivan Shvedunov",
+              "id": 258303619,
+              "id_str": "258303619",
+              "indices": [
+                40,
+                48
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/mYHQlFDpdU",
+              "expanded_url": "https://twitter.com/i/web/status/929041672603709440",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 929040148712616000,
+        "in_reply_to_status_id_str": "929040148712615936",
+        "in_reply_to_user_id": 11597502,
+        "in_reply_to_user_id_str": "11597502",
+        "in_reply_to_screen_name": "develop7",
+        "user": {
+          "id": 43655089,
+          "id_str": "43655089"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "und"
+    },
+    {
+      "created_at": "Fri Nov 10 19:13:24 +0000 2017",
+      "id": 929064464296661000,
+      "id_str": "929064464296660992",
+      "text": "Малая часть, я бы сказал. https://t.co/7YYiMgNz2a",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7YYiMgNz2a",
+            "expanded_url": "https://twitter.com/ilemming/status/929060615099899904",
+            "display_url": "twitter.com/ilemming/statu…",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 929060615099899900,
+      "quoted_status_id_str": "929060615099899904",
+      "quoted_status": {
+        "created_at": "Fri Nov 10 18:58:06 +0000 2017",
+        "id": 929060615099899900,
+        "id_str": "929060615099899904",
+        "text": "@atomic_dreamer @russianlagman @ivan4th @backendsecret директории переименовывать регексом. indirect buffers создав… https://t.co/VPY2KL5HVw",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "atomic_dreamer",
+              "name": "Atomic Dreamer",
+              "id": 90274646,
+              "id_str": "90274646",
+              "indices": [
+                0,
+                15
+              ]
+            },
+            {
+              "screen_name": "russianlagman",
+              "name": "Алексей Самойлов",
+              "id": 42567069,
+              "id_str": "42567069",
+              "indices": [
+                16,
+                30
+              ]
+            },
+            {
+              "screen_name": "ivan4th",
+              "name": "Ivan Shvedunov",
+              "id": 258303619,
+              "id_str": "258303619",
+              "indices": [
+                31,
+                39
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                40,
+                54
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/VPY2KL5HVw",
+              "expanded_url": "https://twitter.com/i/web/status/929060615099899904",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 929057899749441500,
+        "in_reply_to_status_id_str": "929057899749441537",
+        "in_reply_to_user_id": 90274646,
+        "in_reply_to_user_id_str": "90274646",
+        "in_reply_to_screen_name": "atomic_dreamer",
+        "user": {
+          "id": 43655089,
+          "id_str": "43655089"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 19:19:06 +0000 2017",
+      "id": 929065901252599800,
+      "id_str": "929065901252599809",
+      "text": "Лан, народ, что-то вы зафлеймили совсем. Давайте поставим точку.\n\nEmacs круче всех, Vim тоже молодец. Специальные IDE подтянутся.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
