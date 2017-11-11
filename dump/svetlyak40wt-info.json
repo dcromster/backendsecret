@@ -37,28 +37,38 @@
     }
   },
   "protected": false,
-  "followers_count": 3957,
+  "followers_count": 3955,
   "friends_count": 0,
   "listed_count": 206,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 3078,
+  "favourites_count": 3081,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24567,
+  "statuses_count": 24571,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Nov 10 19:19:06 +0000 2017",
-    "id": 929065901252599800,
-    "id_str": "929065901252599809",
-    "text": "Лан, народ, что-то вы зафлеймили совсем. Давайте поставим точку.\n\nEmacs круче всех, Vim тоже молодец. Специальные IDE подтянутся.",
-    "truncated": false,
+    "created_at": "Sat Nov 11 12:18:31 +0000 2017",
+    "id": 929322446922100700,
+    "id_str": "929322446922100736",
+    "text": "Значит я не для тебя пишу. Не интересно – не читай, потерпи ещё два дня. Ради чего флеймить, я не понимаю. Одни тро… https://t.co/CFvDF4HLu5",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/CFvDF4HLu5",
+          "expanded_url": "https://twitter.com/i/web/status/929322446922100736",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 929320573053931500,
+    "quoted_status_id_str": "929320573053931522",
     "retweet_count": 0,
-    "favorite_count": 9,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
