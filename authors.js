@@ -1,5 +1,6 @@
 export default [
   // { username: 'twitter_name', start: '15 mar 2017', first: '640816652293144576', post: false },
+  { username: 'tolkv',           start: '13 nov 2017', first: '930828812102840327', post: false },
   { username: 'svetlyak40wt',    start: '06 nov 2017', first: '927466036961693697' },
   { username: 'ATavgen',         start: '30 oct 2017', first: '924901355931742208' },
   { username: 'vlialkin ',       start: '23 oct 2017', first: '922357983216095232' },
