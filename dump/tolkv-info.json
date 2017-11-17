@@ -37,59 +37,59 @@
     }
   },
   "protected": false,
-  "followers_count": 4055,
+  "followers_count": 4056,
   "friends_count": 1,
   "listed_count": 208,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 3104,
+  "favourites_count": 3105,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24677,
+  "statuses_count": 24706,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 16 18:18:12 +0000 2017",
-    "id": 931224903474405400,
-    "id_str": "931224903474405376",
-    "text": "У нас есть @evgzakharov88 - наш Kotlin евангелист, благодаря которому @gorelikoff добавил слайд про котлин в свой д… https://t.co/a58PaKnuKd",
-    "truncated": true,
+    "created_at": "Fri Nov 17 04:34:14 +0000 2017",
+    "id": 931379932424437800,
+    "id_str": "931379932424437760",
+    "text": "RT @jbaruch: @SheVasya @backendsecret Ты понимаешь в чем дело, без developer relations ты бы не узнал и о половине технологий, знанием кото…",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "evgzakharov88",
-          "name": "Evgeny Zakharov",
-          "id": 3251658742,
-          "id_str": "3251658742",
+          "screen_name": "jbaruch",
+          "name": "Baruch Sadogursky",
+          "id": 16887172,
+          "id_str": "16887172",
           "indices": [
-            11,
-            25
+            3,
+            11
           ]
         },
         {
-          "screen_name": "gorelikoff",
-          "name": "Gorelikov Maxim",
-          "id": 207008820,
-          "id_str": "207008820",
+          "screen_name": "SheVasya",
+          "name": "темная баньша",
+          "id": 1361394086,
+          "id_str": "1361394086",
           "indices": [
-            70,
-            81
+            13,
+            22
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            23,
+            37
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/a58PaKnuKd",
-          "expanded_url": "https://twitter.com/i/web/status/931224903474405376",
-          "display_url": "twitter.com/i/web/status/9…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "in_reply_to_status_id": null,
@@ -99,47 +99,73 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "a76c0cd7d56c4836",
-      "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-      "place_type": "city",
-      "name": "Санкт-Петербург",
-      "full_name": "Санкт-Петербург, Россия",
-      "country_code": "RU",
-      "country": "Россия",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              30.0896894,
-              59.7761714
-            ],
-            [
-              30.5677067,
-              59.7761714
-            ],
-            [
-              30.5677067,
-              60.0921253
-            ],
-            [
-              30.0896894,
-              60.0921253
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Nov 17 01:50:02 +0000 2017",
+      "id": 931338607238955000,
+      "id_str": "931338607238955011",
+      "text": "@SheVasya @backendsecret Ты понимаешь в чем дело, без developer relations ты бы не узнал и о половине технологий, з… https://t.co/CYRNrH9bSc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SheVasya",
+            "name": "темная баньша",
+            "id": 1361394086,
+            "id_str": "1361394086",
+            "indices": [
+              0,
+              9
             ]
-          ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              10,
+              24
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CYRNrH9bSc",
+            "expanded_url": "https://twitter.com/i/web/status/931338607238955011",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
         ]
       },
-      "attributes": {}
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 931333028919545900,
+      "in_reply_to_status_id_str": "931333028919545856",
+      "in_reply_to_user_id": 1361394086,
+      "in_reply_to_user_id_str": "1361394086",
+      "in_reply_to_screen_name": "SheVasya",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
     },
-    "contributors": null,
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 3,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
