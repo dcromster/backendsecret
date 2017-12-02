@@ -16,7 +16,7 @@
     "bounding_box": null,
     "attributes": {}
   },
-  "description": "Коллективный твиттер-аккаунт для бэкенд-разработчиков с новым автором каждую неделю. Сейчас с вами @tolkv!",
+  "description": "Коллективный твиттер-аккаунт для бэкенд-разработчиков с новым автором каждую неделю.",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
     "url": {
@@ -37,88 +37,105 @@
     }
   },
   "protected": false,
-  "followers_count": 4070,
+  "followers_count": 4209,
   "friends_count": 1,
-  "listed_count": 208,
+  "listed_count": 209,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 3111,
+  "favourites_count": 3117,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24829,
+  "statuses_count": 24834,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Nov 25 11:29:43 +0000 2017",
-    "id": 934383593366966300,
-    "id_str": "934383593366966273",
-    "text": "@62mkv Разработки :)",
-    "truncated": false,
+    "created_at": "Sat Dec 02 09:09:00 +0000 2017",
+    "id": 936884894977765400,
+    "id_str": "936884894977765379",
+    "text": "@mtreskin @MurcielagoCat @LordOfBoredom @alxschwarz https://t.co/ubrDUkQskC\nСтаньте ведущим, ведите о своём о \"чём-… https://t.co/UC2eAt5b6N",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "62mkv",
-          "name": "Кирилл М",
-          "id": 1015407828,
-          "id_str": "1015407828",
+          "screen_name": "mtreskin",
+          "name": "Max Treskin",
+          "id": 144933815,
+          "id_str": "144933815",
           "indices": [
             0,
-            6
+            9
+          ]
+        },
+        {
+          "screen_name": "MurcielagoCat",
+          "name": "Pavel B. Novikov",
+          "id": 144142734,
+          "id_str": "144142734",
+          "indices": [
+            10,
+            24
+          ]
+        },
+        {
+          "screen_name": "LordOfBoredom",
+          "name": "Атомарный эсминец",
+          "id": 2390570748,
+          "id_str": "2390570748",
+          "indices": [
+            25,
+            39
+          ]
+        },
+        {
+          "screen_name": "alxschwarz",
+          "name": "ΔΛΞΧ",
+          "id": 22622747,
+          "id_str": "22622747",
+          "indices": [
+            40,
+            51
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/ubrDUkQskC",
+          "expanded_url": "http://backendsecret.ru/about/",
+          "display_url": "backendsecret.ru/about/",
+          "indices": [
+            52,
+            75
+          ]
+        },
+        {
+          "url": "https://t.co/UC2eAt5b6N",
+          "expanded_url": "https://twitter.com/i/web/status/936884894977765379",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-    "in_reply_to_status_id": 934372160893792300,
-    "in_reply_to_status_id_str": "934372160893792258",
-    "in_reply_to_user_id": 1015407828,
-    "in_reply_to_user_id_str": "1015407828",
-    "in_reply_to_screen_name": "62mkv",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 936883642902573000,
+    "in_reply_to_status_id_str": "936883642902573058",
+    "in_reply_to_user_id": 144933815,
+    "in_reply_to_user_id_str": "144933815",
+    "in_reply_to_screen_name": "mtreskin",
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "22deffea18a2f1d2",
-      "url": "https://api.twitter.com/1.1/geo/id/22deffea18a2f1d2.json",
-      "place_type": "admin",
-      "name": "Москва",
-      "full_name": "Москва, Россия",
-      "country_code": "RU",
-      "country": "Россия",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              37.1316733,
-              55.4908342
-            ],
-            [
-              37.9650116,
-              55.4908342
-            ],
-            [
-              37.9650116,
-              56.0209192
-            ],
-            [
-              37.1316733,
-              56.0209192
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -128,8 +145,8 @@
   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/719457357969928192/_eI9U6jC.jpg",
   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/719457357969928192/_eI9U6jC.jpg",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/930826169066418176/PeA6RVy6_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/930826169066418176/PeA6RVy6_normal.jpg",
+  "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+  "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3302551618/1510761419",
   "profile_link_color": "ABB8C2",
   "profile_sidebar_border_color": "000000",
@@ -138,7 +155,7 @@
   "profile_use_background_image": false,
   "has_extended_profile": false,
   "default_profile": false,
-  "default_profile_image": false,
+  "default_profile_image": true,
   "following": false,
   "follow_request_sent": false,
   "notifications": false,
