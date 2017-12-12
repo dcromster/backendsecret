@@ -47,31 +47,42 @@
     }
   },
   "protected": false,
-  "followers_count": 4389,
+  "followers_count": 4497,
   "friends_count": 1,
-  "listed_count": 209,
+  "listed_count": 210,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 3206,
+  "favourites_count": 3266,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25011,
+  "statuses_count": 25066,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Dec 11 13:54:08 +0000 2017",
-    "id": 940218142642630700,
-    "id_str": "940218142642630658",
-    "text": "ООП тезис третий: правильные объекты не изменяют сами и никому не позволяют изменять то, что у них внутри encapsula… https://t.co/SdCz9PumRs",
+    "created_at": "Tue Dec 12 10:33:02 +0000 2017",
+    "id": 940529922916970500,
+    "id_str": "940529922916970496",
+    "text": "@tagir_valeev Меня надо, но это сложно и многим просто непонятно для чего. Нам и так комфортно, потому что привыкли… https://t.co/Mio0o9sTXU",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "tagir_valeev",
+          "name": "Tagir Valeev",
+          "id": 3982269215,
+          "id_str": "3982269215",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/SdCz9PumRs",
-          "expanded_url": "https://twitter.com/i/web/status/940218142642630658",
+          "url": "https://t.co/Mio0o9sTXU",
+          "expanded_url": "https://twitter.com/i/web/status/940529922916970496",
           "display_url": "twitter.com/i/web/status/9…",
           "indices": [
             117,
@@ -81,21 +92,20 @@
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 940529418803515400,
+    "in_reply_to_status_id_str": "940529418803515394",
+    "in_reply_to_user_id": 3982269215,
+    "in_reply_to_user_id_str": "3982269215",
+    "in_reply_to_screen_name": "tagir_valeev",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 3,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
