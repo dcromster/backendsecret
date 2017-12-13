@@ -96,9 +96,10 @@ task('stats', ['css'], () =>
 
 task('md-pages', ['css'], done => {
   each([
-    { name: 'about', title: 'О проекте' },
-    { name: 'authoring', title: 'Авторам' },
-    { name: 'instruction', title: 'Инструкция' },
+    { name: 'about', title: 'О проекте', wide:false },
+    { name: 'authoring', title: 'Авторам', wide:false },
+    { name: 'instruction', title: 'Инструкция', wide:false },
+    { name: 'coc', title: 'Code of Conduct', wide:true },
   ], item => {
     const page = fs.readFileSync(`./pages/${item.name}.md`, { encoding: 'utf8' });
     const article = articleData(page, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
@@ -106,6 +107,7 @@ task('md-pages', ['css'], done => {
       .pipe(jade({
         locals: merge(article, {
           title: item.title,
+          wide:item.wide,
           url: item.name + '/',
           underhood,
           helpers: { bust },
