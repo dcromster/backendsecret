@@ -4305,6 +4305,604 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 11:48:42 +0000 2017",
+      "id": 943085678266634200,
+      "id_str": "943085678266634241",
+      "text": "Начну с первой части – оптимизацию работы с сетью. В связи с этим вопрос: чем nginx архитектурно отличается от apac… https://t.co/kEpFeWhhlm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kEpFeWhhlm",
+            "expanded_url": "https://twitter.com/i/web/status/943085678266634241",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 12:03:02 +0000 2017",
+      "id": 943089289071644700,
+      "id_str": "943089289071644677",
+      "text": "@ilyakharlamov затупил, да(",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ilyakharlamov",
+            "name": "Ilya Kharlamov",
+            "id": 222915743,
+            "id_str": "222915743",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 943076525213143000,
+      "in_reply_to_status_id_str": "943076525213143041",
+      "in_reply_to_user_id": 222915743,
+      "in_reply_to_user_id_str": "222915743",
+      "in_reply_to_screen_name": "ilyakharlamov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 12:39:22 +0000 2017",
+      "id": 943098429034639400,
+      "id_str": "943098429034639360",
+      "text": "Apache использует модель воркеров - создается куча процессов ОС, каждый из которых ждет данных от клиента и в это в… https://t.co/1VLnD6lGkv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1VLnD6lGkv",
+            "expanded_url": "https://twitter.com/i/web/status/943098429034639360",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 12:43:08 +0000 2017",
+      "id": 943099379984027600,
+      "id_str": "943099379984027648",
+      "text": "Плюсы:\n1) вам не нужно заботиться, кому давать работать с процессором. Этим занимается операционная система.\n2) пол… https://t.co/7WGmsh31RN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7WGmsh31RN",
+            "expanded_url": "https://twitter.com/i/web/status/943099379984027648",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 943098429034639400,
+      "in_reply_to_status_id_str": "943098429034639360",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 12:43:52 +0000 2017",
+      "id": 943099564801888300,
+      "id_str": "943099564801888256",
+      "text": "Минусы:\n1) каждый процесс жрет память\n2) операционная система не знает, кому  нужен процесс, поэтому дает всем по о… https://t.co/dw2bNksiPD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dw2bNksiPD",
+            "expanded_url": "https://twitter.com/i/web/status/943099564801888256",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 943098429034639400,
+      "in_reply_to_status_id_str": "943098429034639360",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 12:45:20 +0000 2017",
+      "id": 943099934517157900,
+      "id_str": "943099934517157888",
+      "text": "@MurcielagoCat За IIS не скажу, я в windows даже обои на рабочем столе менять не умею",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MurcielagoCat",
+            "name": "Pavel B. Novikov",
+            "id": 144142734,
+            "id_str": "144142734",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 943098833403371500,
+      "in_reply_to_status_id_str": "943098833403371520",
+      "in_reply_to_user_id": 144142734,
+      "in_reply_to_user_id_str": "144142734",
+      "in_reply_to_screen_name": "MurcielagoCat",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 12:51:43 +0000 2017",
+      "id": 943101540411367400,
+      "id_str": "943101540411367424",
+      "text": "@MurcielagoCat даже математика в 10000 потоков будет неэффективна из-за переключений контекста",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MurcielagoCat",
+            "name": "Pavel B. Novikov",
+            "id": 144142734,
+            "id_str": "144142734",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 943100505831673900,
+      "in_reply_to_status_id_str": "943100505831673856",
+      "in_reply_to_user_id": 144142734,
+      "in_reply_to_user_id_str": "144142734",
+      "in_reply_to_screen_name": "MurcielagoCat",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 12:56:35 +0000 2017",
+      "id": 943102764711841800,
+      "id_str": "943102764711841792",
+      "text": "Ставить nginx перед apache и ожидать серьезного ускорения работы - это как надеть на коня костюм спорткара и ожидат… https://t.co/fi78otxiUg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fi78otxiUg",
+            "expanded_url": "https://twitter.com/i/web/status/943102764711841792",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 943101717889060900,
+      "quoted_status_id_str": "943101717889060865",
+      "quoted_status": {
+        "created_at": "Tue Dec 19 12:52:26 +0000 2017",
+        "id": 943101717889060900,
+        "id_str": "943101717889060865",
+        "text": "@backendsecret эмм, но сейчас как бы 2017 уже и принято на фронт ставить ngnix, который будет прокстровать запросы… https://t.co/UhUWGCaEn4",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/UhUWGCaEn4",
+              "expanded_url": "https://twitter.com/i/web/status/943101717889060865",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+        "in_reply_to_status_id": 943099564801888300,
+        "in_reply_to_status_id_str": "943099564801888256",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 196598103,
+          "id_str": "196598103"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 13:06:04 +0000 2017",
+      "id": 943105149764902900,
+      "id_str": "943105149764902914",
+      "text": "@MurcielagoCat Ничего не будет. А если самому делать контроль, кто и чем будет заниматься, зная конкретную задачу -… https://t.co/jQNBz2iulP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MurcielagoCat",
+            "name": "Pavel B. Novikov",
+            "id": 144142734,
+            "id_str": "144142734",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jQNBz2iulP",
+            "expanded_url": "https://twitter.com/i/web/status/943105149764902914",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 943103992883793900,
+      "in_reply_to_status_id_str": "943103992883793921",
+      "in_reply_to_user_id": 144142734,
+      "in_reply_to_user_id_str": "144142734",
+      "in_reply_to_screen_name": "MurcielagoCat",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 13:15:17 +0000 2017",
+      "id": 943107469114560500,
+      "id_str": "943107469114560512",
+      "text": "@vassilevsky django – ок. Просто если ставить асинхронный прокси перед синхронным сервером, то прироста производите… https://t.co/ODFhue5cMa",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vassilevsky",
+            "name": "Илья Василевский",
+            "id": 53391978,
+            "id_str": "53391978",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ODFhue5cMa",
+            "expanded_url": "https://twitter.com/i/web/status/943107469114560512",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 943106974253797400,
+      "in_reply_to_status_id_str": "943106974253797376",
+      "in_reply_to_user_id": 53391978,
+      "in_reply_to_user_id_str": "53391978",
+      "in_reply_to_screen_name": "vassilevsky",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 13:25:16 +0000 2017",
+      "id": 943109981292855300,
+      "id_str": "943109981292855297",
+      "text": "nginx использует асинхронную модель, в которой сервер не ждет данных от клиента, а занимается обработкой других зап… https://t.co/rN1LuSUGcP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rN1LuSUGcP",
+            "expanded_url": "https://twitter.com/i/web/status/943109981292855297",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 13:25:17 +0000 2017",
+      "id": 943109985051070500,
+      "id_str": "943109985051070464",
+      "text": "Эта же модель у tornado, node.js, python asyncio. Она хорошо работает, если большую часть времени ваш процесс ждет.… https://t.co/EyJKebIz5P",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EyJKebIz5P",
+            "expanded_url": "https://twitter.com/i/web/status/943109985051070464",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 943109981292855300,
+      "in_reply_to_status_id_str": "943109981292855297",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
