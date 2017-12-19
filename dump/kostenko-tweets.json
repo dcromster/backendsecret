@@ -4903,6 +4903,407 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 14:03:57 +0000 2017",
+      "id": 943119715358203900,
+      "id_str": "943119715358203904",
+      "text": "Диалог в asyncio происходит такой:\nПроцесс: а что произошло?\nСистема: подключилось 10 клиентов\n(происходит обработк… https://t.co/BUBOuXIXYA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BUBOuXIXYA",
+            "expanded_url": "https://twitter.com/i/web/status/943119715358203904",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 14:03:57 +0000 2017",
+      "id": 943119716603908100,
+      "id_str": "943119716603908096",
+      "text": "В ОС асинхронностью занимаются системные вызовы epoll (Linux) и kqueue (BSD + OS X), в windows тоже что-то придумал… https://t.co/DIODLJFqXA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DIODLJFqXA",
+            "expanded_url": "https://twitter.com/i/web/status/943119716603908096",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 943119715358203900,
+      "in_reply_to_status_id_str": "943119715358203904",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 14:59:31 +0000 2017",
+      "id": 943133700920893400,
+      "id_str": "943133700920893441",
+      "text": "В nginx быстро работает: проксирование, отдача статики (в том числе и кэша). Если вдруг в nginx появится сложная ло… https://t.co/WepUev6ZOs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WepUev6ZOs",
+            "expanded_url": "https://twitter.com/i/web/status/943133700920893441",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 15:01:10 +0000 2017",
+      "id": 943134115460722700,
+      "id_str": "943134115460722688",
+      "text": "Если по этим же причинам процесс nginx рухнет, то все его соединения оборвутся (это все касается также tornado/asyncio/node.js)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 943133700920893400,
+      "in_reply_to_status_id_str": "943133700920893441",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 15:08:49 +0000 2017",
+      "id": 943136040528896000,
+      "id_str": "943136040528896000",
+      "text": "@Lecharton @dcromster Я тут набросил на работников и продуктовых компаний, и аутсорсинговых, и на фронтендеров и всем ок зашло",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Lecharton",
+            "name": "Ekaterina Trefilova",
+            "id": 206759673,
+            "id_str": "206759673",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              11,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 943134396932030500,
+      "in_reply_to_status_id_str": "943134396932030464",
+      "in_reply_to_user_id": 206759673,
+      "in_reply_to_user_id_str": "206759673",
+      "in_reply_to_screen_name": "Lecharton",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 15:18:33 +0000 2017",
+      "id": 943138488895049700,
+      "id_str": "943138488895049728",
+      "text": "@MurcielagoCat оно же как бывает – \"а напишу-ка я небольшой цикл\". А потом внезапно этот небольшой цикл начинает минуту работать",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MurcielagoCat",
+            "name": "Pavel B. Novikov",
+            "id": 144142734,
+            "id_str": "144142734",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 943137232894005200,
+      "in_reply_to_status_id_str": "943137232894005248",
+      "in_reply_to_user_id": 144142734,
+      "in_reply_to_user_id_str": "144142734",
+      "in_reply_to_screen_name": "MurcielagoCat",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 15:24:39 +0000 2017",
+      "id": 943140024505327600,
+      "id_str": "943140024505327616",
+      "text": "@salikhov вот только если данные меняются, то наступит веселье",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "salikhov",
+            "name": "Ilyas Salikhov",
+            "id": 15677160,
+            "id_str": "15677160",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 943139058716377100,
+      "in_reply_to_status_id_str": "943139058716377088",
+      "in_reply_to_user_id": 15677160,
+      "in_reply_to_user_id_str": "15677160",
+      "in_reply_to_screen_name": "salikhov",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 16:13:00 +0000 2017",
+      "id": 943152192017576000,
+      "id_str": "943152192017575937",
+      "text": "@PZabolotniy это если проблема с базой. а PGBadger показывает глобальную статистику, а не по конкретному endpoint (… https://t.co/g9601dJjCH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PZabolotniy",
+            "name": "Pavel Zabolotniy",
+            "id": 924934214,
+            "id_str": "924934214",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/g9601dJjCH",
+            "expanded_url": "https://twitter.com/i/web/status/943152192017575937",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 943042860428832800,
+      "in_reply_to_status_id_str": "943042860428832768",
+      "in_reply_to_user_id": 924934214,
+      "in_reply_to_user_id_str": "924934214",
+      "in_reply_to_screen_name": "PZabolotniy",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 19 16:18:50 +0000 2017",
+      "id": 943153661106163700,
+      "id_str": "943153661106163712",
+      "text": "Еще про оптимизацию сети: установка соединения в TCP - дело дорогое. По возможности делайте bulk-запросы. То есть е… https://t.co/FGX7gB5fKK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FGX7gB5fKK",
+            "expanded_url": "https://twitter.com/i/web/status/943153661106163712",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
