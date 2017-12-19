@@ -26,71 +26,49 @@
     }
   },
   "protected": false,
-  "followers_count": 4612,
+  "followers_count": 4626,
   "friends_count": 1,
-  "listed_count": 209,
+  "listed_count": 210,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 3536,
+  "favourites_count": 3538,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25716,
+  "statuses_count": 25720,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Dec 18 19:19:34 +0000 2017",
-    "id": 942836755157397500,
-    "id_str": "942836755157397504",
-    "text": "На сегодня все, а завтра буду писать о полезных вещах - оптимизация производительности приложений",
+    "created_at": "Tue Dec 19 06:55:43 +0000 2017",
+    "id": 943011950514106400,
+    "id_str": "943011950514106368",
+    "text": "@AstarothAst об этом в субботу",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "AstarothAst",
+          "name": "Михаил",
+          "id": 3069917818,
+          "id_str": "3069917818",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
       "urls": []
     },
-    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 943011394689159200,
+    "in_reply_to_status_id_str": "943011394689159170",
+    "in_reply_to_user_id": 3069917818,
+    "in_reply_to_user_id_str": "3069917818",
+    "in_reply_to_screen_name": "AstarothAst",
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "428f9782c87d094d",
-      "url": "https://api.twitter.com/1.1/geo/id/428f9782c87d094d.json",
-      "place_type": "city",
-      "name": "Kauniainen",
-      "full_name": "Kauniainen, Suomi",
-      "country_code": "FI",
-      "country": "Suomi",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              24.67504,
-              60.20262
-            ],
-            [
-              24.753255,
-              60.20262
-            ],
-            [
-              24.753255,
-              60.225587
-            ],
-            [
-              24.67504,
-              60.225587
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
