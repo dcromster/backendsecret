@@ -26,55 +26,88 @@
     }
   },
   "protected": false,
-  "followers_count": 4658,
+  "followers_count": 4661,
   "friends_count": 1,
-  "listed_count": 211,
+  "listed_count": 212,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 3615,
+  "favourites_count": 3616,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26077,
+  "statuses_count": 26085,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Dec 23 11:11:10 +0000 2017",
-    "id": 944525787558023200,
-    "id_str": "944525787558023173",
-    "text": "Sentry решает проблему исключений, но не тормозов. Для сбора базовой  статистики о сервере (CPU, памяти, соединения… https://t.co/qqS05MOidP",
-    "truncated": true,
+    "created_at": "Sat Dec 23 13:19:21 +0000 2017",
+    "id": 944558042766594000,
+    "id_str": "944558042766594049",
+    "text": "@vassilevsky Если JSON - можно искать",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/qqS05MOidP",
-          "expanded_url": "https://twitter.com/i/web/status/944525787558023173",
-          "display_url": "twitter.com/i/web/status/9…",
+          "screen_name": "vassilevsky",
+          "name": "Илья Василевский",
+          "id": 53391978,
+          "id_str": "53391978",
           "indices": [
-            117,
-            140
+            0,
+            12
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 944557845932134400,
+    "in_reply_to_status_id_str": "944557845932134405",
+    "in_reply_to_user_id": 53391978,
+    "in_reply_to_user_id_str": "53391978",
+    "in_reply_to_screen_name": "vassilevsky",
     "geo": null,
     "coordinates": null,
-    "place": null,
+    "place": {
+      "id": "8fe2e9b7b1ed6389",
+      "url": "https://api.twitter.com/1.1/geo/id/8fe2e9b7b1ed6389.json",
+      "place_type": "city",
+      "name": "Espoo",
+      "full_name": "Espoo, Suomi",
+      "country_code": "FI",
+      "country": "Suomi",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.499764,
+              60.00307
+            ],
+            [
+              24.850506,
+              60.00307
+            ],
+            [
+              24.850506,
+              60.363616
+            ],
+            [
+              24.499764,
+              60.363616
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 7,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
