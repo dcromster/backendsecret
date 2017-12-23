@@ -22064,6 +22064,696 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 22 17:26:19 +0000 2017",
+      "id": 944257807418662900,
+      "id_str": "944257807418662912",
+      "text": "RDS - вам автоматически дается backup, можно настроить failover и репликацию в два клика. Но нужно помнить, что pro… https://t.co/1DZIL5iORH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1DZIL5iORH",
+            "expanded_url": "https://twitter.com/i/web/status/944257807418662912",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "428f9782c87d094d",
+        "url": "https://api.twitter.com/1.1/geo/id/428f9782c87d094d.json",
+        "place_type": "city",
+        "name": "Kauniainen",
+        "full_name": "Kauniainen, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.67504,
+                60.20262
+              ],
+              [
+                24.753255,
+                60.20262
+              ],
+              [
+                24.753255,
+                60.225587
+              ],
+              [
+                24.67504,
+                60.225587
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 22 18:53:26 +0000 2017",
+      "id": 944279730878074900,
+      "id_str": "944279730878074881",
+      "text": "В общем не успею я твитами рассказать я свой опыт с AWS, поэтому дам ссылку на свой старый пост в FB:… https://t.co/6KN6mnaGtC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6KN6mnaGtC",
+            "expanded_url": "https://twitter.com/i/web/status/944279730878074881",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 22 19:23:29 +0000 2017",
+      "id": 944287292868489200,
+      "id_str": "944287292868489217",
+      "text": "@pavelmvasiliev вот лет через пять и поговорим",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pavelmvasiliev",
+            "name": "Павел Васильев",
+            "id": 839520006,
+            "id_str": "839520006",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 944284381342060500,
+      "in_reply_to_status_id_str": "944284381342060544",
+      "in_reply_to_user_id": 839520006,
+      "in_reply_to_user_id_str": "839520006",
+      "in_reply_to_screen_name": "pavelmvasiliev",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 22 20:48:46 +0000 2017",
+      "id": 944308755784757200,
+      "id_str": "944308755784757248",
+      "text": "@mfilippovich redshift дорогой, ecs – говно. А где инфа про kubernetes?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mfilippovich",
+            "name": "Maxim Filippovich",
+            "id": 468399824,
+            "id_str": "468399824",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 944307297760751600,
+      "in_reply_to_status_id_str": "944307297760751616",
+      "in_reply_to_user_id": 468399824,
+      "in_reply_to_user_id_str": "468399824",
+      "in_reply_to_screen_name": "mfilippovich",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Fri Dec 22 20:55:41 +0000 2017",
+      "id": 944310498228568000,
+      "id_str": "944310498228568064",
+      "text": "@mfilippovich ну наконец-то. Это прям очень хорошая новость",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mfilippovich",
+            "name": "Maxim Filippovich",
+            "id": 468399824,
+            "id_str": "468399824",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 944309398578585600,
+      "in_reply_to_status_id_str": "944309398578585600",
+      "in_reply_to_user_id": 468399824,
+      "in_reply_to_user_id_str": "468399824",
+      "in_reply_to_screen_name": "mfilippovich",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 22 20:56:42 +0000 2017",
+      "id": 944310754118914000,
+      "id_str": "944310754118914051",
+      "text": "Говорят, AWS таки решил родить поддержку Kubernetes. А вот их ECS не пользуйтесь, у меня от этого брат умер https://t.co/V15I19dCwJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/V15I19dCwJ",
+            "expanded_url": "https://twitter.com/mfilippovich/status/944309398578585600",
+            "display_url": "twitter.com/mfilippovich/s…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 944309398578585600,
+      "quoted_status_id_str": "944309398578585600",
+      "quoted_status": {
+        "created_at": "Fri Dec 22 20:51:19 +0000 2017",
+        "id": 944309398578585600,
+        "id_str": "944309398578585600",
+        "text": "@backendsecret анонсировали с месяц назад, на превью можно подать заявку",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 944308755784757200,
+        "in_reply_to_status_id_str": "944308755784757248",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 468399824,
+          "id_str": "468399824"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 22 21:09:03 +0000 2017",
+      "id": 944313862391783400,
+      "id_str": "944313862391783424",
+      "text": "@phedirko https://t.co/ILWxpcT6SF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "phedirko",
+            "name": "Михаил",
+            "id": 230244229,
+            "id_str": "230244229",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ILWxpcT6SF",
+            "expanded_url": "https://aws.amazon.com/eks/",
+            "display_url": "aws.amazon.com/eks/",
+            "indices": [
+              10,
+              33
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 944311848077324300,
+      "in_reply_to_status_id_str": "944311848077324289",
+      "in_reply_to_user_id": 230244229,
+      "in_reply_to_user_id_str": "230244229",
+      "in_reply_to_screen_name": "phedirko",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Fri Dec 22 21:10:36 +0000 2017",
+      "id": 944314249916092400,
+      "id_str": "944314249916092417",
+      "text": "RT @mfilippovich: @backendsecret да, я очень рад что решились, у них еще новый сервис анонсировался - надстройка ecs, но все что амазон дел…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mfilippovich",
+            "name": "Maxim Filippovich",
+            "id": 468399824,
+            "id_str": "468399824",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              18,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Dec 22 20:59:36 +0000 2017",
+        "id": 944311482224963600,
+        "id_str": "944311482224963584",
+        "text": "@backendsecret да, я очень рад что решились, у них еще новый сервис анонсировался - надстройка ecs, но все что амаз… https://t.co/Xnyq8l4rUc",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Xnyq8l4rUc",
+              "expanded_url": "https://twitter.com/i/web/status/944311482224963584",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 944310498228568000,
+        "in_reply_to_status_id_str": "944310498228568064",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 468399824,
+          "id_str": "468399824"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 22 21:10:44 +0000 2017",
+      "id": 944314284275912700,
+      "id_str": "944314284275912704",
+      "text": "RT @mfilippovich: @backendsecret consul, nomad, vault, packer, terraform - прекрасные инструменты, очень продуманы, амазон уже посути коммо…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mfilippovich",
+            "name": "Maxim Filippovich",
+            "id": 468399824,
+            "id_str": "468399824",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              18,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Dec 22 21:01:31 +0000 2017",
+        "id": 944311966386085900,
+        "id_str": "944311966386085888",
+        "text": "@backendsecret consul, nomad, vault, packer, terraform - прекрасные инструменты, очень продуманы, амазон уже посути… https://t.co/S09sliYlwT",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/S09sliYlwT",
+              "expanded_url": "https://twitter.com/i/web/status/944311966386085888",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 944310498228568000,
+        "in_reply_to_status_id_str": "944310498228568064",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 468399824,
+          "id_str": "468399824"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 22 21:11:30 +0000 2017",
+      "id": 944314476387557400,
+      "id_str": "944314476387557377",
+      "text": "На сегодня все. Завтра мониторинг",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 22 21:16:53 +0000 2017",
+      "id": 944315832091291600,
+      "id_str": "944315832091291648",
+      "text": "@gorysko я им почти не пользуюсь, и буду рассказывать не только про стандартные решения облачных сервисов",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gorysko",
+            "name": "Igor lushchyk",
+            "id": 230642929,
+            "id_str": "230642929",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 944314574106394600,
+      "in_reply_to_status_id_str": "944314574106394626",
+      "in_reply_to_user_id": 230642929,
+      "in_reply_to_user_id_str": "230642929",
+      "in_reply_to_screen_name": "gorysko",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
