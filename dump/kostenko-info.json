@@ -26,82 +26,49 @@
     }
   },
   "protected": false,
-  "followers_count": 4661,
+  "followers_count": 4670,
   "friends_count": 1,
   "listed_count": 212,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 3616,
+  "favourites_count": 3610,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26089,
+  "statuses_count": 26087,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Dec 23 16:24:20 +0000 2017",
-    "id": 944604596995059700,
-    "id_str": "944604596995059712",
-    "text": "@mittov У вас своя графана? Hosted-решения говно",
+    "created_at": "Sun Dec 24 08:59:01 +0000 2017",
+    "id": 944854915658207200,
+    "id_str": "944854915658207233",
+    "text": "@maksim77 вы сразу делаете SQL-запрос в вашу production базу данных",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "mittov",
-          "name": "Mittov Dmitry",
-          "id": 181550231,
-          "id_str": "181550231",
+          "screen_name": "maksim77",
+          "name": "Мак Сим",
+          "id": 6156802,
+          "id_str": "6156802",
           "indices": [
             0,
-            7
+            9
           ]
         }
       ],
       "urls": []
     },
-    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-    "in_reply_to_status_id": 944601399463235600,
-    "in_reply_to_status_id_str": "944601399463235585",
-    "in_reply_to_user_id": 181550231,
-    "in_reply_to_user_id_str": "181550231",
-    "in_reply_to_screen_name": "mittov",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 944854523809554400,
+    "in_reply_to_status_id_str": "944854523809554433",
+    "in_reply_to_user_id": 6156802,
+    "in_reply_to_user_id_str": "6156802",
+    "in_reply_to_screen_name": "maksim77",
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "8fe2e9b7b1ed6389",
-      "url": "https://api.twitter.com/1.1/geo/id/8fe2e9b7b1ed6389.json",
-      "place_type": "city",
-      "name": "Espoo",
-      "full_name": "Espoo, Suomi",
-      "country_code": "FI",
-      "country": "Suomi",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              24.499764,
-              60.00307
-            ],
-            [
-              24.850506,
-              60.00307
-            ],
-            [
-              24.850506,
-              60.363616
-            ],
-            [
-              24.499764,
-              60.363616
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
