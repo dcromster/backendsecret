@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 4670,
+  "followers_count": 4675,
   "friends_count": 1,
   "listed_count": 212,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,46 +35,81 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26087,
+  "statuses_count": 26099,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Dec 24 08:59:01 +0000 2017",
-    "id": 944854915658207200,
-    "id_str": "944854915658207233",
-    "text": "@maksim77 вы сразу делаете SQL-запрос в вашу production базу данных",
-    "truncated": false,
+    "created_at": "Sun Dec 24 12:59:24 +0000 2017",
+    "id": 944915411195265000,
+    "id_str": "944915411195265025",
+    "text": "Вот большинство его так и используют. И статья о том, что технологии надо использовать с умом и по назначению, а не… https://t.co/o1pTTP193V",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "maksim77",
-          "name": "Мак Сим",
-          "id": 6156802,
-          "id_str": "6156802",
+          "url": "https://t.co/o1pTTP193V",
+          "expanded_url": "https://twitter.com/i/web/status/944915411195265025",
+          "display_url": "twitter.com/i/web/status/9…",
           "indices": [
-            0,
-            9
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 944854523809554400,
-    "in_reply_to_status_id_str": "944854523809554433",
-    "in_reply_to_user_id": 6156802,
-    "in_reply_to_user_id_str": "6156802",
-    "in_reply_to_screen_name": "maksim77",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": null,
+    "place": {
+      "id": "5ef832bb704339b0",
+      "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+      "place_type": "city",
+      "name": "Helsinki",
+      "full_name": "Helsinki, Suomi",
+      "country_code": "FI",
+      "country": "Suomi",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.78281,
+              60.021032
+            ],
+            [
+              25.2544364,
+              60.021032
+            ],
+            [
+              25.2544364,
+              60.2979104
+            ],
+            [
+              24.78281,
+              60.2979104
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 944902915294195700,
+    "quoted_status_id_str": "944902915294195712",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
