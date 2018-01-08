@@ -1,0 +1,495 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jan 08 09:07:06 +0000 2018",
+      "id": 950292767783170000,
+      "id_str": "950292767783170048",
+      "text": "Всем привет, на этой неделе с вами @avovsya . Senior Software Engineer в Skimlinks",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "avovsya",
+            "name": "Smoothie & Cat",
+            "id": 30636553,
+            "id_str": "30636553",
+            "indices": [
+              35,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jan 08 09:16:52 +0000 2018",
+      "id": 950295226618347500,
+      "id_str": "950295226618347520",
+      "text": "@avovsya Поскольку сегодня мой первый рабочий день после отпуска, тему будем выяснять с вместе. Могу рассказать как… https://t.co/kYNWK9vfPA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "avovsya",
+            "name": "Smoothie & Cat",
+            "id": 30636553,
+            "id_str": "30636553",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kYNWK9vfPA",
+            "expanded_url": "https://twitter.com/i/web/status/950295226618347520",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 950292767783170000,
+      "in_reply_to_status_id_str": "950292767783170048",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 08 09:21:48 +0000 2018",
+      "id": 950296469294256100,
+      "id_str": "950296469294256133",
+      "text": "Вот и я так думал, но потом надо вкрутить репликации, и загрузку делать максимум за час и денег на памяти сэкономит… https://t.co/ABbH0Kvc0k",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ABbH0Kvc0k",
+            "expanded_url": "https://twitter.com/i/web/status/950296469294256133",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 950295460127957000,
+      "quoted_status_id_str": "950295460127956992",
+      "quoted_status": {
+        "created_at": "Mon Jan 08 09:17:47 +0000 2018",
+        "id": 950295460127957000,
+        "id_str": "950295460127956992",
+        "text": "@backendsecret @avovsya Берешь, и делаешь же",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "avovsya",
+              "name": "Smoothie & Cat",
+              "id": 30636553,
+              "id_str": "30636553",
+              "indices": [
+                15,
+                23
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 950295226618347500,
+        "in_reply_to_status_id_str": "950295226618347520",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 272808014,
+          "id_str": "272808014"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 08 09:32:10 +0000 2018",
+      "id": 950299076477751300,
+      "id_str": "950299076477751297",
+      "text": "Значит начнём мы с задачи в которой стоило наверное взять AeroSpike но денег(и экспертизы)  хватило только на Redis",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 08 09:35:33 +0000 2018",
+      "id": 950299928110223400,
+      "id_str": "950299928110223360",
+      "text": "Задача стояла следующая - раздавать по REST API данные лежащий по ключу в Parquet на S3. REST API часть проста и бы… https://t.co/n4hhuBNEFg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/n4hhuBNEFg",
+            "expanded_url": "https://twitter.com/i/web/status/950299928110223360",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 950299076477751300,
+      "in_reply_to_status_id_str": "950299076477751297",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 08 09:36:31 +0000 2018",
+      "id": 950300172508115000,
+      "id_str": "950300172508114944",
+      "text": "@SytarAV Отличный вопрос. Кратко - нет. Длинно отвечу в тредике про Redis",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SytarAV",
+            "name": "Aleksandr Sytar",
+            "id": 88490902,
+            "id_str": "88490902",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 950298799993442300,
+      "in_reply_to_status_id_str": "950298799993442304",
+      "in_reply_to_user_id": 88490902,
+      "in_reply_to_user_id_str": "88490902",
+      "in_reply_to_screen_name": "SytarAV",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 08 10:06:13 +0000 2018",
+      "id": 950307646262923300,
+      "id_str": "950307646262923265",
+      "text": "@orhideous @avovsya У нас PySpark, Amazon EMR и DataPipeline. Каких-то мелких косяков было много но ничего что треб… https://t.co/vR1eEILPW7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "orhideous",
+            "name": "Orhideous",
+            "id": 394408987,
+            "id_str": "394408987",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "avovsya",
+            "name": "Smoothie & Cat",
+            "id": 30636553,
+            "id_str": "30636553",
+            "indices": [
+              11,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/vR1eEILPW7",
+            "expanded_url": "https://twitter.com/i/web/status/950307646262923265",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 950303949629939700,
+      "in_reply_to_status_id_str": "950303949629939712",
+      "in_reply_to_user_id": 394408987,
+      "in_reply_to_user_id_str": "394408987",
+      "in_reply_to_screen_name": "orhideous",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 08 10:06:13 +0000 2018",
+      "id": 950307648431411200,
+      "id_str": "950307648431411201",
+      "text": "Попробовал Кассандру, она могла бы быть дешевле но время загрузки которое удалось выжать из адекватного кластера - 6 часов.  Не подходит.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 950299928110223400,
+      "in_reply_to_status_id_str": "950299928110223360",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 08 10:07:12 +0000 2018",
+      "id": 950307893672374300,
+      "id_str": "950307893672374273",
+      "text": "Да кстати, из Parquet данные загружались Spark’ом и подходящим питоновским драйвером",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 950307648431411200,
+      "in_reply_to_status_id_str": "950307648431411201",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 08 10:12:18 +0000 2018",
+      "id": 950309179746644000,
+      "id_str": "950309179746643968",
+      "text": "Redis показывал хорошие результаты. Датасет размером почти терабайт не пожатый, и на 30% меньше после Protobuf(сама… https://t.co/aord1XeRrm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aord1XeRrm",
+            "expanded_url": "https://twitter.com/i/web/status/950309179746643968",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 950307893672374300,
+      "in_reply_to_status_id_str": "950307893672374273",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
