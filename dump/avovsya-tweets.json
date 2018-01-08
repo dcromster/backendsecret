@@ -1403,6 +1403,601 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 08 11:44:34 +0000 2018",
+      "id": 950332396569849900,
+      "id_str": "950332396569849856",
+      "text": "@melancholique0 Это не намёк, это факт. Как бы мы не старались но писать поддерживаемый код на Ноде(а точнее на JS) не получалось",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "melancholique0",
+            "name": "Ilya",
+            "id": 929758487143440400,
+            "id_str": "929758487143440386",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 950330248322863100,
+      "in_reply_to_status_id_str": "950330248322863104",
+      "in_reply_to_user_id": 929758487143440400,
+      "in_reply_to_user_id_str": "929758487143440386",
+      "in_reply_to_screen_name": "melancholique0",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 08 11:47:51 +0000 2018",
+      "id": 950333223300665300,
+      "id_str": "950333223300665344",
+      "text": "Concurrency vs Parallelism в Node.js - https://t.co/eVsnKXZGA2 https://t.co/UdEv638Y2l",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eVsnKXZGA2",
+            "expanded_url": "https://bytearcher.com/articles/parallel-vs-concurrent/",
+            "display_url": "bytearcher.com/articles/paral…",
+            "indices": [
+              39,
+              62
+            ]
+          },
+          {
+            "url": "https://t.co/UdEv638Y2l",
+            "expanded_url": "https://twitter.com/miha_x64/status/950329074580381696",
+            "display_url": "twitter.com/miha_x64/statu…",
+            "indices": [
+              63,
+              86
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 950329074580381700,
+      "quoted_status_id_str": "950329074580381696",
+      "quoted_status": {
+        "created_at": "Mon Jan 08 11:31:22 +0000 2018",
+        "id": 950329074580381700,
+        "id_str": "950329074580381696",
+        "text": "@backendsecret Concurrency? На Node? Оно же однопоточное.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 950327986573709300,
+        "in_reply_to_status_id_str": "950327986573709312",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 878548371065229300,
+          "id_str": "878548371065229312"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "cs"
+    },
+    {
+      "created_at": "Mon Jan 08 11:51:53 +0000 2018",
+      "id": 950334237391061000,
+      "id_str": "950334237391060992",
+      "text": "Скорее всего так и есть. Но я почти уверен что все равно накидать что нибудь можно быстрее на Ноже(express.js, mong… https://t.co/Q7zPhwIMXf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Q7zPhwIMXf",
+            "expanded_url": "https://twitter.com/i/web/status/950334237391060992",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 950333193441472500,
+      "quoted_status_id_str": "950333193441472512",
+      "quoted_status": {
+        "created_at": "Mon Jan 08 11:47:44 +0000 2018",
+        "id": 950333193441472500,
+        "id_str": "950333193441472512",
+        "text": "@backendsecret ИМХО, можно взять @Kotlin + ktor.io и получить не менее сладкий язык, более удобную асинхронщину в л… https://t.co/8h5xp4HUfk",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "kotlin",
+              "name": "Kotlin",
+              "id": 334678478,
+              "id_str": "334678478",
+              "indices": [
+                33,
+                40
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/8h5xp4HUfk",
+              "expanded_url": "https://twitter.com/i/web/status/950333193441472512",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 950327986573709300,
+        "in_reply_to_status_id_str": "950327986573709312",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 878548371065229300,
+          "id_str": "878548371065229312"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 08 11:53:41 +0000 2018",
+      "id": 950334690581467100,
+      "id_str": "950334690581467138",
+      "text": "Concurrency достигается асинхронностью https://t.co/76oa7t5yti",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/76oa7t5yti",
+            "expanded_url": "https://twitter.com/miha_x64/status/950333702910996480",
+            "display_url": "twitter.com/miha_x64/statu…",
+            "indices": [
+              39,
+              62
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 950333702910996500,
+      "quoted_status_id_str": "950333702910996480",
+      "quoted_status": {
+        "created_at": "Mon Jan 08 11:49:45 +0000 2018",
+        "id": 950333702910996500,
+        "id_str": "950333702910996480",
+        "text": "@backendsecret Мне кажется, Concurrency (одновременность) здесь трактуется как асинхронность.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 950333223300665300,
+        "in_reply_to_status_id_str": "950333223300665344",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 878548371065229300,
+          "id_str": "878548371065229312"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 08 11:57:55 +0000 2018",
+      "id": 950335757201395700,
+      "id_str": "950335757201395712",
+      "text": "@truetobetrue Redis форкает себя в отдельный процесс который пишет все на диск. Если данные в редисе не меняються п… https://t.co/D2xaHkba3y",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "truetobetrue",
+            "name": "truetobetrue",
+            "id": 169636821,
+            "id_str": "169636821",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/D2xaHkba3y",
+            "expanded_url": "https://twitter.com/i/web/status/950335757201395712",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 950330786565296100,
+      "in_reply_to_status_id_str": "950330786565296129",
+      "in_reply_to_user_id": 169636821,
+      "in_reply_to_user_id_str": "169636821",
+      "in_reply_to_screen_name": "truetobetrue",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 08 12:02:21 +0000 2018",
+      "id": 950336870600400900,
+      "id_str": "950336870600400896",
+      "text": "Тот кому «повезло» писать и бэкенд и фронтенд на JacaScript(typescript, clojurescipt, dart, es6-7-8) https://t.co/zBvN72G15Q",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zBvN72G15Q",
+            "expanded_url": "https://twitter.com/bitomaxsp/status/950334697594343425",
+            "display_url": "twitter.com/bitomaxsp/stat…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 950334697594343400,
+      "quoted_status_id_str": "950334697594343425",
+      "quoted_status": {
+        "created_at": "Mon Jan 08 11:53:42 +0000 2018",
+        "id": 950334697594343400,
+        "id_str": "950334697594343425",
+        "text": "@backendsecret @avovsya Давай начнем с простого сначала.\nЧто такое nodejs full stack developer?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "avovsya",
+              "name": "Smoothie & Cat",
+              "id": 30636553,
+              "id_str": "30636553",
+              "indices": [
+                15,
+                23
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 950295226618347500,
+        "in_reply_to_status_id_str": "950295226618347520",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 237366647,
+          "id_str": "237366647"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jan 08 12:03:05 +0000 2018",
+      "id": 950337056563179500,
+      "id_str": "950337056563179522",
+      "text": "@dcromster И слава богу, как по мне.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 950328552708300800,
+      "in_reply_to_status_id_str": "950328552708300800",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "dcromster",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 08 12:06:09 +0000 2018",
+      "id": 950337829514727400,
+      "id_str": "950337829514727424",
+      "text": "@aarexer Питон сам по себе - отлично. Но например pip и virtualenv это так себе удовольствие. Я бы его брал под дат… https://t.co/GHr141VZr4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aarexer",
+            "name": "Aleksandr",
+            "id": 3834020309,
+            "id_str": "3834020309",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GHr141VZr4",
+            "expanded_url": "https://twitter.com/i/web/status/950337829514727424",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 950328666411667500,
+      "in_reply_to_status_id_str": "950328666411667459",
+      "in_reply_to_user_id": 3834020309,
+      "in_reply_to_user_id_str": "3834020309",
+      "in_reply_to_screen_name": "aarexer",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
