@@ -30,52 +30,124 @@
   "friends_count": 0,
   "listed_count": 216,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 3647,
+  "favourites_count": 3649,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26318,
+  "statuses_count": 26320,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Jan 11 16:03:06 +0000 2018",
-    "id": 951484623892242400,
-    "id_str": "951484623892242437",
-    "text": "@NiteAshCollapse Вот это «хитро» и нужно выяснить. И да, возможно CloudWatch.",
+    "created_at": "Fri Jan 12 09:28:38 +0000 2018",
+    "id": 951747741650227200,
+    "id_str": "951747741650227200",
+    "text": "RT @sleem_muzzy: @backendsecret We use styx: https://t.co/KfmkA67sNO",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "NiteAshCollapse",
-          "name": "Natalya Chikina",
-          "id": 450380437,
-          "id_str": "450380437",
+          "screen_name": "sleem_muzzy",
+          "name": "Елка иголка",
+          "id": 796978091570630700,
+          "id_str": "796978091570630656",
           "indices": [
-            0,
-            16
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            17,
+            31
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/KfmkA67sNO",
+          "expanded_url": "https://github.com/spotify/styx",
+          "display_url": "github.com/spotify/styx",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 951476869433577500,
-    "in_reply_to_status_id_str": "951476869433577473",
-    "in_reply_to_user_id": 450380437,
-    "in_reply_to_user_id_str": "450380437",
-    "in_reply_to_screen_name": "NiteAshCollapse",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 12 09:26:32 +0000 2018",
+      "id": 951747210437382100,
+      "id_str": "951747210437382145",
+      "text": "@backendsecret We use styx: https://t.co/KfmkA67sNO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KfmkA67sNO",
+            "expanded_url": "https://github.com/spotify/styx",
+            "display_url": "github.com/spotify/styx",
+            "indices": [
+              28,
+              51
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 951743301065076700,
+      "in_reply_to_status_id_str": "951743301065076737",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "ru"
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
