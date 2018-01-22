@@ -36,7 +36,7 @@
     }
   },
   "protected": false,
-  "followers_count": 4970,
+  "followers_count": 4973,
   "friends_count": 0,
   "listed_count": 217,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -45,19 +45,29 @@
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27080,
+  "statuses_count": 27094,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jan 22 13:08:52 +0000 2018",
-    "id": 955427042794844200,
-    "id_str": "955427042794844160",
-    "text": "Проверяем сейчас datadog и там есть килер фича host  map. Можно получить прикольные визуализации по системе и быстро",
-    "truncated": false,
+    "created_at": "Mon Jan 22 15:35:13 +0000 2018",
+    "id": 955463872764366800,
+    "id_str": "955463872764366848",
+    "text": "Вообще у редиса хорошая и понятная документация, я тут на выходных нашел что `echo never &gt; /sys/kernel/mm/transpare… https://t.co/gscmFvFcht",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/gscmFvFcht",
+          "expanded_url": "https://twitter.com/i/web/status/955463872764366848",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            120,
+            143
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -71,9 +81,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
