@@ -36,7 +36,7 @@
     }
   },
   "protected": false,
-  "followers_count": 4991,
+  "followers_count": 4995,
   "friends_count": 0,
   "listed_count": 217,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -45,19 +45,29 @@
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27145,
+  "statuses_count": 27157,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jan 23 07:32:49 +0000 2018",
-    "id": 955704861517021200,
-    "id_str": "955704861517021190",
-    "text": "В Израиле почему то програмисты, стартапы вся индустрия называет high tech а IT называется это больше help desk.",
+    "created_at": "Tue Jan 23 08:19:55 +0000 2018",
+    "id": 955716711679955000,
+    "id_str": "955716711679954945",
+    "text": "Да примерно - 1 всегда https://t.co/ntlhr8hBPO",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/ntlhr8hBPO",
+          "expanded_url": "https://twitter.com/vlazarenko/status/955716407836241920",
+          "display_url": "twitter.com/vlazarenko/sta…",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -69,11 +79,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 955716407836241900,
+    "quoted_status_id_str": "955716407836241920",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
