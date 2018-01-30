@@ -5871,6 +5871,538 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 30 17:09:04 +0000 2018",
+      "id": 958386595312357400,
+      "id_str": "958386595312357376",
+      "text": "@dimaip Отваливался? Из-за чего?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dimaip",
+            "name": "Dmitri Pisarev 🇷🇺",
+            "id": 240638492,
+            "id_str": "240638492",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 958355939324809200,
+      "in_reply_to_status_id_str": "958355939324809217",
+      "in_reply_to_user_id": 240638492,
+      "in_reply_to_user_id_str": "240638492",
+      "in_reply_to_screen_name": "dimaip",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 30 17:21:00 +0000 2018",
+      "id": 958389596550848500,
+      "id_str": "958389596550848512",
+      "text": "Мониторинг. Минимальный набор у нас это: nginx access logs + Sentry + Zabbix + https://t.co/HExoBzO81y . Настраивае… https://t.co/gVBRjc1AqN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HExoBzO81y",
+            "expanded_url": "http://uptimerobot.com",
+            "display_url": "uptimerobot.com",
+            "indices": [
+              79,
+              102
+            ]
+          },
+          {
+            "url": "https://t.co/gVBRjc1AqN",
+            "expanded_url": "https://twitter.com/i/web/status/958389596550848512",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 30 17:21:00 +0000 2018",
+      "id": 958389598371147800,
+      "id_str": "958389598371147777",
+      "text": "Zabbix с версии 3 стал очень хорошим. Появилось TLS шифрование между агентом и коллектором (теперь VPN/LAN для них… https://t.co/GFBIDU0JHO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GFBIDU0JHO",
+            "expanded_url": "https://twitter.com/i/web/status/958389598371147777",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 958389596550848500,
+      "in_reply_to_status_id_str": "958389596550848512",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 30 17:21:01 +0000 2018",
+      "id": 958389599973400600,
+      "id_str": "958389599973400576",
+      "text": "Из коробки легко настраиваются алерты в почту. Можно настроить хоть в телеграм: https://t.co/BypO3IPKk8\n\nАгенты раз… https://t.co/q8BQnP5stv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BypO3IPKk8",
+            "expanded_url": "https://gist.github.com/KostyaEsmukov/1d49b04eaed1b8de3c8d378943fc1647",
+            "display_url": "gist.github.com/KostyaEsmukov/…",
+            "indices": [
+              80,
+              103
+            ]
+          },
+          {
+            "url": "https://t.co/q8BQnP5stv",
+            "expanded_url": "https://twitter.com/i/web/status/958389599973400576",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 958389598371147800,
+      "in_reply_to_status_id_str": "958389598371147777",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 30 17:21:01 +0000 2018",
+      "id": 958389601844031500,
+      "id_str": "958389601844031488",
+      "text": "Но добавлять кастомные метрики в заббикс неудобно. Нужно и в агент конфиг дописать, и в вебморду template сделать (… https://t.co/5zoxvNeDIC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5zoxvNeDIC",
+            "expanded_url": "https://twitter.com/i/web/status/958389601844031488",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 958389599973400600,
+      "in_reply_to_status_id_str": "958389599973400576",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 30 17:21:02 +0000 2018",
+      "id": 958389604939370500,
+      "id_str": "958389604939370503",
+      "text": "Sentry мы очень любим. С Python/Django интеграция вообще прекрасная. По любому непойманному исключению есть куча ин… https://t.co/BcLFVBHpdD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BcLFVBHpdD",
+            "expanded_url": "https://twitter.com/i/web/status/958389604939370503",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 958389601844031500,
+      "in_reply_to_status_id_str": "958389601844031488",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 30 17:21:03 +0000 2018",
+      "id": 958389607107846100,
+      "id_str": "958389607107846144",
+      "text": "Есть Cloud версия. Но надо иметь в виду, что несмотря на наличие встроенного data scrubber на клиенте, часть секрет… https://t.co/llxz72Pizi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/llxz72Pizi",
+            "expanded_url": "https://twitter.com/i/web/status/958389607107846144",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 958389604939370500,
+      "in_reply_to_status_id_str": "958389604939370503",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 30 17:21:03 +0000 2018",
+      "id": 958389608995283000,
+      "id_str": "958389608995282944",
+      "text": "Клиент Sentry для JS чуть похуже питоновского. Инфы отсылается меньше. Также у них их две версии: \"raven-js\" для бр… https://t.co/wMpg3pxdcT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wMpg3pxdcT",
+            "expanded_url": "https://twitter.com/i/web/status/958389608995282944",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 958389607107846100,
+      "in_reply_to_status_id_str": "958389607107846144",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 30 17:21:03 +0000 2018",
+      "id": 958389611209855000,
+      "id_str": "958389611209854981",
+      "text": "Prometheus хорош. Прожорливый по памяти только, да и разворачивается тяжеловато: куча отдельных компонентов (сам pr… https://t.co/l864A7INHx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/l864A7INHx",
+            "expanded_url": "https://twitter.com/i/web/status/958389611209854981",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 958389608995283000,
+      "in_reply_to_status_id_str": "958389608995282944",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 30 17:21:04 +0000 2018",
+      "id": 958389613118263300,
+      "id_str": "958389613118263296",
+      "text": "Из аппа метрики можно экспортить так: \n1. через поднятие экспортера на каждый процесс воркера (для Celery это особе… https://t.co/lAr9rHU2wc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lAr9rHU2wc",
+            "expanded_url": "https://twitter.com/i/web/status/958389613118263296",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 958389611209855000,
+      "in_reply_to_status_id_str": "958389611209854981",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 30 17:21:05 +0000 2018",
+      "id": 958389615513219100,
+      "id_str": "958389615513219072",
+      "text": "Если между прометеусом и экспортерами нет защищенной сети (у нас разные проекты мониторятся), то в доках рекомендуе… https://t.co/h0oAYGNtiw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/h0oAYGNtiw",
+            "expanded_url": "https://twitter.com/i/web/status/958389615513219072",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 958389613118263300,
+      "in_reply_to_status_id_str": "958389613118263296",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 30 17:21:05 +0000 2018",
+      "id": 958389617513979900,
+      "id_str": "958389617513979905",
+      "text": "Мы спрятали за nginx с клиентскими сертификатами. Работает замечательно, но ансибла вокруг этого всего многовато.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 958389615513219100,
+      "in_reply_to_status_id_str": "958389615513219072",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
