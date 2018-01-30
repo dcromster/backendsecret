@@ -37,53 +37,52 @@
     }
   },
   "protected": false,
-  "followers_count": 5033,
+  "followers_count": 5039,
   "friends_count": 0,
   "listed_count": 219,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 3788,
+  "favourites_count": 3790,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27434,
+  "statuses_count": 27467,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jan 29 20:18:50 +0000 2018",
-    "id": 958071962957500400,
-    "id_str": "958071962957500421",
-    "text": "@ctrlok При деплое? Чтобы перед прибиванием второго апстрима первый успел разогреться и начать принимать запросы.",
-    "truncated": false,
+    "created_at": "Tue Jan 30 09:21:32 +0000 2018",
+    "id": 958268933567545300,
+    "id_str": "958268933567545346",
+    "text": "3. OPTIONS запросы не доходят до аппа. Django Rest Framework там возвращает инфу по эндпоинту, например, которая мо… https://t.co/SSBqz4jLsA",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "ctrlok",
-          "name": "Всеволод Поляков",
-          "id": 17509585,
-          "id_str": "17509585",
+          "url": "https://t.co/SSBqz4jLsA",
+          "expanded_url": "https://twitter.com/i/web/status/958268933567545346",
+          "display_url": "twitter.com/i/web/status/9…",
           "indices": [
-            0,
-            7
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 958071082694692900,
-    "in_reply_to_status_id_str": "958071082694692864",
-    "in_reply_to_user_id": 17509585,
-    "in_reply_to_user_id_str": "17509585",
-    "in_reply_to_screen_name": "ctrlok",
+    "in_reply_to_status_id": 958268931919183900,
+    "in_reply_to_status_id_str": "958268931919183872",
+    "in_reply_to_user_id": 3302551618,
+    "in_reply_to_user_id_str": "3302551618",
+    "in_reply_to_screen_name": "backendsecret",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
