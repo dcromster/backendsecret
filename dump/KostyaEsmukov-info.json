@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 5041,
+  "followers_count": 5043,
   "friends_count": 0,
   "listed_count": 219,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,35 +46,48 @@
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27479,
+  "statuses_count": 27501,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jan 30 17:21:05 +0000 2018",
-    "id": 958389617513979900,
-    "id_str": "958389617513979905",
-    "text": "Мы спрятали за nginx с клиентскими сертификатами. Работает замечательно, но ансибла вокруг этого всего многовато.",
-    "truncated": false,
+    "created_at": "Wed Jan 31 08:25:48 +0000 2018",
+    "id": 958617295936524300,
+    "id_str": "958617295936524288",
+    "text": "А еще внутренние зависимости энтерпрайза на py2. Это да. \n\nМой твит был о мелких проектах, не обремененных энтерпра… https://t.co/9N6ODVIDZO",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/9N6ODVIDZO",
+          "expanded_url": "https://twitter.com/i/web/status/958617295936524288",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 958389615513219100,
-    "in_reply_to_status_id_str": "958389615513219072",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 958616577401917400,
+    "quoted_status_id_str": "958616577401917440",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
