@@ -9622,6 +9622,434 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 01 06:42:41 +0000 2018",
+      "id": 958953733769097200,
+      "id_str": "958953733769097217",
+      "text": "@chikiro_twi Каноничный REST API пытаться сделать – боль на чём угодно :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chikiro_twi",
+            "name": "Chikiro",
+            "id": 51188176,
+            "id_str": "51188176",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 958788810011217900,
+      "in_reply_to_status_id_str": "958788810011217926",
+      "in_reply_to_user_id": 51188176,
+      "in_reply_to_user_id_str": "51188176",
+      "in_reply_to_screen_name": "chikiro_twi",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 01 06:47:27 +0000 2018",
+      "id": 958954933755306000,
+      "id_str": "958954933755305985",
+      "text": "Это когда media хранится у тебя (или гоняется через тебя). Но взять S3-alike сторадж проще в обслуживании, имхо. Пр… https://t.co/Em4WVBHpLW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Em4WVBHpLW",
+            "expanded_url": "https://twitter.com/i/web/status/958954933755305985",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 958820058662408200,
+      "quoted_status_id_str": "958820058662408192",
+      "quoted_status": {
+        "created_at": "Wed Jan 31 21:51:30 +0000 2018",
+        "id": 958820058662408200,
+        "id_str": "958820058662408192",
+        "text": "@backendsecret Миниатюры проще генерить на лету с кешированием через nginx + image_filter или гошными тулзами. Зара… https://t.co/alWRzHTAfF",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/alWRzHTAfF",
+              "expanded_url": "https://twitter.com/i/web/status/958820058662408192",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 958779844631941100,
+        "in_reply_to_status_id_str": "958779844631941120",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 15677160,
+          "id_str": "15677160"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 01 06:49:09 +0000 2018",
+      "id": 958955360370425900,
+      "id_str": "958955360370425856",
+      "text": "RT @amureki: @backendsecret Мы тут совместно уютным чатиком написали FAQ для заинтересованных https://t.co/I81nuxvjCa",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amureki",
+            "name": "a u reki",
+            "id": 91391218,
+            "id_str": "91391218",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/I81nuxvjCa",
+            "expanded_url": "https://github.com/amureki/django_faq",
+            "display_url": "github.com/amureki/django…",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Jan 31 23:40:30 +0000 2018",
+        "id": 958847487883739100,
+        "id_str": "958847487883739136",
+        "text": "@backendsecret Мы тут совместно уютным чатиком написали FAQ для заинтересованных https://t.co/I81nuxvjCa",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/I81nuxvjCa",
+              "expanded_url": "https://github.com/amureki/django_faq",
+              "display_url": "github.com/amureki/django…",
+              "indices": [
+                81,
+                104
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 958779862642249700,
+        "in_reply_to_status_id_str": "958779862642249728",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 91391218,
+          "id_str": "91391218"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 01 06:59:49 +0000 2018",
+      "id": 958958048487313400,
+      "id_str": "958958048487313413",
+      "text": "@chikiro_twi webdav хорошо ложится на REST, потому что нетривиальной логики там нет. \nНа практике это не всегда так… https://t.co/dSYh9f0reR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chikiro_twi",
+            "name": "Chikiro",
+            "id": 51188176,
+            "id_str": "51188176",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dSYh9f0reR",
+            "expanded_url": "https://twitter.com/i/web/status/958958048487313413",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 958955134507274200,
+      "in_reply_to_status_id_str": "958955134507274240",
+      "in_reply_to_user_id": 51188176,
+      "in_reply_to_user_id_str": "51188176",
+      "in_reply_to_screen_name": "chikiro_twi",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 01 07:05:08 +0000 2018",
+      "id": 958959382905196500,
+      "id_str": "958959382905196544",
+      "text": "А другой умник при тех же затратах пойдёт плодить сущности через ваше REST API. Абузить можно много чего.\n\nТакже ко… https://t.co/hGPXFYFAZ8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hGPXFYFAZ8",
+            "expanded_url": "https://twitter.com/i/web/status/958959382905196544",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 958955607154942000,
+      "quoted_status_id_str": "958955607154941952",
+      "quoted_status": {
+        "created_at": "Thu Feb 01 06:50:07 +0000 2018",
+        "id": 958955607154942000,
+        "id_str": "958955607154941952",
+        "text": "@salikhov @backendsecret И после этого какой-то умник натравит скрипт в цикле запрашивающий размеры с изменением в… https://t.co/Ovfc4iOacn",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "salikhov",
+              "name": "Ilyas Salikhov",
+              "id": 15677160,
+              "id_str": "15677160",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                10,
+                24
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Ovfc4iOacn",
+              "expanded_url": "https://twitter.com/i/web/status/958955607154941952",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 958820058662408200,
+        "in_reply_to_status_id_str": "958820058662408192",
+        "in_reply_to_user_id": 15677160,
+        "in_reply_to_user_id_str": "15677160",
+        "in_reply_to_screen_name": "salikhov",
+        "user": {
+          "id": 852193515501236200,
+          "id_str": "852193515501236224"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
