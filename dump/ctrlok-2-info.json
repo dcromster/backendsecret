@@ -26,38 +26,49 @@
     }
   },
   "protected": false,
-  "followers_count": 5088,
+  "followers_count": 5087,
   "friends_count": 0,
-  "listed_count": 219,
+  "listed_count": 220,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 3803,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27799,
+  "statuses_count": 27829,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Feb 06 10:46:18 +0000 2018",
-    "id": 960826983788744700,
-    "id_str": "960826983788744704",
-    "text": "Отличная тема, но вообще опсы редко сами могут пофиксить проблему. И чаще дергают девелоперов, чем фиксят что-то са… https://t.co/zjNVhYgK8d",
-    "truncated": true,
+    "created_at": "Tue Feb 06 19:15:06 +0000 2018",
+    "id": 960955025035055100,
+    "id_str": "960955025035055109",
+    "text": "RT @den4ikbyte: @backendsecret Go шустрее, но проще python конечно",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/zjNVhYgK8d",
-          "expanded_url": "https://twitter.com/i/web/status/960826983788744704",
-          "display_url": "twitter.com/i/web/status/9…",
+          "screen_name": "den4ikbyte",
+          "name": "Denis",
+          "id": 760028430247264300,
+          "id_str": "760028430247264256",
           "indices": [
-            117,
-            140
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            16,
+            30
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
     "in_reply_to_status_id": null,
@@ -69,14 +80,51 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 960826567785054200,
-    "quoted_status_id_str": "960826567785054208",
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue Feb 06 19:13:28 +0000 2018",
+      "id": 960954616828649500,
+      "id_str": "960954616828649472",
+      "text": "@backendsecret Go шустрее, но проще python конечно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 960947883511025700,
+      "in_reply_to_status_id_str": "960947883511025665",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
