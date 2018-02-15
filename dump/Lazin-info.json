@@ -37,137 +37,128 @@
     }
   },
   "protected": false,
-  "followers_count": 5137,
+  "followers_count": 5144,
   "friends_count": 0,
-  "listed_count": 222,
+  "listed_count": 221,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 3802,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28253,
+  "statuses_count": 28257,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Feb 14 14:13:04 +0000 2018",
-    "id": 963778118740791300,
-    "id_str": "963778118740791296",
-    "text": "https://t.co/cpbgc9sJry",
+    "created_at": "Thu Feb 15 06:35:06 +0000 2018",
+    "id": 964025254615101400,
+    "id_str": "964025254615101440",
+    "text": "RT @emakashov: @backendsecret У Питера Норвига есть эссе на данную тему (в т.ч. ссылается на Malcolm Gladwell)\nhttps://t.co/ul15Fnh2SC",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 963778040995119100,
-          "id_str": "963778040995119107",
+          "screen_name": "emakashov",
+          "name": "Evgeny Makashov",
+          "id": 4609316837,
+          "id_str": "4609316837",
           "indices": [
-            0,
-            23
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DWAHBZ_WAAMoSPA.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DWAHBZ_WAAMoSPA.jpg",
-          "url": "https://t.co/cpbgc9sJry",
-          "display_url": "pic.twitter.com/cpbgc9sJry",
-          "expanded_url": "https://twitter.com/backendsecret/status/963778118740791296/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 500,
-              "h": 276,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 500,
-              "h": 276,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 500,
-              "h": 276,
-              "resize": "fit"
-            }
-          }
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            15,
+            29
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
+      ],
+      "urls": [
         {
-          "id": 963778040995119100,
-          "id_str": "963778040995119107",
+          "url": "https://t.co/ul15Fnh2SC",
+          "expanded_url": "http://www.norvig.com/21-days.html",
+          "display_url": "norvig.com/21-days.html",
           "indices": [
-            0,
-            23
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DWAHBZ_WAAMoSPA.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DWAHBZ_WAAMoSPA.jpg",
-          "url": "https://t.co/cpbgc9sJry",
-          "display_url": "pic.twitter.com/cpbgc9sJry",
-          "expanded_url": "https://twitter.com/backendsecret/status/963778118740791296/photo/1",
-          "type": "animated_gif",
-          "sizes": {
-            "small": {
-              "w": 500,
-              "h": 276,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 500,
-              "h": 276,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 500,
-              "h": 276,
-              "resize": "fit"
-            }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              125,
-              69
-            ],
-            "variants": [
-              {
-                "bitrate": 0,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/tweet_video/DWAHBZ_WAAMoSPA.mp4"
-              }
-            ]
-          }
+            111,
+            134
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 963776373184745500,
-    "in_reply_to_status_id_str": "963776373184745472",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 14 15:25:30 +0000 2018",
+      "id": 963796350004613100,
+      "id_str": "963796350004613121",
+      "text": "@backendsecret У Питера Норвига есть эссе на данную тему (в т.ч. ссылается на Malcolm Gladwell)\nhttps://t.co/ul15Fnh2SC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ul15Fnh2SC",
+            "expanded_url": "http://www.norvig.com/21-days.html",
+            "display_url": "norvig.com/21-days.html",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 963739652585861100,
+      "in_reply_to_status_id_str": "963739652585861121",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 19,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "possibly_sensitive": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
