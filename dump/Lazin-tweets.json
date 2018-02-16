@@ -7451,6 +7451,1324 @@
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 05:58:55 +0000 2018",
+      "id": 964378537317683200,
+      "id_str": "964378537317683200",
+      "text": "Изолированный алгоритм работает довольно медленно на любых батчах. Там очень много битовых операций, сдвиги, маски… https://t.co/tAN5boJoPQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tAN5boJoPQ",
+            "expanded_url": "https://twitter.com/i/web/status/964378537317683200",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 964069581286531100,
+      "quoted_status_id_str": "964069581286531073",
+      "quoted_status": {
+        "created_at": "Thu Feb 15 09:31:14 +0000 2018",
+        "id": 964069581286531100,
+        "id_str": "964069581286531073",
+        "text": "@backendsecret Основная проблема в том что influxDB сжимает всего по тысяче  значений в блоке, чтоточ мало. Остальное вторично",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 963745391308140500,
+        "in_reply_to_status_id_str": "963745391308140544",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 209476502,
+          "id_str": "209476502"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:01:29 +0000 2018",
+      "id": 964379185589379100,
+      "id_str": "964379185589379073",
+      "text": "Сегодня я планирую вещать про многопоточность и разработку серверных приложений. Начну пожалуй с одного распростран… https://t.co/dxcoNvSEEv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dxcoNvSEEv",
+            "expanded_url": "https://twitter.com/i/web/status/964379185589379073",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:03:43 +0000 2018",
+      "id": 964379746183217200,
+      "id_str": "964379746183217152",
+      "text": "мьютексы, лучше используйте атомарные операции или lock-free алгоритмы, это быстрее. Это полная глупость. Во первых… https://t.co/x9FoNJmQLq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/x9FoNJmQLq",
+            "expanded_url": "https://twitter.com/i/web/status/964379746183217152",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964379185589379100,
+      "in_reply_to_status_id_str": "964379185589379073",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:05:41 +0000 2018",
+      "id": 964380242235150300,
+      "id_str": "964380242235150336",
+      "text": "многопоточке, но ей уделяется слишком мало внимания, как правило. Если у вас есть, скажем, 32 процессора и каждый и… https://t.co/cma1GtDBV7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cma1GtDBV7",
+            "expanded_url": "https://twitter.com/i/web/status/964380242235150336",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964379746183217200,
+      "in_reply_to_status_id_str": "964379746183217152",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:07:37 +0000 2018",
+      "id": 964380725997793300,
+      "id_str": "964380725997793284",
+      "text": "... мьютекса no contention. Когда вы пытаетесь оценить эффективность того или иного алгоритма, не нужно смотреть на… https://t.co/WyRjWaAoYU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WyRjWaAoYU",
+            "expanded_url": "https://twitter.com/i/web/status/964380725997793284",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964380242235150300,
+      "in_reply_to_status_id_str": "964380242235150336",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:08:44 +0000 2018",
+      "id": 964381009906036700,
+      "id_str": "964381009906036739",
+      "text": "High contention это тяжелая операция, no/low contention это практически no-op - десятки наносекунд.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964380725997793300,
+      "in_reply_to_status_id_str": "964380725997793284",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Fri Feb 16 06:10:51 +0000 2018",
+      "id": 964381541722865700,
+      "id_str": "964381541722865664",
+      "text": "На этом строятся производительные параллельные алгоритмы. Расскажу на примере Akumuli. В Akumuli есть понятие сесси… https://t.co/oxvGZdHEEs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oxvGZdHEEs",
+            "expanded_url": "https://twitter.com/i/web/status/964381541722865664",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964381009906036700,
+      "in_reply_to_status_id_str": "964381009906036739",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:15:36 +0000 2018",
+      "id": 964382737783169000,
+      "id_str": "964382737783169025",
+      "text": "каждый элемент данный относится к тому или иному временному ряду. Каждый временной ряд хранится в центральной табли… https://t.co/oSPIUh21Hy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oSPIUh21Hy",
+            "expanded_url": "https://twitter.com/i/web/status/964382737783169025",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964381541722865700,
+      "in_reply_to_status_id_str": "964381541722865664",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:17:48 +0000 2018",
+      "id": 964383289397030900,
+      "id_str": "964383289397030912",
+      "text": "перемещает его в свой локальный кэш, обращение к локальному кэшу тоже защищено мьютексом (другим), только к нему об… https://t.co/T8MmDrh8wU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T8MmDrh8wU",
+            "expanded_url": "https://twitter.com/i/web/status/964383289397030912",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964382737783169000,
+      "in_reply_to_status_id_str": "964382737783169025",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:19:34 +0000 2018",
+      "id": 964383736279138300,
+      "id_str": "964383736279138305",
+      "text": "... в тот же ряд, она захватит lock \"центральной\" таблицы, обнаружит что ряд существует но уже используется другой… https://t.co/ByxNQQTcbI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ByxNQQTcbI",
+            "expanded_url": "https://twitter.com/i/web/status/964383736279138305",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964383289397030900,
+      "in_reply_to_status_id_str": "964383289397030912",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:21:24 +0000 2018",
+      "id": 964384196377505800,
+      "id_str": "964384196377505799",
+      "text": "Почему это быстро работает? Потому что обычно, с вероятностью близкой к 100% каждый клиент будет записывать свой на… https://t.co/i8VeYTFMzh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/i8VeYTFMzh",
+            "expanded_url": "https://twitter.com/i/web/status/964384196377505799",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964383736279138300,
+      "in_reply_to_status_id_str": "964383736279138305",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:23:20 +0000 2018",
+      "id": 964384681687892000,
+      "id_str": "964384681687891968",
+      "text": "захвачен один раз для каждого временного ряда, а мьютекс сессии, будет захватываться только из потока  этой сессии,… https://t.co/obNqKItufu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/obNqKItufu",
+            "expanded_url": "https://twitter.com/i/web/status/964384681687891968",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964384196377505800,
+      "in_reply_to_status_id_str": "964384196377505799",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:25:00 +0000 2018",
+      "id": 964385103253094400,
+      "id_str": "964385103253094401",
+      "text": "Вот так это выглядит на 32х ядерном инстансе - https://t.co/AZPsdZLd8i https://t.co/FJoqAa7Jp4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AZPsdZLd8i",
+            "expanded_url": "http://akumuli.org/akumuli/2017/03/10/benchmark2/",
+            "display_url": "akumuli.org/akumuli/2017/0…",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 964384978539720700,
+            "id_str": "964384978539720704",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/DWIvB0iVMAAg3tW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DWIvB0iVMAAg3tW.jpg",
+            "url": "https://t.co/FJoqAa7Jp4",
+            "display_url": "pic.twitter.com/FJoqAa7Jp4",
+            "expanded_url": "https://twitter.com/backendsecret/status/964385103253094401/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 371,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 654,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1047,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 964384978539720700,
+            "id_str": "964384978539720704",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/DWIvB0iVMAAg3tW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DWIvB0iVMAAg3tW.jpg",
+            "url": "https://t.co/FJoqAa7Jp4",
+            "display_url": "pic.twitter.com/FJoqAa7Jp4",
+            "expanded_url": "https://twitter.com/backendsecret/status/964385103253094401/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 371,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 654,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1047,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964384681687892000,
+      "in_reply_to_status_id_str": "964384681687891968",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:25:56 +0000 2018",
+      "id": 964385336720633900,
+      "id_str": "964385336720633857",
+      "text": "Если надо, я могу про код на бумажке и женщин, вы только скажите. https://t.co/ptyC46RnoS",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ptyC46RnoS",
+            "expanded_url": "https://twitter.com/blazernere/status/964380898798968832",
+            "display_url": "twitter.com/blazernere/sta…",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:28:57 +0000 2018",
+      "id": 964386094790844400,
+      "id_str": "964386094790844417",
+      "text": "К атомарным операциям все вышесказанное тоже относится в равной степени. Атомарная переменная в которую пишут десят… https://t.co/Ry3o7ynqoJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ry3o7ynqoJ",
+            "expanded_url": "https://twitter.com/i/web/status/964386094790844417",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:31:10 +0000 2018",
+      "id": 964386656466841600,
+      "id_str": "964386656466841600",
+      "text": "Счетчики в многопоточном окружении оптимизируются с использованием ровно тех же принципов, для примера можно заглян… https://t.co/4t0KCf9ZvO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4t0KCf9ZvO",
+            "expanded_url": "https://twitter.com/i/web/status/964386656466841600",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964386094790844400,
+      "in_reply_to_status_id_str": "964386094790844417",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:35:06 +0000 2018",
+      "id": 964387644930121700,
+      "id_str": "964387644930121729",
+      "text": "На своей локальной машине вы можете не заметить деградацию производительности, т.к. код часто пишется на слабых маш… https://t.co/bDqrlj1SUB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bDqrlj1SUB",
+            "expanded_url": "https://twitter.com/i/web/status/964387644930121729",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964386656466841600,
+      "in_reply_to_status_id_str": "964386656466841600",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:35:43 +0000 2018",
+      "id": 964387800211574800,
+      "id_str": "964387800211574784",
+      "text": "@blazernere могу удалить, если нужно, впрочем там же все равно не видно от кого был твит",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "blazernere",
+            "name": "Danil Garmanov",
+            "id": 2739936361,
+            "id_str": "2739936361",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964386943269093400,
+      "in_reply_to_status_id_str": "964386943269093379",
+      "in_reply_to_user_id": 2739936361,
+      "in_reply_to_user_id_str": "2739936361",
+      "in_reply_to_screen_name": "blazernere",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:37:56 +0000 2018",
+      "id": 964388355382243300,
+      "id_str": "964388355382243329",
+      "text": "Я пишу только под x86, там strong memory order по умолчанию, поэтому подобный тюнинг ничего не дает :) Но, эти флаг… https://t.co/GANQ3OIs6A",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GANQ3OIs6A",
+            "expanded_url": "https://twitter.com/i/web/status/964388355382243329",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 964387181832814600,
+      "quoted_status_id_str": "964387181832814592",
+      "quoted_status": {
+        "created_at": "Fri Feb 16 06:33:16 +0000 2018",
+        "id": 964387181832814600,
+        "id_str": "964387181832814592",
+        "text": "@backendsecret А что насчёт memory ordering, приходилось ли тюнить атотомики( очень много видел их использование то… https://t.co/aYkeavgYi2",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/aYkeavgYi2",
+              "expanded_url": "https://twitter.com/i/web/status/964387181832814592",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 964386094790844400,
+        "in_reply_to_status_id_str": "964386094790844417",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 107488358,
+          "id_str": "107488358"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:39:56 +0000 2018",
+      "id": 964388858539290600,
+      "id_str": "964388858539290624",
+      "text": "использовать acquire/release. На правильной арх. это будет быстрее, но помимо этого, это сделает код более понятным… https://t.co/DrPlGcqTv1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DrPlGcqTv1",
+            "expanded_url": "https://twitter.com/i/web/status/964388858539290624",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964388355382243300,
+      "in_reply_to_status_id_str": "964388355382243329",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:45:15 +0000 2018",
+      "id": 964390200272076800,
+      "id_str": "964390200272076800",
+      "text": "Lock-free это та же ерунда. Если у вас есть LF очередь, которая находится под high contention, то это медленно :) М… https://t.co/iD1L2mZ0Qv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iD1L2mZ0Qv",
+            "expanded_url": "https://twitter.com/i/web/status/964390200272076800",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:47:41 +0000 2018",
+      "id": 964390811650605000,
+      "id_str": "964390811650605056",
+      "text": "Одно из таких применений, которое я видел не скажу где, заключалось в том, что LF очередь использовалась для взаимо… https://t.co/Ur0LIa9Ojx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ur0LIa9Ojx",
+            "expanded_url": "https://twitter.com/i/web/status/964390811650605056",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964390200272076800,
+      "in_reply_to_status_id_str": "964390200272076800",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:48:08 +0000 2018",
+      "id": 964390925764980700,
+      "id_str": "964390925764980736",
+      "text": "Если бы там использовалась обычная синхронизация, все могло бы встать колом (deadlock).",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964390811650605000,
+      "in_reply_to_status_id_str": "964390811650605056",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 06:51:42 +0000 2018",
+      "id": 964391823849373700,
+      "id_str": "964391823849373698",
+      "text": "У меня есть мой персональный твиттер (там в основном про еду) и блог на https://t.co/PoI7CZokwh - там на английском… https://t.co/zdfPz642hp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PoI7CZokwh",
+            "expanded_url": "https://akumuli.org",
+            "display_url": "akumuli.org",
+            "indices": [
+              72,
+              95
+            ]
+          },
+          {
+            "url": "https://t.co/zdfPz642hp",
+            "expanded_url": "https://twitter.com/i/web/status/964391823849373698",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 964383581740064800,
+      "quoted_status_id_str": "964383581740064769",
+      "quoted_status": {
+        "created_at": "Fri Feb 16 06:18:57 +0000 2018",
+        "id": 964383581740064800,
+        "id_str": "964383581740064769",
+        "text": "@blazernere @backendsecret Нене мне нравится, продолжайте? Кстати у вас есть блог про программирование, а то в твит… https://t.co/DzcWzwJdNB",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "blazernere",
+              "name": "Danil Garmanov",
+              "id": 2739936361,
+              "id_str": "2739936361",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                12,
+                26
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/DzcWzwJdNB",
+              "expanded_url": "https://twitter.com/i/web/status/964383581740064769",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 964380898798968800,
+        "in_reply_to_status_id_str": "964380898798968832",
+        "in_reply_to_user_id": 2739936361,
+        "in_reply_to_user_id_str": "2739936361",
+        "in_reply_to_screen_name": "blazernere",
+        "user": {
+          "id": 869254537,
+          "id_str": "869254537"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 16 07:10:01 +0000 2018",
+      "id": 964396430189215700,
+      "id_str": "964396430189215745",
+      "text": "@wwjurew Странно, статический сайт на gihub pages, все должно быть ок.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "wwjurew",
+            "name": "Vitalii Iurev",
+            "id": 355155676,
+            "id_str": "355155676",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 964393465093111800,
+      "in_reply_to_status_id_str": "964393465093111808",
+      "in_reply_to_user_id": 355155676,
+      "in_reply_to_user_id_str": "355155676",
+      "in_reply_to_screen_name": "wwjurew",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

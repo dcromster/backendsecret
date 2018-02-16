@@ -4,18 +4,7 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Санкт-Петербург, Россия",
-  "profile_location": {
-    "id": "a76c0cd7d56c4836",
-    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-    "place_type": "unknown",
-    "name": "Санкт-Петербург, Россия",
-    "full_name": "Санкт-Петербург, Россия",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "На этой неделе с вами @Lazin",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -37,127 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 5150,
+  "followers_count": 5148,
   "friends_count": 0,
-  "listed_count": 222,
+  "listed_count": 221,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
   "favourites_count": 3802,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28257,
+  "statuses_count": 28282,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Feb 15 06:35:06 +0000 2018",
-    "id": 964025254615101400,
-    "id_str": "964025254615101440",
-    "text": "RT @emakashov: @backendsecret У Питера Норвига есть эссе на данную тему (в т.ч. ссылается на Malcolm Gladwell)\nhttps://t.co/ul15Fnh2SC",
+    "created_at": "Fri Feb 16 07:10:01 +0000 2018",
+    "id": 964396430189215700,
+    "id_str": "964396430189215745",
+    "text": "@wwjurew Странно, статический сайт на gihub pages, все должно быть ок.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "emakashov",
-          "name": "Evgeny Makashov",
-          "id": 4609316837,
-          "id_str": "4609316837",
+          "screen_name": "wwjurew",
+          "name": "Vitalii Iurev",
+          "id": 355155676,
+          "id_str": "355155676",
           "indices": [
-            3,
-            13
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик бэкенда",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            15,
-            29
+            0,
+            8
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/ul15Fnh2SC",
-          "expanded_url": "http://www.norvig.com/21-days.html",
-          "display_url": "norvig.com/21-days.html",
-          "indices": [
-            111,
-            134
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 964393465093111800,
+    "in_reply_to_status_id_str": "964393465093111808",
+    "in_reply_to_user_id": 355155676,
+    "in_reply_to_user_id_str": "355155676",
+    "in_reply_to_screen_name": "wwjurew",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Wed Feb 14 15:25:30 +0000 2018",
-      "id": 963796350004613100,
-      "id_str": "963796350004613121",
-      "text": "@backendsecret У Питера Норвига есть эссе на данную тему (в т.ч. ссылается на Malcolm Gladwell)\nhttps://t.co/ul15Fnh2SC",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик бэкенда",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              0,
-              14
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/ul15Fnh2SC",
-            "expanded_url": "http://www.norvig.com/21-days.html",
-            "display_url": "norvig.com/21-days.html",
-            "indices": [
-              96,
-              119
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 963739652585861100,
-      "in_reply_to_status_id_str": "963739652585861121",
-      "in_reply_to_user_id": 3302551618,
-      "in_reply_to_user_id_str": "3302551618",
-      "in_reply_to_screen_name": "backendsecret",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 3,
-      "favorited": false,
-      "retweeted": true,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
