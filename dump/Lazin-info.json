@@ -4,18 +4,7 @@
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
   "location": "Санкт-Петербург, Россия",
-  "profile_location": {
-    "id": "a76c0cd7d56c4836",
-    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-    "place_type": "unknown",
-    "name": "Санкт-Петербург, Россия",
-    "full_name": "Санкт-Петербург, Россия",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "На этой неделе с вами @Lazin",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -37,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 5147,
+  "followers_count": 5150,
   "friends_count": 0,
   "listed_count": 222,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -46,29 +35,30 @@
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28309,
+  "statuses_count": 28311,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Feb 17 09:00:24 +0000 2018",
-    "id": 964786596963897300,
-    "id_str": "964786596963897344",
-    "text": "На самом деле, можно работать над какой-нибудь подсистемой, с которой фронтенд напрямую не взаимодействует. Но част… https://t.co/aK7C2UvTRg",
-    "truncated": true,
+    "created_at": "Sun Feb 18 20:32:16 +0000 2018",
+    "id": 965323098949144600,
+    "id_str": "965323098949144576",
+    "text": "И на этом пожалуй стоит попрощаться. С вами был @Lazin, всем спасибо за внимание, вы хорошее комьюнити :)",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/aK7C2UvTRg",
-          "expanded_url": "https://twitter.com/i/web/status/964786596963897344",
-          "display_url": "twitter.com/i/web/status/9…",
+          "screen_name": "Lazin",
+          "name": "Ωmegaman",
+          "id": 14094521,
+          "id_str": "14094521",
           "indices": [
-            117,
-            140
+            48,
+            54
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +70,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 964786155941134300,
-    "quoted_status_id_str": "964786155941134336",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
