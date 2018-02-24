@@ -47,40 +47,42 @@
     }
   },
   "protected": false,
-  "followers_count": 5194,
+  "followers_count": 5192,
   "friends_count": 0,
   "listed_count": 222,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 3829,
+  "favourites_count": 3833,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28512,
+  "statuses_count": 28517,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Feb 24 14:09:51 +0000 2018",
-    "id": 967401189833936900,
-    "id_str": "967401189833936896",
-    "text": "Если вы используете Ruby, то советую попробовать https://t.co/AJbuAMK5Ux. Хороший синтаксис и подход. В Capybara до… https://t.co/k6CVMugJWB",
+    "created_at": "Sat Feb 24 19:34:34 +0000 2018",
+    "id": 967482907332939800,
+    "id_str": "967482907332939783",
+    "text": "@musuk Их ещё называют acceptance тесты. Это тесты которые запускают настоящий браузер и производят действия, как э… https://t.co/IKsbJeloYX",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "musuk",
+          "name": "musuk",
+          "id": 19105647,
+          "id_str": "19105647",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/AJbuAMK5Ux",
-          "expanded_url": "https://github.com/cheezy/page-object/",
-          "display_url": "github.com/cheezy/page-ob…",
-          "indices": [
-            49,
-            72
-          ]
-        },
-        {
-          "url": "https://t.co/k6CVMugJWB",
-          "expanded_url": "https://twitter.com/i/web/status/967401189833936896",
+          "url": "https://t.co/IKsbJeloYX",
+          "expanded_url": "https://twitter.com/i/web/status/967482907332939783",
           "display_url": "twitter.com/i/web/status/9…",
           "indices": [
             117,
@@ -90,21 +92,20 @@
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 967401099283058700,
-    "in_reply_to_status_id_str": "967401099283058689",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": 967460088767238100,
+    "in_reply_to_status_id_str": "967460088767238146",
+    "in_reply_to_user_id": 19105647,
+    "in_reply_to_user_id_str": "19105647",
+    "in_reply_to_screen_name": "musuk",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
