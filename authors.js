@@ -1,7 +1,7 @@
 export default [
   // { username: 'twitter_name', start: '15 feb 2018', first: '640816652293144576', post: false },
-  { username: 'daniel_vartanov', start: '05 mar 2018', first: '970633400439771142', post: false },
-  { username: '_bravit',         start: '26 feb 2018', first: '968041992293842945'},
+  { username: 'daniel_vartanov', start: '05 mar 2018', first: '970633400439771142' },
+  { username: '_bravit',         start: '26 feb 2018', first: '968041992293842945' },
   { username: 'it_poselok',      start: '19 feb 2018', first: '965504231682859008' },
   { username: 'Lazin',           start: '12 feb 2018', first: '962933366529183744' },
   { username: 'ctrlok-2',        start: '05 feb 2018', first: '960274610037116931' },
