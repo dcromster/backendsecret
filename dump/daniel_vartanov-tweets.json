@@ -12147,6 +12147,924 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 12 08:07:45 +0000 2018",
+      "id": 973108270226395100,
+      "id_str": "973108270226395137",
+      "text": "@komzpa а ты мне покажи автоматический выбор при конфликте в ветке, причём без участия гитхаба в качестве единого центра :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "komzpa",
+            "name": "Komяpa",
+            "id": 20379464,
+            "id_str": "20379464",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 973093997622321200,
+      "in_reply_to_status_id_str": "973093997622321152",
+      "in_reply_to_user_id": 20379464,
+      "in_reply_to_user_id_str": "20379464",
+      "in_reply_to_screen_name": "komzpa",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3425387945
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 12 08:08:12 +0000 2018",
+      "id": 973108381522174000,
+      "id_str": "973108381522173952",
+      "text": "RT @vvn33: Прочитав воскресный @backendsecret в очередной раз хочу напомнить всем программистам:\n\nМы работаем, для того, чтобы жить.\n\n А не…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vvn33",
+            "name": "Victor Volchek",
+            "id": 121782033,
+            "id_str": "121782033",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              31,
+              45
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3425387945
+      ],
+      "retweeted_status": {
+        "created_at": "Mon Mar 12 05:35:25 +0000 2018",
+        "id": 973069934472376300,
+        "id_str": "973069934472376320",
+        "text": "Прочитав воскресный @backendsecret в очередной раз хочу напомнить всем программистам:\n\nМы работаем, для того, чтобы… https://t.co/rSFAxfsLHh",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик бэкенда",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                20,
+                34
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/rSFAxfsLHh",
+              "expanded_url": "https://twitter.com/i/web/status/973069934472376320",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 121782033,
+          "id_str": "121782033"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 44,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 12 08:09:19 +0000 2018",
+      "id": 973108663245303800,
+      "id_str": "973108663245303808",
+      "text": "@ATavgen в случае если у половины нод одна инфа о владении сущностью X,  а у другой половины другая, как решается конфликт?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ATavgen",
+            "name": "AlexTavgen",
+            "id": 851113204717629400,
+            "id_str": "851113204717629441",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 973056552780357600,
+      "in_reply_to_status_id_str": "973056552780357632",
+      "in_reply_to_user_id": 851113204717629400,
+      "in_reply_to_user_id_str": "851113204717629441",
+      "in_reply_to_screen_name": "ATavgen",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3425387945
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 12 08:16:26 +0000 2018",
+      "id": 973110455693652000,
+      "id_str": "973110455693651968",
+      "text": "@ATavgen а что за ресурс такой будет у нод,  что они им будут \"голосовать\" в PoS? Кто будет физически контролировать ноды?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ATavgen",
+            "name": "AlexTavgen",
+            "id": 851113204717629400,
+            "id_str": "851113204717629441",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 973109418035380200,
+      "in_reply_to_status_id_str": "973109418035380224",
+      "in_reply_to_user_id": 851113204717629400,
+      "in_reply_to_user_id_str": "851113204717629441",
+      "in_reply_to_screen_name": "ATavgen",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3425387945
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 12 08:22:29 +0000 2018",
+      "id": 973111975856300000,
+      "id_str": "973111975856300032",
+      "text": "@ATavgen ну тогда ты описал централизованную систему, достаточно взломать любую из нод, чтобы получить доступ к пер… https://t.co/417IedAHrp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ATavgen",
+            "name": "AlexTavgen",
+            "id": 851113204717629400,
+            "id_str": "851113204717629441",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/417IedAHrp",
+            "expanded_url": "https://twitter.com/i/web/status/973111975856300032",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 973111310547341300,
+      "in_reply_to_status_id_str": "973111310547341312",
+      "in_reply_to_user_id": 851113204717629400,
+      "in_reply_to_user_id_str": "851113204717629441",
+      "in_reply_to_screen_name": "ATavgen",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3425387945
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 12 08:26:08 +0000 2018",
+      "id": 973112894123593700,
+      "id_str": "973112894123593729",
+      "text": "@ATavgen не приведёт (она и при постгресе бы не привела, криптография везде криптография), но у каждой ноды есть st… https://t.co/0nNICP8ZGK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ATavgen",
+            "name": "AlexTavgen",
+            "id": 851113204717629400,
+            "id_str": "851113204717629441",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0nNICP8ZGK",
+            "expanded_url": "https://twitter.com/i/web/status/973112894123593729",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 973112285739798500,
+      "in_reply_to_status_id_str": "973112285739798529",
+      "in_reply_to_user_id": 851113204717629400,
+      "in_reply_to_user_id_str": "851113204717629441",
+      "in_reply_to_screen_name": "ATavgen",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3425387945
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 12 08:30:17 +0000 2018",
+      "id": 973113938102685700,
+      "id_str": "973113938102685696",
+      "text": "@ATavgen Можно, плиз, подробнее про цепочку секьюрити?\nА бэкап, репликация и всё такое гораздо дешевле решается, ес… https://t.co/iymzardcmH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ATavgen",
+            "name": "AlexTavgen",
+            "id": 851113204717629400,
+            "id_str": "851113204717629441",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iymzardcmH",
+            "expanded_url": "https://twitter.com/i/web/status/973113938102685696",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 973113359158702100,
+      "in_reply_to_status_id_str": "973113359158702080",
+      "in_reply_to_user_id": 851113204717629400,
+      "in_reply_to_user_id_str": "851113204717629441",
+      "in_reply_to_screen_name": "ATavgen",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3425387945
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 12 08:39:46 +0000 2018",
+      "id": 973116327496962000,
+      "id_str": "973116327496962048",
+      "text": "@ATavgen изменение владения в любом случае возможно только при знании приватного ключа владельца, так что взлом цен… https://t.co/N439a7iR54",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ATavgen",
+            "name": "AlexTavgen",
+            "id": 851113204717629400,
+            "id_str": "851113204717629441",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/N439a7iR54",
+            "expanded_url": "https://twitter.com/i/web/status/973116327496962048",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 973115014256250900,
+      "in_reply_to_status_id_str": "973115014256250881",
+      "in_reply_to_user_id": 851113204717629400,
+      "in_reply_to_user_id_str": "851113204717629441",
+      "in_reply_to_screen_name": "ATavgen",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3425387945
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 12 08:44:36 +0000 2018",
+      "id": 973117541043273700,
+      "id_str": "973117541043273728",
+      "text": "@ATavgen вот самый прикол в том, что не может :) Все такие системы сильно дороже не только в производстве, но и в э… https://t.co/80VnvbECcT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ATavgen",
+            "name": "AlexTavgen",
+            "id": 851113204717629400,
+            "id_str": "851113204717629441",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/80VnvbECcT",
+            "expanded_url": "https://twitter.com/i/web/status/973117541043273728",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 973116797124796400,
+      "in_reply_to_status_id_str": "973116797124796416",
+      "in_reply_to_user_id": 851113204717629400,
+      "in_reply_to_user_id_str": "851113204717629441",
+      "in_reply_to_screen_name": "ATavgen",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3425387945
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 12 08:46:05 +0000 2018",
+      "id": 973117915577946100,
+      "id_str": "973117915577946112",
+      "text": "@graFFiXtation @dcromster @the_sapiens @rkononov @Gen1us2k @kalysosmonov @mimikadze @MadDevsIO @aka_le_Mulder зато… https://t.co/gVjyS0u3ke",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "graFFiXtation",
+            "name": "Adilet Abylov",
+            "id": 123152793,
+            "id_str": "123152793",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "dcromster",
+            "name": "🤖 Дядя 🄿обот 🤖",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              15,
+              25
+            ]
+          },
+          {
+            "screen_name": "the_sapiens",
+            "name": "Samat Jukeshov",
+            "id": 320600276,
+            "id_str": "320600276",
+            "indices": [
+              26,
+              38
+            ]
+          },
+          {
+            "screen_name": "rkononov",
+            "name": "Roman Kononov",
+            "id": 19386486,
+            "id_str": "19386486",
+            "indices": [
+              39,
+              48
+            ]
+          },
+          {
+            "screen_name": "Gen1us2k",
+            "name": "Andrew Minkin",
+            "id": 153380025,
+            "id_str": "153380025",
+            "indices": [
+              49,
+              58
+            ]
+          },
+          {
+            "screen_name": "kalysosmonov",
+            "name": "Калыс Осмонов",
+            "id": 130072053,
+            "id_str": "130072053",
+            "indices": [
+              59,
+              72
+            ]
+          },
+          {
+            "screen_name": "mimikadze",
+            "name": "Mikhail Sytchev",
+            "id": 94048672,
+            "id_str": "94048672",
+            "indices": [
+              73,
+              83
+            ]
+          },
+          {
+            "screen_name": "MadDevsIO",
+            "name": "Mad Devs",
+            "id": 791532007394279400,
+            "id_str": "791532007394279424",
+            "indices": [
+              84,
+              94
+            ]
+          },
+          {
+            "screen_name": "aka_le_Mulder",
+            "name": "Michael Ivashchenko",
+            "id": 20502892,
+            "id_str": "20502892",
+            "indices": [
+              95,
+              109
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gVjyS0u3ke",
+            "expanded_url": "https://twitter.com/i/web/status/973117915577946112",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 973117626569371600,
+      "in_reply_to_status_id_str": "973117626569371648",
+      "in_reply_to_user_id": 123152793,
+      "in_reply_to_user_id_str": "123152793",
+      "in_reply_to_screen_name": "graFFiXtation",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 12 09:00:21 +0000 2018",
+      "id": 973121506162114600,
+      "id_str": "973121506162114561",
+      "text": "@graFFiXtation @dcromster @the_sapiens @rkononov @Gen1us2k @kalysosmonov @mimikadze @MadDevsIO @aka_le_Mulder да, я его тож там отметил )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "graFFiXtation",
+            "name": "Adilet Abylov",
+            "id": 123152793,
+            "id_str": "123152793",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "dcromster",
+            "name": "🤖 Дядя 🄿обот 🤖",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              15,
+              25
+            ]
+          },
+          {
+            "screen_name": "the_sapiens",
+            "name": "Samat Jukeshov",
+            "id": 320600276,
+            "id_str": "320600276",
+            "indices": [
+              26,
+              38
+            ]
+          },
+          {
+            "screen_name": "rkononov",
+            "name": "Roman Kononov",
+            "id": 19386486,
+            "id_str": "19386486",
+            "indices": [
+              39,
+              48
+            ]
+          },
+          {
+            "screen_name": "Gen1us2k",
+            "name": "Andrew Minkin",
+            "id": 153380025,
+            "id_str": "153380025",
+            "indices": [
+              49,
+              58
+            ]
+          },
+          {
+            "screen_name": "kalysosmonov",
+            "name": "Калыс Осмонов",
+            "id": 130072053,
+            "id_str": "130072053",
+            "indices": [
+              59,
+              72
+            ]
+          },
+          {
+            "screen_name": "mimikadze",
+            "name": "Mikhail Sytchev",
+            "id": 94048672,
+            "id_str": "94048672",
+            "indices": [
+              73,
+              83
+            ]
+          },
+          {
+            "screen_name": "MadDevsIO",
+            "name": "Mad Devs",
+            "id": 791532007394279400,
+            "id_str": "791532007394279424",
+            "indices": [
+              84,
+              94
+            ]
+          },
+          {
+            "screen_name": "aka_le_Mulder",
+            "name": "Michael Ivashchenko",
+            "id": 20502892,
+            "id_str": "20502892",
+            "indices": [
+              95,
+              109
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 973121366563151900,
+      "in_reply_to_status_id_str": "973121366563151874",
+      "in_reply_to_user_id": 123152793,
+      "in_reply_to_user_id_str": "123152793",
+      "in_reply_to_screen_name": "graFFiXtation",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3425387945
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 12 09:34:58 +0000 2018",
+      "id": 973130216490053600,
+      "id_str": "973130216490053632",
+      "text": "@AlexUPav /плачут вместе, обнявшись/",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AlexUPav",
+            "name": "fizik",
+            "id": 2838336112,
+            "id_str": "2838336112",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 973129599520518100,
+      "in_reply_to_status_id_str": "973129599520518144",
+      "in_reply_to_user_id": 2838336112,
+      "in_reply_to_user_id_str": "2838336112",
+      "in_reply_to_screen_name": "AlexUPav",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 13 11:05:40 +0000 2018",
+      "id": 973515429653119000,
+      "id_str": "973515429653118976",
+      "text": "@andy_shev @daniel_vartanov @cyber_blyat @abroadunderhood ой, вы ж и есть тот товарищ. Я понимаю про близость, но я… https://t.co/AuQEvEznHa",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "andy_shev",
+            "name": "Andy Shevchenko",
+            "id": 18667372,
+            "id_str": "18667372",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "daniel_vartanov",
+            "name": "Daniel Vartanov",
+            "id": 16271895,
+            "id_str": "16271895",
+            "indices": [
+              11,
+              27
+            ]
+          },
+          {
+            "screen_name": "cyber_blyat",
+            "name": "Name may not be null",
+            "id": 118749292,
+            "id_str": "118749292",
+            "indices": [
+              28,
+              40
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              41,
+              57
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AuQEvEznHa",
+            "expanded_url": "https://twitter.com/i/web/status/973515429653118976",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 973509577907036200,
+      "in_reply_to_status_id_str": "973509577907036160",
+      "in_reply_to_user_id": 18667372,
+      "in_reply_to_user_id_str": "18667372",
+      "in_reply_to_screen_name": "andy_shev",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3425387945
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
