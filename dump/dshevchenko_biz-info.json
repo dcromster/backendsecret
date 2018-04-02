@@ -3,20 +3,9 @@
   "id_str": "3302551618",
   "name": "Разработчик бэкенда",
   "screen_name": "backendsecret",
-  "location": "Armenia",
-  "profile_location": {
-    "id": "1315b8e69a2d1511",
-    "url": "https://api.twitter.com/1.1/geo/id/1315b8e69a2d1511.json",
-    "place_type": "unknown",
-    "name": "Armenia",
-    "full_name": "Armenia",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
-  "description": "На этой неделе аккаунт ведёт Денис @dshevchenko_biz Шевченко, бэкенд-программист, знакомый с функторами и монадами.",
+  "location": "интернет",
+  "profile_location": null,
+  "description": "На этой неделе аккаунт никто не ведёт.",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
     "url": {
@@ -37,55 +26,115 @@
     }
   },
   "protected": false,
-  "followers_count": 5632,
+  "followers_count": 5675,
   "friends_count": 0,
   "listed_count": 223,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 4182,
+  "favourites_count": 4265,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29613,
+  "statuses_count": 29840,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Mar 25 17:40:26 +0000 2018",
-    "id": 977963432585592800,
-    "id_str": "977963432585592837",
-    "text": "@StockySpark По прошествии 11 лет я уже и не вспомню детали... Но, скорее всего, причиной была просто ГЛУПОСТЬ. :-D",
+    "created_at": "Mon Apr 02 08:09:29 +0000 2018",
+    "id": 980718852018458600,
+    "id_str": "980718852018458624",
+    "text": "RT @KurliKurli: @backendsecret Ищу ментора! пишу на Java, пробовал Kotlin, знания базовые + спринг(использовал для авторизации на стороне с…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "StockySpark",
-          "name": "Daniil Chebotkov",
-          "id": 90845050,
-          "id_str": "90845050",
+          "screen_name": "KurliKurli",
+          "name": "Арсений",
+          "id": 268443947,
+          "id_str": "268443947",
           "indices": [
-            0,
-            12
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик бэкенда",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            16,
+            30
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 977953480622137300,
-    "in_reply_to_status_id_str": "977953480622137349",
-    "in_reply_to_user_id": 90845050,
-    "in_reply_to_user_id_str": "90845050",
-    "in_reply_to_screen_name": "StockySpark",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Apr 02 06:40:54 +0000 2018",
+      "id": 980696556457295900,
+      "id_str": "980696556457295874",
+      "text": "@backendsecret Ищу ментора! пишу на Java, пробовал Kotlin, знания базовые + спринг(использовал для авторизации на с… https://t.co/2le1TYcJQk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик бэкенда",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2le1TYcJQk",
+            "expanded_url": "https://twitter.com/i/web/status/980696556457295874",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -95,9 +144,9 @@
   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/719457357969928192/_eI9U6jC.jpg",
   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/719457357969928192/_eI9U6jC.jpg",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/975599455209705472/MtIUSnLH_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/975599455209705472/MtIUSnLH_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3302551618/1521436858",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/978965974144700416/29kHqjPR_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/978965974144700416/29kHqjPR_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3302551618/1522238742",
   "profile_link_color": "ABB8C2",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
