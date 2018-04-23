@@ -1,6 +1,6 @@
 export default [
   // { username: 'twitter_name', start: '15 feb 2018', first: '640816652293144576', post: false },
-  { username: 'frontend_sanya',  start: '16 apr 2018', first: '985831718375567360', post: false },
+  { username: 'frontend_sanya',  start: '16 apr 2018', first: '985831718375567360' },
   { username: 'dsimonov_2',      start: '09 apr 2018', first: '983227053217632256' },
   { username: 'rbektour',        start: '02 apr 2018', first: '980723739447848960' },
   { username: 'dshevchenko_biz', start: '19 mar 2018', first: '975605698213138432' },
