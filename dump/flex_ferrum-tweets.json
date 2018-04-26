@@ -7824,6 +7824,1694 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 12:05:36 +0000 2018",
+      "id": 989475580205785100,
+      "id_str": "989475580205785089",
+      "text": "Так всё просто же. :) (ну, с моей ТЗ). Компонент не работает в вакууме. Ему для работы обычно нужны те или иные сер… https://t.co/afl6jXRQq7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/afl6jXRQq7",
+            "expanded_url": "https://twitter.com/i/web/status/989475580205785089",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 989473483406151700,
+      "quoted_status_id_str": "989473483406151680",
+      "quoted_status": {
+        "created_at": "Thu Apr 26 11:57:16 +0000 2018",
+        "id": 989473483406151700,
+        "id_str": "989473483406151680",
+        "text": "@backendsecret Это общедоступная инфа о DIP. Но ни разу не видел как говоря о DIP, раскрывали что такое абстракции,… https://t.co/db5rDOofZb",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/db5rDOofZb",
+              "expanded_url": "https://twitter.com/i/web/status/989473483406151680",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 989468998612979700,
+        "in_reply_to_status_id_str": "989468998612979712",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 803703261530300400,
+          "id_str": "803703261530300416"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 12:05:37 +0000 2018",
+      "id": 989475582458155000,
+      "id_str": "989475582458155008",
+      "text": "Вариант номер раз: он может добавить зависимости на конкретные реализации читателей и писателей (ну, скажем, FileRe… https://t.co/GyKry2S8hi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GyKry2S8hi",
+            "expanded_url": "https://twitter.com/i/web/status/989475582458155008",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 989475580205785100,
+      "in_reply_to_status_id_str": "989475580205785089",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 12:05:37 +0000 2018",
+      "id": 989475584534306800,
+      "id_str": "989475584534306816",
+      "text": "Вариант номер два: интерфейс читателя и интерфейс писателя передаются извне. То есть сериализатор зависит только от… https://t.co/BpUQDPeBkd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BpUQDPeBkd",
+            "expanded_url": "https://twitter.com/i/web/status/989475584534306816",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 989475582458155000,
+      "in_reply_to_status_id_str": "989475582458155008",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 12:05:38 +0000 2018",
+      "id": 989475586459521000,
+      "id_str": "989475586459521032",
+      "text": "Есть ещё третий вариант (паттерн Service Locator) - когда сериализатор получает интерфейсы из некоего репозитория (… https://t.co/DpdukiyCTo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DpdukiyCTo",
+            "expanded_url": "https://twitter.com/i/web/status/989475586459521032",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 989475584534306800,
+      "in_reply_to_status_id_str": "989475584534306816",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 12:05:38 +0000 2018",
+      "id": 989475587780685800,
+      "id_str": "989475587780685824",
+      "text": "Очевидно, что второй вариант (плюс ко всему) ещё и более тестируем, т. к. позволяет клиенту (или тестовому коду) со… https://t.co/Kl9mrFnTNc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Kl9mrFnTNc",
+            "expanded_url": "https://twitter.com/i/web/status/989475587780685824",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 989475586459521000,
+      "in_reply_to_status_id_str": "989475586459521032",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 12:13:17 +0000 2018",
+      "id": 989477513230512100,
+      "id_str": "989477513230512128",
+      "text": "Эм... Безусловно (то есть это презюмируется и постулируется), что интерфейс отражает и фиксирует контракт взаимодей… https://t.co/saWdUgVS4x",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/saWdUgVS4x",
+            "expanded_url": "https://twitter.com/i/web/status/989477513230512128",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 989475582525235200,
+      "quoted_status_id_str": "989475582525235200",
+      "quoted_status": {
+        "created_at": "Thu Apr 26 12:05:37 +0000 2018",
+        "id": 989475582525235200,
+        "id_str": "989475582525235200",
+        "text": "@backendsecret А так народ вон уже пишет что интерфейсы не нужны, потому что их надо постоянно вместе с имплементац… https://t.co/BgLZ0OLW7Q",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/BgLZ0OLW7Q",
+              "expanded_url": "https://twitter.com/i/web/status/989475582525235200",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 989474156466131000,
+        "in_reply_to_status_id_str": "989474156466130944",
+        "in_reply_to_user_id": 803703261530300400,
+        "in_reply_to_user_id_str": "803703261530300416",
+        "in_reply_to_screen_name": "SKapraloFF",
+        "user": {
+          "id": 803703261530300400,
+          "id_str": "803703261530300416"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 12:13:17 +0000 2018",
+      "id": 989477515088613400,
+      "id_str": "989477515088613377",
+      "text": "Интерфейсы - это точки связи и взаимодействия. С одной стороны, они создают зависимости, с другой - уменьшают степе… https://t.co/cf8Axeh4Qk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cf8Axeh4Qk",
+            "expanded_url": "https://twitter.com/i/web/status/989477515088613377",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 989477513230512100,
+      "in_reply_to_status_id_str": "989477513230512128",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 12:13:18 +0000 2018",
+      "id": 989477516686643200,
+      "id_str": "989477516686643200",
+      "text": "То есть когда ты выделяешь абстракцию - ты уже можешь описать её интерфейс. Который является отличительным признаком конкретной абстракции.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 989477515088613400,
+      "in_reply_to_status_id_str": "989477515088613377",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 12:29:26 +0000 2018",
+      "id": 989481576181444600,
+      "id_str": "989481576181444610",
+      "text": "К слову, это ко вчерашнему вопросу о \"А какие критерии \"освоения\" парадигмы ООП?\" (https://t.co/syMbCrMaV3)\nКогда т… https://t.co/1IPVDq9Fo4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/syMbCrMaV3",
+            "expanded_url": "https://twitter.com/frank_snijder/status/989231189398564866",
+            "display_url": "twitter.com/frank_snijder/…",
+            "indices": [
+              83,
+              106
+            ]
+          },
+          {
+            "url": "https://t.co/1IPVDq9Fo4",
+            "expanded_url": "https://twitter.com/i/web/status/989481576181444610",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 989474156466131000,
+      "quoted_status_id_str": "989474156466130944",
+      "quoted_status": {
+        "created_at": "Thu Apr 26 11:59:57 +0000 2018",
+        "id": 989474156466131000,
+        "id_str": "989474156466130944",
+        "text": "@backendsecret Потому что мало написать с сервису интерфейс и назвать его абстракцией. Чтобы он был путной абстракц… https://t.co/d3fQwymP8B",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/d3fQwymP8B",
+              "expanded_url": "https://twitter.com/i/web/status/989474156466130944",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 989473483406151700,
+        "in_reply_to_status_id_str": "989473483406151680",
+        "in_reply_to_user_id": 803703261530300400,
+        "in_reply_to_user_id_str": "803703261530300416",
+        "in_reply_to_screen_name": "SKapraloFF",
+        "user": {
+          "id": 803703261530300400,
+          "id_str": "803703261530300416"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 12:29:26 +0000 2018",
+      "id": 989481578119262200,
+      "id_str": "989481578119262208",
+      "text": "В принципе (чуть позже) могу показать ход мысли на конкретном примере.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 989481576181444600,
+      "in_reply_to_status_id_str": "989481576181444610",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 12:32:32 +0000 2018",
+      "id": 989482359471902700,
+      "id_str": "989482359471902721",
+      "text": "При этом я не утверждаю, что написать хороший интерфейс (сходу) - легко. Чаще наоборот, это как раз таки сложно по… https://t.co/HhGqsIY9H0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HhGqsIY9H0",
+            "expanded_url": "https://twitter.com/i/web/status/989482359471902721",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 989481578119262200,
+      "in_reply_to_status_id_str": "989481578119262208",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 12:53:08 +0000 2018",
+      "id": 989487543287730200,
+      "id_str": "989487543287730176",
+      "text": "@SKapraloFF Хм. А в чём конкретно проблема с пониманием? В принципе, я могу больше времени посвятить этой теме, чем… https://t.co/XvDPHXbkKE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SKapraloFF",
+            "name": "Kapralov Sergey",
+            "id": 803703261530300400,
+            "id_str": "803703261530300416",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XvDPHXbkKE",
+            "expanded_url": "https://twitter.com/i/web/status/989487543287730176",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 989486462755397600,
+      "in_reply_to_status_id_str": "989486462755397632",
+      "in_reply_to_user_id": 803703261530300400,
+      "in_reply_to_user_id_str": "803703261530300416",
+      "in_reply_to_screen_name": "SKapraloFF",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 13:11:29 +0000 2018",
+      "id": 989492160025292800,
+      "id_str": "989492160025292802",
+      "text": "RT @SKapraloFF: @backendsecret Лично я понял, что есть на самом деле SOLID только когда прочел \"Clean architecture\" Мартина. До этого я тол…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SKapraloFF",
+            "name": "Kapralov Sergey",
+            "id": 803703261530300400,
+            "id_str": "803703261530300416",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик backend'а",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              16,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Apr 26 13:09:34 +0000 2018",
+        "id": 989491676682039300,
+        "id_str": "989491676682039296",
+        "text": "@backendsecret Лично я понял, что есть на самом деле SOLID только когда прочел \"Clean architecture\" Мартина. До это… https://t.co/s4pXuBc6OU",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/s4pXuBc6OU",
+              "expanded_url": "https://twitter.com/i/web/status/989491676682039296",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 989488543226581000,
+        "in_reply_to_status_id_str": "989488543226580993",
+        "in_reply_to_user_id": 803703261530300400,
+        "in_reply_to_user_id_str": "803703261530300416",
+        "in_reply_to_screen_name": "SKapraloFF",
+        "user": {
+          "id": 803703261530300400,
+          "id_str": "803703261530300416"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 14,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 14:01:48 +0000 2018",
+      "id": 989504822754803700,
+      "id_str": "989504822754803713",
+      "text": "@musuk @SKapraloFF @yegor256 Лично я книжку Егора не читал, но сомневаюсь в высказанном тезисе. :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "musuk",
+            "name": "musuk",
+            "id": 19105647,
+            "id_str": "19105647",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "SKapraloFF",
+            "name": "Kapralov Sergey",
+            "id": 803703261530300400,
+            "id_str": "803703261530300416",
+            "indices": [
+              7,
+              18
+            ]
+          },
+          {
+            "screen_name": "yegor256",
+            "name": "Yegor Bugayenko",
+            "id": 225097272,
+            "id_str": "225097272",
+            "indices": [
+              19,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 989503440727527400,
+      "in_reply_to_status_id_str": "989503440727527426",
+      "in_reply_to_user_id": 19105647,
+      "in_reply_to_user_id_str": "19105647",
+      "in_reply_to_screen_name": "musuk",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 14:35:55 +0000 2018",
+      "id": 989513410458112000,
+      "id_str": "989513410458112000",
+      "text": "@AstarothAst @musuk @SKapraloFF @yegor256 Имею право и буду! :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AstarothAst",
+            "name": "Astaroth",
+            "id": 3069917818,
+            "id_str": "3069917818",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "musuk",
+            "name": "musuk",
+            "id": 19105647,
+            "id_str": "19105647",
+            "indices": [
+              13,
+              19
+            ]
+          },
+          {
+            "screen_name": "SKapraloFF",
+            "name": "Kapralov Sergey",
+            "id": 803703261530300400,
+            "id_str": "803703261530300416",
+            "indices": [
+              20,
+              31
+            ]
+          },
+          {
+            "screen_name": "yegor256",
+            "name": "Yegor Bugayenko",
+            "id": 225097272,
+            "id_str": "225097272",
+            "indices": [
+              32,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 989511943017943000,
+      "in_reply_to_status_id_str": "989511943017943041",
+      "in_reply_to_user_id": 3069917818,
+      "in_reply_to_user_id_str": "3069917818",
+      "in_reply_to_screen_name": "AstarothAst",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 15:27:13 +0000 2018",
+      "id": 989526318734856200,
+      "id_str": "989526318734856194",
+      "text": "Дело близится к вечеру, а я ещё даже толком и не начал. Итак, как реализация требований по безопасности может ложиться на волшебную SOLID?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 15:47:17 +0000 2018",
+      "id": 989531369305976800,
+      "id_str": "989531369305976832",
+      "text": "Первая буква. S. Single Responsibility.\nОчевидно, что максимальный вред, который может нанести компонент системе в… https://t.co/czyyvluBey",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/czyyvluBey",
+            "expanded_url": "https://twitter.com/i/web/status/989531369305976832",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 15:47:18 +0000 2018",
+      "id": 989531370690170900,
+      "id_str": "989531370690170880",
+      "text": "Согласно этому принципу, компонет не должен требовать прав больше, чем минимально ему необходимо для выполнения сво… https://t.co/U3wKDZG4if",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/U3wKDZG4if",
+            "expanded_url": "https://twitter.com/i/web/status/989531370690170880",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 989531369305976800,
+      "in_reply_to_status_id_str": "989531369305976832",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 15:47:18 +0000 2018",
+      "id": 989531372191670300,
+      "id_str": "989531372191670274",
+      "text": "Отсюда получается, что чем меньшим функционалом нагружен конкретный компонент - тем меньше привелегий ему нужно для… https://t.co/7Vqr8AJdpM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7Vqr8AJdpM",
+            "expanded_url": "https://twitter.com/i/web/status/989531372191670274",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 989531370690170900,
+      "in_reply_to_status_id_str": "989531370690170880",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 15:47:52 +0000 2018",
+      "id": 989531516064731100,
+      "id_str": "989531516064731136",
+      "text": "@krems5 @SKapraloFF Не очень понятно, что имеется в виду. Поясните?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "krems5",
+            "name": "Scientific Valerian",
+            "id": 344177021,
+            "id_str": "344177021",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "SKapraloFF",
+            "name": "Kapralov Sergey",
+            "id": 803703261530300400,
+            "id_str": "803703261530300416",
+            "indices": [
+              8,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 989530444025815000,
+      "in_reply_to_status_id_str": "989530444025815040",
+      "in_reply_to_user_id": 344177021,
+      "in_reply_to_user_id_str": "344177021",
+      "in_reply_to_screen_name": "krems5",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 15:48:09 +0000 2018",
+      "id": 989531587984445400,
+      "id_str": "989531587984445441",
+      "text": "RT @krems5: @backendsecret Ну на S збс ложится\nХак в одном месте с меньшей вероятностью поможет открыть другое + за кодом проще следить = п…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "krems5",
+            "name": "Scientific Valerian",
+            "id": 344177021,
+            "id_str": "344177021",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик backend'а",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Apr 26 15:36:18 +0000 2018",
+        "id": 989528602768179200,
+        "id_str": "989528602768179200",
+        "text": "@backendsecret Ну на S збс ложится\nХак в одном месте с меньшей вероятностью поможет открыть другое + за кодом проще… https://t.co/htntadvPq8",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/htntadvPq8",
+              "expanded_url": "https://twitter.com/i/web/status/989528602768179200",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 989526318734856200,
+        "in_reply_to_status_id_str": "989526318734856194",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 344177021,
+          "id_str": "344177021"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 16:25:53 +0000 2018",
+      "id": 989541081711865900,
+      "id_str": "989541081711865856",
+      "text": "O. Open/closed principle. Функционал, который реализует компонент, зафиксирован контрактом его интерфейса (и требов… https://t.co/WnI75PzepB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WnI75PzepB",
+            "expanded_url": "https://twitter.com/i/web/status/989541081711865856",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 16:25:54 +0000 2018",
+      "id": 989541085386039300,
+      "id_str": "989541085386039297",
+      "text": "С другой стороны, реализация компонента может допускать легальное расширение функционала. Это расширение может быть… https://t.co/3xBkV28f5H",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3xBkV28f5H",
+            "expanded_url": "https://twitter.com/i/web/status/989541085386039297",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 989541081711865900,
+      "in_reply_to_status_id_str": "989541081711865856",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 16:25:55 +0000 2018",
+      "id": 989541089102229500,
+      "id_str": "989541089102229506",
+      "text": "То есть с ТЗ безопасности компонент должен быть реализован так, чтобы исключать нелегальную модификацию, и гарантир… https://t.co/JbA9i1MAku",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JbA9i1MAku",
+            "expanded_url": "https://twitter.com/i/web/status/989541089102229506",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 989541085386039300,
+      "in_reply_to_status_id_str": "989541085386039297",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 16:33:02 +0000 2018",
+      "id": 989542881206702100,
+      "id_str": "989542881206702086",
+      "text": "L. Тут всё просто. С точки зрения безопасности, расширение компонента путем наследования не должно нарушать контрак… https://t.co/ohhtUv1O6p",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ohhtUv1O6p",
+            "expanded_url": "https://twitter.com/i/web/status/989542881206702086",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 16:59:44 +0000 2018",
+      "id": 989549601924550700,
+      "id_str": "989549601924550662",
+      "text": "I. Interface Segregation. Тут, в общем, тот же подход, что и в букве S, только с другой стороны. Клиент не только н… https://t.co/iuGATsGMJZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iuGATsGMJZ",
+            "expanded_url": "https://twitter.com/i/web/status/989549601924550662",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 16:59:45 +0000 2018",
+      "id": 989549604713779200,
+      "id_str": "989549604713779200",
+      "text": "Добиться этого можно реализацией именно этого вот принципа - логической группировкой методов по интерфейсам с учёто… https://t.co/IkGZQB2vdF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IkGZQB2vdF",
+            "expanded_url": "https://twitter.com/i/web/status/989549604713779200",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 989549601924550700,
+      "in_reply_to_status_id_str": "989549601924550662",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 16:59:46 +0000 2018",
+      "id": 989549608232734700,
+      "id_str": "989549608232734721",
+      "text": "Сюда же идут всевозможные \"недокументированные возможности\", как способ через интерфейс с одним контрактом получить… https://t.co/US1rEwprn5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/US1rEwprn5",
+            "expanded_url": "https://twitter.com/i/web/status/989549608232734721",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 989549604713779200,
+      "in_reply_to_status_id_str": "989549604713779200",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 17:30:06 +0000 2018",
+      "id": 989557241568284700,
+      "id_str": "989557241568284675",
+      "text": "Ну и последняя буква, D. Dependency Injection. Компоненты, спроектированные и реализованные согласно описанным ране… https://t.co/E747gll4MA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/E747gll4MA",
+            "expanded_url": "https://twitter.com/i/web/status/989557241568284675",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 17:30:06 +0000 2018",
+      "id": 989557244856500200,
+      "id_str": "989557244856500224",
+      "text": "Упомянутый ранее xml-сериализатор может тупо не иметь прав на создание файлов на диске. К примеру. Зато эти права (… https://t.co/1n3VJOQ8rZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1n3VJOQ8rZ",
+            "expanded_url": "https://twitter.com/i/web/status/989557244856500224",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 989557241568284700,
+      "in_reply_to_status_id_str": "989557241568284675",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 26 17:30:07 +0000 2018",
+      "id": 989557247750692900,
+      "id_str": "989557247750692864",
+      "text": "... уменьшать сцепленность, но и группировать функционал по доменам безопасности, чётко специфицируя как переходы ч… https://t.co/oWTAS25EWQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oWTAS25EWQ",
+            "expanded_url": "https://twitter.com/i/web/status/989557247750692864",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 989557244856500200,
+      "in_reply_to_status_id_str": "989557244856500224",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
