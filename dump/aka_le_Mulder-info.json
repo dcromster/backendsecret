@@ -54,19 +54,38 @@
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30443,
+  "statuses_count": 30454,
   "lang": "ru",
   "status": {
-    "created_at": "Wed May 09 04:03:14 +0000 2018",
-    "id": 994065230467514400,
-    "id_str": "994065230467514368",
-    "text": "Закончился первый день I/O. В принципе, никаких сверхкрутых штук не увидел. То ли мне приелось, то Google разучились удивлять.",
-    "truncated": false,
+    "created_at": "Thu May 10 04:25:16 +0000 2018",
+    "id": 994433163307827200,
+    "id_str": "994433163307827200",
+    "text": "Чуть о себе: почти 32 года, жена, дети. Работаю на американскую компанию https://t.co/CQfn6MDPxT - пилим serverless… https://t.co/8GoJE4RqKb",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/CQfn6MDPxT",
+          "expanded_url": "http://iron.io",
+          "display_url": "iron.io",
+          "indices": [
+            73,
+            96
+          ]
+        },
+        {
+          "url": "https://t.co/8GoJE4RqKb",
+          "expanded_url": "https://twitter.com/i/web/status/994433163307827200",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -83,6 +102,7 @@
     "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
