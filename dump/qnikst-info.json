@@ -47,47 +47,69 @@
     }
   },
   "protected": false,
-  "followers_count": 5747,
+  "followers_count": 5751,
   "friends_count": 0,
-  "listed_count": 228,
+  "listed_count": 230,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 4378,
-  "utc_offset": 10800,
-  "time_zone": "Volgograd",
+  "favourites_count": 4380,
+  "utc_offset": null,
+  "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30649,
+  "statuses_count": 30655,
   "lang": "ru",
   "status": {
-    "created_at": "Wed May 23 10:14:41 +0000 2018",
-    "id": 999232138225553400,
-    "id_str": "999232138225553408",
-    "text": "Dirt Cheap Haskell возможно? https://t.co/4WwM9xK9HC\n\nХотя про все это я планировал в пятницу подробнее написать. https://t.co/iUm6p0XD1i",
+    "created_at": "Wed May 23 13:51:00 +0000 2018",
+    "id": 999286578206969900,
+    "id_str": "999286578206969856",
+    "text": "RT @elephmoon: @dshevchenko_biz @aelaau @backendsecret Классная книга. Захватывает. А если вдобавок посмотреть парочку докладов на тематику…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/4WwM9xK9HC",
-          "expanded_url": "https://monadfix.io/",
-          "display_url": "monadfix.io",
+          "screen_name": "elephmoon",
+          "name": "Alexandr Kizilov",
+          "id": 2365789652,
+          "id_str": "2365789652",
           "indices": [
-            29,
-            52
+            3,
+            13
           ]
         },
         {
-          "url": "https://t.co/iUm6p0XD1i",
-          "expanded_url": "https://twitter.com/_bravit/status/999231732653182976",
-          "display_url": "twitter.com/_bravit/status…",
+          "screen_name": "dshevchenko_biz",
+          "name": "Δenis Shevchenko",
+          "id": 231946292,
+          "id_str": "231946292",
           "indices": [
-            114,
-            137
+            15,
+            31
+          ]
+        },
+        {
+          "screen_name": "aelaau",
+          "name": "Ilya Shakirov",
+          "id": 251553185,
+          "id_str": "251553185",
+          "indices": [
+            32,
+            39
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик backend'а",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            40,
+            54
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -99,14 +121,81 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 999231732653183000,
-    "quoted_status_id_str": "999231732653182976",
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweeted_status": {
+      "created_at": "Wed May 23 13:46:18 +0000 2018",
+      "id": 999285396302331900,
+      "id_str": "999285396302331906",
+      "text": "@dshevchenko_biz @aelaau @backendsecret Классная книга. Захватывает. А если вдобавок посмотреть парочку докладов на… https://t.co/OWe0wCWQXH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dshevchenko_biz",
+            "name": "Δenis Shevchenko",
+            "id": 231946292,
+            "id_str": "231946292",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "aelaau",
+            "name": "Ilya Shakirov",
+            "id": 251553185,
+            "id_str": "251553185",
+            "indices": [
+              17,
+              24
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик backend'а",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              25,
+              39
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OWe0wCWQXH",
+            "expanded_url": "https://twitter.com/i/web/status/999285396302331906",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 999260724550619100,
+      "in_reply_to_status_id_str": "999260724550619136",
+      "in_reply_to_user_id": 231946292,
+      "in_reply_to_user_id_str": "231946292",
+      "in_reply_to_screen_name": "dshevchenko_biz",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
