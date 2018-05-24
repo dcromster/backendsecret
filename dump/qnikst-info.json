@@ -47,115 +47,54 @@
     }
   },
   "protected": false,
-  "followers_count": 5750,
+  "followers_count": 5755,
   "friends_count": 0,
   "listed_count": 230,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 4389,
+  "favourites_count": 4393,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30691,
+  "statuses_count": 30700,
   "lang": "ru",
   "status": {
-    "created_at": "Thu May 24 07:19:19 +0000 2018",
-    "id": 999550396745035800,
-    "id_str": "999550396745035776",
-    "text": "RT @4e6: @backendsecret Для меня первой большой сложностью были трансформеры. Сейчас  всё ещё тяжело воспринимаю код с использованием инста…",
-    "truncated": false,
+    "created_at": "Thu May 24 12:33:10 +0000 2018",
+    "id": 999629378345685000,
+    "id_str": "999629378345684992",
+    "text": "Тут важно, что если используются решения вроде k8s очень желательно попадать в их usecase, так, например, workbook… https://t.co/vlzoIGoFy7",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "4e6",
-          "name": "Dmitry Bushev",
-          "id": 131217651,
-          "id_str": "131217651",
+          "url": "https://t.co/vlzoIGoFy7",
+          "expanded_url": "https://twitter.com/i/web/status/999629378345684992",
+          "display_url": "twitter.com/i/web/status/9…",
           "indices": [
-            3,
-            7
-          ]
-        },
-        {
-          "screen_name": "backendsecret",
-          "name": "Разработчик backend'а",
-          "id": 3302551618,
-          "id_str": "3302551618",
-          "indices": [
-            9,
-            23
+            116,
+            139
           ]
         }
-      ],
-      "urls": []
+      ]
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 999629376986771500,
+    "in_reply_to_status_id_str": "999629376986771456",
+    "in_reply_to_user_id": 3302551618,
+    "in_reply_to_user_id_str": "3302551618",
+    "in_reply_to_screen_name": "backendsecret",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Thu May 24 06:57:04 +0000 2018",
-      "id": 999544795650494500,
-      "id_str": "999544795650494465",
-      "text": "@backendsecret Для меня первой большой сложностью были трансформеры. Сейчас  всё ещё тяжело воспринимаю код с испол… https://t.co/jT0ONQ07li",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "backendsecret",
-            "name": "Разработчик backend'а",
-            "id": 3302551618,
-            "id_str": "3302551618",
-            "indices": [
-              0,
-              14
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/jT0ONQ07li",
-            "expanded_url": "https://twitter.com/i/web/status/999544795650494465",
-            "display_url": "twitter.com/i/web/status/9…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 999406838398570500,
-      "in_reply_to_status_id_str": "999406838398570497",
-      "in_reply_to_user_id": 3302551618,
-      "in_reply_to_user_id_str": "3302551618",
-      "in_reply_to_screen_name": "backendsecret",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
