@@ -13108,6 +13108,1425 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 17:24:12 +0000 2018",
+      "id": 999702618602704900,
+      "id_str": "999702618602704902",
+      "text": "На всякий случай, какие проблемы у докера:\n1. Докер контейнеры позволяют переиспользовать контейнеры, но при этом,… https://t.co/cbJZ8Wxy3L",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cbJZ8Wxy3L",
+            "expanded_url": "https://twitter.com/i/web/status/999702618602704902",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 17:24:12 +0000 2018",
+      "id": 999702620490162200,
+      "id_str": "999702620490162177",
+      "text": "2. Если сервисов много, мо можно собрать себе зоопарк дистрибутивов, со каждый со своими security заплатками, обнов… https://t.co/9Deb0DH0Nh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9Deb0DH0Nh",
+            "expanded_url": "https://twitter.com/i/web/status/999702620490162177",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 999702618602704900,
+      "in_reply_to_status_id_str": "999702618602704902",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 17:24:13 +0000 2018",
+      "id": 999702622058709000,
+      "id_str": "999702622058708994",
+      "text": "4. Все билд тулы остаются в истории контейнера, итого, решением является экспорт без истории и импорт.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 999702620490162200,
+      "in_reply_to_status_id_str": "999702620490162177",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 17:24:13 +0000 2018",
+      "id": 999702623820316700,
+      "id_str": "999702623820316678",
+      "text": "Вот все эти проблемы автоматически решает nix. Сборка может зависеть от многих артефактов; есть единый базовый дист… https://t.co/iWJjenlnJp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iWJjenlnJp",
+            "expanded_url": "https://twitter.com/i/web/status/999702623820316678",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 999702622058709000,
+      "in_reply_to_status_id_str": "999702622058708994",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 17:24:14 +0000 2018",
+      "id": 999702625292619800,
+      "id_str": "999702625292619777",
+      "text": "В дополнение к этому разработчики могут получают возможность устанавливать пакеты из build-cache без их пересбоки/с… https://t.co/QGc0DDV3aI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QGc0DDV3aI",
+            "expanded_url": "https://twitter.com/i/web/status/999702625292619777",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 999702623820316700,
+      "in_reply_to_status_id_str": "999702623820316678",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 17:52:16 +0000 2018",
+      "id": 999709680447483900,
+      "id_str": "999709680447483905",
+      "text": "Билд слои накладываются один на другой и должны образовывать линейную структуру, а не дерево. Т.е. с ними две пробл… https://t.co/BIAmkOJqPh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BIAmkOJqPh",
+            "expanded_url": "https://twitter.com/i/web/status/999709680447483905",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 999708204270604300,
+      "quoted_status_id_str": "999708204270604288",
+      "quoted_status": {
+        "created_at": "Thu May 24 17:46:24 +0000 2018",
+        "id": 999708204270604300,
+        "id_str": "999708204270604288",
+        "text": "@backendsecret А как же билд слои?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 999702622058709000,
+        "in_reply_to_status_id_str": "999702622058708994",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 43348355,
+          "id_str": "43348355"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 17:59:59 +0000 2018",
+      "id": 999711622494150700,
+      "id_str": "999711622494150661",
+      "text": "Тут есть 3 размерности:\n1. Легковесность введения новых типов и структур данных. Сколько бойлерплейта нужно и как и… https://t.co/PicU8uS01n",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PicU8uS01n",
+            "expanded_url": "https://twitter.com/i/web/status/999711622494150661",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 999709548725309400,
+      "quoted_status_id_str": "999709548725309440",
+      "quoted_status": {
+        "created_at": "Thu May 24 17:51:44 +0000 2018",
+        "id": 999709548725309400,
+        "id_str": "999709548725309440",
+        "text": "@sergueyz @backendsecret Тогда мне не до конца понятны преимущества, может я бегло читал про хаскель, и не до конца… https://t.co/2OSQ4S2eO3",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sergueyz",
+              "name": "Serguey Zefirov",
+              "id": 2362939831,
+              "id_str": "2362939831",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                10,
+                24
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/2OSQ4S2eO3",
+              "expanded_url": "https://twitter.com/i/web/status/999709548725309440",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 999586907356049400,
+        "in_reply_to_status_id_str": "999586907356049414",
+        "in_reply_to_user_id": 2362939831,
+        "in_reply_to_user_id_str": "2362939831",
+        "in_reply_to_screen_name": "sergueyz",
+        "user": {
+          "id": 786494211851890700,
+          "id_str": "786494211851890688"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 17:59:59 +0000 2018",
+      "id": 999711624574488600,
+      "id_str": "999711624574488576",
+      "text": "Тут новые типы вводятся 1-2  строками, за счет deriving механизма можно не писать бойлерплейт с реализациями методо… https://t.co/ID533VFCUW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ID533VFCUW",
+            "expanded_url": "https://twitter.com/i/web/status/999711624574488576",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 999711622494150700,
+      "in_reply_to_status_id_str": "999711622494150661",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 18:11:02 +0000 2018",
+      "id": 999714406173986800,
+      "id_str": "999714406173986816",
+      "text": "Ошибочно, но есть очень близкие моменты. Вобще дженерики это про параметрический полиморфизм, т.е. полиморфизм, при… https://t.co/cpYTZMvGaf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cpYTZMvGaf",
+            "expanded_url": "https://twitter.com/i/web/status/999714406173986816",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 999711934961324000,
+      "quoted_status_id_str": "999711934961324033",
+      "quoted_status": {
+        "created_at": "Thu May 24 18:01:13 +0000 2018",
+        "id": 999711934961324000,
+        "id_str": "999711934961324033",
+        "text": "@backendsecret Параметризованные типы - что-то типа дженериков? Или ошибочно сравнивать?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 999711624574488600,
+        "in_reply_to_status_id_str": "999711624574488576",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 786494211851890700,
+          "id_str": "786494211851890688"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 18:11:03 +0000 2018",
+      "id": 999714408644468700,
+      "id_str": "999714408644468738",
+      "text": "Например в Haskell, создание списка из n одинаковых элементов\n```\nreplicate :: Int -&gt; a -&gt; [a]\nreplicate 0 _ = []\nr… https://t.co/8HkUDLksgs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8HkUDLksgs",
+            "expanded_url": "https://twitter.com/i/web/status/999714408644468738",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              123,
+              146
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 999714406173986800,
+      "in_reply_to_status_id_str": "999714406173986816",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 18:11:04 +0000 2018",
+      "id": 999714410989047800,
+      "id_str": "999714410989047808",
+      "text": "В java, например, generic можно рассматривать как параметр типа, хотя основное их свойство это то, что написано выш… https://t.co/4QVhuBi1sV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4QVhuBi1sV",
+            "expanded_url": "https://twitter.com/i/web/status/999714410989047808",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 999714408644468700,
+      "in_reply_to_status_id_str": "999714408644468738",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 18:11:50 +0000 2018",
+      "id": 999714605957034000,
+      "id_str": "999714605957033985",
+      "text": "Наверное тут примеры не очень удачные, но после пары вопросов, я удачные смогу привести.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 999714410989047800,
+      "in_reply_to_status_id_str": "999714410989047808",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 19:17:57 +0000 2018",
+      "id": 999731243825713200,
+      "id_str": "999731243825713152",
+      "text": "Ну разница только в том, что на функциональных можно успешно писать в функциональном стиле (for some definition of… https://t.co/m4qJdBq2XH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/m4qJdBq2XH",
+            "expanded_url": "https://twitter.com/i/web/status/999731243825713152",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 999730442159915000,
+      "quoted_status_id_str": "999730442159915010",
+      "quoted_status": {
+        "created_at": "Thu May 24 19:14:46 +0000 2018",
+        "id": 999730442159915000,
+        "id_str": "999730442159915010",
+        "text": "@backendsecret В голову не приходят вопросы из практической области применения. Самое странное то, что чем больше ч… https://t.co/e0olscOx05",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/e0olscOx05",
+              "expanded_url": "https://twitter.com/i/web/status/999730442159915010",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 999714605957034000,
+        "in_reply_to_status_id_str": "999714605957033985",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 786494211851890700,
+          "id_str": "786494211851890688"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 19:23:00 +0000 2018",
+      "id": 999732514779549700,
+      "id_str": "999732514779549696",
+      "text": "Нет, за ненадобностью, остальные проблемы же оно не решит.\nНо функция полезная, согласен. https://t.co/0zYWEIxHL2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0zYWEIxHL2",
+            "expanded_url": "https://twitter.com/avoidik/status/999731911546277890",
+            "display_url": "twitter.com/avoidik/status…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 999731911546277900,
+      "quoted_status_id_str": "999731911546277890",
+      "quoted_status": {
+        "created_at": "Thu May 24 19:20:36 +0000 2018",
+        "id": 999731911546277900,
+        "id_str": "999731911546277890",
+        "text": "@backendsecret Docker squash не используете?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 999702623820316700,
+        "in_reply_to_status_id_str": "999702623820316678",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 1972354184,
+          "id_str": "1972354184"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 19:24:53 +0000 2018",
+      "id": 999732987704041500,
+      "id_str": "999732987704041472",
+      "text": "Что такое функциональное программирование, я не знаю как сформулировать, чтобы не докопались, что или не достаточно… https://t.co/CT1srXyY1f",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CT1srXyY1f",
+            "expanded_url": "https://twitter.com/i/web/status/999732987704041472",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 999732266887733200,
+      "quoted_status_id_str": "999732266887733249",
+      "quoted_status": {
+        "created_at": "Thu May 24 19:22:01 +0000 2018",
+        "id": 999732266887733200,
+        "id_str": "999732266887733249",
+        "text": "На этой неделе Вы ведете аккаунт разработчика бэкенда, Вам и отвечать :) https://t.co/BQSDnWuW43",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/BQSDnWuW43",
+              "expanded_url": "https://twitter.com/backendsecret/status/999731243825713152",
+              "display_url": "twitter.com/backendsecret/…",
+              "indices": [
+                73,
+                96
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 786494211851890700,
+          "id_str": "786494211851890688"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 999731243825713200,
+        "quoted_status_id_str": "999731243825713152",
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 22:14:45 +0000 2018",
+      "id": 999775738202083300,
+      "id_str": "999775738202083329",
+      "text": "Тем временем читатели тут подписчики раздают неплохие советы про продуктивность. https://t.co/kTLo7zXiuc",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kTLo7zXiuc",
+            "expanded_url": "https://twitter.com/egigoka/status/999774736971452416",
+            "display_url": "twitter.com/egigoka/status…",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 999774736971452400,
+      "quoted_status_id_str": "999774736971452416",
+      "quoted_status": {
+        "created_at": "Thu May 24 22:10:46 +0000 2018",
+        "id": 999774736971452400,
+        "id_str": "999774736971452416",
+        "text": "@backendsecret С каждым новым автором всё больше хочется отписаться, чтобы не читать всякую ересь. Времени спорить просто нет.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 999702625292619800,
+        "in_reply_to_status_id_str": "999702625292619777",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 364756885,
+          "id_str": "364756885"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 22:16:59 +0000 2018",
+      "id": 999776301501337600,
+      "id_str": "999776301501337602",
+      "text": "@egigoka Кстати, вот зря, тут почему-то никто почти не спорит, как я ни стараюсь. Специально пишешь посты, чтобы мо… https://t.co/fGuh4CLlaf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "egigoka",
+            "name": "EGiGoka",
+            "id": 364756885,
+            "id_str": "364756885",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fGuh4CLlaf",
+            "expanded_url": "https://twitter.com/i/web/status/999776301501337602",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 999774736971452400,
+      "in_reply_to_status_id_str": "999774736971452416",
+      "in_reply_to_user_id": 364756885,
+      "in_reply_to_user_id_str": "364756885",
+      "in_reply_to_screen_name": "egigoka",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 24 22:25:20 +0000 2018",
+      "id": 999778400301707300,
+      "id_str": "999778400301707265",
+      "text": "@egigoka Споры (в твиттере) обычно для читателей, которые если непредвзяты, то могут услышать Вас. А ещё даже без и… https://t.co/W8MnrEOjYn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "egigoka",
+            "name": "EGiGoka",
+            "id": 364756885,
+            "id_str": "364756885",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/W8MnrEOjYn",
+            "expanded_url": "https://twitter.com/i/web/status/999778400301707265",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 999776889509220400,
+      "in_reply_to_status_id_str": "999776889509220352",
+      "in_reply_to_user_id": 364756885,
+      "in_reply_to_user_id_str": "364756885",
+      "in_reply_to_screen_name": "egigoka",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 25 06:16:43 +0000 2018",
+      "id": 999897028426526700,
+      "id_str": "999897028426526720",
+      "text": "На мой взгляд самая большая проблема это то, что придется учить язык менеджера пакетов. Он очень простой, но чтобы… https://t.co/uFDH2ClXXp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uFDH2ClXXp",
+            "expanded_url": "https://twitter.com/i/web/status/999897028426526720",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 999891321992106000,
+      "quoted_status_id_str": "999891321992105984",
+      "quoted_status": {
+        "created_at": "Fri May 25 05:54:02 +0000 2018",
+        "id": 999891321992106000,
+        "id_str": "999891321992105984",
+        "text": "@backendsecret А какие проблемы добавляет nix?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 999702623820316700,
+        "in_reply_to_status_id_str": "999702623820316678",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 813606217,
+          "id_str": "813606217"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 25 06:18:22 +0000 2018",
+      "id": 999897445877272600,
+      "id_str": "999897445877272581",
+      "text": "Кстати, на мой взгляд эта сложность есть и в других \"простых\" языках. Несмотря на  то, что основная часть языка вес… https://t.co/dONZ4DqGQU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dONZ4DqGQU",
+            "expanded_url": "https://twitter.com/i/web/status/999897445877272581",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 999897028426526700,
+      "quoted_status_id_str": "999897028426526720",
+      "quoted_status": {
+        "created_at": "Fri May 25 06:16:43 +0000 2018",
+        "id": 999897028426526700,
+        "id_str": "999897028426526720",
+        "text": "На мой взгляд самая большая проблема это то, что придется учить язык менеджера пакетов. Он очень простой, но чтобы… https://t.co/uFDH2ClXXp",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/uFDH2ClXXp",
+              "expanded_url": "https://twitter.com/i/web/status/999897028426526720",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3302551618,
+          "id_str": "3302551618"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 999891321992106000,
+        "quoted_status_id_str": "999891321992105984",
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 25 06:33:33 +0000 2018",
+      "id": 999901266619678700,
+      "id_str": "999901266619678720",
+      "text": "Меня больше пугает, то что на каждый чих нужно лезть в сорцы пакетов, чтобы знать какие полезные функции уже есть.… https://t.co/38hhnno5Z6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/38hhnno5Z6",
+            "expanded_url": "https://twitter.com/i/web/status/999901266619678720",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 999897807929536500,
+      "quoted_status_id_str": "999897807929536512",
+      "quoted_status": {
+        "created_at": "Fri May 25 06:19:49 +0000 2018",
+        "id": 999897807929536500,
+        "id_str": "999897807929536512",
+        "text": "@backendsecret &gt; Несмотря на  то, что основная часть языка весьма замкнута и изучается за 5 минут, до эффективного… https://t.co/E7A7r1mxab",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/E7A7r1mxab",
+              "expanded_url": "https://twitter.com/i/web/status/999897807929536512",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                119,
+                142
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 999897445877272600,
+        "in_reply_to_status_id_str": "999897445877272581",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 231946292,
+          "id_str": "231946292"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
