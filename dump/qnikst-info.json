@@ -47,57 +47,65 @@
     }
   },
   "protected": false,
-  "followers_count": 5742,
+  "followers_count": 5740,
   "friends_count": 0,
-  "listed_count": 230,
+  "listed_count": 231,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 4427,
+  "favourites_count": 4444,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30810,
+  "statuses_count": 30845,
   "lang": "ru",
   "status": {
-    "created_at": "Fri May 25 16:10:51 +0000 2018",
-    "id": 1000046546778558500,
-    "id_str": "1000046546778558464",
-    "text": "Да можно, только нужно поточнее сформулировать. Примерно как: выские зарплаты среди Java разрабочиков будут выше, ч… https://t.co/WncNmN1ImG",
+    "created_at": "Fri May 25 19:57:05 +0000 2018",
+    "id": 1000103481984864300,
+    "id_str": "1000103481984864256",
+    "text": "@flex_ferrum Это зависит от того, как делать, если использовать lazy IO (не стоит), то никак, за что его и ругают.… https://t.co/URoUoqZxkk",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "flex_ferrum",
+          "name": "Flex Ferrum",
+          "id": 941243412036161500,
+          "id_str": "941243412036161536",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/WncNmN1ImG",
-          "expanded_url": "https://twitter.com/i/web/status/1000046546778558464",
+          "url": "https://t.co/URoUoqZxkk",
+          "expanded_url": "https://twitter.com/i/web/status/1000103481984864256",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1000100880165883900,
+    "in_reply_to_status_id_str": "1000100880165883904",
+    "in_reply_to_user_id": 941243412036161500,
+    "in_reply_to_user_id_str": "941243412036161536",
+    "in_reply_to_screen_name": "flex_ferrum",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1000045490426269700,
-    "quoted_status_id_str": "1000045490426269698",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
