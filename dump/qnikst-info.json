@@ -4,18 +4,7 @@
   "name": "Разработчик backend'а",
   "screen_name": "backendsecret",
   "location": "Гатчина, Россия",
-  "profile_location": {
-    "id": "0d1edbd6745ee7b2",
-    "url": "https://api.twitter.com/1.1/geo/id/0d1edbd6745ee7b2.json",
-    "place_type": "unknown",
-    "name": "Гатчина, Россия",
-    "full_name": "Гатчина, Россия",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Вершилов Александр. Senior Software Engineer at @tweagio. Haskell, backend и сопряженные вопросы https://t.co/d3YG7bT71p",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -47,38 +36,49 @@
     }
   },
   "protected": false,
-  "followers_count": 5741,
+  "followers_count": 5743,
   "friends_count": 0,
-  "listed_count": 231,
+  "listed_count": 230,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 4451,
+  "favourites_count": 4458,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30855,
+  "statuses_count": 30868,
   "lang": "ru",
   "status": {
-    "created_at": "Sat May 26 06:19:40 +0000 2018",
-    "id": 1000260158885433300,
-    "id_str": "1000260158885433344",
-    "text": "Безотносительно отсутствия типов, лисп является тем языком, который точно стоит посмотреть. https://t.co/k1NAogsfLt",
+    "created_at": "Sat May 26 10:45:32 +0000 2018",
+    "id": 1000327067467214800,
+    "id_str": "1000327067467214848",
+    "text": "RT @krems5: @backendsecret Сначала копить его, а потом продать вместе со стартапом",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/k1NAogsfLt",
-          "expanded_url": "https://twitter.com/svetlyak40wt/status/1000228180748328961",
-          "display_url": "twitter.com/svetlyak40wt/s…",
+          "screen_name": "krems5",
+          "name": "Scientific Valerian",
+          "id": 344177021,
+          "id_str": "344177021",
           "indices": [
-            92,
-            115
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик backend'а",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            12,
+            26
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
     "in_reply_to_status_id": null,
@@ -90,14 +90,51 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1000228180748329000,
-    "quoted_status_id_str": "1000228180748328961",
-    "retweet_count": 0,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted_status": {
+      "created_at": "Sat May 26 10:36:27 +0000 2018",
+      "id": 1000324780065771500,
+      "id_str": "1000324780065771520",
+      "text": "@backendsecret Сначала копить его, а потом продать вместе со стартапом",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик backend'а",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1000296735992885200,
+      "in_reply_to_status_id_str": "1000296735992885248",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 13,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
