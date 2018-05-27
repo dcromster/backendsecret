@@ -24190,6 +24190,722 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 26 20:44:08 +0000 2018",
+      "id": 1000477707086508000,
+      "id_str": "1000477707086508032",
+      "text": "Итак, зарубежное Haskell комьюнити представлено в email рассылке Haskell-cafe https://t.co/4NnyZJp28M, реддите r/ha… https://t.co/wDXOIWEiSd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4NnyZJp28M",
+            "expanded_url": "https://mail.haskell.org/mailman/listinfo/haskell-cafe",
+            "display_url": "mail.haskell.org/mailman/listin…",
+            "indices": [
+              78,
+              101
+            ]
+          },
+          {
+            "url": "https://t.co/wDXOIWEiSd",
+            "expanded_url": "https://twitter.com/i/web/status/1000477707086508032",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 26 20:44:08 +0000 2018",
+      "id": 1000477708655190000,
+      "id_str": "1000477708655190017",
+      "text": "Из живых российских комьюнити есть очень пересекающиеся @ruHaskell (в гиттер) и сообщество в телеграмм канале haske… https://t.co/CNWXBUViln",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruHaskell",
+            "name": "ruHaskell",
+            "id": 3780247935,
+            "id_str": "3780247935",
+            "indices": [
+              56,
+              66
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CNWXBUViln",
+            "expanded_url": "https://twitter.com/i/web/status/1000477708655190017",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1000477707086508000,
+      "in_reply_to_status_id_str": "1000477707086508032",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 26 20:44:08 +0000 2018",
+      "id": 1000477710408396800,
+      "id_str": "1000477710408396800",
+      "text": "Плохой идеей правда будет начинать общение с троллинга или стандартных вопросов, а используется ли Haskell в продак… https://t.co/gFaHW0eFWX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gFaHW0eFWX",
+            "expanded_url": "https://twitter.com/i/web/status/1000477710408396800",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1000477708655190000,
+      "in_reply_to_status_id_str": "1000477708655190017",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 26 20:44:09 +0000 2018",
+      "id": 1000477711658299400,
+      "id_str": "1000477711658299394",
+      "text": "Так же у хаскелистов есть странная привычка говорить факты о других ЯП. Вот типа там так, а там так, и нет этого. П… https://t.co/ceuCCoSP3w",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ceuCCoSP3w",
+            "expanded_url": "https://twitter.com/i/web/status/1000477711658299394",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1000477710408396800,
+      "in_reply_to_status_id_str": "1000477710408396800",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 26 20:44:09 +0000 2018",
+      "id": 1000477713365372900,
+      "id_str": "1000477713365372929",
+      "text": "В рамках сообществ продовятся митапы, в Москве обычно в лаборатории Касперского (спасибо @cblp_su) , в Питере в рам… https://t.co/J33AHzC549",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cblp_su",
+            "name": "Yuri ≫= Sy",
+            "id": 159999539,
+            "id_str": "159999539",
+            "indices": [
+              89,
+              97
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/J33AHzC549",
+            "expanded_url": "https://twitter.com/i/web/status/1000477713365372929",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1000477711658299400,
+      "in_reply_to_status_id_str": "1000477711658299394",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 26 20:44:09 +0000 2018",
+      "id": 1000477714653032400,
+      "id_str": "1000477714653032448",
+      "text": "В целом по миру помимо научных конференций можно выделить Haskell Exchange в Лондоне, и хакатоны в Цюрихе, Мюнихе,… https://t.co/IQ1oX0cL97",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IQ1oX0cL97",
+            "expanded_url": "https://twitter.com/i/web/status/1000477714653032448",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1000477713365372900,
+      "in_reply_to_status_id_str": "1000477713365372929",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 26 21:04:31 +0000 2018",
+      "id": 1000482837827670000,
+      "id_str": "1000482837827670016",
+      "text": "Просто зачастую надоело, т.к. обычно, особенно если вопрос задан в общей форме, а не что-то конкретное, то это марк… https://t.co/T6NEVejH1t",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T6NEVejH1t",
+            "expanded_url": "https://twitter.com/i/web/status/1000482837827670016",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1000482157930991600,
+      "quoted_status_id_str": "1000482157930991616",
+      "quoted_status": {
+        "created_at": "Sat May 26 21:01:49 +0000 2018",
+        "id": 1000482157930991600,
+        "id_str": "1000482157930991616",
+        "text": "@backendsecret &gt; стандартных вопросов, а используется ли Haskell в продакшене...впечатление, что в каналах  сидят в… https://t.co/L5t4t1K8O2",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/L5t4t1K8O2",
+              "expanded_url": "https://twitter.com/i/web/status/1000482157930991616",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                120,
+                143
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1000477710408396800,
+        "in_reply_to_status_id_str": "1000477710408396800",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 2870804603,
+          "id_str": "2870804603"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 26 21:12:46 +0000 2018",
+      "id": 1000484914041643000,
+      "id_str": "1000484914041643008",
+      "text": "@skv_nskv Вроде вполне нормально принято, во всяком случае я стараюсь полно отвечать на вопросы, уточняя понятийную… https://t.co/HTW7v6bytM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "skv_nskv",
+            "name": "где карта билли?",
+            "id": 2870804603,
+            "id_str": "2870804603",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HTW7v6bytM",
+            "expanded_url": "https://twitter.com/i/web/status/1000484914041643008",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1000484543592304600,
+      "in_reply_to_status_id_str": "1000484543592304641",
+      "in_reply_to_user_id": 2870804603,
+      "in_reply_to_user_id_str": "2870804603",
+      "in_reply_to_screen_name": "skv_nskv",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 26 21:18:03 +0000 2018",
+      "id": 1000486243392802800,
+      "id_str": "1000486243392802817",
+      "text": "@skv_nskv Ну не знаю, если прийти к стоматологу показать на аппарат и начать спрашивать, а вы точно этим зубы лечит… https://t.co/k4puxIMoYX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "skv_nskv",
+            "name": "где карта билли?",
+            "id": 2870804603,
+            "id_str": "2870804603",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/k4puxIMoYX",
+            "expanded_url": "https://twitter.com/i/web/status/1000486243392802817",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1000485174302437400,
+      "in_reply_to_status_id_str": "1000485174302437376",
+      "in_reply_to_user_id": 2870804603,
+      "in_reply_to_user_id_str": "2870804603",
+      "in_reply_to_screen_name": "skv_nskv",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 26 21:19:12 +0000 2018",
+      "id": 1000486532959043600,
+      "id_str": "1000486532959043584",
+      "text": "@skv_nskv Впрочем может быть это и не так, я ни разу не пробовал, особенно у стоматолога, с фирмой в которой он раб… https://t.co/XWtGkGFfPK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "skv_nskv",
+            "name": "где карта билли?",
+            "id": 2870804603,
+            "id_str": "2870804603",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XWtGkGFfPK",
+            "expanded_url": "https://twitter.com/i/web/status/1000486532959043584",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1000486243392802800,
+      "in_reply_to_status_id_str": "1000486243392802817",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 26 21:24:40 +0000 2018",
+      "id": 1000487908019703800,
+      "id_str": "1000487908019703810",
+      "text": "silent majority vs vocal minority. Вторыек обычно сильнее запоминаются, и чаще встречаются вне основного сообщества. https://t.co/qUTKQPtvSI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qUTKQPtvSI",
+            "expanded_url": "https://twitter.com/skv_nskv/status/1000487361690656769",
+            "display_url": "twitter.com/skv_nskv/statu…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1000487361690656800,
+      "quoted_status_id_str": "1000487361690656769",
+      "quoted_status": {
+        "created_at": "Sat May 26 21:22:29 +0000 2018",
+        "id": 1000487361690656800,
+        "id_str": "1000487361690656769",
+        "text": "@backendsecret Вы исключение, среди хаскелистов что я видел; ещё @graninas, тоже приятный собеседник. \nОстальные, и… https://t.co/ZkDzr5tEtO",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "graninas",
+              "name": "Alexander Granin",
+              "id": 130754590,
+              "id_str": "130754590",
+              "indices": [
+                65,
+                74
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/ZkDzr5tEtO",
+              "expanded_url": "https://twitter.com/i/web/status/1000487361690656769",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1000484914041643000,
+        "in_reply_to_status_id_str": "1000484914041643008",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 2870804603,
+          "id_str": "2870804603"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 26 21:47:32 +0000 2018",
+      "id": 1000493664907522000,
+      "id_str": "1000493664907522048",
+      "text": "@krems5 Сходу наверное только Applications and Domain-Specific Language на ICFP назову, обычно ссылки на интересные… https://t.co/foCihkpLm5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "krems5",
+            "name": "Scientific Valerian",
+            "id": 344177021,
+            "id_str": "344177021",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/foCihkpLm5",
+            "expanded_url": "https://twitter.com/i/web/status/1000493664907522048",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1000491401820475400,
+      "in_reply_to_status_id_str": "1000491401820475397",
+      "in_reply_to_user_id": 344177021,
+      "in_reply_to_user_id_str": "344177021",
+      "in_reply_to_screen_name": "krems5",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
