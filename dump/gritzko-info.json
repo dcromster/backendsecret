@@ -26,35 +26,83 @@
     }
   },
   "protected": false,
-  "followers_count": 5801,
+  "followers_count": 5803,
   "friends_count": 0,
-  "listed_count": 232,
+  "listed_count": 233,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 4604,
+  "favourites_count": 4606,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31280,
+  "statuses_count": 31284,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jun 05 10:15:10 +0000 2018",
-    "id": 1003943305078607900,
-    "id_str": "1003943305078607872",
-    "text": "Опрос только для C++ разработчиков. В чём чаще работаете?",
-    "truncated": false,
+    "created_at": "Tue Jun 05 16:10:05 +0000 2018",
+    "id": 1004032619216961500,
+    "id_str": "1004032619216961536",
+    "text": "@soider Первое, что вспомнил:\nhttps://t.co/NLCMJ2hGb8\nhttps://t.co/wEDBS5Nq9r\nhttps://t.co/ND4ykqXtn5… https://t.co/WAtmQT4Dxg",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "soider",
+          "name": "Michael Sakhnov",
+          "id": 19646215,
+          "id_str": "19646215",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NLCMJ2hGb8",
+          "expanded_url": "http://en.wikipedia.org/wiki/CRDT",
+          "display_url": "en.wikipedia.org/wiki/CRDT",
+          "indices": [
+            30,
+            53
+          ]
+        },
+        {
+          "url": "https://t.co/wEDBS5Nq9r",
+          "expanded_url": "https://www.youtube.com/watch?v=ZoMIzBM0nf4",
+          "display_url": "youtube.com/watch?v=ZoMIzB…",
+          "indices": [
+            54,
+            77
+          ]
+        },
+        {
+          "url": "https://t.co/ND4ykqXtn5",
+          "expanded_url": "http://archagon.net/blog/2018/03/24/data-laced-with-history/",
+          "display_url": "archagon.net/blog/2018/03/2…",
+          "indices": [
+            78,
+            101
+          ]
+        },
+        {
+          "url": "https://t.co/WAtmQT4Dxg",
+          "expanded_url": "https://twitter.com/i/web/status/1004032619216961536",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1004030298299011100,
+    "in_reply_to_status_id_str": "1004030298299011072",
+    "in_reply_to_user_id": 19646215,
+    "in_reply_to_user_id_str": "19646215",
+    "in_reply_to_screen_name": "soider",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -64,6 +112,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
