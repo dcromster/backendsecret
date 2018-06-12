@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 5812,
+  "followers_count": 5808,
   "friends_count": 0,
   "listed_count": 232,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,31 +35,32 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31311,
+  "statuses_count": 31318,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Jun 09 15:06:06 +0000 2018",
-    "id": 1005466069224558600,
-    "id_str": "1005466069224558598",
-    "text": "\"what the world of technology would look like if, instead of \nfiles, we were all sharing repositories and managing… https://t.co/Nypo5uMAoK",
-    "truncated": true,
+    "created_at": "Tue Jun 12 06:35:42 +0000 2018",
+    "id": 1006424789051936800,
+    "id_str": "1006424789051936769",
+    "text": "RT @_bravit: Если этот твит наберёт тысячу ретвитов, то я запишу полуторачасовое научно-популярное видео про истоки, основные задачи, резул…",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/Nypo5uMAoK",
-          "expanded_url": "https://twitter.com/i/web/status/1005466069224558598",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "_bravit",
+          "name": "Виталий Брагилевский",
+          "id": 1337287994,
+          "id_str": "1337287994",
           "indices": [
-            116,
-            139
+            3,
+            11
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -69,15 +70,84 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1005040683814740000,
-    "quoted_status_id_str": "1005040683814739968",
-    "retweet_count": 1,
-    "favorite_count": 1,
+    "retweeted_status": {
+      "created_at": "Mon Jun 11 14:35:56 +0000 2018",
+      "id": 1006183255241084900,
+      "id_str": "1006183255241084930",
+      "text": "Если этот твит наберёт тысячу ретвитов, то я запишу полуторачасовое научно-популярное видео про истоки, основные за… https://t.co/PLhxbAT7S6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PLhxbAT7S6",
+            "expanded_url": "https://twitter.com/i/web/status/1006183255241084930",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "ae59df6872ae6859",
+        "url": "https://api.twitter.com/1.1/geo/id/ae59df6872ae6859.json",
+        "place_type": "city",
+        "name": "Ростов-на-Дону",
+        "full_name": "Ростов-на-Дону, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                39.4044094,
+                47.1533918
+              ],
+              [
+                39.8515194,
+                47.1533918
+              ],
+              [
+                39.8515194,
+                47.3687994
+              ],
+              [
+                39.4044094,
+                47.3687994
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 963,
+      "favorite_count": 222,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 963,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "retweeted": true,
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
