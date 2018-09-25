@@ -1,7 +1,7 @@
 export default [
   // { username: 'twitter_name', start: '15 feb 2018', first: '640816652293144576', post: false },
   // { username: 'vvsevolodovich', start: '15 sep 2018', first: '1041585112863973377', post: false },
-  { username: 'backendsecret',   start: '12 may 2018',  first: '1006497392647135232', , post: false },
+  { username: 'backendsecret',   start: '12 may 2018',  first: '1006497392647135232', post: false },
   { username: 'gritzko',         start: '04 jun 2018',  first: '1003569715753684993' },
   { username: '23derevo',        start: '28 may 2018', first: '1001042036236185600' },
   { username: 'qnikst',          start: '21 may 2018', first: '998527045297729536' },
