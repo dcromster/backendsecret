@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 5749,
+  "followers_count": 5755,
   "friends_count": 1,
   "listed_count": 238,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,33 +35,44 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31691,
+  "statuses_count": 31700,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Sep 26 12:13:24 +0000 2018",
-    "id": 1044922887130484700,
-    "id_str": "1044922887130484736",
-    "text": "Микросервисы общаются между собой по HTTP (когда надо синхронно) и через кафку (когда надо асинхронно)",
+    "created_at": "Wed Sep 26 17:37:10 +0000 2018",
+    "id": 1045004364887339000,
+    "id_str": "1045004364887339008",
+    "text": "@mfilippovich не веб-сервисы все стейтлесс. Стейт в базе. База вне докера, туда по сети. Из hashicorp продуктов консул во всю",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "mfilippovich",
+          "name": "Maxim Filippovich",
+          "id": 468399824,
+          "id_str": "468399824",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1044922183380815900,
-    "in_reply_to_status_id_str": "1044922183380815879",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": 1045003921180241900,
+    "in_reply_to_status_id_str": "1045003921180241920",
+    "in_reply_to_user_id": 468399824,
+    "in_reply_to_user_id_str": "468399824",
+    "in_reply_to_screen_name": "mfilippovich",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
