@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 5751,
+  "followers_count": 5761,
   "friends_count": 1,
   "listed_count": 238,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,35 +35,66 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31752,
+  "statuses_count": 31766,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Sep 28 10:34:12 +0000 2018",
-    "id": 1045622695679987700,
-    "id_str": "1045622695679987713",
-    "text": "Эта архитектура мне нравилась. Она была не без проблем. Но мне нравилось, что компоненты были изолированы и занимались одной простой задачей",
+    "created_at": "Sat Sep 29 15:12:55 +0000 2018",
+    "id": 1046055227743440900,
+    "id_str": "1046055227743440896",
+    "text": "Угадайте кто писал эти штуки в букмейте\nhttps://t.co/6xkvO2lFMk\nhttps://t.co/XIgkbTvsNp https://t.co/kTiKUNCIcg",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/6xkvO2lFMk",
+          "expanded_url": "https://github.com/bookmate/automatic-bassoon/",
+          "display_url": "github.com/bookmate/autom…",
+          "indices": [
+            40,
+            63
+          ]
+        },
+        {
+          "url": "https://t.co/XIgkbTvsNp",
+          "expanded_url": "https://github.com/bookmate/probable-giggle",
+          "display_url": "github.com/bookmate/proba…",
+          "indices": [
+            64,
+            87
+          ]
+        },
+        {
+          "url": "https://t.co/kTiKUNCIcg",
+          "expanded_url": "https://twitter.com/backendsecret/status/1046050070729306112",
+          "display_url": "twitter.com/backendsecret/…",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1045622401319489500,
-    "in_reply_to_status_id_str": "1045622401319489536",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1046050070729306100,
+    "quoted_status_id_str": "1046050070729306112",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
