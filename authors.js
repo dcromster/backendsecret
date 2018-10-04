@@ -1,9 +1,10 @@
 export default [
   // { username: 'twitter_name', start: '15 feb 2018', first: '640816652293144576', post: false },
+  { username: 'pseudev',         start: '01 oct 2018', first: '1046787889131134976', post: false },
   { username: 'tank_bohr',       start: '24 sep 2018', first: '1044159622267965441'},
   { username: 'vvsevolodovich',  start: '15 sep 2018', first: '1041585112863973377' },
-  { username: 'backendsecret',   start: '12 may 2018',  first: '1006497392647135232' },
-  { username: 'gritzko',         start: '04 jun 2018',  first: '1003569715753684993' },
+  { username: 'backendsecret',   start: '12 may 2018', first: '1006497392647135232' },
+  { username: 'gritzko',         start: '04 jun 2018', first: '1003569715753684993' },
   { username: '23derevo',        start: '28 may 2018', first: '1001042036236185600' },
   { username: 'qnikst',          start: '21 may 2018', first: '998527045297729536' },
   { username: 'igor_alexandrov', start: '14 may 2018', first: '995987464346095617' },
