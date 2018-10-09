@@ -26,52 +26,63 @@
     }
   },
   "protected": false,
-  "followers_count": 5812,
+  "followers_count": 5816,
   "friends_count": 1,
   "listed_count": 237,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 4685,
+  "favourites_count": 4688,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31989,
+  "statuses_count": 32027,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 09 07:03:48 +0000 2018",
-    "id": 1049556013265838100,
-    "id_str": "1049556013265838082",
-    "text": "Не сильно. В GHC реализован сборщик мусора, который более оптимизирован для иммутабельных типов данных. Если компил… https://t.co/Y0nOgnUMDq",
-    "truncated": true,
+    "created_at": "Tue Oct 09 11:56:04 +0000 2018",
+    "id": 1049629567323795500,
+    "id_str": "1049629567323795456",
+    "text": "@prizmo_7 Я в этом треде описывал ряд причин, почему Haskell\n\nhttps://t.co/DPm6EF0Eyk",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "prizmo_7",
+          "name": "prizmo",
+          "id": 923084502792097800,
+          "id_str": "923084502792097792",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/Y0nOgnUMDq",
-          "expanded_url": "https://twitter.com/i/web/status/1049556013265838082",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/DPm6EF0Eyk",
+          "expanded_url": "https://twitter.com/backendsecret/status/1049224487831392257",
+          "display_url": "twitter.com/backendsecret/…",
           "indices": [
-            117,
-            140
+            62,
+            85
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1049620330317254700,
+    "in_reply_to_status_id_str": "1049620330317254656",
+    "in_reply_to_user_id": 923084502792097800,
+    "in_reply_to_user_id_str": "923084502792097792",
+    "in_reply_to_screen_name": "prizmo_7",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 1049497228639899600,
-    "quoted_status_id_str": "1049497228639899648",
+    "quoted_status_id": 1049224487831392300,
+    "quoted_status_id_str": "1049224487831392257",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
