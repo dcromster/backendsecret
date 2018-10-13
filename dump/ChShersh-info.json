@@ -30,50 +30,111 @@
   "friends_count": 1,
   "listed_count": 237,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 4711,
+  "favourites_count": 4714,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32280,
+  "statuses_count": 32301,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Oct 13 10:28:14 +0000 2018",
-    "id": 1051057015064211500,
-    "id_str": "1051057015064211456",
-    "text": "Ну и снова порекомендую всем общаться с сообществом и не стесняться задавать вопросы! Спрашивайте на StackOverflow,… https://t.co/HgXj5BH66S",
-    "truncated": true,
+    "created_at": "Sat Oct 13 16:47:38 +0000 2018",
+    "id": 1051152494393360400,
+    "id_str": "1051152494393360384",
+    "text": "RT @kirilloid_ru: @backendsecret Codewars, кстати, отлично подходит в самом начале — освоиться с синтаксисом.\nВ отличие от большинства подо…",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/HgXj5BH66S",
-          "expanded_url": "https://twitter.com/i/web/status/1051057015064211456",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "kirilloid_ru",
+          "name": "Kirill Sukhomlin",
+          "id": 275614406,
+          "id_str": "275614406",
           "indices": [
-            117,
-            140
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Типа разработчик backend'а",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            18,
+            32
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1051057013579378700,
-    "in_reply_to_status_id_str": "1051057013579378688",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Oct 13 14:50:34 +0000 2018",
+      "id": 1051123033077964800,
+      "id_str": "1051123033077964806",
+      "text": "@backendsecret Codewars, кстати, отлично подходит в самом начале — освоиться с синтаксисом.\nВ отличие от большинств… https://t.co/rN5WP1f7H2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Типа разработчик backend'а",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rN5WP1f7H2",
+            "expanded_url": "https://twitter.com/i/web/status/1051123033077964806",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1051094711048364000,
+      "in_reply_to_status_id_str": "1051094711048364038",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
