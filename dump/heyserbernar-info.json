@@ -37,38 +37,39 @@
     }
   },
   "protected": false,
-  "followers_count": 5820,
+  "followers_count": 5819,
   "friends_count": 1,
   "listed_count": 238,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 4743,
+  "favourites_count": 4745,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32596,
+  "statuses_count": 32601,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Oct 25 18:00:10 +0000 2018",
-    "id": 1055519401120809000,
-    "id_str": "1055519401120808961",
-    "text": "Ошибка новичка - писать матерные переменные в коде, даже при быстром дебаге. Типа \"кек\", \"лол\" и т.д. Отучите себя… https://t.co/FqaZgf9GRZ",
-    "truncated": true,
+    "created_at": "Thu Oct 25 18:35:29 +0000 2018",
+    "id": 1055528288641261600,
+    "id_str": "1055528288641261568",
+    "text": "RT @alcotaran: А он такой мне говорит: \"я собираюсь код рефакторить\".\n\nНу я подскочил и резкой переебал ему с вертушки в щщи, и пояснил его…",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/FqaZgf9GRZ",
-          "expanded_url": "https://twitter.com/i/web/status/1055519401120808961",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "alcotaran",
+          "name": "Alexander Taran",
+          "id": 158426124,
+          "id_str": "158426124",
           "indices": [
-            116,
-            139
+            3,
+            13
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -80,11 +81,50 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Oct 25 18:17:26 +0000 2018",
+      "id": 1055523745685749800,
+      "id_str": "1055523745685749762",
+      "text": "А он такой мне говорит: \"я собираюсь код рефакторить\".\n\nНу я подскочил и резкой переебал ему с вертушки в щщи, и по… https://t.co/1sPNaBoT3M",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1sPNaBoT3M",
+            "expanded_url": "https://twitter.com/i/web/status/1055523745685749762",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweet_count": 5,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
