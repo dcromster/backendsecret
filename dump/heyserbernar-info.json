@@ -4,7 +4,18 @@
   "name": "Разработчик backend'а",
   "screen_name": "backendsecret",
   "location": "Украина",
-  "profile_location": null,
+  "profile_location": {
+    "id": "084d0d0155787e9d",
+    "url": "https://api.twitter.com/1.1/geo/id/084d0d0155787e9d.json",
+    "place_type": "unknown",
+    "name": "Украина",
+    "full_name": "Украина",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "python3 Sergey_Berebko.py",
   "url": "https://t.co/IUrRjp0WWb",
   "entities": {
@@ -26,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 5818,
+  "followers_count": 5820,
   "friends_count": 1,
   "listed_count": 238,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
@@ -35,13 +46,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32586,
+  "statuses_count": 32596,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Oct 24 08:17:17 +0000 2018",
-    "id": 1055010326616424400,
-    "id_str": "1055010326616424448",
-    "text": "Всем привет, вчера мы выяснили, что за факапы не бьют. Приятно видеть столько фидбека и крутых людей. :( А в maddev… https://t.co/jAMIJucQH8",
+    "created_at": "Thu Oct 25 18:00:10 +0000 2018",
+    "id": 1055519401120809000,
+    "id_str": "1055519401120808961",
+    "text": "Ошибка новичка - писать матерные переменные в коде, даже при быстром дебаге. Типа \"кек\", \"лол\" и т.д. Отучите себя… https://t.co/FqaZgf9GRZ",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,12 +60,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/jAMIJucQH8",
-          "expanded_url": "https://twitter.com/i/web/status/1055010326616424448",
+          "url": "https://t.co/FqaZgf9GRZ",
+          "expanded_url": "https://twitter.com/i/web/status/1055519401120808961",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
@@ -71,10 +82,9 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 11,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
