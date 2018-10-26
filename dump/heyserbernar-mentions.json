@@ -11787,6 +11787,173 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 26 12:36:32 +0000 2018",
+      "id": 1055800345669128200,
+      "id_str": "1055800345669128192",
+      "text": "@backendsecret Очень матерные примеры подобраны.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик backend'а",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1055519401120809000,
+      "in_reply_to_status_id_str": "1055519401120808961",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 385011553,
+        "id_str": "385011553"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a1a49e1da6c6395a",
+        "url": "https://api.twitter.com/1.1/geo/id/a1a49e1da6c6395a.json",
+        "place_type": "city",
+        "name": "Московский",
+        "full_name": "Московский, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                37.3046782,
+                55.5752781
+              ],
+              [
+                37.4570999,
+                55.5752781
+              ],
+              [
+                37.4570999,
+                55.6612302
+              ],
+              [
+                37.3046782,
+                55.6612302
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 26 13:58:30 +0000 2018",
+      "id": 1055820973478477800,
+      "id_str": "1055820973478477824",
+      "text": "@backendsecret Ну, собственно, да\nhttps://t.co/CyI0Ts7D7u",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик backend'а",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CyI0Ts7D7u",
+            "expanded_url": "https://twitter.com/gitlost/status/1055742337614254080?s=19",
+            "display_url": "twitter.com/gitlost/status…",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1055519401120809000,
+      "in_reply_to_status_id_str": "1055519401120808961",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3471862042,
+        "id_str": "3471862042"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1055742337614254100,
+      "quoted_status_id_str": "1055742337614254080",
+      "quoted_status": {
+        "created_at": "Fri Oct 26 08:46:02 +0000 2018",
+        "id": 1055742337614254100,
+        "id_str": "1055742337614254080",
+        "text": "hmm, complicated shit",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/gitlost\" rel=\"nofollow\">Profane Commits</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1240421984,
+          "id_str": "1240421984"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 17,
+        "favorite_count": 26,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
