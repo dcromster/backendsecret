@@ -37,45 +37,46 @@
     }
   },
   "protected": false,
-  "followers_count": 5880,
+  "followers_count": 5881,
   "friends_count": 1,
   "listed_count": 239,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 4761,
+  "favourites_count": 4762,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32722,
+  "statuses_count": 32728,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Oct 30 13:15:58 +0000 2018",
-    "id": 1057259819084775400,
-    "id_str": "1057259819084775424",
-    "text": "хотя суть здесь и другая, при разработки этой штуки они сталкиваются со многими проблема и задачами очень хорошо зн… https://t.co/tNduMlh5gp",
-    "truncated": true,
+    "created_at": "Tue Oct 30 13:42:29 +0000 2018",
+    "id": 1057266490305667100,
+    "id_str": "1057266490305667072",
+    "text": "@dlipin наших по нарушению спеки? нет, да и не могло, нарушение спеки =&gt; нарушение обратной совместимости, какие уж тут JEP",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/tNduMlh5gp",
-          "expanded_url": "https://twitter.com/i/web/status/1057259819084775424",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "dlipin",
+          "name": "Dmitry Lipin",
+          "id": 429422896,
+          "id_str": "429422896",
           "indices": [
-            117,
-            140
+            0,
+            7
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1057259427127025700,
-    "in_reply_to_status_id_str": "1057259427127025666",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": 1057265104016728000,
+    "in_reply_to_status_id_str": "1057265104016728064",
+    "in_reply_to_user_id": 429422896,
+    "in_reply_to_user_id_str": "429422896",
+    "in_reply_to_screen_name": "dlipin",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -85,7 +86,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
