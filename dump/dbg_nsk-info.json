@@ -37,38 +37,69 @@
     }
   },
   "protected": false,
-  "followers_count": 5917,
+  "followers_count": 5922,
   "friends_count": 1,
   "listed_count": 237,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 4772,
+  "favourites_count": 4780,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32770,
+  "statuses_count": 32786,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Oct 31 15:36:53 +0000 2018",
-    "id": 1057657671531352000,
-    "id_str": "1057657671531352064",
-    "text": "Да, кстати, точно. Еще есть юнит-тесты.\n\nВдумайтесь. Юнит-тесты. На JUnit-е. Покрывающие (хоть и частично) код рант… https://t.co/8mSUCXDy7O",
-    "truncated": true,
+    "created_at": "Thu Nov 01 02:14:27 +0000 2018",
+    "id": 1057818116904927200,
+    "id_str": "1057818116904927232",
+    "text": "RT @conwor: @alexanius @backendsecret @intellijidea моя самая весёлая отладка JIT-компилятора была, когда я, забывшись, добавил в иерархию…",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/8mSUCXDy7O",
-          "expanded_url": "https://twitter.com/i/web/status/1057657671531352064",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "conwor",
+          "name": "vladimir",
+          "id": 273303110,
+          "id_str": "273303110",
           "indices": [
-            117,
-            140
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "alexanius",
+          "name": "Алексей Маркин",
+          "id": 71539732,
+          "id_str": "71539732",
+          "indices": [
+            12,
+            22
+          ]
+        },
+        {
+          "screen_name": "backendsecret",
+          "name": "Разработчик backend'а",
+          "id": 3302551618,
+          "id_str": "3302551618",
+          "indices": [
+            23,
+            37
+          ]
+        },
+        {
+          "screen_name": "intellijidea",
+          "name": "IntelliJ IDEA",
+          "id": 24160034,
+          "id_str": "24160034",
+          "indices": [
+            38,
+            51
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +111,82 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1057656756963287000,
-    "quoted_status_id_str": "1057656756963287040",
-    "retweet_count": 0,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted_status": {
+      "created_at": "Wed Oct 31 20:09:35 +0000 2018",
+      "id": 1057726296460066800,
+      "id_str": "1057726296460066816",
+      "text": "@alexanius @backendsecret @intellijidea моя самая весёлая отладка JIT-компилятора была, когда я, забывшись, добавил… https://t.co/Ot7rgFvwjR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alexanius",
+            "name": "Алексей Маркин",
+            "id": 71539732,
+            "id_str": "71539732",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "backendsecret",
+            "name": "Разработчик backend'а",
+            "id": 3302551618,
+            "id_str": "3302551618",
+            "indices": [
+              11,
+              25
+            ]
+          },
+          {
+            "screen_name": "intellijidea",
+            "name": "IntelliJ IDEA",
+            "id": 24160034,
+            "id_str": "24160034",
+            "indices": [
+              26,
+              39
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Ot7rgFvwjR",
+            "expanded_url": "https://twitter.com/i/web/status/1057726296460066816",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1057636232417538000,
+      "in_reply_to_status_id_str": "1057636232417538048",
+      "in_reply_to_user_id": 71539732,
+      "in_reply_to_user_id_str": "71539732",
+      "in_reply_to_screen_name": "alexanius",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
