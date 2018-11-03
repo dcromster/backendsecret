@@ -37,31 +37,42 @@
     }
   },
   "protected": false,
-  "followers_count": 5927,
+  "followers_count": 5937,
   "friends_count": 1,
   "listed_count": 237,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 4785,
+  "favourites_count": 4786,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32848,
+  "statuses_count": 32867,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Nov 02 15:10:30 +0000 2018",
-    "id": 1058375806597107700,
-    "id_str": "1058375806597107712",
-    "text": "в целом то это хорошо, быстрее получается раскопать проблему в клиентском коде, но вот объяснить это им бывает непр… https://t.co/7pra4xqeiV",
+    "created_at": "Sat Nov 03 04:31:28 +0000 2018",
+    "id": 1058577374013460500,
+    "id_str": "1058577374013460486",
+    "text": "@leventov да, именно так.\n\nНо ведь арифметика оффсетов - это очень зависящая от раскладки объекта в памяти штука, у… https://t.co/sBpRClEMVp",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "leventov",
+          "name": "Roman Leventov",
+          "id": 209476502,
+          "id_str": "209476502",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/7pra4xqeiV",
-          "expanded_url": "https://twitter.com/i/web/status/1058375806597107712",
+          "url": "https://t.co/sBpRClEMVp",
+          "expanded_url": "https://twitter.com/i/web/status/1058577374013460486",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -71,11 +82,11 @@
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1058374904356184000,
-    "in_reply_to_status_id_str": "1058374904356184064",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": 1058449400530395100,
+    "in_reply_to_status_id_str": "1058449400530395137",
+    "in_reply_to_user_id": 209476502,
+    "in_reply_to_user_id_str": "209476502",
+    "in_reply_to_screen_name": "leventov",
     "geo": null,
     "coordinates": null,
     "place": null,
