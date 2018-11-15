@@ -23009,6 +23009,574 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 15 16:07:10 +0000 2018",
+      "id": 1063101107772276700,
+      "id_str": "1063101107772276736",
+      "text": "О, вот тут в январе уже обсуждали whitebox мониторинг.\nНу я и не планировал про него рассказывать вглубь :) https://t.co/VgtLBbSQZu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VgtLBbSQZu",
+            "expanded_url": "https://twitter.com/backendsecret/status/958389596550848512",
+            "display_url": "twitter.com/backendsecret/…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 958389596550848500,
+      "quoted_status_id_str": "958389596550848512",
+      "quoted_status": {
+        "created_at": "Tue Jan 30 17:21:00 +0000 2018",
+        "id": 958389596550848500,
+        "id_str": "958389596550848512",
+        "text": "Мониторинг. Минимальный набор у нас это: nginx access logs + Sentry + Zabbix + https://t.co/HExoBzO81y . Настраивае… https://t.co/gVBRjc1AqN",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/HExoBzO81y",
+              "expanded_url": "http://uptimerobot.com",
+              "display_url": "uptimerobot.com",
+              "indices": [
+                79,
+                102
+              ]
+            },
+            {
+              "url": "https://t.co/gVBRjc1AqN",
+              "expanded_url": "https://twitter.com/i/web/status/958389596550848512",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3302551618,
+          "id_str": "3302551618"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 15 16:10:58 +0000 2018",
+      "id": 1063102067210965000,
+      "id_str": "1063102067210964993",
+      "text": "Сообщения о падении/подъеме складываются в систему учета инцидентов, которые анализируется и команды описывают причины проблем.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 15 16:10:59 +0000 2018",
+      "id": 1063102068762779600,
+      "id_str": "1063102068762779649",
+      "text": "Кроме этого,  определенные виды участвуют в вычислении времени uptime для инструментов, изменение которого анализир… https://t.co/WxdlSU7BWR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WxdlSU7BWR",
+            "expanded_url": "https://twitter.com/i/web/status/1063102068762779649",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1063102067210965000,
+      "in_reply_to_status_id_str": "1063102067210964993",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 15 16:10:59 +0000 2018",
+      "id": 1063102070507651100,
+      "id_str": "1063102070507651077",
+      "text": "К чему нужно быть готовым при реализации и внедрении подобного у себя:\n- самое грустное - это баги в реализации кон… https://t.co/aVAhbE7gjD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aVAhbE7gjD",
+            "expanded_url": "https://twitter.com/i/web/status/1063102070507651077",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1063102068762779600,
+      "in_reply_to_status_id_str": "1063102068762779649",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 15 16:11:00 +0000 2018",
+      "id": 1063102071883382800,
+      "id_str": "1063102071883382785",
+      "text": "- учитывайте работу тестовых аккаунтов - она, внезапно, может влиять на проводимые командами эксперименты\n- разъясн… https://t.co/83fJkpOAu8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/83fJkpOAu8",
+            "expanded_url": "https://twitter.com/i/web/status/1063102071883382785",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1063102070507651100,
+      "in_reply_to_status_id_str": "1063102070507651077",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 15 16:11:21 +0000 2018",
+      "id": 1063102163516383200,
+      "id_str": "1063102163516383232",
+      "text": "ВАЖНО:  Blameless culture\n- проблемы всегда в инструментах и процессах, но не людях\n- Blameless postmortems по факт… https://t.co/cX2Di3Trad",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cX2Di3Trad",
+            "expanded_url": "https://twitter.com/i/web/status/1063102163516383232",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 15 16:15:36 +0000 2018",
+      "id": 1063103232329875500,
+      "id_str": "1063103232329875457",
+      "text": "Аркадий Мурашев рассказывал про все. Посмотреть-полистать\n\"Действенный мониторинг доступности в вебе\"… https://t.co/3gXvhFlBaw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3gXvhFlBaw",
+            "expanded_url": "https://twitter.com/i/web/status/1063103232329875457",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 15 16:52:15 +0000 2018",
+      "id": 1063112456132812800,
+      "id_str": "1063112456132812800",
+      "text": "Отдельно стоит тема доступности из Китая. Их огненная  интернет-стена доставляет много \"веселья\".\nЕсть у кого опыт?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 15 18:03:16 +0000 2018",
+      "id": 1063130327613431800,
+      "id_str": "1063130327613431808",
+      "text": "На что наступили мы в Китае:\n- оттуда плохо работают DNS-запросы во вне China mainland\n- для использования CDN в Ки… https://t.co/llqCOiT3b2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/llqCOiT3b2",
+            "expanded_url": "https://twitter.com/i/web/status/1063130327613431808",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1063112456132812800,
+      "in_reply_to_status_id_str": "1063112456132812800",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 15 18:27:33 +0000 2018",
+      "id": 1063136437992865800,
+      "id_str": "1063136437992865793",
+      "text": "CDN нужен для ускорения загрузки статики. Внешние по отношению к Китаю CDN пользы не приносят - все идет через кита… https://t.co/AA4YGm4oqh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AA4YGm4oqh",
+            "expanded_url": "https://twitter.com/i/web/status/1063136437992865793",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1063134744186155000,
+      "quoted_status_id_str": "1063134744186155013",
+      "quoted_status": {
+        "created_at": "Thu Nov 15 18:20:49 +0000 2018",
+        "id": 1063134744186155000,
+        "id_str": "1063134744186155013",
+        "text": "@backendsecret а зачем заводить CDN в Китае? Дешевле?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1063130327613431800,
+        "in_reply_to_status_id_str": "1063130327613431808",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 196598103,
+          "id_str": "196598103"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 15 18:35:49 +0000 2018",
+      "id": 1063138518791274500,
+      "id_str": "1063138518791274496",
+      "text": "@putln нет, у нас сервис снаружи. Но есть китайские пользователи :)\n\"Ну и думаю, все читатели backendsecret, знают… https://t.co/EEn4ftdQBs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "putln",
+            "name": "Влодимерович",
+            "id": 196598103,
+            "id_str": "196598103",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EEn4ftdQBs",
+            "expanded_url": "https://twitter.com/i/web/status/1063138518791274496",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1063137483033141200,
+      "in_reply_to_status_id_str": "1063137483033141248",
+      "in_reply_to_user_id": 196598103,
+      "in_reply_to_user_id_str": "196598103",
+      "in_reply_to_screen_name": "putln",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
