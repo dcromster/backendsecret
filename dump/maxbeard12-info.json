@@ -30,18 +30,18 @@
   "friends_count": 1,
   "listed_count": 238,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 4899,
+  "favourites_count": 4902,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 33293,
+  "statuses_count": 33301,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Nov 16 05:48:44 +0000 2018",
-    "id": 1063307863521730600,
-    "id_str": "1063307863521730560",
-    "text": "Хорошее уточнение https://t.co/5tXneMer61",
+    "created_at": "Fri Nov 16 08:00:38 +0000 2018",
+    "id": 1063341058627682300,
+    "id_str": "1063341058627682304",
+    "text": "Хорошо тема ответственности объясняется в модели Кристофера Эйвери https://t.co/fVlUfwdM8s https://t.co/Ijdan3ASXA",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -49,13 +49,91 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/5tXneMer61",
-          "expanded_url": "https://twitter.com/greattoster/status/1063306780946649088",
-          "display_url": "twitter.com/greattoster/st…",
+          "url": "https://t.co/fVlUfwdM8s",
+          "expanded_url": "https://habr.com/post/135605/",
+          "display_url": "habr.com/post/135605/",
           "indices": [
-            18,
-            41
+            67,
+            90
           ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1063341005590724600,
+          "id_str": "1063341005590724608",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/DsG_AsFXgAAWs7h.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DsG_AsFXgAAWs7h.jpg",
+          "url": "https://t.co/Ijdan3ASXA",
+          "display_url": "pic.twitter.com/Ijdan3ASXA",
+          "expanded_url": "https://twitter.com/backendsecret/status/1063341058627682304/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 230,
+              "h": 294,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 230,
+              "h": 294,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 230,
+              "h": 294,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1063341005590724600,
+          "id_str": "1063341005590724608",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/DsG_AsFXgAAWs7h.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DsG_AsFXgAAWs7h.jpg",
+          "url": "https://t.co/Ijdan3ASXA",
+          "display_url": "pic.twitter.com/Ijdan3ASXA",
+          "expanded_url": "https://twitter.com/backendsecret/status/1063341058627682304/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 230,
+              "h": 294,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 230,
+              "h": 294,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 230,
+              "h": 294,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -69,11 +147,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1063306780946649100,
-    "quoted_status_id_str": "1063306780946649088",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
