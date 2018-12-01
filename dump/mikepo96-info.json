@@ -17,41 +17,42 @@
   "friends_count": 1,
   "listed_count": 235,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 4902,
+  "favourites_count": 4905,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 33426,
+  "statuses_count": 33450,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Nov 30 13:39:50 +0000 2018",
-    "id": 1068499847903367200,
-    "id_str": "1068499847903367169",
-    "text": "Data = [time] + [&lt;набор данных для апдейта&gt;] + [&lt;хеш предыдущего Блока&gt;]\nБлок = Data + Sign(Data)\nКак хранить и пре… https://t.co/S5jX5M2SzO",
-    "truncated": true,
+    "created_at": "Sat Dec 01 07:36:43 +0000 2018",
+    "id": 1068770854547402800,
+    "id_str": "1068770854547402752",
+    "text": "@devilish_flux Да, так и есть.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/S5jX5M2SzO",
-          "expanded_url": "https://twitter.com/i/web/status/1068499847903367169",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "devilish_flux",
+          "name": "Handsome Devil",
+          "id": 2943738790,
+          "id_str": "2943738790",
           "indices": [
-            129,
-            152
+            0,
+            14
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1068499846536020000,
-    "in_reply_to_status_id_str": "1068499846536019968",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1068769823469916200,
+    "in_reply_to_status_id_str": "1068769823469916161",
+    "in_reply_to_user_id": 2943738790,
+    "in_reply_to_user_id_str": "2943738790",
+    "in_reply_to_screen_name": "devilish_flux",
     "geo": null,
     "coordinates": null,
     "place": null,
