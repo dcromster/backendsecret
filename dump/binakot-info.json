@@ -24,42 +24,61 @@
     }
   },
   "protected": false,
-  "followers_count": 6025,
+  "followers_count": 6026,
   "friends_count": 1,
   "listed_count": 235,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 5042,
+  "favourites_count": 5055,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 33742,
+  "statuses_count": 33757,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Dec 05 08:45:08 +0000 2018",
-    "id": 1070237625024503800,
-    "id_str": "1070237625024503808",
-    "text": "Правильно в подкасте сказали, k8s это оверхед для большинства проектов. Мы - небольшие, нам оно не надо. Nomad, Mes… https://t.co/YXXFd9kZLh",
-    "truncated": true,
+    "created_at": "Wed Dec 05 13:42:05 +0000 2018",
+    "id": 1070312354980614100,
+    "id_str": "1070312354980614145",
+    "text": "А я пока вброшу видеозапись доклада с нашего бэкэнд митапа от @hypnoglow про #Kubernetes https://t.co/lQirf8efQF",
+    "truncated": false,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "Kubernetes",
+          "indices": [
+            77,
+            88
+          ]
+        }
+      ],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "hypnoglow",
+          "name": "Igor Zibarev",
+          "id": 770209198412030000,
+          "id_str": "770209198412029957",
+          "indices": [
+            62,
+            72
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/YXXFd9kZLh",
-          "expanded_url": "https://twitter.com/i/web/status/1070237625024503808",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/lQirf8efQF",
+          "expanded_url": "https://youtu.be/1bojWQZu7jA",
+          "display_url": "youtu.be/1bojWQZu7jA",
           "indices": [
-            117,
-            140
+            89,
+            112
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1070237623678066700,
-    "in_reply_to_status_id_str": "1070237623678066689",
+    "in_reply_to_status_id": 1070310210080788500,
+    "in_reply_to_status_id_str": "1070310210080788481",
     "in_reply_to_user_id": 3302551618,
     "in_reply_to_user_id_str": "3302551618",
     "in_reply_to_screen_name": "backendsecret",
@@ -72,6 +91,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
