@@ -1,6 +1,7 @@
 export default [
   // { username: 'twitter_name', start: '15 feb 2018', first: '640816652293144576', post: false },
-  { username: 'vgdnet', start: '10 dec 2018', first: '1072018012473974784' },
+  { username: 'FelixTheBest',    start: '17 dec 2018', first: '1074619686279618560', post: false },
+  { username: 'vgdnet',          start: '10 dec 2018', first: '1072018012473974784' },
   { username: 'binakot',         start: '03 dec 2018', first: '1069492850063286273' },
   { username: 'mikepo96',        start: '26 nov 2018', first: '1066965588386418688' },
   { username: 'maxbeard12',      start: '12 nov 2018', first: '1061887817872273409' },
