@@ -37,51 +37,31 @@
     }
   },
   "protected": false,
-  "followers_count": 6114,
+  "followers_count": 6118,
   "friends_count": 1,
   "listed_count": 238,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 5380,
+  "favourites_count": 5381,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 34339,
+  "statuses_count": 34387,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Dec 24 19:55:20 +0000 2018",
-    "id": 1077291657450659800,
-    "id_str": "1077291657450659841",
-    "text": "@_vecs Странно, я обозначил, что сегодня про удалёнку https://t.co/yWovJguif2\nПоступили реквесты на рассказ о Topta… https://t.co/9JbfKlTZ8o",
+    "created_at": "Tue Dec 25 13:26:07 +0000 2018",
+    "id": 1077556093604253700,
+    "id_str": "1077556093604253698",
+    "text": "Если глубоко разбираться в каждом пункте, то там откроется целый мир. Куча споров, интересных историй и т.п.\nЕсть д… https://t.co/MyNoilhXlT",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "_vecs",
-          "name": "vecs",
-          "id": 40845892,
-          "id_str": "40845892",
-          "indices": [
-            0,
-            6
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/yWovJguif2",
-          "expanded_url": "https://twitter.com/backendsecret/status/1077111302680662017",
-          "display_url": "twitter.com/backendsecret/…",
-          "indices": [
-            54,
-            77
-          ]
-        },
-        {
-          "url": "https://t.co/9JbfKlTZ8o",
-          "expanded_url": "https://twitter.com/i/web/status/1077291657450659841",
+          "url": "https://t.co/MyNoilhXlT",
+          "expanded_url": "https://twitter.com/i/web/status/1077556093604253698",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -91,23 +71,53 @@
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1077286144822390800,
-    "in_reply_to_status_id_str": "1077286144822390784",
-    "in_reply_to_user_id": 40845892,
-    "in_reply_to_user_id_str": "40845892",
-    "in_reply_to_screen_name": "_vecs",
+    "in_reply_to_status_id": 1077555217946812400,
+    "in_reply_to_status_id_str": "1077555217946812416",
+    "in_reply_to_user_id": 3302551618,
+    "in_reply_to_user_id_str": "3302551618",
+    "in_reply_to_screen_name": "backendsecret",
     "geo": null,
     "coordinates": null,
-    "place": null,
+    "place": {
+      "id": "5ef832bb704339b0",
+      "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+      "place_type": "city",
+      "name": "Helsinki",
+      "full_name": "Helsinki, Suomi",
+      "country_code": "FI",
+      "country": "Suomi",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.78281,
+              60.021032
+            ],
+            [
+              25.2544364,
+              60.021032
+            ],
+            [
+              25.2544364,
+              60.2979104
+            ],
+            [
+              24.78281,
+              60.2979104
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1077111302680662000,
-    "quoted_status_id_str": "1077111302680662017",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
