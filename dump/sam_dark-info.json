@@ -4,7 +4,18 @@
   "name": "Разработчик backend'а",
   "screen_name": "backendsecret",
   "location": "Санкт-Петербург, Россия",
-  "profile_location": null,
+  "profile_location": {
+    "id": "a76c0cd7d56c4836",
+    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+    "place_type": "unknown",
+    "name": "Санкт-Петербург, Россия",
+    "full_name": "Санкт-Петербург, Россия",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "С вами @musuk .NET Core/ Vue.js developer",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -26,42 +37,40 @@
     }
   },
   "protected": false,
-  "followers_count": 6120,
+  "followers_count": 6123,
   "friends_count": 1,
   "listed_count": 238,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 5390,
+  "favourites_count": 5396,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 34454,
+  "statuses_count": 34478,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Dec 26 14:31:42 +0000 2018",
-    "id": 1077934986890825700,
-    "id_str": "1077934986890825729",
-    "text": "@vanfourello Раньше это было проблемой использовали nvm. Я не очень в теме, но вроде сейчас ноды не сильно различны… https://t.co/FfgGeMYJzS",
+    "created_at": "Wed Dec 26 23:48:39 +0000 2018",
+    "id": 1078075147758829600,
+    "id_str": "1078075147758829569",
+    "text": "Долго думал я над ответом на этот вопрос но ничего лучше, чем\nhttps://t.co/KukTQxxNfJ -- официальное руководство (е… https://t.co/yo8p3ipZQj",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "vanfourello",
-          "name": "Ivan V.",
-          "id": 34385438,
-          "id_str": "34385438",
-          "indices": [
-            0,
-            12
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/FfgGeMYJzS",
-          "expanded_url": "https://twitter.com/i/web/status/1077934986890825729",
+          "url": "https://t.co/KukTQxxNfJ",
+          "expanded_url": "https://docs.microsoft.com/ru-ru/dotnet/core/",
+          "display_url": "docs.microsoft.com/ru-ru/dotnet/c…",
+          "indices": [
+            62,
+            85
+          ]
+        },
+        {
+          "url": "https://t.co/yo8p3ipZQj",
+          "expanded_url": "https://twitter.com/i/web/status/1078075147758829569",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -71,51 +80,20 @@
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1077926065916530700,
-    "in_reply_to_status_id_str": "1077926065916530688",
-    "in_reply_to_user_id": 34385438,
-    "in_reply_to_user_id_str": "34385438",
-    "in_reply_to_screen_name": "vanfourello",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "5ef832bb704339b0",
-      "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
-      "place_type": "city",
-      "name": "Helsinki",
-      "full_name": "Helsinki, Suomi",
-      "country_code": "FI",
-      "country": "Suomi",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              24.78281,
-              60.021032
-            ],
-            [
-              25.2544364,
-              60.021032
-            ],
-            [
-              25.2544364,
-              60.2979104
-            ],
-            [
-              24.78281,
-              60.2979104
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1077191809573552100,
+    "quoted_status_id_str": "1077191809573552128",
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
