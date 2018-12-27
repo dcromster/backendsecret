@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 6123,
+  "followers_count": 6125,
   "friends_count": 1,
   "listed_count": 238,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 5396,
+  "favourites_count": 5401,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 34478,
+  "statuses_count": 34490,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Dec 26 23:48:39 +0000 2018",
-    "id": 1078075147758829600,
-    "id_str": "1078075147758829569",
-    "text": "Долго думал я над ответом на этот вопрос но ничего лучше, чем\nhttps://t.co/KukTQxxNfJ -- официальное руководство (е… https://t.co/yo8p3ipZQj",
+    "created_at": "Thu Dec 27 09:58:45 +0000 2018",
+    "id": 1078228686183256000,
+    "id_str": "1078228686183256064",
+    "text": "Метрики в коде очень помогают для диагностики проблем. Например, вот этот график количества проиндексированных доку… https://t.co/52fKodNwb3",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -60,17 +60,8 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/KukTQxxNfJ",
-          "expanded_url": "https://docs.microsoft.com/ru-ru/dotnet/core/",
-          "display_url": "docs.microsoft.com/ru-ru/dotnet/c…",
-          "indices": [
-            62,
-            85
-          ]
-        },
-        {
-          "url": "https://t.co/yo8p3ipZQj",
-          "expanded_url": "https://twitter.com/i/web/status/1078075147758829569",
+          "url": "https://t.co/52fKodNwb3",
+          "expanded_url": "https://twitter.com/i/web/status/1078228686183256064",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -87,11 +78,42 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": null,
+    "place": {
+      "id": "5ef832bb704339b0",
+      "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+      "place_type": "city",
+      "name": "Helsinki",
+      "full_name": "Helsinki, Suomi",
+      "country_code": "FI",
+      "country": "Suomi",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.78281,
+              60.021032
+            ],
+            [
+              25.2544364,
+              60.021032
+            ],
+            [
+              25.2544364,
+              60.2979104
+            ],
+            [
+              24.78281,
+              60.2979104
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1077191809573552100,
-    "quoted_status_id_str": "1077191809573552128",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 3,
     "favorited": false,
