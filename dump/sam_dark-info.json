@@ -37,45 +37,66 @@
     }
   },
   "protected": false,
-  "followers_count": 6129,
+  "followers_count": 6134,
   "friends_count": 1,
   "listed_count": 238,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 5403,
+  "favourites_count": 5406,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 34499,
+  "statuses_count": 34514,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Dec 27 12:06:25 +0000 2018",
-    "id": 1078260813843128300,
-    "id_str": "1078260813843128322",
-    "text": "Хранение логов хорошо вспоминать в спорах SQL vs noSQL. Логи обычно schemaless. Когда раньше логи писали в базу, то… https://t.co/Xfo6zX0heH",
-    "truncated": true,
+    "created_at": "Thu Dec 27 18:04:44 +0000 2018",
+    "id": 1078350987637727200,
+    "id_str": "1078350987637727233",
+    "text": "@russianlagman @kosyag Думаю, это про synonym_graph \nhttps://t.co/KqLDFtr3AV",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "russianlagman",
+          "name": "Эльфо Криофил",
+          "id": 42567069,
+          "id_str": "42567069",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "kosyag",
+          "name": "Konstantin Bogdanov",
+          "id": 20849323,
+          "id_str": "20849323",
+          "indices": [
+            15,
+            22
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/Xfo6zX0heH",
-          "expanded_url": "https://twitter.com/i/web/status/1078260813843128322",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/KqLDFtr3AV",
+          "expanded_url": "https://www.elastic.co/guide/en/elasticsearch/reference/master/analysis-synonym-graph-tokenfilter.html",
+          "display_url": "elastic.co/guide/en/elast…",
           "indices": [
-            117,
-            140
+            53,
+            76
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1078259356179853300,
-    "in_reply_to_status_id_str": "1078259356179853312",
-    "in_reply_to_user_id": 3302551618,
-    "in_reply_to_user_id_str": "3302551618",
-    "in_reply_to_screen_name": "backendsecret",
+    "in_reply_to_status_id": 1078350541389000700,
+    "in_reply_to_status_id_str": "1078350541389000706",
+    "in_reply_to_user_id": 42567069,
+    "in_reply_to_user_id_str": "42567069",
+    "in_reply_to_screen_name": "russianlagman",
     "geo": null,
     "coordinates": null,
     "place": {
@@ -118,7 +139,8 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,

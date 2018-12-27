@@ -15940,6 +15940,1188 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 27 12:12:06 +0000 2018",
+      "id": 1078262241898696700,
+      "id_str": "1078262241898696704",
+      "text": "@russianlagman Ну вообще да, mappings можно и вручную создать. Правильнее, говорить schema-free",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "russianlagman",
+            "name": "Эльфо Криофил",
+            "id": 42567069,
+            "id_str": "42567069",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1078260911041925100,
+      "in_reply_to_status_id_str": "1078260911041925125",
+      "in_reply_to_user_id": 42567069,
+      "in_reply_to_user_id_str": "42567069",
+      "in_reply_to_screen_name": "russianlagman",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 27 12:22:21 +0000 2018",
+      "id": 1078264823958437900,
+      "id_str": "1078264823958437888",
+      "text": "Очень  удобно, когда библиотека логирования поддерживает LogContext, который дополняет ваш\nLog.Error(e) информацией… https://t.co/ZTMUqJYYlK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZTMUqJYYlK",
+            "expanded_url": "https://twitter.com/i/web/status/1078264823958437888",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 27 12:23:59 +0000 2018",
+      "id": 1078265231921594400,
+      "id_str": "1078265231921594368",
+      "text": "В .net core очень популярна библиотека Serilog. Которая умеет не только LogContext, но и поддерживает логирование с… https://t.co/0n4rLCYKiT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0n4rLCYKiT",
+            "expanded_url": "https://twitter.com/i/web/status/1078265231921594368",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1078264823958437900,
+      "in_reply_to_status_id_str": "1078264823958437888",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 27 13:22:41 +0000 2018",
+      "id": 1078280006399377400,
+      "id_str": "1078280006399377409",
+      "text": "Elastic Search - это не только штука для сбора логов. Но и довольно мощная система полнотекстового поиска. Думаю, э… https://t.co/s3ewPHuRre",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/s3ewPHuRre",
+            "expanded_url": "https://twitter.com/i/web/status/1078280006399377409",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 27 13:22:59 +0000 2018",
+      "id": 1078280083301978100,
+      "id_str": "1078280083301978113",
+      "text": "Когда ES индексирует текст поля документа, то он разбивает текст на токены и индексирует уже их.\nКогда ES ищет фраз… https://t.co/DsoJpYmEeS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DsoJpYmEeS",
+            "expanded_url": "https://twitter.com/i/web/status/1078280083301978113",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1078280006399377400,
+      "in_reply_to_status_id_str": "1078280006399377409",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 27 13:24:35 +0000 2018",
+      "id": 1078280483778252800,
+      "id_str": "1078280483778252801",
+      "text": "Анализаторы могут быть разные, их можно настраивать. По умолчанию, анализатор ES разбивает текст по пробелам. В ана… https://t.co/vYJ0vu1CxN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vYJ0vu1CxN",
+            "expanded_url": "https://twitter.com/i/web/status/1078280483778252801",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1078280083301978100,
+      "in_reply_to_status_id_str": "1078280083301978113",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 27 13:26:54 +0000 2018",
+      "id": 1078281065272406000,
+      "id_str": "1078281065272406018",
+      "text": "Одно поле документа можно проиндексировать несколькими анализаторами и потом искать по разным индексам с разным ран… https://t.co/q49A0y2wGo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/q49A0y2wGo",
+            "expanded_url": "https://twitter.com/i/web/status/1078281065272406018",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1078280483778252800,
+      "in_reply_to_status_id_str": "1078280483778252801",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 27 13:36:00 +0000 2018",
+      "id": 1078283358835298300,
+      "id_str": "1078283358835298305",
+      "text": "Анализатору Elastic'а можно давать словарь синонимов, так что он будет воспринимать как одно и то же, например, col… https://t.co/ah8c5xpNHP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ah8c5xpNHP",
+            "expanded_url": "https://twitter.com/i/web/status/1078283358835298305",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1078281065272406000,
+      "in_reply_to_status_id_str": "1078281065272406018",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 27 16:32:57 +0000 2018",
+      "id": 1078327886380257300,
+      "id_str": "1078327886380257281",
+      "text": "У ElasticSearch очень мощный REST API. Он поддерживает несколько типов поисковых запросов:\n1. simple query - просто… https://t.co/cgouDnPUBr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cgouDnPUBr",
+            "expanded_url": "https://twitter.com/i/web/status/1078327886380257281",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Dec 27 16:39:44 +0000 2018",
+      "id": 1078329595693277200,
+      "id_str": "1078329595693277186",
+      "text": "3. Full text search. они же match. Выглядят, как большие JSON в котором query обрабатываются анализатором.\nЭквивале… https://t.co/zjkR5PESlf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zjkR5PESlf",
+            "expanded_url": "https://twitter.com/i/web/status/1078329595693277186",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1078327886380257300,
+      "in_reply_to_status_id_str": "1078327886380257281",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 27 16:43:41 +0000 2018",
+      "id": 1078330588812243000,
+      "id_str": "1078330588812242945",
+      "text": "4. Уровень Term'ов, там анализатор для поискового запроса уже не работает. Вы найдите только по тем токенам, которы… https://t.co/sbP693AdAt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sbP693AdAt",
+            "expanded_url": "https://twitter.com/i/web/status/1078330588812242945",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1078329595693277200,
+      "in_reply_to_status_id_str": "1078329595693277186",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 27 16:59:54 +0000 2018",
+      "id": 1078334669006037000,
+      "id_str": "1078334669006036993",
+      "text": "5. Span запросы. Хитрые \"низкоуровневые\" запросы позволяют делать запросы вроде: \"между словом xiaomi и словом phon… https://t.co/LbWZouNk9C",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LbWZouNk9C",
+            "expanded_url": "https://twitter.com/i/web/status/1078334669006036993",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1078330588812243000,
+      "in_reply_to_status_id_str": "1078330588812242945",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 27 17:50:32 +0000 2018",
+      "id": 1078347413532958700,
+      "id_str": "1078347413532958725",
+      "text": "@kosyag Не холивара ради, а где Solr лучше?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kosyag",
+            "name": "Konstantin Bogdanov",
+            "id": 20849323,
+            "id_str": "20849323",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1078346979263070200,
+      "in_reply_to_status_id_str": "1078346979263070209",
+      "in_reply_to_user_id": 20849323,
+      "in_reply_to_user_id_str": "20849323",
+      "in_reply_to_screen_name": "kosyag",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 27 18:03:14 +0000 2018",
+      "id": 1078350607134658600,
+      "id_str": "1078350607134658561",
+      "text": "В ES есть suggestions и Multi-word synonyms называются \nsynonym_graph, но вот насколько ими проще пользоваться в ES… https://t.co/YnQmoAh2K2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YnQmoAh2K2",
+            "expanded_url": "https://twitter.com/i/web/status/1078350607134658561",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1078348083430391800,
+      "quoted_status_id_str": "1078348083430391809",
+      "quoted_status": {
+        "created_at": "Thu Dec 27 17:53:12 +0000 2018",
+        "id": 1078348083430391800,
+        "id_str": "1078348083430391809",
+        "text": "@backendsecret Multi-word synonyms, suggestions работает сходу фактически (ну или я нуб в ES, звиняйте)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "backendsecret",
+              "name": "Разработчик backend'а",
+              "id": 3302551618,
+              "id_str": "3302551618",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1078347413532958700,
+        "in_reply_to_status_id_str": "1078347413532958725",
+        "in_reply_to_user_id": 3302551618,
+        "in_reply_to_user_id_str": "3302551618",
+        "in_reply_to_screen_name": "backendsecret",
+        "user": {
+          "id": 20849323,
+          "id_str": "20849323"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 27 18:04:44 +0000 2018",
+      "id": 1078350987637727200,
+      "id_str": "1078350987637727233",
+      "text": "@russianlagman @kosyag Думаю, это про synonym_graph \nhttps://t.co/KqLDFtr3AV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "russianlagman",
+            "name": "Эльфо Криофил",
+            "id": 42567069,
+            "id_str": "42567069",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "kosyag",
+            "name": "Konstantin Bogdanov",
+            "id": 20849323,
+            "id_str": "20849323",
+            "indices": [
+              15,
+              22
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KqLDFtr3AV",
+            "expanded_url": "https://www.elastic.co/guide/en/elasticsearch/reference/master/analysis-synonym-graph-tokenfilter.html",
+            "display_url": "elastic.co/guide/en/elast…",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1078350541389000700,
+      "in_reply_to_status_id_str": "1078350541389000706",
+      "in_reply_to_user_id": 42567069,
+      "in_reply_to_user_id_str": "42567069",
+      "in_reply_to_screen_name": "russianlagman",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
     }
   ]
 }
