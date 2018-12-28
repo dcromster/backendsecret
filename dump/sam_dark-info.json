@@ -37,66 +37,45 @@
     }
   },
   "protected": false,
-  "followers_count": 6140,
+  "followers_count": 6143,
   "friends_count": 1,
   "listed_count": 238,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 5406,
+  "favourites_count": 5409,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 34515,
+  "statuses_count": 34539,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Dec 27 22:49:45 +0000 2018",
-    "id": 1078422711108595700,
-    "id_str": "1078422711108595712",
-    "text": "@erthad @pavel_prischepa Я имел в виду, что вообще можно не парсить текст, а получать объекты прямо от приложения,… https://t.co/vDOGjbVXzb",
+    "created_at": "Fri Dec 28 10:58:58 +0000 2018",
+    "id": 1078606224034287600,
+    "id_str": "1078606224034287616",
+    "text": "Если блок не зависит от сессии юзера, то почему бы не сохранить в память HTML, который этот блок рендерит?\nВ итоге,… https://t.co/ZZsINsMyH7",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "erthad",
-          "name": "Timur Batyrshin",
-          "id": 39798123,
-          "id_str": "39798123",
-          "indices": [
-            0,
-            7
-          ]
-        },
-        {
-          "screen_name": "pavel_prischepa",
-          "name": "Pavel Prischepa",
-          "id": 222569093,
-          "id_str": "222569093",
-          "indices": [
-            8,
-            24
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/vDOGjbVXzb",
-          "expanded_url": "https://twitter.com/i/web/status/1078422711108595712",
+          "url": "https://t.co/ZZsINsMyH7",
+          "expanded_url": "https://twitter.com/i/web/status/1078606224034287616",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1078407703154839600,
-    "in_reply_to_status_id_str": "1078407703154839554",
-    "in_reply_to_user_id": 39798123,
-    "in_reply_to_user_id_str": "39798123",
-    "in_reply_to_screen_name": "erthad",
+    "in_reply_to_status_id": 1078605447425343500,
+    "in_reply_to_status_id_str": "1078605447425343488",
+    "in_reply_to_user_id": 3302551618,
+    "in_reply_to_user_id_str": "3302551618",
+    "in_reply_to_screen_name": "backendsecret",
     "geo": null,
     "coordinates": null,
     "place": {
@@ -136,10 +115,9 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
