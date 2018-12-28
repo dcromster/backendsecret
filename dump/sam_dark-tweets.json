@@ -19692,6 +19692,72 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 28 15:53:16 +0000 2018",
+      "id": 1078680291215134700,
+      "id_str": "1078680291215134722",
+      "text": "Другими словами, если вам нужно создать что-то очень гибкое, то, возможно, будет проще убрать всю гибкость в кодегенерацию.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1078650518002696200,
+      "in_reply_to_status_id_str": "1078650518002696192",
+      "in_reply_to_user_id": 3302551618,
+      "in_reply_to_user_id_str": "3302551618",
+      "in_reply_to_screen_name": "backendsecret",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
