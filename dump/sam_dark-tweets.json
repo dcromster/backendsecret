@@ -17122,6 +17122,104 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Thu Dec 27 22:49:45 +0000 2018",
+      "id": 1078422711108595700,
+      "id_str": "1078422711108595712",
+      "text": "@erthad @pavel_prischepa Я имел в виду, что вообще можно не парсить текст, а получать объекты прямо от приложения,… https://t.co/vDOGjbVXzb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "erthad",
+            "name": "Timur Batyrshin",
+            "id": 39798123,
+            "id_str": "39798123",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "pavel_prischepa",
+            "name": "Pavel Prischepa",
+            "id": 222569093,
+            "id_str": "222569093",
+            "indices": [
+              8,
+              24
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/vDOGjbVXzb",
+            "expanded_url": "https://twitter.com/i/web/status/1078422711108595712",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1078407703154839600,
+      "in_reply_to_status_id_str": "1078407703154839554",
+      "in_reply_to_user_id": 39798123,
+      "in_reply_to_user_id_str": "39798123",
+      "in_reply_to_screen_name": "erthad",
+      "user": {
+        "id": 3302551618,
+        "id_str": "3302551618"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5ef832bb704339b0",
+        "url": "https://api.twitter.com/1.1/geo/id/5ef832bb704339b0.json",
+        "place_type": "city",
+        "name": "Helsinki",
+        "full_name": "Helsinki, Suomi",
+        "country_code": "FI",
+        "country": "Suomi",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                24.78281,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.021032
+              ],
+              [
+                25.2544364,
+                60.2979104
+              ],
+              [
+                24.78281,
+                60.2979104
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
