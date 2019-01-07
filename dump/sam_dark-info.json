@@ -4,7 +4,18 @@
   "name": "Разработчик backend'а",
   "screen_name": "backendsecret",
   "location": "Санкт-Петербург, Россия",
-  "profile_location": null,
+  "profile_location": {
+    "id": "a76c0cd7d56c4836",
+    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+    "place_type": "unknown",
+    "name": "Санкт-Петербург, Россия",
+    "full_name": "Санкт-Петербург, Россия",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "С вами @musuk .NET Core/ Vue.js developer",
   "url": "https://t.co/SebwQPBWpx",
   "entities": {
@@ -26,11 +37,11 @@
     }
   },
   "protected": false,
-  "followers_count": 6151,
+  "followers_count": 6177,
   "friends_count": 1,
-  "listed_count": 240,
+  "listed_count": 239,
   "created_at": "Fri May 29 07:26:26 +0000 2015",
-  "favourites_count": 5419,
+  "favourites_count": 5412,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
@@ -38,44 +49,34 @@
   "statuses_count": 34599,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Dec 30 10:42:27 +0000 2018",
-    "id": 1079326843327656000,
-    "id_str": "1079326843327655938",
-    "text": "@SiliconBangalor Воткнуть-то, можно, но это нарушает 1 принцип GDD: писать код быстро и дёшево. \nЯ был лидом на про… https://t.co/Oz6QfjGUIu",
-    "truncated": true,
+    "created_at": "Sun Dec 30 13:51:36 +0000 2018",
+    "id": 1079374447633678300,
+    "id_str": "1079374447633678337",
+    "text": "Эту неделю с вами был @musuk \nСпасибо за вопросы, лайки и комментарии.\nЗелёных билдов и интересных проектов вам всем в следующем году!",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "SiliconBangalor",
-          "name": "YUNG☥ ⭕️ ☥ B△NG▲LØЯΣ🌬☁️",
-          "id": 310745798,
-          "id_str": "310745798",
+          "screen_name": "musuk",
+          "name": "musuk",
+          "id": 19105647,
+          "id_str": "19105647",
           "indices": [
-            0,
-            16
+            22,
+            28
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/Oz6QfjGUIu",
-          "expanded_url": "https://twitter.com/i/web/status/1079326843327655938",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1079287133041553400,
-    "in_reply_to_status_id_str": "1079287133041553409",
-    "in_reply_to_user_id": 310745798,
-    "in_reply_to_user_id_str": "310745798",
-    "in_reply_to_screen_name": "SiliconBangalor",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": {
@@ -115,7 +116,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 29,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
