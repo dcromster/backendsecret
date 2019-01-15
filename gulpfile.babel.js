@@ -1,13 +1,13 @@
 import buildbranch from 'buildbranch';
 import rimraf from 'rimraf';
 import each from 'each-done';
+import debug from 'gulp-debug';
 import express from 'express';
 import fs, { outputFile as output } from 'fs-extra';
 import { html } from 'commonmark-helpers';
 import numbers from 'typographic-numbers';
 import numd from 'numd';
-import RSS from 'rss';
-import { merge, pipe, prop, head, splitEvery } from 'ramda';
+import { pipe, prop, head, splitEvery } from 'ramda';
 import sequence from 'run-sequence';
 import renderTweet from 'tweet.md';
 import autoprefixer from 'autoprefixer';
@@ -25,7 +25,7 @@ import postcss from 'gulp-postcss';
 
 import articleData from 'article-data';
 import getStats from './stats.js';
-import underhood from './.underhoodrc.json';
+import { site } from './package.json';
 import webpackConfig from './webpack.config.babel.js';
 
 import authorRender from './helpers/author-render';
@@ -33,7 +33,7 @@ import bust from './helpers/bust';
 import lastUpdated from './helpers/last-updated';
 
 import authors from './dump';
-const latestInfo = (head(authors) || {}).info;
+const latestInfo = head(authors).info;
 
 const start = _start.bind(gulp);
 const task = _task.bind(gulp);
@@ -41,7 +41,7 @@ const task = _task.bind(gulp);
 const jadeDefaults = {
   pretty: true,
   locals: {
-    site: underhood.site,
+    site,
     latestInfo,
     numbers: input => numbers(input, { locale: 'ru' }),
     people: numd('человек', 'человека', 'человек'),
@@ -65,73 +65,101 @@ task('index', ['css'], () => {
   return src('layouts/index.jade')
     .pipe(jade({
       locals: {
-        title: `Сайт @${underhood.underhood}`,
-        desc: underhood.underhoodDesc,
-        underhood,
+        title: `Сайт @${site.title}`,
+        desc: site.description,
         currentAuthor: head(authors),
-        authors: splitEvery(3, authorsToPost),
-        helpers: { bust, firstTweet, render },
+        authors: authorsToPost,
+        helpers: { authorRender, bust },
       },
     }))
     .pipe(rename({ basename: 'index' }))
     .pipe(dest('dist'));
 });
 
-task('stats', ['css'], () =>
-  src('layouts/stats.jade')
+task('stats', ['css'], () => {
+  const currentAuthor = head(authors.filter(author => author.post === false));
+  return src('layouts/stats.jade')
     .pipe(jade({
       locals: {
-        title: `Статистика @${underhood.underhood}`,
+        title: `Статистика @${site.title}`,
         url: 'stats/',
-        desc: underhood.underhoodDesc,
+        desc: site.description,
         lastUpdated,
-        underhood,
         stats: getStats(authors),
+        currentAuthor: currentAuthor,
         helpers: { bust },
       },
     }))
     .pipe(rename({ dirname: 'stats' }))
     .pipe(rename({ basename: 'index' }))
-    .pipe(dest('dist')));
-
-task('md-pages', ['css'], done => {
-  each([
-    { name: 'about', title: 'О проекте', wide:false },
-    { name: 'authoring', title: 'Авторам', wide:false },
-    { name: 'instruction', title: 'Инструкция', wide:false },
-    { name: 'coc', title: 'Code of Conduct', wide:true },
-  ], item => {
-    const page = fs.readFileSync(`./pages/${item.name}.md`, { encoding: 'utf8' });
-    const article = articleData(page, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
-    return src('layouts/article.jade')
-      .pipe(jade({
-        locals: merge(article, {
-          title: item.title,
-          wide:item.wide,
-          url: item.name + '/',
-          underhood,
-          helpers: { bust },
-        }),
-      }))
-      .pipe(rename({ dirname: item.name }))
-      .pipe(rename({ basename: 'index' }))
-      .pipe(dest('dist'));
-  }, done);
+    .pipe(dest('dist'));
 });
 
-task('rss', done => {
-  const feed = new RSS(underhood.site);
+task('about', ['css'], () => {
+  const readme = fs.readFileSync('./pages/about.md', { encoding: 'utf8' });
+  const article = articleData(readme, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
+  return src('layouts/article.jade')
+    .pipe(jade({
+      locals: Object.assign({}, article, {
+        title: 'О проекте',
+        url: 'about/',
+        helpers: { bust },
+      }),
+    }))
+    .pipe(rename({ dirname: 'about' }))
+    .pipe(rename({ basename: 'index' }))
+    .pipe(dest('dist'));
+});
+
+task('authoring', ['css'], () => {
+  const readme = fs.readFileSync('./pages/authoring.md', { encoding: 'utf8' });
+  const article = articleData(readme, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
+  return src('layouts/article.jade')
+    .pipe(jade({
+      locals: Object.assign({}, article, {
+        title: 'Авторам',
+        url: 'authoring/',
+        helpers: { bust },
+      }),
+    }))
+    .pipe(rename({ dirname: 'authoring' }))
+    .pipe(rename({ basename: 'index' }))
+    .pipe(dest('dist'));
+});
+
+task('instruction', ['css'], () => {
+  const readme = fs.readFileSync('./pages/instruction.md', { encoding: 'utf8' });
+  const article = articleData(readme, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
+  return src('layouts/article.jade')
+    .pipe(jade({
+      locals: Object.assign({}, article, {
+        title: 'Инструкция',
+        url: 'instruction/',
+        helpers: { bust },
+      }),
+    }))
+    .pipe(rename({ dirname: 'instruction' }))
+    .pipe(rename({ basename: 'index' }))
+    .pipe(dest('dist'));
+});
+
+task('map', ['css'], () => {
+  const currentAuthor = head(authors.filter(author => author.post === false));
   const authorsToPost = authors.filter(author => author.post !== false);
-  authorsToPost.forEach(author => {
-//console.log('----AUTHOR:', author, firstTweet(author))
-    feed.item({
-      title: author.username,
-      description: render(firstTweet(author)),
-      url: `https://backendsecret.ru/${author.username}/`,
-      date: firstTweet(author).created_at,
-    });
-  });
-  output('dist/rss.xml', feed.xml({ indent: true }), done);
+  return src('layouts/map.jade')
+    .pipe(jade({
+      locals: {
+        title: `Карта @${site.title}`,
+        url: 'map/',
+        desc: site.description,
+        currentAuthor: currentAuthor,
+        authors: authorsToPost,
+        helpers: { bust },
+      },
+    }))
+    .pipe(rename({ dirname: 'map' }))
+    .pipe(rename({ basename: 'index' }))
+    .pipe(dest('dist'));
 });
 
 task('authors', ['css'], done => {
@@ -141,8 +169,8 @@ task('authors', ['css'], done => {
       .pipe(jade({
         pretty: true,
         locals: {
-          title: `Неделя @${author.username} в @${underhood.underhood}`,
-          author, underhood,
+          title: `Неделя @${author.username} в @${site.title}`,
+          author,
           helpers: { authorRender, bust },
         },
       }))
@@ -154,17 +182,21 @@ task('authors', ['css'], done => {
 
 task('userpics', () =>
   src('dump/images/*-image*')
-    .pipe(jimp({ resize: { width: 96, height: 96 }}))
+    .pipe(jimp({ resize: { width: 192, height: 192 }}))
+    .pipe(dest('dist/images')));
+
+task('banners', () =>
+  src('dump/images/*-banner*')
     .pipe(dest('dist/images')));
 
 task('current-userpic', () =>
-  head(authors) && src(`dump/images/${head(authors).username}-image*`)
+  src(`dump/images/${head(authors).username}-image*`)
     .pipe(jimp({ resize: { width: 192, height: 192 }}))
     .pipe(rename('current-image'))
     .pipe(dest('dist/images')));
 
 task('current-banner', () =>
-  head(authors) && src(`dump/images/${head(authors).username}-banner*`)
+  src(`dump/images/${head(authors).username}-banner*`)
     .pipe(rename('current-banner'))
     .pipe(dest('dist/images')));
 
@@ -180,7 +212,7 @@ task('css', () =>
     .pipe(dest('dist/css')));
 
 task('js', done => {
-  webpack(webpackConfig, err => {
+  webpack(webpackConfig, (err, stats) => {
     if (err) throw new PluginError('webpack', err);
     done();
   });
@@ -205,8 +237,8 @@ task('server', () => {
  */
 task('clean', done => rimraf('dist', done));
 
-task('html', ['stats', 'authors', 'index', 'rss', 'md-pages']);
-task('build', done => sequence( 'html', 'css', 'js', 'stats', 'static', 'userpics', 'current-media', done));
+task('html', ['stats', 'authors', 'index', 'map', 'about', 'authoring', 'instruction']);
+task('build', done => sequence( 'css', 'js', 'static', 'stats', 'html', 'userpics', 'banners', 'current-media', done));
 
 task('default', done => sequence('clean', 'watch', done));
 

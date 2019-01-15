@@ -1,5 +1,3 @@
-/* eslint-env mocha */
-
 import assert from 'assert';
 import { readFileSync } from 'fs-extra';
 import cheerio from 'cheerio';
@@ -14,9 +12,9 @@ const make$ = file => cheerio.load(readFileSync(file, { encoding: 'utf8' }));
 describe('index page', () => {
   it('short authors info', () => {
     const $ = make$('dist/index.html');
-    const pageAuthors = $('article .list__item-desc');
+    const pageAuthors = $('.author-list-item');
     const realAuthors = authors.filter(a => a.post !== false);
-    assert(pageAuthors.length === realAuthors.length);
+    assert(pageAuthors.length == realAuthors.length);
   });
   it('don’t have subheading', () => {
     const $ = make$('dist/index.html');
@@ -25,7 +23,7 @@ describe('index page', () => {
   it('followers count exists', () => {
     const $ = make$('dist/index.html');
     const followers = numbers(String(latestInfo.followers_count));
-    assert($('.page-header p i').text().indexOf(followers) > 0);
+    assert($('.page-header p b').text().indexOf(followers) > 0);
   });
 });
 
@@ -33,7 +31,7 @@ describe('stats page', () => {
   it('stats rows', () => {
     const $ = make$('dist/stats/index.html');
     const rows = $('.host-stats__row:not(.host-stats__row_head)');
-    assert(rows.length === authors.length);
+    assert(rows.length == authors.length);
   });
 });
 
@@ -43,17 +41,14 @@ describe('about page', () => {
     assert($('article').text().length > 0);
   });
 });
-/*
 
 describe('archive pages', () => {
   it('tweets list', () => {
-    authors.forEach( author => {
+    authors.forEach(function(author) {
       if (author.post === false) return;
       const $ = make$(`dist/${author.username}/index.html`);
-      assert($('article p').length > 1);
-      assert($('article h2 small').length > 1);
+      assert($('.tweets .tweet').length > 1);
+      assert($('#scroll-spy li').length > 1);
     });
   });
-
 });
-*/
