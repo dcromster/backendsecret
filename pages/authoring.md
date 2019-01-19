@@ -24,13 +24,13 @@
 
 ## Буду ли я раздражен необходимостью отвечать на вопросы?
 
-— Иногда, конечно. Но общение — самая важная и интересная часть идеи @backendsecret.
+— Иногда, конечно. Но общение — самая важная и интересная часть идеи @jsunderhood.
 Также можно заметить, что отвечать проще, чем писать оригинальные твиты.
 Само собой не нужно кормить троллей.
 
 ## Какие есть популярные темы для обсуждения с читателями?
 
-— Возможно ты можешь попробовать обсудить что-нибудь из этого списка:
+— Возможно вы можете попробовать обсудить что-нибудь из этого списка:
 
 * Способы оценки разработчиков (github, stackoverflow и т.д.)
 * Оценка и ревью сайтов
@@ -38,7 +38,7 @@
 * Отношение к опенсорсу
 * Разработчики, вдохновляющие или значимые (коллеги, менторы, блогеры)
 * Ваши проекты
-* Будущее в течение 5 лет
+* Будущее фронтенда в течение 5 лет
 * Ваше рабочее место и/или другие относящиеся к здоровью темы
 * Ваше рабочее окружение: оборудование, программы, .dotfiles и т.д.
 * Самые интересные технические проблемы, которые вам встречались
@@ -59,14 +59,10 @@
 
 Пожалуйста будьте вежливыми и уважайте ваших читателей. Не следует оскорблять
 или унижать кого-то. Ведите себя профессионально. Уничижительные, сексистские,
-расистские или ксенофобские шутки не привествуются в [@backendsecret][uh].
+расистские или ксенофобские шутки не привествуются в [@jsunderhood][uh].
 
 Если вы заметили нарушение, как можно скорее [напишите письмо][coc-violations].
 
-Выберите свободную удобную неделю:
-
-<iframe src="https://calendar.google.com/calendar/embed?src=v0s5eu4e2p76itndjj93pnnmfo%40group.calendar.google.com&ctz=Europe/Moscow" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-[uh]: https://twitter.com/backendsecret
-[proposal]: mailto:backendsecret@gmail.com?subject=Author’s%20proposal%20for%20@backendsecret
-[coc-violations]: mailto:backendsecret@gmail.com?subject=CoC%20violations%20in%20@backendsecret
+[uh]: https://twitter.com/jsunderhood
+[proposal]: mailto:iamstarkov@gmail.com?subject=Author’s%20proposal%20for%20@jsunderhood
+[coc-violations]: mailto:iamstarkov@gmail.com?subject=CoC%20violations%20in%20@jsunderhood
