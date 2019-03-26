@@ -17,19 +17,15 @@ import getDiffFollowers from './helpers/get-diff-followers';
 
 describe('js', () => {
   it('getGainedFollowers ordinary', () => {
-    assert.equal(getGainedFollowers('rstacruz'), 17);
+    assert.equal(getGainedFollowers('dsimonov'), 5240);
   });
   it('getGainedFollowers first one', () => {
-    assert.equal(getGainedFollowers('shuvalov_anton'), 115);
+    assert.equal(getGainedFollowers('nmishin'), 109);
   });
   it('getDiffFollowers normal', () => {
-    assert.deepEqual(getDiffFollowers('rstacruz'), { gain: 29, loss: 12 });
-    assert.deepEqual(getDiffFollowers('touzoku'), { gain: 88, loss: 15 });
-    assert.deepEqual(getDiffFollowers('milk_is_my_life'), { gain: 60, loss: 28 });
-  });
-  it('getDiffFollowers obsolete', () => {
-    assert.equal(getDiffFollowers('ihorzenich'), undefined);
-    assert.equal(getDiffFollowers('oleg008'), undefined);
+    assert.deepEqual(getDiffFollowers('_bravit'), { gain: 234, loss: 84 });
+    assert.deepEqual(getDiffFollowers('yegor256'), { gain: 558, loss: 234 });
+    assert.deepEqual(getDiffFollowers('JFrog'), { gain: 223, loss: 34 });
   });
 });
 
