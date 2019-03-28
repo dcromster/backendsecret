@@ -1,4 +1,6 @@
-export default [
+import authorId from './helpers/author-id';
+
+export default authorId([
   // { username: 'twitter_name', start: '15 feb 2019', first: '640816652293144576', post: false },
   //{ username: 'sam_dark',        start: '07 jan 2019', first: '1082232094607183872', post: false },
   // { username: 'musuk',           start: '24 dec 2018', first: '1077109862444777472' },
@@ -136,4 +138,4 @@ export default [
   { username: '4gophers',        start: '13 jul 2015', first: '620509320183050240' },
   { username: 'zkonstantin',     start: '06 jul 2015', first: '617783792443486208' },
   { username: 'nmishin',         start: '29 jun 2015', first: '615292664888561664' },
-];
+]);
